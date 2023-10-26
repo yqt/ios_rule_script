@@ -1,14 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-04 02:08:52
+# UPDATED: 2023-10-27 02:07:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 16258
-# DOMAIN-KEYWORD: 117
-# DOMAIN-SUFFIX: 115315
-# IP-CIDR: 428
-# URL-REGEX: 34
-# TOTAL: 132152
+# DOMAIN: 16169
+# DOMAIN-KEYWORD: 76
+# DOMAIN-SUFFIX: 96449
+# IP-CIDR: 340
+# URL-REGEX: 285
+# TOTAL: 113319
+.0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -2893,7 +2894,7 @@
 .8881919.cc
 .8881img.com
 .8886i.top
-.888b.biz
+.88885aaa.com
 .888bb666cc.com
 .888casino.com
 .888cool.cn
@@ -14579,8 +14580,9 @@
 .artsybutchercluster.com
 .aruhdx.com
 .aruyevdqsnd.xyz
-.arvbjqavenjba.top
+.arvb.ewtcbedtmx.ru
 .arvigorothan.com
+.arvossold.website
 .arwartortleer.com
 .arwfpvcpyjyoupb.xyz
 .arwhismura.com
@@ -32353,7 +32355,6 @@
 .dqjkzrx.com
 .dqjlhidethq.com
 .dqjojx.xyz
-.dqjouawswgmchn.com
 .dqlfabc.cn
 .dqlgpnljfgmlqs.xyz
 .dqnvcjcyx.com
@@ -39755,7 +39756,6 @@
 .frightysever.org
 .frilly-number.pro
 .fringesdurocs.com
-.frionene.xyz
 .fripth.xyz
 .friskbiscuit.com
 .fristminyas.com
@@ -41704,10 +41704,7 @@
 .ghastlyrejectionrest.com
 .ghattiwongsky.com
 .ghatwalplunker.live
-.ghavjknuitkmh.com
 .ghbdsbfd.com
-.ghbktboutfibvt.com
-.ghd.vsee.me
 .ghdlry.greetz.nl
 .ghejrcvslombjse.com
 .ghentmidweek.com
@@ -42334,7 +42331,6 @@
 .gmx40.top
 .gmx41.top
 .gmx42.top
-.gmx43.top
 .gmx44.top
 .gmx45.top
 .gmx46.top
@@ -42377,10 +42373,8 @@
 .gnpge.com
 .gnqtageoyy.com
 .gnrdomimplementation.com
-.gnrmty.eurovaistine.lt
+.gnreyt.toom.de
 .gnuoipb.cn
-.gnuppbsxa.xyz
-.gnvpmftcgp.com
 .go-clicks.de
 .go-dev.callersmart.com
 .go-dev.qantaswellbeing.com
@@ -47020,7 +47014,6 @@
 .hyloistmithan.com
 .hylomysslipper.digital
 .hylyl.club
-.hymnarypoking.com
 .hynahyqq.xyz
 .hynteroforion.com
 .hyofteraq.com
@@ -52763,6 +52756,7 @@
 .julitenj.com
 .juliyea.sbs
 .juljrd.xyz
+.julkkoazfkh.com
 .jullyambery.net
 .jullycn.com
 .julolecalve.website
@@ -90770,55 +90764,6 @@
 .sreamyourvids.space
 .srefrukaxxa.com
 .sregfle.cn
-.srepdata.armytimes.com
-.srepdata.daily-times.com
-.srepdata.dailyworld.com
-.srepdata.desertsun.com
-.srepdata.desmoinesregister.com
-.srepdata.elpasotimes.com
-.srepdata.eveningsun.com
-.srepdata.fdlreporter.com
-.srepdata.fox15abilene.com
-.srepdata.freep.com
-.srepdata.golfweek.com
-.srepdata.greatfallstribune.com
-.srepdata.guampdn.com
-.srepdata.hometownlife.com
-.srepdata.hoopshype.com
-.srepdata.htrnews.com
-.srepdata.inyork.com
-.srepdata.ithacajournal.com
-.srepdata.kens5.com
-.srepdata.khou.com
-.srepdata.kiiitv.com
-.srepdata.ktvb.com
-.srepdata.kvue.com
-.srepdata.lansingstatejournal.com
-.srepdata.livingstondaily.com
-.srepdata.marionstar.com
-.srepdata.mycentraljersey.com
-.srepdata.mynorthshorenow.com
-.srepdata.newarkadvocate.com
-.srepdata.news-leader.com
-.srepdata.newsleader.com
-.srepdata.postcrescent.com
-.srepdata.publicopiniononline.com
-.srepdata.redding.com
-.srepdata.shreveporttimes.com
-.srepdata.tcpalm.com
-.srepdata.tennessean.com
-.srepdata.thedailyjournal.com
-.srepdata.thespectrum.com
-.srepdata.thetimesherald.com
-.srepdata.thetowntalk.com
-.srepdata.usatoday.com
-.srepdata.wauwatosanow.com
-.srepdata.wcsh6.com
-.srepdata.wkyc.com
-.srepdata.ydr.com
-.srepdata.yorkdispatch.com
-.srepdatats.epocrates.com
-.sreport.mitsubishicars.com
 .srgev.com
 .srhuafeng.com
 .srigbxxv.com
@@ -108878,7 +108823,6 @@
 .welcome.coniferhealth.com
 .welcome.e.chiefs.com
 .welcome.faptitans.com
-.welcome.floridagators.com
 .welcome.item24.be
 .welcome.item24.ch
 .welcome.item24.com
@@ -108975,6 +108919,7 @@
 .wesicuros.com
 .wesiedu.com
 .west.click
+.west.statisticplatform.com
 .west001.com
 .westats.dev
 .westbridges.net
@@ -119245,6 +119190,7 @@ daqijjpjow.com
 daralasnan.com
 daredorm.com
 darking07.tk
+darts-ads.telkom.co.id
 darwarvid.com
 das5ku9q.com
 dashboard.tinypass.com
@@ -129540,6 +129486,7 @@ weiluyan.cn
 weimineiyixiu.cn
 weixin0452.com
 wejibk.com.cn
+welcome.indihome.co.id
 welcome.j8inn1zektoe.com
 weliketofuckstrangers.com
 wemfbox.ch

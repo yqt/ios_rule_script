@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-02-04 02:20:41
+desc: 最后更新时间 2023-10-27 02:15:10
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 442
-# mitm: 374
+# reject: 543
+# mitm: 447
 # force-http-engine-hosts: 6
-# total: 822
+# total: 996
 
 
 
@@ -488,6 +488,7 @@ http:
     - "api*.musical.ly"
     - "api-access.pangolin-sdk-toutiao.com"
     - "api-ad-product.huxiu.com"
+    - "api-ks.wtzw.com"
     - "api-mifit-cn2.zepp.com"
     - "api-mifit.huami.com"
     - "api-new.app.acfun.cn"
