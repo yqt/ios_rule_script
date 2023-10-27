@@ -1,13 +1,13 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-27 02:09:01
-# DOMAIN: 7
+# UPDATED: 2023-10-28 02:09:55
+# DOMAIN: 9
 # DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 1544
+# DOMAIN-SUFFIX: 1545
 # IP-CIDR: 10
-# PROCESS-NAME: 14
-# TOTAL: 1589
+# PROCESS-NAME: 7
+# TOTAL: 1576
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -1478,6 +1478,7 @@ DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appleenews.com
 DOMAIN-SUFFIX,applemusic.berlin
 DOMAIN-SUFFIX,applemusic.co
+DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,applemusic.com.au
 DOMAIN-SUFFIX,applemusic.hamburg
 DOMAIN-SUFFIX,applemusic.wang
@@ -1510,8 +1511,6 @@ DOMAIN-SUFFIX,iphoto.se
 DOMAIN-SUFFIX,iphoto.wang
 DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,wwwapplemusic.com
-DOMAIN-SUFFIX,applemusic.com
-DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -1585,15 +1584,7 @@ IP-CIDR,205.180.175.0/24,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve
 IP-CIDR,65.199.22.0/23,no-resolve
 PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
-PROCESS-NAME,CoreLocationAgent
-PROCESS-NAME,WeatherWidget
-PROCESS-NAME,apsd
-PROCESS-NAME,com.apple.Maps
-PROCESS-NAME,findmydevice-user-agent
-PROCESS-NAME,fmfd
-PROCESS-NAME,mapspushd
-PROCESS-NAME,netbiosd
-PROCESS-NAME,trustd
+PROCESS-NAME,storedownloadd
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,Music
 PROCESS-NAME,LookupViewService

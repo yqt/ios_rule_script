@@ -12,19 +12,19 @@ GlobalMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-02-03 01:46:21
+最后更新时间：2023-10-28 02:12:40
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 28  | 
+| HOST | 29  | 
 | HOST-KEYWORD | 25  | 
-| HOST-SUFFIX | 1253  | 
+| HOST-SUFFIX | 1096  | 
 | HOST-WILDCARD | 10  | 
 | IP-CIDR | 918  | 
 | IP6-CIDR | 6  | 
-| USER-AGENT | 69  | 
-| TOTAL | 2309  | 
+| USER-AGENT | 62  | 
+| TOTAL | 2146  | 
 
 
 ## QuantumultX 
@@ -86,11 +86,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/GMedia.list
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTubeMusic.yaml
 - https://ruleset.isagood.day/stream.conf
-- https://ruleset.isagood.day/youtube.conf
-- https://ruleset.isagood.day/youtube_all.conf
-- https://ruleset.isagood.day/youtube_music.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

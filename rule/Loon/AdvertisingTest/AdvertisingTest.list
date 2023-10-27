@@ -1,14 +1,22 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-27 02:08:43
+# UPDATED: 2023-10-28 02:09:35
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12434
-# DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 126781
-# IP-CIDR: 364
-# URL-REGEX: 285
-# TOTAL: 140127
+# DOMAIN: 12498
+# DOMAIN-KEYWORD: 302
+# DOMAIN-SUFFIX: 126573
+# IP-CIDR: 452
+# URL-REGEX: 303
+# TOTAL: 140128
+DOMAIN-KEYWORD,-logging.nextmedia.com
+DOMAIN-KEYWORD,-spiky.clevertap-prod.com
+DOMAIN-KEYWORD,.engage.3m.
+DOMAIN-KEYWORD,.estream.
+DOMAIN-KEYWORD,.freecontent.
+DOMAIN-KEYWORD,.net.daraz.
+DOMAIN-KEYWORD,.nimiq.
+DOMAIN-KEYWORD,.zooplus.
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
@@ -117,11 +125,43 @@ DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 DOMAIN-KEYWORD,adashx
+DOMAIN-KEYWORD,adimg.uve.weibo.com
+DOMAIN-KEYWORD,adimg.vue.weibo.com
+DOMAIN-KEYWORD,adm3.autoimg.cn
+DOMAIN-KEYWORD,adp.atm.youku.com
+DOMAIN-KEYWORD,adproxy.autohome.com
+DOMAIN-KEYWORD,ads-d.viber.com
+DOMAIN-KEYWORD,ads.95516.com
+DOMAIN-KEYWORD,ads.aws.viber.com
+DOMAIN-KEYWORD,ads.viber.com
+DOMAIN-KEYWORD,adsfilebssdlbig.ali.kugou.com
+DOMAIN-KEYWORD,adshare.toutiao.com
+DOMAIN-KEYWORD,adtrack.ucweb.com
+DOMAIN-KEYWORD,afpapi.alimama.com
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,talkingdata
 DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,traffic
-URL-REGEX,^http://(114\.115\.217\.129)|(home\.umetrip\.com)/gateway/api/umetrip/native$
+DOMAIN-KEYWORD,tui.weibo.com
+DOMAIN-KEYWORD,tunion-api.m.taobao.com
+DOMAIN-KEYWORD,upload-cdn.orayimg.com
+DOMAIN-KEYWORD,utp-dmp.ucweb.com
+DOMAIN-KEYWORD,utp.ucweb.com
+DOMAIN-KEYWORD,v0-client-lz.rili.cn
+DOMAIN-KEYWORD,v1.log.moji.com
+DOMAIN-KEYWORD,v2.reachmax.cn
+DOMAIN-KEYWORD,val.atm.youku.com
+DOMAIN-KEYWORD,vidoza
+DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
+DOMAIN-KEYWORD,wax.weibo.com
+DOMAIN-KEYWORD,wbapp.uve.weibo.com
+DOMAIN-KEYWORD,weibomingzi.com
+DOMAIN-KEYWORD,wgo.mmstat.com
+DOMAIN-KEYWORD,widget.weibo.com
+DOMAIN-KEYWORD,wixsite.com
+DOMAIN-KEYWORD,www.qmlog.cn
+DOMAIN-KEYWORD,xn--2qux23c9ziyrq
+DOMAIN-KEYWORD,ynuf.alipay.com
 URL-REGEX,^https://img-ys011.didistatic.com/static/ad_oss/
 URL-REGEX,^https?://.+/v\d/iflyad/
 URL-REGEX,^https?://.+\.mp4\?cdncode=.+&guid=
@@ -130,19 +170,16 @@ URL-REGEX,^https?://47.97.20.12/ad/
 URL-REGEX,^https?://a.sfansclub.com/business/t/ad/
 URL-REGEX,^https?://a.sfansclub.com/business/t/boot/screen/index
 URL-REGEX,^https?://adse.ximalaya.com/[a-z]{4}/loading\?appid=
-URL-REGEX,^https?://api-mifit.huami.com/discovery/mi/discovery/(homepage_ad|sleep_ad|sport_ad|sport_summary_ad|sport_training_ad|step_detail_ad|training_video_ad)\?
 URL-REGEX,^https?://api.jr.mi.com/v\d/adv/
 URL-REGEX,^https?://api01pbmp.zhuishushenqi.com/gameAdvert
 URL-REGEX,^https?://c.m.163.com/nc/gl/
 URL-REGEX,^https?://dsp-x.jd.com/adx/
 URL-REGEX,^https?://dspsdk.abreader.com/v\d/api/ad\?
-URL-REGEX,^https?://home\.mi\.com/cgi-op/api/v1/recommendation/(banner|carousel/banners|myTab|openingBanner)
 URL-REGEX,^https?://ma.ofo.com/ads/
 URL-REGEX,^https?://manga.bilibili.com/twirp/comic\.v\d\.comic/(flash|Flash|ListFlash)
-URL-REGEX,^https?://mp.weixin.qq.com/mp/(advertisement_report|ad_complaint|ad_video|getappmsgad|report)
+URL-REGEX,^https?://mp.weixin.qq.com/mp/report
 URL-REGEX,^https?://newsso.map.qq.com/\?&attime=
 URL-REGEX,^https?://www.facebook.com/.+video_click_to_advertiser_site
-URL-REGEX,^https?:\/\/(discardrp|startup)\.umetrip\.com\/gateway\/api\/umetrip\/native
 URL-REGEX,^https?:\/\/.+?\.beacon\.qq\.com
 URL-REGEX,^https?:\/\/.+?\.l\.qq\.com
 URL-REGEX,^https?:\/\/\w+\.gdt\.qq\.com

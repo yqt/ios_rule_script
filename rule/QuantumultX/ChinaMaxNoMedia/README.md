@@ -12,20 +12,20 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-27 02:13:48
+最后更新时间：2023-10-28 02:15:34
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 163  | 
 | HOST-KEYWORD | 11  | 
-| HOST-SUFFIX | 66030  | 
+| HOST-SUFFIX | 66011  | 
 | HOST-WILDCARD | 1  | 
-| IP-ASN | 1216  | 
-| IP-CIDR | 5514  | 
-| IP6-CIDR | 3420  | 
+| IP-ASN | 1000  | 
+| IP-CIDR | 5968  | 
+| IP6-CIDR | 3424  | 
 | USER-AGENT | 65  | 
-| TOTAL | 76420  | 
+| TOTAL | 76643  | 
 
 
 ## QuantumultX 
@@ -402,14 +402,135 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YYeTs.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bilibili.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/NetEaseMusic.yaml
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Wechat.yaml
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ZhongXingTongXun.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Geely.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/FangZhengDianZi.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BeStore.list
+- https://rules.kr328.app/geolocation-cn.yaml
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/CMedia.list
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Mainland.list
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Alibaba.yaml
+- https://rules.kr328.app/taikang.yaml
+- https://rules.kr328.app/acfun-ads.yaml
+- https://rules.kr328.app/yunfanjiasu.yaml
+- https://rules.kr328.app/sina.yaml
+- https://rules.kr328.app/acfun-ads@ads.yaml
+- https://rules.kr328.app/xiaomi.yaml
+- https://rules.kr328.app/hanyi.yaml
+- https://rules.kr328.app/boc.yaml
+- https://rules.kr328.app/tencent.yaml
+- https://rules.kr328.app/mogujie.yaml
+- https://rules.kr328.app/36kr.yaml
+- https://rules.kr328.app/baidu-ads@ads.yaml
+- https://rules.kr328.app/iqiyi-ads@ads.yaml
+- https://rules.kr328.app/zdns.yaml
+- https://rules.kr328.app/bytedance-ads@ads.yaml
+- https://rules.kr328.app/deepin.yaml
+- https://rules.kr328.app/meitu.yaml
+- https://rules.kr328.app/yuanfudao.yaml
+- https://rules.kr328.app/bytedance.yaml
+- https://rules.kr328.app/4399.yaml
+- https://rules.kr328.app/ccb.yaml
+- https://rules.kr328.app/letv-ads@ads.yaml
+- https://rules.kr328.app/jd-ads.yaml
+- https://rules.kr328.app/xueqiu.yaml
+- https://rules.kr328.app/icbc.yaml
+- https://rules.kr328.app/kuaishou-ads@ads.yaml
+- https://rules.kr328.app/kingsoft.yaml
+- https://rules.kr328.app/kuaishou-ads.yaml
+- https://rules.kr328.app/keep.yaml
+- https://rules.kr328.app/u17.yaml
+- https://rules.kr328.app/sohu-ads@ads.yaml
+- https://rules.kr328.app/huya.yaml
+- https://rules.kr328.app/hunantv-ads@ads.yaml
+- https://rules.kr328.app/bootcss.yaml
+- https://rules.kr328.app/eleme.yaml
+- https://rules.kr328.app/wolai.yaml
+- https://rules.kr328.app/sohu.yaml
+- https://rules.kr328.app/douyu.yaml
+- https://rules.kr328.app/baidu@ads.yaml
+- https://rules.kr328.app/cmb.yaml
+- https://rules.kr328.app/sina-ads@ads.yaml
+- https://rules.kr328.app/kuaishou@ads.yaml
+- https://rules.kr328.app/hunantv-ads.yaml
+- https://rules.kr328.app/citic.yaml
+- https://rules.kr328.app/netease.yaml
+- https://rules.kr328.app/ruanmei.yaml
+- https://rules.kr328.app/dandanzan.yaml
+- https://rules.kr328.app/netease-ads.yaml
+- https://rules.kr328.app/agora.yaml
+- https://rules.kr328.app/bytedance-ads.yaml
+- https://rules.kr328.app/youku-ads.yaml
+- https://rules.kr328.app/huawei@cn.yaml
+- https://rules.kr328.app/dingtalk.yaml
+- https://rules.kr328.app/youku.yaml
+- https://rules.kr328.app/51job.yaml
+- https://rules.kr328.app/sina-ads.yaml
+- https://rules.kr328.app/baidu.yaml
+- https://rules.kr328.app/jd.yaml
+- https://rules.kr328.app/115.yaml
+- https://rules.kr328.app/xunlei.yaml
+- https://rules.kr328.app/douban.yaml
+- https://rules.kr328.app/cctv.yaml
+- https://rules.kr328.app/suning.yaml
+- https://rules.kr328.app/ku6.yaml
+- https://rules.kr328.app/kuaishou.yaml
+- https://rules.kr328.app/netease-ads@ads.yaml
+- https://rules.kr328.app/chinamobile.yaml
+- https://rules.kr328.app/oppo.yaml
+- https://rules.kr328.app/dedao.yaml
+- https://rules.kr328.app/bilibili.yaml
+- https://rules.kr328.app/meizu.yaml
+- https://rules.kr328.app/sohu-ads.yaml
+- https://rules.kr328.app/8btc.yaml
+- https://rules.kr328.app/acfun.yaml
+- https://rules.kr328.app/chinaunicom.yaml
+- https://rules.kr328.app/sina@ads.yaml
+- https://rules.kr328.app/cas.yaml
+- https://rules.kr328.app/letv-ads.yaml
+- https://rules.kr328.app/duowan.yaml
+- https://rules.kr328.app/acfun@ads.yaml
+- https://rules.kr328.app/teambition.yaml
+- https://rules.kr328.app/netease@ads.yaml
+- https://rules.kr328.app/tencent-ads.yaml
+- https://rules.kr328.app/csdn.yaml
+- https://rules.kr328.app/tencent-ads@ads.yaml
+- https://rules.kr328.app/iflytek.yaml
+- https://rules.kr328.app/vancl.yaml
+- https://rules.kr328.app/unionpay.yaml
+- https://rules.kr328.app/eastmoney.yaml
+- https://rules.kr328.app/chinanews.yaml
+- https://rules.kr328.app/youku-ads@ads.yaml
+- https://rules.kr328.app/huawei.yaml
+- https://rules.kr328.app/meituan.yaml
+- https://rules.kr328.app/chinatelecom.yaml
+- https://rules.kr328.app/17zuoye.yaml
+- https://rules.kr328.app/xueersi.yaml
+- https://rules.kr328.app/iqiyi-ads.yaml
+- https://rules.kr328.app/oneplus.yaml
+- https://rules.kr328.app/youzan.yaml
+- https://rules.kr328.app/iqiyi@ads.yaml
+- https://rules.kr328.app/smzdm.yaml
+- https://rules.kr328.app/tencent@cn.yaml
+- https://rules.kr328.app/jianshu.yaml
+- https://rules.kr328.app/58tongcheng.yaml
+- https://rules.kr328.app/dangdang.yaml
+- https://rules.kr328.app/hupu.yaml
+- https://rules.kr328.app/didi.yaml
+- https://rules.kr328.app/pingan.yaml
+- https://rules.kr328.app/abc.yaml
+- https://rules.kr328.app/baidu-ads.yaml
+- https://rules.kr328.app/jd@ads.yaml
+- https://rules.kr328.app/pinduoduo.yaml
+- https://rules.kr328.app/uc.yaml
+- https://rules.kr328.app/qingcloud.yaml
+- https://rules.kr328.app/tongcheng.yaml
+- https://rules.kr328.app/sf-express.yaml
+- https://rules.kr328.app/juejin.yaml
+- https://rules.kr328.app/ucloud.yaml
+- https://rules.kr328.app/maocloud.yaml
+- https://rules.kr328.app/ifanr.yaml
+- https://rules.kr328.app/iqiyi.yaml
+- https://rules.kr328.app/jd-ads@ads.yaml
+- https://rules.kr328.app/pptv.yaml
+- https://rules.kr328.app/cnki.yaml
+- https://rules.kr328.app/tencent@ads.yaml
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Baidu.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/ByteDance.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Douyu.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/HuaWei.yaml
@@ -427,19 +548,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Xunlei.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YYeTs.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Youku.yaml
-- https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02023.m3u8
-- https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E8%BD%AE%E6%92%AD_%E5%8D%8E%E6%95%B0.%E9%BB%91%E8%8E%93.NewTV.SiTV.CIBN.m3u
-- https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E9%87%8D%E5%BA%86%E5%B9%BF%E7%94%B5cqccn.m3u
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
-- https://ruleset.isagood.day/alibaba.conf
-- https://ruleset.isagood.day/alibaba_domain.conf
 - https://ruleset.isagood.day/bilibili.conf
 - https://ruleset.isagood.day/icbc.conf
 - https://ruleset.isagood.day/sina.conf
 - https://ruleset.isagood.day/stream_cn.conf
-- https://ruleset.isagood.day/wechat.conf
+- https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 

@@ -1,5 +1,5 @@
 #!name= AdvertisingLite
-#!desc= 最后更新时间 2023-10-27 02:15:10
+#!desc= 最后更新时间 2023-10-28 02:20:34
 #!openUrl= https://github.com/blackmatrix7/ios_rule_script
 #!author= blackmatrix7
 #!homepage= https://github.com/blackmatrix7/ios_rule_script
@@ -442,10 +442,15 @@
 ^https?:\/\/www\.didapinche\.com\/app\/adstat\/ - reject
 ^https?:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?module=advis - reject
 ^https?:\/\/www\.inoreader\.com\/adv\/ - reject
-^https?:\/\/www\.pansearch\.me\/api\/adsite - reject-dict
+^https?:\/\/www\.iyingdi\.cn\/ad - reject-200
+^https?:\/\/www\.myhug\.cn\/ad\/ - reject-200
+^https?:\/\/www\.shihuo\.cn\/app\d\/saveAppInfo - reject-200
 ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/ads\/ - reject-200
-^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config - reject-200
-^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d - reject
+^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config - reject
+^https?:\/\/www\.zybang\.com\/adx\/ - reject-200
+^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d - reject-200
+^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$ - reject-200
+^https?:\/\/y\.gtimg\.cn\/music\/common\/upload\/t_splash_info\/ - reject
 ^https?:\/\/yanxuan\.nosdn\.127\.net\/.*\.mp4 - reject
 ^https?:\/\/ytmsout\.radio\.cn\/publish\/recScreen\/getLoadPage - reject
 ^https?:\/\/yunbusiness\.ccb\.com\/clp_service\/txCtrl\?txcode=A3341A002 - reject

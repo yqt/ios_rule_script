@@ -15,16 +15,16 @@
 
 ## 规则统计
 
-最后更新时间：2024-02-04 02:10:50
+最后更新时间：2023-10-28 02:09:50
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 9  | 
 | DOMAIN-KEYWORD | 4  | 
-| DOMAIN-SUFFIX | 524  | 
+| DOMAIN-SUFFIX | 537  | 
 | IP-CIDR | 46  | 
-| TOTAL | 583  | 
+| TOTAL | 600  | 
 
 
 ## Loon 
@@ -124,6 +124,23 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Xbox.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Nintendo.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list
+- https://rules.kr328.app/riot@cn.yaml
+- https://rules.kr328.app/purikonejp.yaml
+- https://rules.kr328.app/ea.yaml
+- https://rules.kr328.app/xbox@cn.yaml
+- https://rules.kr328.app/gog@cn.yaml
+- https://rules.kr328.app/playstation.yaml
+- https://rules.kr328.app/steam@cn.yaml
+- https://rules.kr328.app/riot.yaml
+- https://rules.kr328.app/nintendo@cn.yaml
+- https://rules.kr328.app/rockstar.yaml
+- https://rules.kr328.app/op.yaml
+- https://rules.kr328.app/blizzard.yaml
+- https://rules.kr328.app/xbox.yaml
+- https://rules.kr328.app/garena.yaml
+- https://rules.kr328.app/gog.yaml
+- https://rules.kr328.app/steam.yaml
+- https://rules.kr328.app/nintendo.yaml
 - https://ruleset.isagood.day/global_game.conf
 
 

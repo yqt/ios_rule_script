@@ -1,8 +1,8 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:46:18
-# HOST: 480
+# UPDATED: 2023-10-28 02:12:38
+# HOST: 507
 # HOST-KEYWORD: 37
 # HOST-SUFFIX: 19653
 # IP-CIDR: 112
@@ -3611,6 +3611,7 @@ HOST-SUFFIX,crececonebay.com,Global
 HOST-SUFFIX,creditcardsbay.com,Global
 HOST-SUFFIX,cricketcountry.com,Global
 HOST-SUFFIX,crit-staging.com,Global
+HOST-SUFFIX,crittercism.com,Global
 HOST-SUFFIX,crmdynint-gcc.com,Global
 HOST-SUFFIX,crmdynint.com,Global
 HOST-SUFFIX,cromite.org,Global
@@ -6426,6 +6427,7 @@ HOST-SUFFIX,hobonichielog.com,Global
 HOST-SUFFIX,hochi.news,Global
 HOST-SUFFIX,hoes.com,Global
 HOST-SUFFIX,hoge.7jp.info,Global
+HOST-SUFFIX,hola.org,Global
 HOST-SUFFIX,holdemstripem.com,Global
 HOST-SUFFIX,holloporn.com,Global
 HOST-SUFFIX,hollyrandall.com,Global
@@ -9479,6 +9481,7 @@ HOST-SUFFIX,onedinesfree.com,Global
 HOST-SUFFIX,onedrive.co,Global
 HOST-SUFFIX,onedrive.net,Global
 HOST-SUFFIX,onedrive.org,Global
+HOST-SUFFIX,onedumb.com,Global
 HOST-SUFFIX,onefifteen.net,Global
 HOST-SUFFIX,onefifteen.org,Global
 HOST-SUFFIX,onejapanese.com,Global
@@ -13838,6 +13841,7 @@ HOST-SUFFIX,zzdh808.com,Global
 HOST-SUFFIX,zzdh99.com,Global
 HOST-SUFFIX,zzgays.com,Global
 HOST-SUFFIX,zzitube.com,Global
+HOST-SUFFIX,zzux.com,Global
 HOST-SUFFIX,zzycdz.com,Global
 HOST-SUFFIX,000webhost.com,Global
 HOST-SUFFIX,030buy.com,Global
@@ -15000,7 +15004,6 @@ HOST-SUFFIX,creativelab5.com,Global
 HOST-SUFFIX,crisisresponse.google,Global
 HOST-SUFFIX,crisp.chat,Global
 HOST-SUFFIX,cristyli.com,Global
-HOST-SUFFIX,crittercism.com,Global
 HOST-SUFFIX,crocotube.com,Global
 HOST-SUFFIX,crossfire.co.kr,Global
 HOST-SUFFIX,crossthewall.net,Global
@@ -16456,7 +16459,6 @@ HOST-SUFFIX,hnntube.com,Global
 HOST-SUFFIX,hockeyapp.net,Global
 HOST-SUFFIX,hojemacau.com.mo,Global
 HOST-SUFFIX,hola.com,Global
-HOST-SUFFIX,hola.org,Global
 HOST-SUFFIX,holymountaincn.com,Global
 HOST-SUFFIX,holyspiritspeaks.org,Global
 HOST-SUFFIX,home.sina.com,Global
@@ -17800,7 +17802,6 @@ HOST-SUFFIX,on.cc,Global
 HOST-SUFFIX,on2.com,Global
 HOST-SUFFIX,onapp.com,Global
 HOST-SUFFIX,onedrive.com,Global
-HOST-SUFFIX,onedumb.com,Global
 HOST-SUFFIX,onejav.com,Global
 HOST-SUFFIX,onenote.com,Global
 HOST-SUFFIX,onion.city,Global
@@ -20141,7 +20142,6 @@ HOST-SUFFIX,zyxel.com,Global
 HOST-SUFFIX,zyzc9.com,Global
 HOST-SUFFIX,zzcartoon.com,Global
 HOST-SUFFIX,zzcloud.me,Global
-HOST-SUFFIX,zzux.com,Global
 HOST-KEYWORD,amazon,Global
 HOST-KEYWORD,avoddashs,Global
 HOST-KEYWORD,bbcfmt,Global

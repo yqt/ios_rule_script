@@ -1,8 +1,8 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:46:03
-# DOMAIN: 157
+# UPDATED: 2023-10-28 02:12:17
+# DOMAIN: 147
 # DOMAIN-KEYWORD: 37
 # DOMAIN-SUFFIX: 19366
 # IP-CIDR: 112
@@ -3303,6 +3303,7 @@ DOMAIN-SUFFIX,crececonebay.com
 DOMAIN-SUFFIX,creditcardsbay.com
 DOMAIN-SUFFIX,cricketcountry.com
 DOMAIN-SUFFIX,crit-staging.com
+DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,cromite.org
@@ -6179,6 +6180,7 @@ DOMAIN-SUFFIX,hobonichielog.com
 DOMAIN-SUFFIX,hochi.news
 DOMAIN-SUFFIX,hoes.com
 DOMAIN-SUFFIX,hoge.7jp.info
+DOMAIN-SUFFIX,hola.org
 DOMAIN-SUFFIX,holdemstripem.com
 DOMAIN-SUFFIX,holloporn.com
 DOMAIN-SUFFIX,hollyrandall.com
@@ -9239,6 +9241,7 @@ DOMAIN-SUFFIX,onedrive.co
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.net
 DOMAIN-SUFFIX,onedrive.org
+DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onefifteen.net
 DOMAIN-SUFFIX,onefifteen.org
 DOMAIN-SUFFIX,onejapanese.com
@@ -13669,6 +13672,7 @@ DOMAIN-SUFFIX,zzdh808.com
 DOMAIN-SUFFIX,zzdh99.com
 DOMAIN-SUFFIX,zzgays.com
 DOMAIN-SUFFIX,zzitube.com
+DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,zzycdz.com
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -14750,7 +14754,6 @@ DOMAIN-SUFFIX,creadersnet.com
 DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,cristyli.com
-DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,crocotube.com
 DOMAIN-SUFFIX,crossfire.co.kr
 DOMAIN-SUFFIX,crossthewall.net
@@ -15936,7 +15939,6 @@ DOMAIN-SUFFIX,hnntube.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,hojemacau.com.mo
 DOMAIN-SUFFIX,hola.com
-DOMAIN-SUFFIX,hola.org
 DOMAIN-SUFFIX,holymountaincn.com
 DOMAIN-SUFFIX,holyspiritspeaks.org
 DOMAIN-SUFFIX,home.sina.com
@@ -17271,7 +17273,6 @@ DOMAIN-SUFFIX,omy.sg
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on2.com
 DOMAIN-SUFFIX,onapp.com
-DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onejav.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onion.city
@@ -19531,7 +19532,6 @@ DOMAIN-SUFFIX,zyxel.com
 DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
-DOMAIN-SUFFIX,zzux.com
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
