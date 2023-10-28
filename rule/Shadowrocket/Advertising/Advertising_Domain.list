@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-28 02:08:29
+# UPDATED: 2023-10-29 02:08:10
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 16154
+# DOMAIN: 16156
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 96448
+# DOMAIN-SUFFIX: 96478
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 113448
+# TOTAL: 113480
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -725,7 +725,8 @@
 .194b7af8c3.com
 .19515bia.de
 .19528681.com
-.1969321160.rsc.cdn77.org
+.1969082237.rsc.cdn77.org
+.19805d2bcb.com
 .19869.com
 .1987292064.rsc.cdn77.org
 .198game.com
@@ -11614,7 +11615,6 @@
 .amazinglyprogramswilfrid.com
 .amazingmagics.com
 .amazon-cornerstone.com
-.amazon-es.net
 .amazonclix.com
 .amazonlogistics.jp
 .amazonsg.shop
@@ -15637,6 +15637,7 @@
 .avpa.dzone.com
 .avpa.javalobby.org
 .avplwte.xyz
+.avppuqrudc.com
 .avpris.ru
 .avprotect.store
 .avqhelxlb.com
@@ -20593,6 +20594,7 @@
 .businessmaking.progress.com
 .businessmedia.americanexpress.com
 .businessmensynonymmidwife.com
+.businesspagecommunitystandardsverifyblocked.click
 .businessprocess.ricoh.de
 .businessvideonews.com
 .busions.com
@@ -21934,7 +21936,6 @@
 .cbnibtjavoxha.com
 .cbnkmisvop.com
 .cbox.ws
-.cbox4.ignorelist.com
 .cbpslot.com
 .cbrfnitjixegplp.xyz
 .cbs.wondershare.com
@@ -23367,9 +23368,7 @@
 .cjmob.com
 .cjmooter.xcache.kinxcdn.com
 .cjndvoglik.xyz
-.cjnktmhcukfdcq.xyz
 .cjohpsc.cn
-.cjpczyi.cn
 .cjqncwfxrfrwbdd.com
 .cjroq.bealge.sogou.com
 .cjsdtj.com
@@ -39461,6 +39460,7 @@
 .franticroof.com
 .frantictrail.com
 .frap.site
+.frappe.cloud
 .frapsguardo.com
 .frarybjrbnlfd.com
 .frarychazan.com
@@ -39912,6 +39912,7 @@
 .fublue.com
 .fuboraimoo.com
 .fuchsinthough.website
+.fuck.hentaitimes.com
 .fuckbook.cm
 .fuckbookdating.com
 .fuckedbyme.com
@@ -42266,15 +42267,7 @@
 .gmx28.top
 .gmx29.top
 .gmx30.top
-.gmx31.top
-.gmx33.top
-.gmx34.top
-.gmx35.top
-.gmx36.top
-.gmx37.top
 .gmx38.top
-.gmx39.top
-.gmx40.top
 .gmx41.top
 .gmx42.top
 .gmx43.top
@@ -46247,8 +46240,6 @@
 .hotinga.ru
 .hotjar.com
 .hotjar.io
-.hotkabachok.com
-.hotline-dienmayxanh.com
 .hotlinemultiply.com
 .hotlog.ru
 .hotnews1.me
@@ -50686,7 +50677,6 @@
 .ismatlab.com
 .ismlks.com
 .ismscoldnesfspl.info
-.isna.top
 .isnconcfiplu.xyz
 .isnd.top
 .iso100.ru
@@ -51891,7 +51881,6 @@
 .jjiv.top
 .jjkiahh.icu
 .jjklrcw.com
-.jjkoyxy.cn
 .jjkwrqjklaaqa.top
 .jjldhuci.com
 .jjmbmkklzwvbv.top
@@ -55905,7 +55894,7 @@
 .lepoinf.fr
 .leponde.fr
 .leptaasellus.digital
-.leqjnmmyqtb.com
+.leqmellmanmag.online
 .lereforeightc.site
 .lerenzx.cn
 .leroj.elitegol.tv
@@ -57578,8 +57567,6 @@
 .lmekamrykbbky.top
 .lmepbq.com
 .lmfehr.xyz
-.lmfxnooteslq.xyz
-.lmgenf.ludwigbeck.de
 .lmgvur.scbt.com
 .lmht-membership.com
 .lmiutil.com
@@ -70482,7 +70469,6 @@
 .omnitagjs.com
 .omoahope.net
 .omoaxaus.net
-.omoefyr.cn
 .omoonsih.net
 .omopeemt.net
 .omotorax.ru
@@ -78065,8 +78051,8 @@
 .qkffv.com
 .qkfwiylmib.com
 .qkhhjm.autoscout24.nl
-.qkhvongctffugm.com
 .qkjjuhs.com
+.qkobbgs.cyou
 .qkodjvdsm.com
 .qkoio.cyou
 .qkouawnjejedvno.xyz
@@ -78952,6 +78938,7 @@
 .radshedmisrepu.info
 .radull.com
 .radxcomm.com
+.raelsomn.top
 .raenfh9tkuka.com
 .raeoaxqxhvtxe.xyz
 .raeqqe.cn
@@ -81810,7 +81797,6 @@
 .rtxplatform.com
 .rtxpx-a.akamaihd.net
 .rtxrtb.com
-.rtxz.cfd
 .rtyznd.com
 .rtzblzfgzqw.com
 .ru-novocti.com
@@ -97139,6 +97125,7 @@
 .ticaadjuk.xyz
 .ticaframeofm.xyz
 .ticalfelixstownru.info
+.ticalsisamine.space
 .ticalwhichhereal.info
 .ticcdn.com
 .tick-tock.net
@@ -98038,7 +98025,6 @@
 .tojoliykywmhj.com
 .tok.vaicore.xyz
 .tokaripupsi.com
-.token-jpay.site
 .tokenads.com
 .tokenvolatilebreaker.com
 .toknowall.com
@@ -98554,8 +98540,9 @@
 .tpvrqkr.com
 .tpvuxt.xyz
 .tpx.tesseradigital.com
+.tpycithabalj.com
 .tpydhykibbz.com
-.tpyerxzn.xyz
+.tpyshaaxps.com
 .tpyxplkcap.top
 .tpzatf.xyz
 .tpzzdrxnp.com
@@ -102482,7 +102469,6 @@
 .tukexiu.com
 .tukj.net
 .tukuru.cotta.jp
-.tul5an.cfd
 .tula9mari.com
 .tulasitoughie.com
 .tuleceti.com
@@ -105517,6 +105503,7 @@
 .verify.safesigned.com
 .verify.spin.app
 .verify.test.spin.app
+.verifyaddress.xyz
 .verifychocolate.com
 .verifypow.com
 .verifytech.click
@@ -108838,7 +108825,6 @@
 .wesicuros.com
 .wesiedu.com
 .west.click
-.west.statisticplatform.com
 .west001.com
 .westats.dev
 .westbridges.net
@@ -120847,6 +120833,7 @@ geobanner.sexfinder.com
 geoip-js.com
 geoip.cookieyes.com
 geoip.goforandroid.com
+geoloc.hurriyet.com.tr
 geopromos.com
 geotargetly-1a441.appspot.com
 geranew.info

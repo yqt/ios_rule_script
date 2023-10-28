@@ -1,11 +1,11 @@
 # NAME: ChinaIPsTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-28 02:14:54
+# UPDATED: 2023-10-29 02:14:31
 # IP-ASN: 1000
-# IP-CIDR: 15957
-# IP-CIDR6: 4498
-# TOTAL: 21455
+# IP-CIDR: 15959
+# IP-CIDR6: 4588
+# TOTAL: 21547
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -8678,7 +8678,6 @@ IP-CIDR,171.91.128.0/17,no-resolve
 IP-CIDR,171.92.206.0/23,no-resolve
 IP-CIDR,172.225.126.0/26,no-resolve
 IP-CIDR,172.225.181.192/26,no-resolve
-IP-CIDR,172.225.182.32/28,no-resolve
 IP-CIDR,172.225.200.32/28,no-resolve
 IP-CIDR,172.225.51.64/26,no-resolve
 IP-CIDR,172.225.58.32/27,no-resolve
@@ -16577,6 +16576,7 @@ IP-ASN,198527,no-resolve
 IP-ASN,198764,no-resolve
 IP-ASN,199068,no-resolve
 IP-ASN,199307,no-resolve
+IP-ASN,199310,no-resolve
 IP-ASN,199392,no-resolve
 IP-ASN,199406,no-resolve
 IP-ASN,199436,no-resolve
@@ -16769,7 +16769,6 @@ IP-ASN,37937,no-resolve
 IP-ASN,37942,no-resolve
 IP-ASN,37963,no-resolve
 IP-ASN,37965,no-resolve
-IP-ASN,37968,no-resolve
 IP-ASN,37970,no-resolve
 IP-ASN,38019,no-resolve
 IP-ASN,38027,no-resolve
