@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-29 02:09:13
+# UPDATED: 2023-10-30 02:09:38
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 12500
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126609
+# DOMAIN-SUFFIX: 126630
 # IP-CIDR: 452
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 140178
+# TOTAL: 140199
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -18365,7 +18365,6 @@
 .axzsd.pro
 .axzxkeawbo.com
 .ay.delivery
-.ay0123.top
 .ay5u9w4jjc.com
 .ayabreya.xyz
 .ayads.co
@@ -23268,6 +23267,7 @@
 .brocardcored.com
 .brocc-exe.com
 .broced.co
+.brockcountry.online
 .brocode1s.com
 .brocode2s.com
 .brocode3s.com
@@ -23856,7 +23856,6 @@
 .businessmedia.americanexpress.com
 .businessmensynonymmidwife.com
 .businessmetrics.syf.com
-.businesspagecommunitystandardsverifyblocked.click
 .businessprocess.ricoh.de
 .businessvideonews.com
 .busingcoryzal.com
@@ -24801,6 +24800,7 @@
 .calibrelugger.com
 .caliphmalign.website
 .caliyuna.cn
+.caljaryn.online
 .call-ad-network-api.marchex.com
 .callalelel.info
 .callansrookish.life
@@ -40741,7 +40741,6 @@
 .dsjcfw.com
 .dsjre.com
 .dsjyjj.cn
-.dskjbvzvs.com
 .dskjhs.com
 .dskrt.net
 .dskyseconomic.info
@@ -52470,6 +52469,7 @@
 .gmx29.top
 .gmx30.top
 .gmx38.top
+.gmx39.top
 .gmx40.top
 .gmx41.top
 .gmx42.top
@@ -55865,6 +55865,7 @@
 .healthy.spartanburgregional.com
 .healthykids-food.com
 .healthynews03.ru
+.healthyrecipes.fit
 .heap.com
 .heap.drop.com
 .heaplap.com
@@ -59439,6 +59440,7 @@
 .iklantop.net
 .iklanumum.com
 .iklghjooyj.com
+.ikmhndd.com
 .iknhgj.com
 .iknwqdpo.xyz
 .ikoplvp.cn
@@ -74575,7 +74577,6 @@
 .marcomms.maistro.com
 .marcoscrupulousmarks.com
 .marcycoin.org
-.mare01.club
 .marenfu11.cn
 .marepuffy.com
 .mareswimming.com
@@ -79811,7 +79812,6 @@
 .misdeemnormal.uno
 .misdem.pro
 .misear.com
-.misecure.com
 .misenab.com
 .miserable-discount.com
 .miserablefocus.com
@@ -86348,9 +86348,7 @@
 .oedspoiletkni.xyz
 .oedxix.lolipop.jp
 .oefanyorgagetn.info
-.oeggofabhhob.com
 .oehcxmhk.xyz
-.oehfvrpeleg.com
 .oehhq.xyz
 .oehwv.xyz
 .oei1.gq
@@ -122307,7 +122305,6 @@
 .tqmibkqlwqdysi.com
 .tqnggnsi.fun
 .tqqjk.top
-.tqrjlqt.com
 .tqrznqs.cn
 .tqvacq.intrend.it
 .tqwxtglpr.com
@@ -129331,6 +129328,7 @@
 .uwerpyh.cn
 .uwezxr.provenwinners.com
 .uwfcqtdb.xyz
+.uwfs.xyz
 .uwfxvvm.cn
 .uwgmguwpzkeudh.com
 .uwgnpkd.cn
@@ -133094,7 +133092,6 @@
 .waxapushlite.com
 .waxapushlite.info
 .waxin0gjue.cn
-.waxingcesti.com
 .waxingequant.space
 .waxpigbaa.com
 .waxtamnit.com
@@ -138833,7 +138830,6 @@
 .yafabu.uno
 .yafmqibivbuu.com
 .yageben.com
-.yahaha.mobi
 .yahekby.cn
 .yahugg.com
 .yahuu.org
@@ -141889,7 +141885,6 @@
 .zxin131.cn
 .zxjjzx.com
 .zxjrbz.xyz
-.zxjvsxf.cn
 .zxnexus.com
 .zxopen.tech
 .zxpgfl.xyz
