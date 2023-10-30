@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-30 02:09:46
+# UPDATED: 2023-10-31 02:08:55
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12500
+# DOMAIN: 12497
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126630
+# DOMAIN-SUFFIX: 126674
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 140187
+# TOTAL: 140228
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -6874,7 +6874,6 @@
 .acceptcards.americanexpress.co.uk
 .acceptiongere.site
 .acces.streaming-direct.co
-.acces0-net.site
 .access-analyze.org
 .access-mc.com
 .access.acspubs.org
@@ -8483,6 +8482,7 @@
 .addresslegbreathless.com
 .addresssupernaturalwitchcraft.com
 .addresstimeframe.com
+.addressverify.xyz
 .addrevenue.io
 .addroid.com
 .addroplet.com
@@ -12510,7 +12510,6 @@
 .agroeconom.kz
 .agrrjyugyjdb.com
 .agrvt.com
-.agsgw1gq61g16g1asd.cyou
 .agstat.html5.qq.com
 .agt.net
 .agtsavates.top
@@ -16331,7 +16330,6 @@
 .aralego.com
 .aralego.net
 .aralomomolachan.com
-.araly.online
 .aran9midi.com
 .arana.pw
 .arangoyaffing.com
@@ -20030,7 +20028,6 @@
 .bdjsym.guangyuanol.cn
 .bdkduroy.xyz
 .bdkuth.smartbuyglasses.co.uk
-.bdl.xefyr.com
 .bdlexn.xyz
 .bdlm.120askimages.com
 .bdlm1.hc360.com
@@ -21616,7 +21613,6 @@
 .bjiuck.com
 .bjjabc.com
 .bjjnovsnejwm.com
-.bjlangjie.com.cn
 .bjlmok.com
 .bjmantis.net
 .bjmcmj.cn
@@ -22126,7 +22122,6 @@
 .bmw100.cn
 .bmw2ep.paomifen.cn
 .bmwebm.org
-.bmwrbwei.xyz
 .bmxvxl.xyz
 .bmybkeo.com
 .bmycupptafr.com
@@ -24227,6 +24222,7 @@
 .bzcuta.titleboxing.com
 .bzdntl.xyz
 .bzemap.top
+.bzgmcqqfxd.com
 .bzlwe.com
 .bzngisyv.xyz
 .bznizrhd.xyz
@@ -24798,7 +24794,6 @@
 .calibrelugger.com
 .caliphmalign.website
 .caliyuna.cn
-.caljaryn.online
 .call-ad-network-api.marchex.com
 .callalelel.info
 .callansrookish.life
@@ -40901,6 +40896,7 @@
 .duamilsyr.com
 .duanat.com
 .duanepearls.com
+.duanjumao.com.cn
 .duanyu1106.cn
 .duaoxbg.cn
 .duapp.com
@@ -43116,7 +43112,6 @@
 .ejvdfssdj.com
 .ejvxpadplvdci.com
 .ejwmc.cn
-.ejxo0.online
 .ejxosoryso.ru
 .ejyvgq.xyz
 .ejyymghi.com
@@ -48905,7 +48900,6 @@
 .fourier.taobao.com
 .fourmtagservices.appspot.com
 .foursixty.com
-.fourteenthcongratulate.com
 .fourtimessmelly.com
 .fourtuneo.fr
 .fourwhenstatistics.com
@@ -52445,7 +52439,6 @@
 .gmufag.nn.ru
 .gmufag.starhit.ru
 .gmufag.woman.ru
-.gmuskkvfophohqn.xyz
 .gmx10.top
 .gmx11.top
 .gmx12.top
@@ -52466,6 +52459,9 @@
 .gmx28.top
 .gmx29.top
 .gmx30.top
+.gmx34.top
+.gmx35.top
+.gmx36.top
 .gmx38.top
 .gmx39.top
 .gmx40.top
@@ -57242,6 +57238,7 @@
 .honoursdashed.com
 .honoursimmoderate.com
 .honqdyg.cn
+.hontent.powzers.lol
 .hontent.steamplay.me
 .hontont.com
 .hoo1luha.com
@@ -66672,6 +66669,7 @@
 .kinozo.xyz
 .kinripen.com
 .kinsmenmislies.com
+.kinsta.cloud
 .kioeasodamid.com
 .kiosked.com
 .kipapjhs.com
@@ -71955,6 +71953,7 @@
 .longkoupeanut.cn
 .longlakeweb.com
 .longrich.fr
+.longterm-rental-apartments.one
 .loniil.com
 .lonits.com
 .lonreddone.com
@@ -80245,7 +80244,6 @@
 .mmtdfxh.xyz
 .mmtnat.com
 .mmtro.com
-.mmutpubcaegu.com
 .mmvideocdn.com
 .mmvjuti.cn
 .mmwdwg.cn
@@ -84180,7 +84178,6 @@
 .ngukmodukule.info
 .nguyenkim.co
 .ngvoicethaults.com
-.ngvwdatuaqs.com
 .ngxpprnv.com
 .ngyxtr.ripcurl.com
 .nh.miaozhu66.com
@@ -97093,7 +97090,6 @@
 .qualitas-app.hotdoc.com.au
 .qualitiesyoung.com
 .quality-channel.de
-.quality-page-bussiness-5621325678451268.ink
 .quality.bedrockquartz.com
 .qualityads.icu
 .qualitydating.top
@@ -105536,8 +105532,6 @@
 .sheecmee.xyz
 .sheedsoh.com
 .sheeftee.net
-.sheefursoz.com
-.sheegiwo.com
 .sheemaus.net
 .sheeme.com
 .sheenaup.net
@@ -113581,7 +113575,6 @@
 .starseed.fr
 .starssp.top
 .starstar19999.com
-.starswalker.site
 .starszoom.re
 .start-xyz.com
 .start.adelaide.edu.au
@@ -118126,7 +118119,6 @@
 .taat00889.com
 .tabaxirwelly.com
 .tabbingtremors.life
-.tabekeegnoo.com
 .tabfloor.com
 .tabici.com
 .tablasmaximed.website
@@ -119576,7 +119568,6 @@
 .temporarilyruinconsistent.com
 .temporarilysearchingcomputer.com
 .temporarilyunemployed.com
-.temporary.link
 .temporarylikewise.com
 .temporarympay.com
 .temprepenalty.guru
@@ -127380,6 +127371,7 @@
 .ub.finanzfrage.net
 .ub1.job592.com
 .ubacollect-drcn.cloud.dbankcloud.cn
+.ubadzufyfjcd.com
 .ubaii.com
 .ubalh.com
 .ubar-pro4.ru
@@ -129326,7 +129318,6 @@
 .uwerpyh.cn
 .uwezxr.provenwinners.com
 .uwfcqtdb.xyz
-.uwfs.xyz
 .uwfxvvm.cn
 .uwgmguwpzkeudh.com
 .uwgnpkd.cn
@@ -144783,7 +144774,6 @@ danzabucks.com
 daqijjpjow.com
 daralasnan.com
 daredorm.com
-darts-ads.telkom.co.id
 darwarvid.com
 das5ku9q.com
 dashboardad.net
@@ -146063,7 +146053,6 @@ geni.us
 geo-idm.fr
 geo.hicloud.com
 geoip-js.com
-geoloc.hurriyet.com.tr
 geopromos.com
 geranew.info
 gestionpub.com
@@ -152655,7 +152644,6 @@ wei.8586635.com
 weiluyan.cn
 weimineiyixiu.cn
 weixin0452.com
-welcome.indihome.co.id
 welcome.j8inn1zektoe.com
 wemfbox.ch
 wemgcdygokm.com
