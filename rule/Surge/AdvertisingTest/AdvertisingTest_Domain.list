@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-01 02:08:46
+# UPDATED: 2023-11-02 02:09:09
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 12497
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126777
+# DOMAIN-SUFFIX: 126839
 # IP-CIDR: 452
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 140343
+# TOTAL: 140405
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -42,7 +42,6 @@
 .009855.com
 .00aaa2d81c1d174.com
 .00d3ed994e.com
-.00d84987c0.com
 .00oo00.com
 .00px.net
 .00xvppy.cn
@@ -655,6 +654,8 @@
 .1258999.com
 .1267a.xyz
 .126ccb.xyz
+.1272341218.rsc.cdn77.org
+.1276665960.rsc.cdn77.org
 .12805b86d6.com
 .1287a.xyz
 .12915784.care.sanvello.com
@@ -707,6 +708,7 @@
 .146na.cn
 .147ad.com
 .1480876790.rsc.cdn77.org
+.1483167401.rsc.cdn77.org
 .148dfe140d0f3d5e.com
 .1493c7cc8b.com
 .1494.top
@@ -1855,6 +1857,10 @@
 .353limoges.treknew.fun
 .353tours.treknew.fun
 .354664.top
+.354abonded.trekkww.space
+.354iguess.trekkww.space
+.354places.trekkww.space
+.354thescore.trekkww.space
 .3562wsgkbcm.xyz
 .3565433061881492849.academyofconsciousleadership.com
 .35722e75b1.com
@@ -12531,7 +12537,6 @@
 .agrantsem.com
 .agrarianbeepsensitivity.com
 .agreeable-target.pro
-.agreeablearch.com
 .agreeableopinion.pro
 .agreeablestew.com
 .agreeabletouch.com
@@ -16437,8 +16442,6 @@
 .ardeta.ru
 .ardiver.ru
 .ardmall.com
-.ardnesstrk.com
-.ardomindtrk.com
 .ardoqxdinqucirei.info
 .ardourineptlavender.com
 .ardrrspggw.xyz
@@ -18230,7 +18233,6 @@
 .axesequelplant.com
 .axf8.net
 .axfdwhsi.com
-.axfeicjfp.com
 .axfrb.cn
 .axfvc.cn
 .axfvv.cn
@@ -27429,7 +27431,6 @@
 .cjwvcewjfr.com
 .cjxomyilmv.com
 .cjyopjydlwkyu.com
-.cjzrfxs.xyz
 .ck-cdn.com
 .ck.abdalpaces.com
 .ck.barefitaiding.com
@@ -36934,11 +36935,6 @@
 .dauntgolfconfiscate.com
 .dauntlessamusingcomrade.com
 .dauntslip.com
-.dauptoawhi.com
-.dausoofo.net
-.dautegoa.xyz
-.dautruongdanhvong.com
-.dautukiemtien.net
 .dav.davrontech.com
 .davaifoa.com
 .davarello.com
@@ -41778,7 +41774,6 @@
 .e7ckr.icu
 .e7e776c1a8bf677.com
 .e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
-.e8100325bc.com
 .e860045edaecd.com
 .e89dafb480.com
 .e8aeb8bbdbbd7.cdn.sohucs.com
@@ -42711,7 +42706,6 @@
 .eei.lobbycafe.cn
 .eeinhyfb.com
 .eejwvwoo.xyz
-.eekeeghoolsy.com
 .eekmbamyvkenb.top
 .eekmbamyvklbq.top
 .eekreeng.com
@@ -42989,7 +42983,6 @@
 .ehprnuo.cn
 .ehpvvxyp.com
 .ehpxmsqghx.xyz
-.ehqaobjhna.com
 .ehqdzqi.com
 .ehqnheqa.com
 .ehrhrrx.xyz
@@ -44965,6 +44958,7 @@
 .etheappyrincea.info
 .etheappyrincerta.info
 .ethecityonata.com
+.ethecountryw.org
 .ethereallagoon.com
 .etherealripple.com
 .ethereum-cashcard.com
@@ -56413,7 +56407,6 @@
 .hibiki-track.logica.bz
 .hibikiluler.top
 .hibitomonach.com
-.hibj.online
 .hiblcom.com
 .hibody.fr
 .hicam.net
@@ -57240,7 +57233,6 @@
 .hop.clickbank.net
 .hop.dttd.app
 .hopbeduhzbm.com
-.hopdream.com
 .hopedwishfulpercent.com
 .hopeful.coh.org
 .hopefullyactively.com
@@ -59087,6 +59079,7 @@
 .ifkgdxhpt.com
 .ifknittedhurtful.com
 .ifkzro.llbean.co.jp
+.ifllwfs.com
 .iflow.minfo.baofeng.net
 .iflyad.bj.openstorage.cn
 .iflyad.bjb.openstorage.cn
@@ -66757,7 +66750,6 @@
 .kkixbfuihbhhrj.com
 .kkizyys.cn
 .kkjrwxs.com
-.kkjshsj.com
 .kkjuu.xyz
 .kkkaii.cn
 .kkkjpg-522.cc
@@ -83251,7 +83243,6 @@
 .neatenmikra.life
 .neathygienesmash.com
 .neatsafety.com
-.neatshade.com
 .neatstats.com
 .nebabrop.com
 .nebackalien.com
@@ -94909,7 +94900,6 @@
 .psoalreh.com
 .psoanouy.net
 .psoanufi.com
-.psockapa.net
 .psognaih.xyz
 .psojeeng.com
 .psonstrentie.info
@@ -100056,7 +100046,6 @@
 .rigorousoxidenovelty.com
 .rigrunfudz.com
 .rigryvusfyu.xyz
-.rihcos.com
 .rihosaphe.com
 .rijmfqzckx.com
 .rik11.fun
@@ -100358,6 +100347,7 @@
 .rnoddenkn.asia
 .rnotraff.com
 .rnpackege.top
+.rnqjfeuwrvd.com
 .rntdqwc.xyz
 .rnv.life
 .rnvlkhahv.com
@@ -101646,7 +101636,6 @@
 .rynu3lxoyahzp.kvest.ee
 .rypamigbr.ru
 .rypqxxsx.com
-.ryqlbqdj.com
 .ryre.cn
 .ryremovement.com
 .ryretyequiremuke.info
@@ -106854,6 +106843,9 @@
 .skeetads.com
 .skeettools.com
 .skeezovkjgexs.com
+.skelaxin.1.p2l.info
+.skelaxin.3.p2l.info
+.skelaxin.4.p2l.info
 .skeletal-if.pro
 .skeletallake.com
 .skeletonemail.com
@@ -112487,7 +112479,6 @@
 .srkft.com
 .srkhbdjgxyys.xyz
 .srkl.pw
-.srldkqj.cn
 .srlhgo.cn
 .srm4.destinia.co.no
 .srmdata-eur.com
@@ -113748,8 +113739,6 @@
 .statementsweater.com
 .stater-tc.com
 .statesmanimpetuousforemost.com
-.statesmanridiculousplatitude.com
-.statesmansubstance.com
 .statestockingsconfession.com
 .statetc.nate.com
 .statgw.devtodev.com
@@ -129692,11 +129681,7 @@
 .vddf0.club
 .vde1.voyage-prive.de
 .vdebtqm.xyz
-.vdenwwytxmw.com
 .vdggsd001.com
-.vdggsd002.com
-.vdggsd003.com
-.vdggsd004.com
 .vdggsd005.com
 .vdggsd006.com
 .vdggsd007.com
@@ -131724,7 +131709,6 @@
 .vrizead.com
 .vrlvnz.xyz
 .vrmgwvz.cn
-.vrnblp.xyz
 .vrnrpzy.xyz
 .vroaafoi.com
 .vroclav.trekkeeee.fun
@@ -136679,6 +136663,7 @@
 .x5hnj21.com
 .x6.yakiuchi.com
 .x6z6.com
+.x7fx.win
 .x7r3mk6ldr.com
 .x8.cho-chin.com
 .x800.top
@@ -137313,7 +137298,6 @@
 .xk3b.top
 .xkanf.com
 .xkarma.net
-.xkbbjtfp.xyz
 .xkbgqducppuan.xyz
 .xkbinj.xyz
 .xkbydybnle.com
@@ -139862,7 +139846,6 @@
 .ywsiqlg.cn
 .ywsxqrcfrtsnfa.com
 .ywsywh.cn
-.ywtvurjiulvuvj.xyz
 .ywudaepnaudn.com
 .ywvhxymyk.com
 .ywvjyxp.com

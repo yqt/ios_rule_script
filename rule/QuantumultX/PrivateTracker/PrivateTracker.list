@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-01 02:12:38
-# HOST: 147
+# UPDATED: 2023-11-02 02:13:38
+# HOST: 144
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 119
 # IP-CIDR: 8
 # IP6-CIDR: 2
-# TOTAL: 279
+# TOTAL: 276
 HOST,107.182.30.76.16clouds.com,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -24,7 +24,6 @@ HOST,bt1.archive.org,PrivateTracker
 HOST,bt2.archive.org,PrivateTracker
 HOST,bvarf.tracker.sh,PrivateTracker
 HOST,carr.codes,PrivateTracker
-HOST,ch3oh.ru,PrivateTracker
 HOST,concen.org,PrivateTracker
 HOST,d40969.acod.regrucolo.ru,PrivateTracker
 HOST,ec2-18-191-163-220.us-east-2.compute.amazonaws.com,PrivateTracker
@@ -63,7 +62,6 @@ HOST,p2p.publictracker.xyz,PrivateTracker
 HOST,p4p.arenabg.com,PrivateTracker
 HOST,public-tracker.cf,PrivateTracker
 HOST,public.publictracker.xyz,PrivateTracker
-HOST,public.tracker.vraphim.com,PrivateTracker
 HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta.me,PrivateTracker
 HOST,retracker01-msk-virt.corbina.net,PrivateTracker
@@ -89,7 +87,6 @@ HOST,tracker.4.babico.name.tr,PrivateTracker
 HOST,tracker.6.babico.name.tr,PrivateTracker
 HOST,tracker.artixlinux.org,PrivateTracker
 HOST,tracker.birkenwald.de,PrivateTracker
-HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.bt4g.com,PrivateTracker
 HOST,tracker.cloudit.top,PrivateTracker
 HOST,tracker.cubonegro.lol,PrivateTracker
@@ -123,6 +120,7 @@ HOST,tracker.openwebtorrent.com,PrivateTracker
 HOST,tracker.picotorrent.one,PrivateTracker
 HOST,tracker.qu.ax,PrivateTracker
 HOST,tracker.renfei.net,PrivateTracker
+HOST,tracker.skynetcloud.site,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
 HOST,tracker.srv00.com,PrivateTracker
 HOST,tracker.swateam.org.uk,PrivateTracker
