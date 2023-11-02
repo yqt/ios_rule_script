@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-02 02:07:56
+# UPDATED: 2023-11-03 02:07:57
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 16159
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 96652
+# DOMAIN-SUFFIX: 96691
 # IP-CIDR: 428
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 113669
+# TOTAL: 113708
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -14336,7 +14336,6 @@
 .arbitrarypoppyblackmail.com
 .arbomedia.pl
 .arboredcalfret.com
-.arborth.top
 .arbourrenewal.com
 .arbourtalessterile.com
 .arbrever.fr
@@ -17303,8 +17302,6 @@
 .bdcode.youke.com
 .bdd.hainan.net
 .bddc935c97.com
-.bde.beformance.com
-.bderbn.foxtrot.com.ua
 .bdettywfxbcb.xyz
 .bdfagcumunjzx.com
 .bdfe35942f.com
@@ -19225,7 +19222,6 @@
 .bocongthuong.org
 .bocoyoutage.com
 .bocvb.xyz
-.bodaichi.xyz
 .bodaile.com
 .bodapet.com
 .bodaybo.net
@@ -29440,12 +29436,6 @@
 .dauntgolfconfiscate.com
 .dauntlessamusingcomrade.com
 .dauntslip.com
-.dauptoawhi.com
-.dausoofo.net
-.dautegoa.xyz
-.dautruongdanhvong.com
-.dautukiemtien.net
-.dav.davrontech.com
 .davaifoa.com
 .davarello.com
 .davedbux.ir
@@ -32972,7 +32962,8 @@
 .dwlmjxf.com
 .dwnm2295blvjq.cloudfront.net
 .dwomtkmr.com
-.dwq661.biz
+.dwoonqodmk.com
+.dwoopjvhazta.com
 .dwr3zytn850g.cloudfront.net
 .dwrdjfdxtoel.com
 .dwrlwx.polo-motorrad.de
@@ -33344,6 +33335,8 @@
 .e739c4d82b.com
 .e77lmzbqou0n-a.akamaihd.net
 .e78426c787.com
+.e7ckr.icu
+.e7e776c1a8bf677.com
 .e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 .e860045edaecd.com
 .e89dafb480.com
@@ -34138,7 +34131,6 @@
 .eehuzaih.com
 .eeinhyfb.com
 .eejwvwoo.xyz
-.eekeeghoolsy.com
 .eekmbamyvkenb.top
 .eekreeng.com
 .eeksidro.com
@@ -34608,7 +34600,6 @@
 .ellmtlvlpihr.com
 .ellorschairwaydis.site
 .elltheprecise.org
-.ellypsio.net.jumia.com.ng
 .elmbagask.com
 .elmenor.xyz
 .elmiestkanuri.top
@@ -38741,7 +38732,6 @@
 .fluffynickname.com
 .fluffynyasquirell.com
 .fluhmmr.cn
-.fluid-company.pro
 .fluid-pie.pro
 .fluidallobar.com
 .fluiddejected.com
@@ -42519,8 +42509,9 @@
 .go.metalgoodsmfg.com
 .go.metallic.com
 .go.mge.com
-.go.mitchell1.com
-.go.mktgcampaigns.com
+.go.milestek.com
+.go.mindfi.co
+.go.mnaspm.com
 .go.mobstitialtag.com
 .go.morningstar.com
 .go.motivcx.com
@@ -45363,8 +45354,8 @@
 .hibezu.xyz
 .hibids10.com
 .hibiki-track.logica.bz
+.hibikiluler.top
 .hibitomonach.com
-.hibj.online
 .hiblcom.com
 .hibody.fr
 .hicam.net
@@ -48864,6 +48855,7 @@
 .infaustsecond.com
 .infectedably.com
 .infectedrepentearl.com
+.infectiousinfringement.cn
 .infectiousmedia.com
 .infeofhobbit.com
 .inferclick.com
@@ -54640,7 +54632,6 @@
 .kvtggg.top
 .kvtllnttauq.com
 .kvtnnn.top
-.kvzcny.top
 .kw3y5otoeuniv7e9rsi.com
 .kwalnc.vans.co.kr
 .kwaznkureluct.digital
@@ -66431,7 +66422,6 @@
 .mylovesister.gq
 .mymahuxv.xyz
 .mymediarecommendations.com
-.mymeritcoin.online
 .mymix.mixtelematics.com
 .mynagor.com
 .mynativeads.com
@@ -70591,7 +70581,6 @@
 .onedrive-sd.com
 .onedrive-sn.com
 .onedrive-us-en.com
-.onedumb.com
 .oneegrou.net
 .onefeed.co.uk
 .onefoldonefoldpitched.com
@@ -84479,9 +84468,6 @@
 .sentimenthypocrisy.com
 .sentimentsvarious.com
 .sentrapromosi.com
-.sentry-cdn.top
-.sentry.alaatv.com
-.sentry.alibaba.ir
 .sentry.bale.sh
 .sentry.basalam.com
 .sentry.cafebazaar.org
@@ -90644,7 +90630,7 @@
 .srigbxxv.com
 .srkft.com
 .srkhbdjgxyys.xyz
-.srldkqj.cn
+.srkl.pw
 .srlhgo.cn
 .srm4.destinia.co.no
 .srmdata-eur.com
@@ -93383,6 +93369,8 @@
 .subletyoke.com
 .sublimemedia.net
 .subloader.cf
+.submarine001.xyz
+.submissing.com
 .submissionbrackettreacherous.com
 .submissionspurtgleamed.com
 .submissivejuice.com
@@ -94104,7 +94092,6 @@
 .swebanalytics.panoramafirm.pl
 .swebanalytics.pgatour.com
 .swebatcnoircv.xyz
-.swebmetrics.avaya.com
 .swebmetrics.ok.gov
 .swebmetrics.oklahoma.gov
 .swebmetrics.zebra.com
@@ -104853,7 +104840,6 @@
 .valdes.net.anwalt.de
 .valemedia.net
 .valencevinyls.life
-.valentine.xhamster.com
 .valentinosverige.com
 .valerainingexplain.com
 .valerie.forbes.com
@@ -105274,11 +105260,7 @@
 .vddf0.club
 .vde1.voyage-prive.de
 .vdebtqm.xyz
-.vdenwwytxmw.com
 .vdggsd001.com
-.vdggsd002.com
-.vdggsd003.com
-.vdggsd004.com
 .vdggsd005.com
 .vdggsd006.com
 .vdggsd007.com
@@ -105827,7 +105809,6 @@
 .vidsforyou.mom
 .vidsforyou.online
 .vidsfull.online
-.vidsfull.space
 .vidsfun.info
 .vidsfun.online
 .vidsfun.space
@@ -107071,7 +107052,6 @@
 .vrivslffndepxqd.xyz
 .vrizead.com
 .vrlvnz.xyz
-.vrnblp.xyz
 .vrnrpzy.xyz
 .vroaafoi.com
 .vrosqolcg.com
@@ -107712,7 +107692,7 @@
 .warehousecanneddental.com
 .wareneingang.edeka.de
 .warfarerewrite.com
-.wargumtu.net
+.warg.top
 .warhin.com
 .wariestbudgers.com
 .warilyaggregation.com
@@ -107896,6 +107876,7 @@
 .waysinbeg.com
 .wayyaj8t094u.www.kodalia.com
 .wazaki.xyz
+.wazbuvdcij.com
 .wazctigribhy.com
 .wazensee.net
 .wazero.online
@@ -108266,6 +108247,7 @@
 .web20-traffic-system.de
 .web3.perkinelmer.com
 .web3ads.net
+.web3validationvault.xyz
 .web4023.top
 .web605.cn
 .web8.net
@@ -111269,7 +111251,6 @@
 .x5hnj21.com
 .x6.yakiuchi.com
 .x6z6.com
-.x7fx.win
 .x7r3mk6ldr.com
 .x8.cho-chin.com
 .x800.top
@@ -113529,7 +113510,6 @@
 .ys630.com
 .ys6ot.cn
 .ysaaks.mobiauto.com.br
-.yscfsmxrtcifye.com
 .yscntxil.com
 .ysdhe.com
 .ysemblyjusting.info
@@ -114564,9 +114544,6 @@
 .zjxrg.top
 .zjybqqaleeva.top
 .zjybqqalenve.top
-.zjyeblzkajwba.top
-.zjyeblzkajwjz.top
-.zjzain.aboutyou.bg
 .zk.91post.com
 .zk6.me
 .zkads.cc
@@ -114609,6 +114586,7 @@
 .zlinkm.com
 .zljwhbuagdvl.com
 .zlm2.ecetech.fr
+.zlmapa.nestenn.com
 .zlncvn.xyz
 .zlne800.com
 .zlog.mp3.zing.vn

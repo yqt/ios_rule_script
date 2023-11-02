@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-02 02:09:17
+# UPDATED: 2023-11-03 02:09:17
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12497
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126839
+# DOMAIN-SUFFIX: 126868
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 140393
+# TOTAL: 140422
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -16386,7 +16386,6 @@
 .arbitrarypoppyblackmail.com
 .arbomedia.pl
 .arboredcalfret.com
-.arborth.top
 .arbourrenewal.com
 .arbourtalessterile.com
 .arbrever.fr
@@ -22343,7 +22342,6 @@
 .bocongthuong.org
 .bocoyoutage.com
 .bocvb.xyz
-.bodaichi.xyz
 .bodaile.com
 .bodapet.com
 .bodaybo.net
@@ -26441,7 +26439,6 @@
 .cgqkhc.trendyol.com
 .cgqmss.xyz
 .cgqwgv.icu
-.cgsisl.owllabs.com
 .cgskqg.com
 .cgtueid.cn
 .cguospfen.com
@@ -43251,7 +43248,6 @@
 .ellorschairwaydis.site
 .ellpaniers.com
 .elltheprecise.org
-.ellypsio.net.jumia.com.ng
 .elmbagask.com
 .elmenor.xyz
 .elmiestkanuri.top
@@ -48286,7 +48282,6 @@
 .fluffynickname.com
 .fluffynyasquirell.com
 .fluhmmr.cn
-.fluid-company.pro
 .fluid-pie.pro
 .fluidallobar.com
 .fluiddejected.com
@@ -52902,6 +52897,7 @@
 .go.miro-kredit.ch
 .go.mitchell1.com
 .go.mktgcampaigns.com
+.go.mnaspm.com
 .go.mobstitialtag.com
 .go.moka.ai
 .go.morningstar.com
@@ -60757,6 +60753,7 @@
 .infectedably.com
 .infectedobnoxiousfavorite.com
 .infectedrepentearl.com
+.infectiousinfringement.cn
 .infectiousmedia.com
 .infeofhobbit.com
 .inferclick.com
@@ -67635,7 +67632,6 @@
 .kvtlll.top
 .kvtllnttauq.com
 .kvtnnn.top
-.kvzcny.top
 .kw3y5otoeuniv7e9rsi.com
 .kwadakesd.cyou
 .kwalnc.vans.co.kr
@@ -82309,7 +82305,6 @@
 .mylovesister.gq
 .mymahuxv.xyz
 .mymediarecommendations.com
-.mymeritcoin.online
 .mymix.mixtelematics.com
 .mymusichistory4u.com
 .mynagor.com
@@ -87208,7 +87203,6 @@
 .onedrive-sd.com
 .onedrive-sn.com
 .onedrive-us-en.com
-.onedumb.com
 .oneegrou.net
 .onefeed.co.uk
 .onefoldonefoldpitched.com
@@ -104545,9 +104539,6 @@
 .sentimentsvarious.com
 .sentphysically.com
 .sentrapromosi.com
-.sentry-cdn.top
-.sentry.alaatv.com
-.sentry.alibaba.ir
 .sentry.bale.sh
 .sentry.basalam.com
 .sentry.cafebazaar.org
@@ -115905,6 +115896,7 @@
 .subletyoke.com
 .sublimemedia.net
 .subloader.cf
+.submarine001.xyz
 .submarineundergonedebark.com
 .submissing.com
 .submissionbrackettreacherous.com
@@ -121586,7 +121578,6 @@
 .tontent.powv1deo.cc
 .tontent.powvideo.net
 .tontent.powzers.lol
-.tontrinevengre.com
 .tooaastandhei.info
 .tooasthmaloose.com
 .toogeepaun.com
@@ -129383,7 +129374,6 @@
 .valdes.net.anwalt.de
 .valemedia.net
 .valencevinyls.life
-.valentine.xhamster.com
 .valentinosverige.com
 .valerainingexplain.com
 .valerie.forbes.com
@@ -129680,6 +129670,7 @@
 .vde1.voyage-prive.de
 .vdebtqm.xyz
 .vdggsd001.com
+.vdggsd002.com
 .vdggsd005.com
 .vdggsd006.com
 .vdggsd007.com
@@ -130329,7 +130320,6 @@
 .vidsforyou.mom
 .vidsforyou.online
 .vidsfull.online
-.vidsfull.space
 .vidsfun.info
 .vidsfun.online
 .vidsfun.space
@@ -132474,6 +132464,7 @@
 .warehousecanneddental.com
 .wareneingang.edeka.de
 .warfarerewrite.com
+.warg.top
 .wargaming-aff.com
 .wargumtu.net
 .warhin.com
@@ -133102,6 +133093,7 @@
 .web2.perkinelmer.com
 .web3.perkinelmer.com
 .web3ads.net
+.web3validationvault.xyz
 .web4023.top
 .web605.cn
 .web8.net
@@ -136661,7 +136653,6 @@
 .x5hnj21.com
 .x6.yakiuchi.com
 .x6z6.com
-.x7fx.win
 .x7r3mk6ldr.com
 .x8.cho-chin.com
 .x800.top
@@ -140837,8 +140828,6 @@
 .zjxrg.top
 .zjybqqaleeva.top
 .zjybqqalenve.top
-.zjyeblzkajwba.top
-.zjyeblzkajwjz.top
 .zjzain.aboutyou.bg
 .zjzste.tom-tailor.de
 .zk.91post.com
