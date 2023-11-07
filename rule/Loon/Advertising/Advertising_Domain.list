@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-07 02:08:49
+# UPDATED: 2023-11-08 02:09:19
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 16161
+# DOMAIN: 16163
 # DOMAIN-KEYWORD: 115
 # DOMAIN-SUFFIX: 97065
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 114072
+# TOTAL: 114074
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -458,7 +458,6 @@
 .116bea31bf.com
 .116zhuce.com
 .1170555.com
-.1172011200.rsc.cdn77.org
 .1178.shucong.com
 .1187531871.rsc.cdn77.org
 .1188.com
@@ -692,7 +691,6 @@
 .181m2fscr.de
 .181mob.com
 .1821e9a2d9.com
-.1830447531.rsc.cdn77.org
 .1834979659.rsc.cdn77.org
 .183pu.cn
 .1847ff24f9.com
@@ -735,7 +733,6 @@
 .194b7af8c3.com
 .19515bia.de
 .19528681.com
-.1969082237.rsc.cdn77.org
 .1972163923.rsc.cdn77.org
 .19805d2bcb.com
 .19869.com
@@ -15291,7 +15288,6 @@
 .auctionnudge.com
 .aud.banque-france.fr
 .aud.bild.de
-.audacad.top
 .audaciousdefault.com
 .audacity.de
 .audacity.es
@@ -32712,7 +32708,6 @@
 .duamilsyr.com
 .duanat.com
 .duanepearls.com
-.duanjumao.com.cn
 .duapp.com
 .duapps.com
 .dubggge.com
@@ -34331,7 +34326,6 @@
 .egretswamper.com
 .egroacho.com
 .egrogree.xyz
-.egrousoawhie.com
 .egrvkoqigygqk.com
 .egt091102205euc.click
 .egt091102207euc.click
@@ -38658,7 +38652,6 @@
 .flixtrial.com
 .fljgsht.ru
 .flmfcox.com
-.flndmyiove.net
 .flneurtoyed.tech
 .flnfgdkq.com
 .flnkmj.hometogo.fr
@@ -39149,7 +39142,6 @@
 .formsmir.com
 .formulacountess.com
 .formulawire.com
-.formulir-verifikasi.xyz
 .formumactif.fr
 .formysql.com
 .fornvjvi.com
@@ -41690,7 +41682,6 @@
 .giddycoat.com
 .giddysystemrefers.com
 .giddyuptrk.com
-.gidmikipluoju.com
 .gidoulie.com
 .gif1.gifi.fr
 .gifcode-lienquan.com
@@ -43490,7 +43481,7 @@
 .gronsoad.com
 .grooksom.com
 .groomoub.com
-.groomtoo.com
+.groopsie.net
 .groorsoa.net
 .grooseem.net
 .groosoum.xyz
@@ -44864,7 +44855,6 @@
 .healthy.spartanburgregional.com
 .healthykids-food.com
 .healthynews03.ru
-.healthyrecipes.fit
 .heap.com
 .heap.drop.com
 .heapanalytics.com
@@ -48238,7 +48228,6 @@
 .imageserv.adtech.fr
 .imageserv.adtech.us
 .imageshh.com
-.imagesns.club
 .imageter.com
 .imagiflex.com
 .imaginativebite.com
@@ -48847,7 +48836,6 @@
 .infaustsecond.com
 .infectedably.com
 .infectedrepentearl.com
-.infectiousinfringement.cn
 .infectiousmedia.com
 .infeofhobbit.com
 .inferclick.com
@@ -51865,8 +51853,6 @@
 .jjtnadbcbovqarv.xyz
 .jjvafukltxk.com
 .jjvlawfxpegqtny.com
-.jjvnlfpywgbxgt.com
-.jjvzqjh.xyz
 .jjwmlaynwwbll.top
 .jjwmlaynwwjlw.top
 .jjxgly.com
@@ -54742,6 +54728,8 @@
 .kzsicw.tvtoday.de
 .kzsisc.3.dk
 .kzuxlydg.icu
+.kzwwamf.cn
+.l-err.biz
 .l-histoire.fr
 .l-iw.de
 .l-sspcash.adxcore.com
@@ -54918,7 +54906,6 @@
 .lactell.fr
 .lactonssofut.ru
 .lactotof.ru
-.ladar.online
 .ladbrokesaffiliates.com.au
 .ladepehe.fr
 .ladghy.jcb.co.jp
@@ -55847,7 +55834,6 @@
 .lepoinf.fr
 .leponde.fr
 .leptaasellus.digital
-.leqmellmanmag.online
 .lereforeightc.site
 .lerenzx.cn
 .leroj.elitegol.tv
@@ -57372,7 +57358,6 @@
 .ljfncdojjuorjxu.com
 .ljhbhy.cn
 .ljhhhhrt.top
-.ljhlna.top
 .ljknem.com
 .ljlbzdqznogl.com
 .ljlmzblvzerj.top
@@ -57535,7 +57520,6 @@
 .lmorsb.highstreettv.com
 .lmp3.org
 .lmqowtvu.com
-.lmrauxc.cn
 .lmsreport.systems.vn
 .lmx7.com
 .lmxzlb.xyz
@@ -70021,7 +70005,6 @@
 .ohndsplu.com
 .ohnooo.ru
 .ohnwmjnsvijdrgx.xyz
-.ohopao.xyz
 .ohoyao.com
 .ohoycaline.com
 .ohpgamsojj.com
@@ -70850,7 +70833,6 @@
 .opads.us
 .opai.red
 .opaleyeacarol.com
-.opay-offer.site
 .opbandit.com
 .opbdps.bonprix.fi
 .opcharizardon.com
@@ -77838,7 +77820,6 @@
 .qhjm600.com
 .qhl.bealge.sogou.com
 .qhlegkjlnmg.com
-.qhncru.top
 .qhnwj.com
 .qhskskb.com
 .qhsqrtva.com
@@ -81118,7 +81099,6 @@
 .rnnuw.com
 .rnoddenkn.asia
 .rnotraff.com
-.rnpackege.top
 .rnqjfeuwrvd.com
 .rntdqwc.xyz
 .rnv.life
@@ -93330,7 +93310,6 @@
 .subletyoke.com
 .sublimemedia.net
 .subloader.cf
-.submarine001.xyz
 .submissing.com
 .submissionbrackettreacherous.com
 .submissionspurtgleamed.com
@@ -93876,6 +93855,7 @@
 .svava.eu
 .svbzpenplok.com
 .svc2.sc.com
+.svd-cdn.com
 .svedkan.com
 .sveklon.com
 .svekolasg.pro
@@ -96372,6 +96352,7 @@
 .tftran.shop
 .tfttbd.xyz
 .tfzozf.xyz
+.tg-securitycenter.top
 .tg.52digua.com
 .tg.m.37.com
 .tg.mybb.ru
@@ -101546,7 +101527,6 @@
 .tributesexually.com
 .trick17.it
 .trickerseasan.top
-.trickeyproctor.online
 .tricklesmartdiscourage.com
 .trickycelery.com
 .trickyneotits.com
@@ -107626,7 +107606,6 @@
 .warehousecanneddental.com
 .wareneingang.edeka.de
 .warfarerewrite.com
-.warg.top
 .warhin.com
 .wariestbudgers.com
 .warilyaggregation.com
@@ -108181,7 +108160,6 @@
 .web20-traffic-system.de
 .web3.perkinelmer.com
 .web3ads.net
-.web3validationvault.xyz
 .web4023.top
 .web605.cn
 .web8.net
@@ -112340,7 +112318,6 @@
 .xymhdmqrjxwl.com
 .xymhzq.klingel.de
 .xynkxvrvusoh.com
-.xynthp.top
 .xyqmy.xyz
 .xyqptm.com
 .xyqxr.com
@@ -114848,7 +114825,9 @@
 .zusepe.xyz
 .zutcqppwm.com
 .zutodu.cn
+.zutorcagvmas.com
 .zuugfj.cn
+.zuyapixel.com
 .zuyejecgb.com
 .zuzodoad.com
 .zv.7vid.net
@@ -114959,6 +114938,7 @@
 .zyrwfd.xyz
 .zys13.top
 .zys15.top
+.zys16.top
 .zysheptany.com
 .zytpirwai.net
 .zytwq.net
@@ -115003,7 +114983,6 @@
 .zzsqqx.shopjapan.co.jp
 .zzsssy.com
 .zzsx8.com
-.zzux.com
 .zzwflxs.com
 .zzxedr.xyz
 .zzxjlr.com
@@ -115112,6 +115091,7 @@
 115.28.6.94
 1170.api.swrve.com
 1170.content.swrve.com
+1172011200.rsc.cdn77.org
 118.107.47.88
 118.144.88.21
 118114.cn
@@ -115232,6 +115212,7 @@
 1800freecams.com
 1805629149.rsc.cdn77.org
 183.136.168.78
+1830447531.rsc.cdn77.org
 1866809.securefastserver.com
 188.42.84.110
 188.42.84.137
@@ -115245,6 +115226,7 @@
 18a.m.miaobige.com
 18clicks.com
 194.59.220.161
+1969082237.rsc.cdn77.org
 198.40.52.11
 19b45a16170729.com
 19beda38dc2ce42.com
@@ -121730,7 +121712,6 @@ img-cdn-as.pro
 img-cdn-eu.pro
 img-cdn-us.pro
 img-cdn.clinch.co
-img-s-msn-com.akamaized.net
 img.1whour.com
 img.apnanalytics.com
 img.bluehost.com

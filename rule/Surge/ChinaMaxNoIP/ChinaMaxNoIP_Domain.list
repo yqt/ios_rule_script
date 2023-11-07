@@ -1,13 +1,13 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-07 02:15:21
+# UPDATED: 2023-11-08 02:17:50
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 65930
+# DOMAIN-SUFFIX: 65887
 # PROCESS-NAME: 11
 # USER-AGENT: 65
-# TOTAL: 66186
+# TOTAL: 66143
 .0-6.com
 .00.net
 .000.link
@@ -4410,6 +4410,8 @@
 .556z.com
 .557.net
 .5577.com
+.5580981.cc
+.5581014.cc
 .5588.tv
 .55935.vip
 .5599.com
@@ -32599,6 +32601,7 @@
 .jishux.com
 .jisi17.com
 .jisu-cnd.com
+.jisuacg.com
 .jisuanke.com
 .jisuanqinet.com
 .jisuanzt.com
@@ -38963,6 +38966,7 @@
 .mengxiangeka.com
 .mengxintianxia.com
 .mengyou.org
+.mengyuanshucheng.com
 .mengyuzhe.com
 .mengzhou.com
 .mengzhuangxiu.com
@@ -40147,7 +40151,6 @@
 .mshxw.com
 .msits.com
 .mslzz.com
-.msm.moe
 .msmartlife.com
 .msmbjp.com
 .msocdn.com
@@ -40595,6 +40598,7 @@
 .myriptide.com
 .myroome.com
 .myrunners.com
+.myscore.org
 .mysemlife.com
 .myshow360.net
 .myshow800.com
@@ -46604,7 +46608,6 @@
 .routeryun.com
 .routewize.com
 .routuan.com
-.rovi.live
 .rowcan.com
 .royalpay.com.au
 .royole.com
@@ -48090,6 +48093,7 @@
 .shangtao360.com
 .shangtianhui.com
 .shangtongda.com
+.shangtutuba.com
 .shanguansoft.com
 .shangusec.net
 .shangwb.com
@@ -62069,6 +62073,7 @@
 .yinher.com
 .yinheyuedu.com
 .yinhu.com
+.yinhuadm.cc
 .yini.org
 .yinji.org
 .yinjietd.com
@@ -64093,8 +64098,6 @@
 .za8g1nx4ft.com
 .zabaow.com
 .zabeiy.com
-.zabiuq.com
-.zabiur.com
 .zablog.me
 .zac1993.com
 .zacaog.com

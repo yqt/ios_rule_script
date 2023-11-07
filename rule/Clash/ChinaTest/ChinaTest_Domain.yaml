@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-07 02:13:24
+# UPDATED: 2023-11-08 02:15:15
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64630
+# DOMAIN-SUFFIX: 64579
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64820
+# TOTAL: 64769
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -7870,6 +7870,8 @@ payload:
   - '+.5567.me'
   - '+.556z.com'
   - '+.557.net'
+  - '+.5580981.cc'
+  - '+.5581014.cc'
   - '+.5588.tv'
   - '+.55935.vip'
   - '+.5599.com'
@@ -33483,6 +33485,7 @@ payload:
   - '+.jishux.com'
   - '+.jisi17.com'
   - '+.jisu-cnd.com'
+  - '+.jisuacg.com'
   - '+.jisuanqinet.com'
   - '+.jisuanzt.com'
   - '+.jisuapi.com'
@@ -39366,6 +39369,7 @@ payload:
   - '+.mengxiangeka.com'
   - '+.mengxintianxia.com'
   - '+.mengyou.org'
+  - '+.mengyuanshucheng.com'
   - '+.mengyuzhe.com'
   - '+.mengzhou.com'
   - '+.mengzhuangxiu.com'
@@ -40428,7 +40432,6 @@ payload:
   - '+.msits.com'
   - '+.mskjf.com'
   - '+.mslzz.com'
-  - '+.msm.moe'
   - '+.msmartlife.com'
   - '+.msmbjp.com'
   - '+.mspharm.com'
@@ -40832,6 +40835,7 @@ payload:
   - '+.myroome.com'
   - '+.myrtb.net'
   - '+.myrunners.com'
+  - '+.myscore.org'
   - '+.mysemlife.com'
   - '+.myshow800.com'
   - '+.myshown.com'
@@ -43659,8 +43663,6 @@ payload:
   - '+.pocomagnetic.com'
   - '+.pocosite.com'
   - '+.pocsuite.org'
-  - '+.podcast.xyz'
-  - '+.podfest.tech'
   - '+.podinns.com'
   - '+.podjiasu.org'
   - '+.poem88.com'
@@ -46286,7 +46288,6 @@ payload:
   - '+.routerclub.com'
   - '+.routeryun.com'
   - '+.routuan.com'
-  - '+.rovi.live'
   - '+.rowcan.com'
   - '+.royalpay.com.au'
   - '+.royole.com'
@@ -47572,6 +47573,7 @@ payload:
   - '+.shangtao360.com'
   - '+.shangtianhui.com'
   - '+.shangtongda.com'
+  - '+.shangtutuba.com'
   - '+.shanguansoft.com'
   - '+.shangusec.net'
   - '+.shangwb.com'
@@ -60441,6 +60443,7 @@ payload:
   - '+.yinher.com'
   - '+.yinheyuedu.com'
   - '+.yinhu.com'
+  - '+.yinhuadm.cc'
   - '+.yini.org'
   - '+.yinji.org'
   - '+.yinjietd.com'
@@ -62194,7 +62197,6 @@ payload:
   - '+.yyrec.com'
   - '+.yyrenting.com'
   - '+.yyrtv.com'
-  - '+.yys0.icu'
   - '+.yysweb.com'
   - '+.yytad.com'
   - '+.yytek.com'
@@ -62299,8 +62301,6 @@ payload:
   - '+.za-doctor.com'
   - '+.zabaow.com'
   - '+.zabeiy.com'
-  - '+.zabiuq.com'
-  - '+.zabiur.com'
   - '+.zablog.me'
   - '+.zac1993.com'
   - '+.zacaog.com'

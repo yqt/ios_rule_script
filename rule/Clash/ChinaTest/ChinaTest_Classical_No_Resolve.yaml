@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-07 02:13:24
+# UPDATED: 2023-11-08 02:15:15
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64630
+# DOMAIN-SUFFIX: 64579
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64820
+# TOTAL: 64769
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -7870,6 +7870,8 @@ payload:
   - DOMAIN-SUFFIX,5567.me
   - DOMAIN-SUFFIX,556z.com
   - DOMAIN-SUFFIX,557.net
+  - DOMAIN-SUFFIX,5580981.cc
+  - DOMAIN-SUFFIX,5581014.cc
   - DOMAIN-SUFFIX,5588.tv
   - DOMAIN-SUFFIX,55935.vip
   - DOMAIN-SUFFIX,5599.com
@@ -33483,6 +33485,7 @@ payload:
   - DOMAIN-SUFFIX,jishux.com
   - DOMAIN-SUFFIX,jisi17.com
   - DOMAIN-SUFFIX,jisu-cnd.com
+  - DOMAIN-SUFFIX,jisuacg.com
   - DOMAIN-SUFFIX,jisuanqinet.com
   - DOMAIN-SUFFIX,jisuanzt.com
   - DOMAIN-SUFFIX,jisuapi.com
@@ -39366,6 +39369,7 @@ payload:
   - DOMAIN-SUFFIX,mengxiangeka.com
   - DOMAIN-SUFFIX,mengxintianxia.com
   - DOMAIN-SUFFIX,mengyou.org
+  - DOMAIN-SUFFIX,mengyuanshucheng.com
   - DOMAIN-SUFFIX,mengyuzhe.com
   - DOMAIN-SUFFIX,mengzhou.com
   - DOMAIN-SUFFIX,mengzhuangxiu.com
@@ -40428,7 +40432,6 @@ payload:
   - DOMAIN-SUFFIX,msits.com
   - DOMAIN-SUFFIX,mskjf.com
   - DOMAIN-SUFFIX,mslzz.com
-  - DOMAIN-SUFFIX,msm.moe
   - DOMAIN-SUFFIX,msmartlife.com
   - DOMAIN-SUFFIX,msmbjp.com
   - DOMAIN-SUFFIX,mspharm.com
@@ -40832,6 +40835,7 @@ payload:
   - DOMAIN-SUFFIX,myroome.com
   - DOMAIN-SUFFIX,myrtb.net
   - DOMAIN-SUFFIX,myrunners.com
+  - DOMAIN-SUFFIX,myscore.org
   - DOMAIN-SUFFIX,mysemlife.com
   - DOMAIN-SUFFIX,myshow800.com
   - DOMAIN-SUFFIX,myshown.com
@@ -43659,8 +43663,6 @@ payload:
   - DOMAIN-SUFFIX,pocomagnetic.com
   - DOMAIN-SUFFIX,pocosite.com
   - DOMAIN-SUFFIX,pocsuite.org
-  - DOMAIN-SUFFIX,podcast.xyz
-  - DOMAIN-SUFFIX,podfest.tech
   - DOMAIN-SUFFIX,podinns.com
   - DOMAIN-SUFFIX,podjiasu.org
   - DOMAIN-SUFFIX,poem88.com
@@ -46286,7 +46288,6 @@ payload:
   - DOMAIN-SUFFIX,routerclub.com
   - DOMAIN-SUFFIX,routeryun.com
   - DOMAIN-SUFFIX,routuan.com
-  - DOMAIN-SUFFIX,rovi.live
   - DOMAIN-SUFFIX,rowcan.com
   - DOMAIN-SUFFIX,royalpay.com.au
   - DOMAIN-SUFFIX,royole.com
@@ -47572,6 +47573,7 @@ payload:
   - DOMAIN-SUFFIX,shangtao360.com
   - DOMAIN-SUFFIX,shangtianhui.com
   - DOMAIN-SUFFIX,shangtongda.com
+  - DOMAIN-SUFFIX,shangtutuba.com
   - DOMAIN-SUFFIX,shanguansoft.com
   - DOMAIN-SUFFIX,shangusec.net
   - DOMAIN-SUFFIX,shangwb.com
@@ -60441,6 +60443,7 @@ payload:
   - DOMAIN-SUFFIX,yinher.com
   - DOMAIN-SUFFIX,yinheyuedu.com
   - DOMAIN-SUFFIX,yinhu.com
+  - DOMAIN-SUFFIX,yinhuadm.cc
   - DOMAIN-SUFFIX,yini.org
   - DOMAIN-SUFFIX,yinji.org
   - DOMAIN-SUFFIX,yinjietd.com
@@ -62194,7 +62197,6 @@ payload:
   - DOMAIN-SUFFIX,yyrec.com
   - DOMAIN-SUFFIX,yyrenting.com
   - DOMAIN-SUFFIX,yyrtv.com
-  - DOMAIN-SUFFIX,yys0.icu
   - DOMAIN-SUFFIX,yysweb.com
   - DOMAIN-SUFFIX,yytad.com
   - DOMAIN-SUFFIX,yytek.com
@@ -62299,8 +62301,6 @@ payload:
   - DOMAIN-SUFFIX,za-doctor.com
   - DOMAIN-SUFFIX,zabaow.com
   - DOMAIN-SUFFIX,zabeiy.com
-  - DOMAIN-SUFFIX,zabiuq.com
-  - DOMAIN-SUFFIX,zabiur.com
   - DOMAIN-SUFFIX,zablog.me
   - DOMAIN-SUFFIX,zac1993.com
   - DOMAIN-SUFFIX,zacaog.com
