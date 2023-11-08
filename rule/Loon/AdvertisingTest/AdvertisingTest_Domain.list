@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-08 02:10:44
+# UPDATED: 2023-11-09 02:09:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12499
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127683
+# DOMAIN-SUFFIX: 127718
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 141239
+# TOTAL: 141274
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -3649,9 +3649,6 @@
 .88lajs3.com
 .88lajs4.com
 .88lajs6.com
-.88lm02.com
-.88lm03.com
-.88lotte.com
 .88ng.com
 .88nu.info
 .88p2p.com
@@ -24250,6 +24247,7 @@
 .byzt8.top
 .bz.waveoffcrakes.com
 .bzamusfalofn.com
+.bzbopfh.cn
 .bzcjy.cn
 .bzclk.baidu.com
 .bzcuta.titleboxing.com
@@ -24506,7 +24504,6 @@
 .c16cp358.com
 .c17b4e420d.com
 .c19f2.cn
-.c1d8i3p6.com
 .c1ecda.com
 .c1exchange.com
 .c1hit.zerkalo.io
@@ -43795,7 +43792,6 @@
 .emkt.stefanini.com
 .emkyrzrjnjrmw.top
 .emlifok.info
-.emlink.hermo.my
 .emlsend.com
 .emltrk.com
 .emm.ca.puma.com
@@ -44373,6 +44369,7 @@
 .environmentalchangingnative.com
 .environmentaltallrender.com
 .envkrev.cn
+.envoke.com
 .envyblundercollide.com
 .envybox.io
 .envyindebted.com
@@ -118438,7 +118435,7 @@
 .taptapnetworks.com
 .taptica.com
 .tapulsads.ru
-.tarandunlame.life
+.tapur.trekkww.space
 .tarantula.emotionalbaking.com
 .tarantula.searchbox.tech
 .tarantula.tuxedo.media
@@ -119717,7 +119714,6 @@
 .tfunqc.domonet.jp
 .tfy.sswip.cn
 .tfzozf.xyz
-.tg-securitycenter.top
 .tg.52digua.com
 .tg.bwc178.com
 .tg.m.37.com
@@ -120131,8 +120127,6 @@
 .thewscozier.uno
 .thewulsair.com
 .theyenglory.guru
-.theyt786ku.cfd
-.theythourbonusgain.life
 .theyunm.com
 .thgebtibfyry.com
 .thhesw.tre.it
@@ -125195,7 +125189,6 @@
 .treeoutcry.com
 .treepullmerriment.com
 .trehtnoas.com
-.treitrehagdin.top
 .treitrejewfish.com
 .trek.powtoon.com
 .trekdata.com
@@ -130835,7 +130828,6 @@
 .virashux.net
 .virgin.hasdukmerahputih.com
 .virginiasibyl.com
-.virginityneutralsouls.com
 .virginyoungestrust.com
 .virgma.com
 .virgo8.cn
@@ -135279,7 +135271,6 @@
 .wsnoownme.fun
 .wsnrfb.modlily.com
 .wsod.com
-.wsoqwa9.top
 .wsoue.com
 .wsoxwa.xyz
 .wspeed.qq.com
@@ -136483,6 +136474,7 @@
 .wynocbraul.com
 .wynvalur.com
 .wyoaij.icu
+.wyohm.xyz
 .wyoutube.fr
 .wyoxmklaa.xyz
 .wyplmjufd.live
@@ -140135,7 +140127,6 @@
 .zattdf.xyz
 .zaubanel.com
 .zaucharo.xyz
-.zaudouwa.xyz
 .zauglomo.net
 .zauglust.net
 .zaugroaw.net

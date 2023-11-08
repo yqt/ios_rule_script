@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-08 02:09:22
+# UPDATED: 2023-11-09 02:08:41
 # DOMAIN: 16163
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97065
+# DOMAIN-SUFFIX: 97088
 # IP-CIDR: 428
 # PROCESS-NAME: 5
-# TOTAL: 113776
+# TOTAL: 113799
 payload:
   - '03.lzzncm.com'
   - '04.lzzncm.com'
@@ -18262,9 +18262,6 @@ payload:
   - '+.88lajs3.com'
   - '+.88lajs4.com'
   - '+.88lajs6.com'
-  - '+.88lm02.com'
-  - '+.88lm03.com'
-  - '+.88lotte.com'
   - '+.88ng.com'
   - '+.88nu.info'
   - '+.88p2p.com'
@@ -25927,6 +25924,7 @@ payload:
   - '+.azbaclxror.com'
   - '+.azbns.com'
   - '+.azcentra.app.ur.gcion.com'
+  - '+.azdadf.com'
   - '+.azdiqsb.cn'
   - '+.azdxypf.cn'
   - '+.azelaiclawyer.com'
@@ -31365,6 +31363,7 @@ payload:
   - '+.cjyopjydlwkyu.com'
   - '+.ck-cdn.com'
   - '+.ck.ncclick.co.kr'
+  - '+.ck123.io'
   - '+.ck33.top'
   - '+.ckbynmeskffnn.com'
   - '+.ckcsuk.com'
@@ -40391,7 +40390,6 @@ payload:
   - '+.eyharae.com'
   - '+.eyjouer.com'
   - '+.eyjvq.xyz'
-  - '+.eylepgswsnyyd.com'
   - '+.eymaume.com'
   - '+.eymised.com'
   - '+.eymprvikdld.xyz'
@@ -51982,6 +51980,8 @@ payload:
   - '+.kluauvass.com'
   - '+.klufjdo.com'
   - '+.klwhuci.cn'
+  - '+.klxwe.xyz'
+  - '+.klyhw.xyz'
   - '+.klyunker.ru'
   - '+.km-digibank.com'
   - '+.km-sea.net'
@@ -54410,6 +54410,7 @@ payload:
   - '+.log.cloud.sbs.co.kr'
   - '+.log.collectaction.com'
   - '+.log.daidoanket.vn'
+  - '+.log.dance'
   - '+.log.dantocmiennui.vn'
   - '+.log.data.disney.com'
   - '+.log.dav.edu.vn'
@@ -61688,6 +61689,7 @@ payload:
   - '+.ok-11-cai.cc'
   - '+.ok.4wank.net'
   - '+.ok.5.p2l.info'
+  - '+.ok.faptor.com'
   - '+.ok9ydq.ru'
   - '+.okaks.com'
   - '+.okanjo.com'
@@ -70528,9 +70530,8 @@ payload:
   - '+.rybnmxlatu.com'
   - '+.rybnyati.ru'
   - '+.rybyzi.ru'
-  - '+.rycff.online'
+  - '+.rycuvaphy.com'
   - '+.rydpsqdsaja.com'
-  - '+.rydzfldt.xyz'
   - '+.ryepublisher.com'
   - '+.rygfjv.com'
   - '+.ryios.com'
@@ -77252,7 +77253,6 @@ payload:
   - '+.tftran.shop'
   - '+.tfttbd.xyz'
   - '+.tfzozf.xyz'
-  - '+.tg-securitycenter.top'
   - '+.tg.mybb.ru'
   - '+.tg0qu.top'
   - '+.tg33.cn'
@@ -78574,7 +78574,6 @@ payload:
   - '+.topflownews.com'
   - '+.topforall.com'
   - '+.topfreenewsfeeds.com'
-  - '+.tophanmem.com'
   - '+.tophirek.hu'
   - '+.tophitbit.com'
   - '+.tophits4u.de'
@@ -86100,7 +86099,6 @@ payload:
   - '+.wslqgslkuv.com'
   - '+.wsmobltyhs.com'
   - '+.wsod.com'
-  - '+.wsoqwa9.top'
   - '+.wsoxwa.xyz'
   - '+.wspsbhvnjk.com'
   - '+.wss.haoyundmn.com'
