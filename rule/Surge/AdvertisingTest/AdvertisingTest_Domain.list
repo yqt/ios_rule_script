@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-09 02:09:43
+# UPDATED: 2023-11-10 02:09:45
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 12499
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127718
+# DOMAIN-SUFFIX: 127752
 # IP-CIDR: 452
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 141286
+# TOTAL: 141320
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -834,6 +834,7 @@
 .1834979659.rsc.cdn77.org
 .183pu.cn
 .1847ff24f9.com
+.1848845070.rsc.cdn77.org
 .184c4i95p.de
 .1857964468.rsc.cdn77.org
 .186078.com
@@ -13829,6 +13830,7 @@
 .amazingfunnvideos.com
 .amazinglyprogramswilfrid.com
 .amazingmagics.com
+.amazon-clone-asz.pages.dev
 .amazon-cornerstone.com
 .amazonclix.com
 .amazonlogistics.jp
@@ -17022,7 +17024,6 @@
 .aspignitean.com
 .aspireetopee.com
 .aspirerrehedge.life
-.aspiringapples.com
 .aspiringattempt.com
 .aspservice.jp
 .asqconn.com
@@ -31191,7 +31192,6 @@
 .cpatrk.net
 .cpaway.com
 .cpawe.cyou
-.cpay-payment.site
 .cpayard.com
 .cpays.com
 .cpazilla.ru
@@ -42995,6 +42995,7 @@
 .ehprnuo.cn
 .ehpvvxyp.com
 .ehpxmsqghx.xyz
+.ehqaobjhna.com
 .ehqdzqi.com
 .ehqnheqa.com
 .ehrhrrx.xyz
@@ -53590,6 +53591,7 @@
 .gooods4you.com
 .gooooodle.com
 .goopi.cyou
+.goorm.site
 .goose.accountsjs.com
 .goose.markerchase.com
 .goose.pooltogether.com
@@ -62128,7 +62130,6 @@
 .intely.cn
 .intencysrv.com
 .intendedeasiestlost.com
-.intendedoutput.com
 .intensifier.de
 .intent.cbsi.com
 .intent.cmo.com.au
@@ -66034,7 +66035,6 @@
 .kctag.net
 .kcuzgn.fnac.be
 .kcvc.com.cn
-.kcvdruu.cn
 .kcxmsb.com
 .kcxsyz.com
 .kcycpp.com
@@ -68212,6 +68212,7 @@
 .lanistaads.com
 .lanistaconcepts.com
 .laniusburkei.com
+.lanjutkan-dengan.click
 .lank.ru
 .lanksnail.com
 .lanky-examination.pro
@@ -69895,11 +69896,7 @@
 .link.email.bnext.es
 .link.email.myfitnesspal.com
 .link.email.ninetynine.com
-.link.email.soothe.com
-.link.email.tajawal.com
 .link.email.usmagazine.com
-.link.emblyapp.com
-.link.empleyo.com
 .link.epichomesavings.com
 .link.epmyalptest.com
 .link.eventconnect.io
@@ -79181,6 +79178,7 @@
 .mfhiof.deporvillage.fr
 .mfhlsdd.com
 .mfifsux.xyz
+.mfind.cc
 .mfio.cf
 .mfjiaoyu.cn
 .mfjpwroy.com
@@ -80039,7 +80037,6 @@
 .mlt01.com
 .mltmjevd.xyz
 .mltrk.io
-.mltunxdmrv.com
 .mlumlio.cn
 .mluptwapaj.com
 .mlvgxzenoiz.com
@@ -81189,7 +81186,6 @@
 .mp3vizor.com
 .mp83fkx.cn
 .mpa4xbbs6m73.de
-.mpaa.top
 .mpabqjdlyfec.xyz
 .mpafnyfiexpe.net
 .mpanythathav.info
@@ -81918,6 +81914,7 @@
 .mwa.meanwellaustralia.com.au
 .mwa.xingyimin.com
 .mwandlx.top
+.mwazhey.com
 .mwbrnpmixxtu.com
 .mwbxpccx.com
 .mwcvu.com
@@ -84570,7 +84567,6 @@
 .nmybyxnjscf.com
 .nnavigation.info
 .nnavigo.fr
-.nncvwymtn.com
 .nndytv.xyz
 .nndzsw.com
 .nndzsw1.com
@@ -104557,7 +104553,6 @@
 .sentry.basalam.com
 .sentry.cafebazaar.org
 .sentry.divar.cloud
-.sentry.eks.hoyoverse.com
 .sentry.fidibo.net
 .sentry.footballiapp.com
 .sentry.hamravesh.com
@@ -105029,6 +105024,7 @@
 .sghehllds.com
 .sghmho.com
 .sghmvum.cn
+.sglahyea.xyz
 .sgmnt.ticketswap.com
 .sgms.greatschools.org
 .sgnetwork.co
@@ -121962,7 +121958,6 @@
 .toxicrookie.com
 .toy9090.com
 .toyhyhv.icu
-.toyjofkkcdyr.com
 .toykifojsyufdba.xyz
 .toykiykmjbr.xyz
 .toymenbenes.uno
@@ -137310,6 +137305,7 @@
 .xl.demosbattik.com
 .xl2d.top
 .xladapi.izuiyou.com
+.xlam.cn
 .xlardaxq.com
 .xlarixmmdvr.xyz
 .xlbvvo.luisaviaroma.com
@@ -138144,7 +138140,6 @@
 .xxlefq.linternaute.com
 .xxlefq.linternaute.fr
 .xxlfteg.xyz
-.xxlihf.xyz
 .xxlmxsh.com
 .xxltr.com
 .xxlywl.cn
@@ -138785,7 +138780,6 @@
 .yhjccj.cn
 .yhjgjk.wemakeup.it
 .yhjh04.com
-.yhkeqboz.com
 .yhlvgpqsr.com
 .yhlzadr.xyz
 .yhnvgdkw.xyz
