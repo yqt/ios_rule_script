@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-10 02:09:45
+# UPDATED: 2023-11-11 02:10:29
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 12499
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127752
+# DOMAIN-SUFFIX: 127783
 # IP-CIDR: 452
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 141320
+# TOTAL: 141351
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -13830,8 +13830,8 @@
 .amazingfunnvideos.com
 .amazinglyprogramswilfrid.com
 .amazingmagics.com
-.amazon-clone-asz.pages.dev
 .amazon-cornerstone.com
+.amazon-es.net
 .amazonclix.com
 .amazonlogistics.jp
 .amazonsg.shop
@@ -19703,7 +19703,6 @@
 .bauchleredries.com
 .bauernative.com
 .baunaurou.com
-.bauptone.com
 .bauptost.net
 .baustraightu.com
 .bauthair.net
@@ -37322,6 +37321,7 @@
 .ddvbjehruuj5y.cloudfront.net
 .ddvfoj5yrl2oi.cloudfront.net
 .ddvoht.xyz
+.ddweb0.cloud
 .ddwt.am
 .ddxfhpuhfroier.com
 .ddxmgy.com
@@ -58254,7 +58254,6 @@
 .hxgrdgrgjktw.xyz
 .hxhohd.xyz
 .hxhx9.cn
-.hxiabp.colins.com.tr
 .hxiak.com
 .hxinitv.icu
 .hxitiioub.com
@@ -63509,7 +63508,6 @@
 .janute.com
 .janwzsqi.icu
 .janzmuarcst.com
-.janzoz.1001pneus.fr
 .jaomlf.giftmall.co.jp
 .jaowd.xyz
 .japact.com
@@ -64848,7 +64846,6 @@
 .jponmlkj.carte-gr.total.fr
 .jpovulldaghw.com
 .jppolid-track.trackprod.integration.jppol.dk
-.jppvgnbib.com
 .jppxnhe.xyz
 .jpqed.xyz
 .jpqgxy.com
@@ -68212,7 +68209,6 @@
 .lanistaads.com
 .lanistaconcepts.com
 .laniusburkei.com
-.lanjutkan-dengan.click
 .lank.ru
 .lanksnail.com
 .lanky-examination.pro
@@ -79178,7 +79174,6 @@
 .mfhiof.deporvillage.fr
 .mfhlsdd.com
 .mfifsux.xyz
-.mfind.cc
 .mfio.cf
 .mfjiaoyu.cn
 .mfjpwroy.com
@@ -96769,8 +96764,6 @@
 .qqshow2-item.qq.com
 .qqtx.me
 .qquubyoknj.com
-.qqvlbzlbqenbk.top
-.qqvlsr.icu
 .qqvthrkrseoog.com
 .qqvvkebebnbb.top
 .qqvvkebebnlq.top
@@ -101424,7 +101417,6 @@
 .ruperparverew.xyz
 .ruptionverst.space
 .rural-patience.com
-.rural-report.pro
 .ruralrobin.com
 .rurate.com
 .rurber.com
@@ -104549,6 +104541,7 @@
 .sentphysically.com
 .sentrapromosi.com
 .sentry.alaatv.com
+.sentry.alibaba.ir
 .sentry.bale.sh
 .sentry.basalam.com
 .sentry.cafebazaar.org
@@ -104958,6 +104951,7 @@
 .sfbpok.theluxurycloset.com
 .sfcbsh.mmlafleur.com
 .sfcfssgbrhnsb.com
+.sfcrmproducts.cn
 .sffsdvc.com
 .sffsgi.miele.com.tr
 .sffyrc.ruparupa.com
