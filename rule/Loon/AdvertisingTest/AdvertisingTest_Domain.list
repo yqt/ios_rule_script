@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-11 02:10:32
+# UPDATED: 2023-11-12 02:09:56
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12499
+# DOMAIN: 12500
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127783
+# DOMAIN-SUFFIX: 127814
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 141339
+# TOTAL: 141371
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -13829,7 +13829,6 @@
 .amazinglyprogramswilfrid.com
 .amazingmagics.com
 .amazon-cornerstone.com
-.amazon-es.net
 .amazonclix.com
 .amazonlogistics.jp
 .amazonsg.shop
@@ -16924,9 +16923,7 @@
 .asiangfsex.com
 .asianread.com
 .asiapushstan17.click
-.asiashop666.com
-.asiashop888.com
-.asiashop999.com
+.asicsisverige.com
 .asidefeetsergeant.com
 .asidegoswillingness.com
 .asiepuqvs.com
@@ -22103,7 +22100,6 @@
 .bmatgg18.xyz
 .bmbmwiadmvx.com
 .bmbnzvl.cn
-.bmbstatic.blob.core.windows.net
 .bmbvrjylevrba.top
 .bmcdn1.com
 .bmcdn2.com
@@ -23159,7 +23155,6 @@
 .brevnet.eccocar.com
 .brewailmentsubstance.com
 .brewedprovost.digital
-.brewingjoie.com
 .brewseryngo.com
 .breynvqbjrww.top
 .breynvqbjwaz.top
@@ -37319,7 +37314,6 @@
 .ddvbjehruuj5y.cloudfront.net
 .ddvfoj5yrl2oi.cloudfront.net
 .ddvoht.xyz
-.ddweb0.cloud
 .ddwt.am
 .ddxfhpuhfroier.com
 .ddxmgy.com
@@ -53589,7 +53583,6 @@
 .gooods4you.com
 .gooooodle.com
 .goopi.cyou
-.goorm.site
 .goose.accountsjs.com
 .goose.markerchase.com
 .goose.pooltogether.com
@@ -54328,9 +54321,6 @@
 .gscounters.gigya.com
 .gscounters.us1.gigya.com
 .gscsahv011.com
-.gscsahv012.com
-.gscsahv013.com
-.gscsahv014.com
 .gscxs.cn
 .gsdk.proximabeta.com
 .gsecondscreen.com
@@ -59256,7 +59246,6 @@
 .ihualun.com
 .ihuanmei.com
 .ihub.dpworlduae.com
-.ihuzmn.top
 .ihvwak.cn
 .ihwdun.xyz
 .ihwwssyperloof.com
@@ -74063,7 +74052,6 @@
 .maiglair.net
 .maihaimo.com
 .maihehd.com
-.maihigre.net
 .maihikuh.com
 .maijauta.xyz
 .maikashu.net
@@ -81060,7 +81048,6 @@
 .mountain.zhidao.baidu.com
 .mountainbender.xyz
 .mountaincaller.top
-.mountaingaiety.com
 .mountainous-substance.com
 .mountainouspear.com
 .mountedgrasshomesick.com
@@ -81082,7 +81069,6 @@
 .mousestats.com
 .mousetrace.com
 .mousheen.net
-.mousmeetrike.com
 .moustite.com
 .moutaihotel.cn
 .mouthinvincibleexpecting.com
@@ -87048,7 +87034,6 @@
 .ompx.shopbop.com
 .ompxs.shopbop.com
 .omruihaeaf.com
-.oms.1067rock.ca
 .oms.680news.com
 .oms.barrons.com
 .oms.breakfasttelevision.ca
@@ -98631,7 +98616,6 @@
 .redwingmagazine.com
 .redyzlmc.xyz
 .reebbwi.cyou
-.reechegraih.com
 .reedbritingsynt.info
 .reedbusiness.net
 .reedge.com
@@ -104949,7 +104933,6 @@
 .sfbpok.theluxurycloset.com
 .sfcbsh.mmlafleur.com
 .sfcfssgbrhnsb.com
-.sfcrmproducts.cn
 .sffsdvc.com
 .sffsgi.miele.com.tr
 .sffyrc.ruparupa.com
@@ -127417,8 +127400,6 @@
 .ugkray.theloom.in
 .uglieraccoll.com
 .uglimontana.digital
-.ugloopie.com
-.ugloozie.xyz
 .uglwov.logic-immo.com
 .ugly-charity.pro
 .ugly-dance.pro
@@ -128634,8 +128615,6 @@
 .uroqgj.wind.it
 .urotoxykerch.com
 .uroztdorg.com
-.urpctsrjilp.com
-.urquqtbswaqta.com
 .urqxesau.com
 .urr.kumamoto-food.com
 .urryjgwqjo.com
@@ -129327,7 +129306,6 @@
 .vaemfecqllefj.xyz
 .vaflgo.emagister.com
 .vafysu.ecco-verde.ch
-.vagabondskorrea.com.se
 .vagromdecane.website
 .vagueleader.pro
 .vaguelybarelyrecycle.com
@@ -134686,7 +134664,6 @@
 .wnthglylkflcc.com
 .wnulffwyetlek.com
 .wnvdgegsjoqoe.xyz
-.wnwkzzzheca.com
 .wnys1.com
 .wnyuehqewfisvby.com
 .wnyywf.frankonia.de
@@ -151261,6 +151238,7 @@ tvggnruvmiv.com
 tvjkilgfanpt.com
 tvkgdonh.com
 tvmzvqoudtj.com
+tvnotice.kg.garena.vn
 tvnqeshbs.com
 tvopcxtf.com
 tvriqjez.com

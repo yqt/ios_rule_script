@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-09 02:12:48
+# UPDATED: 2023-11-12 02:13:20
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64580
+# DOMAIN-SUFFIX: 64572
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64770
+# TOTAL: 64762
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -11405,8 +11405,6 @@ payload:
   - '+.amdotibet.com'
   - '+.amec-inc.com'
   - '+.amegroups.org'
-  - '+.amemv.net'
-  - '+.ameow.xyz'
   - '+.americachineselife.com'
   - '+.amethystum.com'
   - '+.amexpressnetwork.com'
@@ -12121,7 +12119,6 @@ payload:
   - '+.aspsky.net'
   - '+.aspx.cc'
   - '+.aspxhome.com'
-  - '+.asqql.com'
   - '+.asrmicro.com'
   - '+.ass-casa.com'
   - '+.assassinscreedcodenamejade.com'
@@ -22977,7 +22974,6 @@ payload:
   - '+.erpang.cc'
   - '+.erpcoo.com'
   - '+.erro.life'
-  - '+.ersantian.com'
   - '+.ershenghuo.net'
   - '+.ershicimi.com'
   - '+.ershouhui.com'
@@ -23500,6 +23496,8 @@ payload:
   - '+.fangchanhz.com'
   - '+.fangchip.com'
   - '+.fangcloud.com'
+  - '+.fangdaijisuanqi.com'
+  - '+.fangdaijisuanqi.net'
   - '+.fangdd.com'
   - '+.fangdichanceo.com'
   - '+.fangdr.com'
@@ -25231,6 +25229,7 @@ payload:
   - '+.gather-dns.com'
   - '+.gathernames.com'
   - '+.gavindesign.com'
+  - '+.gawin.info'
   - '+.gaxgame.com'
   - '+.gaxrmyy.com'
   - '+.gbase8a.com'
@@ -27943,7 +27942,6 @@ payload:
   - '+.hcmiraefund.com'
   - '+.hcnamecdn.com'
   - '+.hcnamecdns.com'
-  - '+.hcnamedns.com'
   - '+.hcqixinhb.com'
   - '+.hcrlm.com'
   - '+.hcshebao.com'
@@ -35354,6 +35352,7 @@ payload:
   - '+.kjks.net'
   - '+.kjkxun.com'
   - '+.kjmte.com'
+  - '+.kjnkj.club'
   - '+.kjr365.com'
   - '+.kjsng.com'
   - '+.kjson.com'
@@ -37164,7 +37163,6 @@ payload:
   - '+.linakesi.com'
   - '+.linban.com'
   - '+.linbaoshuwu.com'
-  - '+.linchangyu.com'
   - '+.lincoc.com'
   - '+.lindapatent.com'
   - '+.lindiankanshu.com'
@@ -41441,6 +41439,7 @@ payload:
   - '+.ni8.com'
   - '+.ni93.com'
   - '+.nianbin.com'
+  - '+.niandai.org'
   - '+.nianhua.plus'
   - '+.niankawang.com'
   - '+.nianzhi.cc'
@@ -47939,6 +47938,7 @@ payload:
   - '+.shiciyun.com'
   - '+.shida66.com'
   - '+.shidaedu.vip'
+  - '+.shidai.tv'
   - '+.shidapx.com'
   - '+.shidastudy.com'
   - '+.shidi.org'
@@ -51501,7 +51501,6 @@ payload:
   - '+.thefastimg.com'
   - '+.thefatherofsalmon.com'
   - '+.thefrodo.com'
-  - '+.thegallahotel.com'
   - '+.thegiac.com'
   - '+.thegraduation.store'
   - '+.thehanshow.com'
@@ -63758,8 +63757,6 @@ payload:
   - '+.zikui-design.com'
   - '+.zilanwl.com'
   - '+.zilhua.com'
-  - '+.ziliao8.cc'
-  - '+.ziliao8.com'
   - '+.ziliaoge.com'
   - '+.ziliaoh.com'
   - '+.zilongame.com'

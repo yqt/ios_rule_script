@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-09 02:12:48
+# UPDATED: 2023-11-12 02:13:20
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64580
+# DOMAIN-SUFFIX: 64572
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64770
+# TOTAL: 64762
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -11405,8 +11405,6 @@ payload:
   - DOMAIN-SUFFIX,amdotibet.com
   - DOMAIN-SUFFIX,amec-inc.com
   - DOMAIN-SUFFIX,amegroups.org
-  - DOMAIN-SUFFIX,amemv.net
-  - DOMAIN-SUFFIX,ameow.xyz
   - DOMAIN-SUFFIX,americachineselife.com
   - DOMAIN-SUFFIX,amethystum.com
   - DOMAIN-SUFFIX,amexpressnetwork.com
@@ -12121,7 +12119,6 @@ payload:
   - DOMAIN-SUFFIX,aspsky.net
   - DOMAIN-SUFFIX,aspx.cc
   - DOMAIN-SUFFIX,aspxhome.com
-  - DOMAIN-SUFFIX,asqql.com
   - DOMAIN-SUFFIX,asrmicro.com
   - DOMAIN-SUFFIX,ass-casa.com
   - DOMAIN-SUFFIX,assassinscreedcodenamejade.com
@@ -22977,7 +22974,6 @@ payload:
   - DOMAIN-SUFFIX,erpang.cc
   - DOMAIN-SUFFIX,erpcoo.com
   - DOMAIN-SUFFIX,erro.life
-  - DOMAIN-SUFFIX,ersantian.com
   - DOMAIN-SUFFIX,ershenghuo.net
   - DOMAIN-SUFFIX,ershicimi.com
   - DOMAIN-SUFFIX,ershouhui.com
@@ -23500,6 +23496,8 @@ payload:
   - DOMAIN-SUFFIX,fangchanhz.com
   - DOMAIN-SUFFIX,fangchip.com
   - DOMAIN-SUFFIX,fangcloud.com
+  - DOMAIN-SUFFIX,fangdaijisuanqi.com
+  - DOMAIN-SUFFIX,fangdaijisuanqi.net
   - DOMAIN-SUFFIX,fangdd.com
   - DOMAIN-SUFFIX,fangdichanceo.com
   - DOMAIN-SUFFIX,fangdr.com
@@ -25231,6 +25229,7 @@ payload:
   - DOMAIN-SUFFIX,gather-dns.com
   - DOMAIN-SUFFIX,gathernames.com
   - DOMAIN-SUFFIX,gavindesign.com
+  - DOMAIN-SUFFIX,gawin.info
   - DOMAIN-SUFFIX,gaxgame.com
   - DOMAIN-SUFFIX,gaxrmyy.com
   - DOMAIN-SUFFIX,gbase8a.com
@@ -27943,7 +27942,6 @@ payload:
   - DOMAIN-SUFFIX,hcmiraefund.com
   - DOMAIN-SUFFIX,hcnamecdn.com
   - DOMAIN-SUFFIX,hcnamecdns.com
-  - DOMAIN-SUFFIX,hcnamedns.com
   - DOMAIN-SUFFIX,hcqixinhb.com
   - DOMAIN-SUFFIX,hcrlm.com
   - DOMAIN-SUFFIX,hcshebao.com
@@ -35354,6 +35352,7 @@ payload:
   - DOMAIN-SUFFIX,kjks.net
   - DOMAIN-SUFFIX,kjkxun.com
   - DOMAIN-SUFFIX,kjmte.com
+  - DOMAIN-SUFFIX,kjnkj.club
   - DOMAIN-SUFFIX,kjr365.com
   - DOMAIN-SUFFIX,kjsng.com
   - DOMAIN-SUFFIX,kjson.com
@@ -37164,7 +37163,6 @@ payload:
   - DOMAIN-SUFFIX,linakesi.com
   - DOMAIN-SUFFIX,linban.com
   - DOMAIN-SUFFIX,linbaoshuwu.com
-  - DOMAIN-SUFFIX,linchangyu.com
   - DOMAIN-SUFFIX,lincoc.com
   - DOMAIN-SUFFIX,lindapatent.com
   - DOMAIN-SUFFIX,lindiankanshu.com
@@ -41441,6 +41439,7 @@ payload:
   - DOMAIN-SUFFIX,ni8.com
   - DOMAIN-SUFFIX,ni93.com
   - DOMAIN-SUFFIX,nianbin.com
+  - DOMAIN-SUFFIX,niandai.org
   - DOMAIN-SUFFIX,nianhua.plus
   - DOMAIN-SUFFIX,niankawang.com
   - DOMAIN-SUFFIX,nianzhi.cc
@@ -47939,6 +47938,7 @@ payload:
   - DOMAIN-SUFFIX,shiciyun.com
   - DOMAIN-SUFFIX,shida66.com
   - DOMAIN-SUFFIX,shidaedu.vip
+  - DOMAIN-SUFFIX,shidai.tv
   - DOMAIN-SUFFIX,shidapx.com
   - DOMAIN-SUFFIX,shidastudy.com
   - DOMAIN-SUFFIX,shidi.org
@@ -51501,7 +51501,6 @@ payload:
   - DOMAIN-SUFFIX,thefastimg.com
   - DOMAIN-SUFFIX,thefatherofsalmon.com
   - DOMAIN-SUFFIX,thefrodo.com
-  - DOMAIN-SUFFIX,thegallahotel.com
   - DOMAIN-SUFFIX,thegiac.com
   - DOMAIN-SUFFIX,thegraduation.store
   - DOMAIN-SUFFIX,thehanshow.com
@@ -63758,8 +63757,6 @@ payload:
   - DOMAIN-SUFFIX,zikui-design.com
   - DOMAIN-SUFFIX,zilanwl.com
   - DOMAIN-SUFFIX,zilhua.com
-  - DOMAIN-SUFFIX,ziliao8.cc
-  - DOMAIN-SUFFIX,ziliao8.com
   - DOMAIN-SUFFIX,ziliaoge.com
   - DOMAIN-SUFFIX,ziliaoh.com
   - DOMAIN-SUFFIX,zilongame.com

@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-11 02:09:03
+# UPDATED: 2023-11-12 02:08:42
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
-# DOMAIN: 16163
+# DOMAIN: 16164
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97165
+# DOMAIN-SUFFIX: 97179
 # IP-CIDR: 428
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 114186
+# TOTAL: 114201
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -11626,7 +11626,6 @@
 .amazinglyprogramswilfrid.com
 .amazingmagics.com
 .amazon-cornerstone.com
-.amazon-es.net
 .amazonclix.com
 .amazonlogistics.jp
 .amazonsg.shop
@@ -14769,9 +14768,7 @@
 .asianread.com
 .asiantraffic.net
 .asiapushstan17.click
-.asiashop666.com
-.asiashop888.com
-.asiashop999.com
+.asicsisverige.com
 .asidefeetsergeant.com
 .asifgsyky.com
 .asifiwoeryesterda.xyz
@@ -17020,7 +17017,6 @@
 .bauchleredries.com
 .bauernative.com
 .baunaurou.com
-.bauptone.com
 .bauptost.net
 .baustraightu.com
 .bauthair.net
@@ -18136,6 +18132,7 @@
 .bgcoll.com
 .bgcse.cn
 .bgdgpbpm.xyz
+.bgdieyiho.xyz
 .bgdizsay.icu
 .bgeclklgpnk.xyz
 .bgeg1.fun
@@ -19031,7 +19028,6 @@
 .bmatgg18.xyz
 .bmbmwiadmvx.com
 .bmbnzvl.cn
-.bmbstatic.blob.core.windows.net
 .bmbvrjylevrba.top
 .bmcdn1.com
 .bmcdn2.com
@@ -19951,7 +19947,6 @@
 .brevnet.eccocar.com
 .brewailmentsubstance.com
 .brewedprovost.digital
-.brewingjoie.com
 .brewseryngo.com
 .breynvqbjrww.top
 .breynvqbjwaz.top
@@ -20774,7 +20769,7 @@
 .bxacmsvmxb.com
 .bxbuvv.zeelool.com
 .bxbyll.xyz
-.bxevkphcx.com
+.bxebatih.xyz
 .bxg68.com
 .bxgmb.com
 .bxgz.cc
@@ -29733,7 +29728,6 @@
 .ddvbjehruuj5y.cloudfront.net
 .ddvfoj5yrl2oi.cloudfront.net
 .ddvoht.xyz
-.ddweb0.cloud
 .ddwt.am
 .ddxfhpuhfroier.com
 .ddxmgy.com
@@ -33823,7 +33817,7 @@
 .ecaursedeegh.com
 .ecav5.com
 .ecchhelios.top
-.ecdoib.26p.jp
+.ecctjf.leroymerlin.com.br
 .ece8c2alhz.ru
 .ecefyu.geox.com
 .ecestats.theglobeandmail.com
@@ -42970,7 +42964,6 @@
 .gooods4you.com
 .gooooodle.com
 .goopi.cyou
-.goorm.site
 .goosebomb.com
 .goosetension.com
 .goosimes.com
@@ -46850,7 +46843,6 @@
 .hxgrdgrgjktw.xyz
 .hxhohd.xyz
 .hxhx9.cn
-.hxiabp.colins.com.tr
 .hxiak.com
 .hxinitv.icu
 .hxitiioub.com
@@ -47345,6 +47337,7 @@
 .icu.getstorybox.com
 .icvehoixyqudejo.xyz
 .icvsleec.xyz
+.icwnix.icu
 .icxcrnciutiltaf.com
 .icyrd.com
 .icyrwy.xyz
@@ -47647,7 +47640,6 @@
 .ihualun.com
 .ihuanmei.com
 .ihub.dpworlduae.com
-.ihuzmn.top
 .ihwdun.xyz
 .ihwwssyperloof.com
 .ihzuephjxb.com
@@ -52252,7 +52244,6 @@
 .jponmlkj.carte-gr.total.fr
 .jpovulldaghw.com
 .jppolid-track.trackprod.integration.jppol.dk
-.jppvgnbib.com
 .jppxnhe.xyz
 .jpqed.xyz
 .jprbql.jdsports.fr
@@ -53070,7 +53061,6 @@
 .kaixinjiehun.com
 .kaiyiluye.com
 .kaizenplatform.net
-.kaizentraffic.com
 .kaizzz.xyz
 .kak-bit-new.ru
 .kakam.info
@@ -58753,7 +58743,6 @@
 .lulgpmdmbtedzl.com
 .lullxkwwu.com
 .lulpolopolo.com
-.lululemonstockholm.com.se
 .lum-cn.io
 .lum-sdk.io
 .lumaktoys.com
@@ -65437,7 +65426,6 @@
 .mousestats.com
 .mousetrace.com
 .mousheen.net
-.mousmeetrike.com
 .moustite.com
 .moutaihotel.cn
 .mouthinvincibleexpecting.com
@@ -69707,7 +69695,8 @@
 .ocuuqdqupbpvp.com
 .ocuwyfarlvbq.com
 .ocwdkp.icu
-.ocwlhv.ecid.com.br
+.ocxve.xyz
+.ocyakni.cn
 .ocygacror.com
 .oczkgx.com
 .od0gddq27wkk.com
@@ -77618,6 +77607,7 @@
 .qasrae.com
 .qat7i.top
 .qatsbesagne.com
+.qatsisanhwry.com
 .qatttuluhog.com
 .qauksl.icu
 .qawiman.com
@@ -79620,8 +79610,7 @@
 .redventures.io
 .redwingforbusiness.redwingsafety.com
 .redwingmagazine.com
-.redyzlmc.xyz
-.reechegraih.com
+.reebbwi.cyou
 .reedbritingsynt.info
 .reedbusiness.net
 .reedge.com
@@ -84404,6 +84393,7 @@
 .sentimentsvarious.com
 .sentrapromosi.com
 .sentry.alaatv.com
+.sentry.alibaba.ir
 .sentry.bale.sh
 .sentry.basalam.com
 .sentry.cafebazaar.org
@@ -84759,7 +84749,6 @@
 .sfbpok.theluxurycloset.com
 .sfcbsh.mmlafleur.com
 .sfcfssgbrhnsb.com
-.sfcrmproducts.cn
 .sffsdvc.com
 .sffyrc.ruparupa.com
 .sfg11rr.com
@@ -92550,7 +92539,6 @@
 .stats.tnc.sc
 .stats.tnt.com
 .stats.toiletmap.org.uk
-.stats.tork.fr
 .stats.totalav.com
 .stats.tou.tv
 .stats.townnews.com
@@ -104726,8 +104714,6 @@
 .vaedan.top
 .vaehxkhbhguaq.xyz
 .vaemfecqllefj.xyz
-.vagilunger.com
-.vagkcwvqpty.com
 .vagromdecane.website
 .vagueleader.pro
 .vaguelybarelyrecycle.com
@@ -109002,8 +108988,8 @@
 .whpqvmaxr.xyz
 .whpxy.com
 .whqgyo.xyz
-.whqkyq.leasingmarkt.de
-.whranc.cn
+.whqxj.xyz
+.whrc.xyz
 .whreqyvajeer.com
 .whrles.com
 .whshangsha.com
@@ -112306,7 +112292,7 @@
 .xyssp.com
 .xytom.com
 .xyvjkdec.com
-.xyxgbs.lezhin.com
+.xywy.name
 .xyxy01.com
 .xyz0k4gfs.xyz
 .xyztanitim.com
@@ -114424,7 +114410,7 @@
 .zk.91post.com
 .zk6.me
 .zkads.cc
-.zkahobbcfkyz.com
+.zkapibwampca.com
 .zkawzmlvqjejy.top
 .zkba9.cn
 .zkbkat.com
@@ -128175,6 +128161,7 @@ tvggnruvmiv.com
 tvjkilgfanpt.com
 tvkgdonh.com
 tvmzvqoudtj.com
+tvnotice.kg.garena.vn
 tvnqeshbs.com
 tvopcxtf.com
 tvriqjez.com
