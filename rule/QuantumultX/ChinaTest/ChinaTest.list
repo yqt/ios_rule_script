@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-12 02:13:18
+# UPDATED: 2023-11-13 02:12:30
 # HOST: 166
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64572
+# HOST-SUFFIX: 64537
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64794
+# TOTAL: 64759
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -10587,6 +10587,7 @@ HOST-SUFFIX,adxpand.com,ChinaTest
 HOST-SUFFIX,adxqd.com,ChinaTest
 HOST-SUFFIX,adxwork.com,ChinaTest
 HOST-SUFFIX,adyounger.com,ChinaTest
+HOST-SUFFIX,adys.vip,ChinaTest
 HOST-SUFFIX,adysimg.com,ChinaTest
 HOST-SUFFIX,adyun.com,ChinaTest
 HOST-SUFFIX,adzar-energy.com,ChinaTest
@@ -23506,6 +23507,7 @@ HOST-SUFFIX,fangfa.net,ChinaTest
 HOST-SUFFIX,fangguanjg.com,ChinaTest
 HOST-SUFFIX,fanghuafu.com,ChinaTest
 HOST-SUFFIX,fanghuihui.com,ChinaTest
+HOST-SUFFIX,fanging.com,ChinaTest
 HOST-SUFFIX,fangjia.com,ChinaTest
 HOST-SUFFIX,fangjiadp.com,ChinaTest
 HOST-SUFFIX,fangkeduo.net,ChinaTest
@@ -29009,7 +29011,6 @@ HOST-SUFFIX,hongbeibang.com,ChinaTest
 HOST-SUFFIX,hongbeicn.com,ChinaTest
 HOST-SUFFIX,hongbizi.org,ChinaTest
 HOST-SUFFIX,hongbowang.net,ChinaTest
-HOST-SUFFIX,hongcesys.com,ChinaTest
 HOST-SUFFIX,hongdaym.com,ChinaTest
 HOST-SUFFIX,hongdezk.com,ChinaTest
 HOST-SUFFIX,hongdi.icu,ChinaTest
@@ -31455,6 +31456,7 @@ HOST-SUFFIX,imgkr.com,ChinaTest
 HOST-SUFFIX,imglefeng.com,ChinaTest
 HOST-SUFFIX,imglink.win,ChinaTest
 HOST-SUFFIX,imgloc.com,ChinaTest
+HOST-SUFFIX,imgs.ovh,ChinaTest
 HOST-SUFFIX,imgscdn.com,ChinaTest
 HOST-SUFFIX,imgse.com,ChinaTest
 HOST-SUFFIX,imgsha.com,ChinaTest
@@ -42571,7 +42573,6 @@ HOST-SUFFIX,osredm.com,ChinaTest
 HOST-SUFFIX,oss-cn-beijing-aliyuncs.com,ChinaTest
 HOST-SUFFIX,oss.link,ChinaTest
 HOST-SUFFIX,oss.so,ChinaTest
-HOST-SUFFIX,ossdshxh.com,ChinaTest
 HOST-SUFFIX,osvlabs.com,ChinaTest
 HOST-SUFFIX,oswdj.com,ChinaTest
 HOST-SUFFIX,oswhy.com,ChinaTest
@@ -46738,7 +46739,6 @@ HOST-SUFFIX,santiwang.com,ChinaTest
 HOST-SUFFIX,santiyun.com,ChinaTest
 HOST-SUFFIX,santongit.com,ChinaTest
 HOST-SUFFIX,santostang.com,ChinaTest
-HOST-SUFFIX,sanweihou.com,ChinaTest
 HOST-SUFFIX,sanweimoxing.com,ChinaTest
 HOST-SUFFIX,sanweiyiti.org,ChinaTest
 HOST-SUFFIX,sanwen.com,ChinaTest
@@ -62248,7 +62248,6 @@ HOST-SUFFIX,yzhbw.net,ChinaTest
 HOST-SUFFIX,yzhejin.com,ChinaTest
 HOST-SUFFIX,yzhsk.com,ChinaTest
 HOST-SUFFIX,yzinter.com,ChinaTest
-HOST-SUFFIX,yzitc.com,ChinaTest
 HOST-SUFFIX,yzja.com,ChinaTest
 HOST-SUFFIX,yzjjw.net,ChinaTest
 HOST-SUFFIX,yzjsxy.com,ChinaTest

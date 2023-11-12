@@ -1,15 +1,15 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-12 02:15:49
+# UPDATED: 2023-11-13 02:14:45
 # DOMAIN: 163
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 65819
-# IP-ASN: 1005
-# IP-CIDR: 5963
+# DOMAIN-SUFFIX: 65784
+# IP-ASN: 1006
+# IP-CIDR: 5964
 # IP-CIDR6: 3503
 # USER-AGENT: 65
-# TOTAL: 76529
+# TOTAL: 76496
 .0-6.com
 .00.net
 .000.link
@@ -7220,6 +7220,7 @@
 .adxqd.com
 .adxwork.com
 .adyounger.com
+.adys.vip
 .adysimg.com
 .adzar-energy.com
 .adzh.com
@@ -8011,7 +8012,6 @@
 .allhistory.com
 .alliancebrh.com
 .allianz360.com
-.allinbots.com
 .allinfinance.com
 .allinpay.com
 .allinpayhb.com
@@ -21332,6 +21332,7 @@
 .fangguanjg.com
 .fanghuafu.com
 .fanghuihui.com
+.fanging.com
 .fangjia.com
 .fangjiadp.com
 .fangkeduo.net
@@ -27585,7 +27586,6 @@
 .hongbizi.org
 .hongbo100.com
 .hongbowang.net
-.hongcesys.com
 .hongdaym.com
 .hongdefund.com
 .hongdezk.com
@@ -30287,6 +30287,8 @@
 .imglefeng.com
 .imglink.win
 .imgloc.com
+.imgo.tv
+.imgs.ovh
 .imgscdn.com
 .imgse.com
 .imgsha.com
@@ -42440,7 +42442,6 @@
 .osredm.com
 .oss.link
 .oss.so
-.ossdshxh.com
 .osvlabs.com
 .oswdj.com
 .oswhy.com
@@ -47025,7 +47026,6 @@
 .santiyun.com
 .santongit.com
 .santostang.com
-.sanweihou.com
 .sanweimoxing.com
 .sanweiyiti.org
 .sanwen.com
@@ -63941,7 +63941,6 @@
 .yzhejin.com
 .yzhsk.com
 .yzinter.com
-.yzitc.com
 .yzja.com
 .yzjjw.net
 .yzjsxy.com

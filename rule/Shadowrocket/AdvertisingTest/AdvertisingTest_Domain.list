@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-12 02:10:01
+# UPDATED: 2023-11-13 02:09:35
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12500
+# DOMAIN: 12501
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127814
+# DOMAIN-SUFFIX: 127847
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 141371
+# TOTAL: 141405
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -23536,6 +23536,7 @@
 .btcadtop.com
 .btcnews.one
 .btdirectnav.com
+.btdmp.com
 .btdnav.com
 .btescs.fun
 .btez8.xyz
@@ -26506,7 +26507,6 @@
 .chaiwhaukra.com
 .chaiwimtie.com
 .chajagibbous.com
-.chajiashi.top
 .chajv.top
 .chalaips.com
 .chali.info
@@ -26922,7 +26922,6 @@
 .chimaerason.com
 .chimamanndgaocozmi.com
 .chimarssensory.com
-.chimblyconyger.com
 .chimbsbuckle.com
 .chimlaresider.com
 .chimneylurdane.com
@@ -40597,7 +40596,6 @@
 .drjgjngf.com
 .drjkwbfqcvr.com
 .drjyjr.xyz
-.drkglnrwqomg.com
 .drkness.net
 .drlhprjldsgjxa.com
 .drlimmode9ddd.cloudfront.net
@@ -54321,6 +54319,7 @@
 .gscounters.gigya.com
 .gscounters.us1.gigya.com
 .gscsahv011.com
+.gscsahv012.com
 .gscxs.cn
 .gsdk.proximabeta.com
 .gsecondscreen.com
@@ -56423,6 +56422,7 @@
 .hibiki-track.logica.bz
 .hibikiluler.top
 .hibitomonach.com
+.hibj.online
 .hiblcom.com
 .hibody.fr
 .hicam.net
@@ -58333,7 +58333,6 @@
 .hynahyqq.xyz
 .hynteroforion.com
 .hyofteraq.com
-.hyoicxstpfvgwz.com
 .hype-ads.com
 .hype.zlipa.com
 .hypeads.org
@@ -61687,7 +61686,6 @@
 .initiallycoffee.com
 .initiallycompetitionunderwear.com
 .initiallydoze.com
-.initiateadvancedhighlyinfo-program.info
 .initiatebuffetstump.com
 .initiateheavilycurrentinfo-product.info
 .initiatehighlyrenewedtheproduct.vip
@@ -66767,8 +66765,6 @@
 .kkmacsqsbf.info
 .kkmbbvz.xyz
 .kkmsa.top
-.kkosiso.com
-.kkpbisoyan.com
 .kkpgv.kankan.com
 .kkpgv2.kankan.com
 .kkpgv2.xunlei.com
@@ -81330,7 +81326,6 @@
 .mrruuov.cn
 .mrrvmp.com
 .mrrw.xyz
-.mrsdeao.cn
 .mrskincash.com
 .mrstpnyxlbd.com
 .mrtbbnr.com
@@ -82450,9 +82445,7 @@
 .mzol7lbm.com
 .mzpbvvxv.com
 .mzqf1.com
-.mzteishamp.com
 .mzthbna.xyz
-.mztqgmr.com
 .mztzba.cn
 .mzunuvof.com
 .mzuspejtuodc.com
@@ -84550,7 +84543,6 @@
 .nndzsw.com
 .nndzsw1.com
 .nnedbx.com
-.nnetvsvxrxhkai.com
 .nnfalf.xyz
 .nnfeibao.cn
 .nnfiy.com
@@ -96747,6 +96739,7 @@
 .qqshow2-item.qq.com
 .qqtx.me
 .qquubyoknj.com
+.qqvlsr.icu
 .qqvthrkrseoog.com
 .qqvvkebebnbb.top
 .qqvvkebebnlq.top
@@ -97269,8 +97262,6 @@
 .qwjtdcl.cn
 .qwkmiot.com
 .qwmaeqrneewny.top
-.qwmamh.icu
-.qwmdnlzitsys.com
 .qwnmfiti.xyz
 .qwogldy.top
 .qwqeifbsbxqozy.com
@@ -98394,6 +98385,7 @@
 .recreationhiddenmosque.com
 .recreativ.com.ua
 .recreativ.ru
+.recreative.trekkww.fun
 .recrihertrettons.com
 .recrinsit.ru
 .recrospelytrk.com
@@ -99699,6 +99691,7 @@
 .revenuevids.com
 .revenuewire.net
 .reverb.digitalviscosity.com
+.reverbstuffing.com
 .reversehunchet.com
 .reversionhubbypole.com
 .revertterm.com
@@ -111819,7 +111812,6 @@
 .spatterjointposition.com
 .spattermerge.com
 .spaung.cn
-.spay-auth.site
 .spc.personalcreations.com
 .spcode.baidu.cn
 .spcode.baidu.com
@@ -129348,7 +129340,6 @@
 .valentinosverige.com
 .valerainingexplain.com
 .valerie.forbes.com
-.valerieavisnba.com
 .valerieurania.com
 .valetedmasaris.website
 .valeuceplangka.com
@@ -152606,6 +152597,7 @@ www.aerreravasi.com
 www.airsonett.se
 www.alluc.ee
 www.alphamedical02.fr
+www.altrasverige.com.se
 www.amateurpayouts.com
 www.anastasiadate.com
 www.angolotesti.it

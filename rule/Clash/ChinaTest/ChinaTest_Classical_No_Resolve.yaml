@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-12 02:13:20
+# UPDATED: 2023-11-13 02:12:32
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64572
+# DOMAIN-SUFFIX: 64537
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64762
+# TOTAL: 64727
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -10586,6 +10586,7 @@ payload:
   - DOMAIN-SUFFIX,adxqd.com
   - DOMAIN-SUFFIX,adxwork.com
   - DOMAIN-SUFFIX,adyounger.com
+  - DOMAIN-SUFFIX,adys.vip
   - DOMAIN-SUFFIX,adysimg.com
   - DOMAIN-SUFFIX,adyun.com
   - DOMAIN-SUFFIX,adzar-energy.com
@@ -23505,6 +23506,7 @@ payload:
   - DOMAIN-SUFFIX,fangguanjg.com
   - DOMAIN-SUFFIX,fanghuafu.com
   - DOMAIN-SUFFIX,fanghuihui.com
+  - DOMAIN-SUFFIX,fanging.com
   - DOMAIN-SUFFIX,fangjia.com
   - DOMAIN-SUFFIX,fangjiadp.com
   - DOMAIN-SUFFIX,fangkeduo.net
@@ -29008,7 +29010,6 @@ payload:
   - DOMAIN-SUFFIX,hongbeicn.com
   - DOMAIN-SUFFIX,hongbizi.org
   - DOMAIN-SUFFIX,hongbowang.net
-  - DOMAIN-SUFFIX,hongcesys.com
   - DOMAIN-SUFFIX,hongdaym.com
   - DOMAIN-SUFFIX,hongdezk.com
   - DOMAIN-SUFFIX,hongdi.icu
@@ -31454,6 +31455,7 @@ payload:
   - DOMAIN-SUFFIX,imglefeng.com
   - DOMAIN-SUFFIX,imglink.win
   - DOMAIN-SUFFIX,imgloc.com
+  - DOMAIN-SUFFIX,imgs.ovh
   - DOMAIN-SUFFIX,imgscdn.com
   - DOMAIN-SUFFIX,imgse.com
   - DOMAIN-SUFFIX,imgsha.com
@@ -42570,7 +42572,6 @@ payload:
   - DOMAIN-SUFFIX,oss-cn-beijing-aliyuncs.com
   - DOMAIN-SUFFIX,oss.link
   - DOMAIN-SUFFIX,oss.so
-  - DOMAIN-SUFFIX,ossdshxh.com
   - DOMAIN-SUFFIX,osvlabs.com
   - DOMAIN-SUFFIX,oswdj.com
   - DOMAIN-SUFFIX,oswhy.com
@@ -46737,7 +46738,6 @@ payload:
   - DOMAIN-SUFFIX,santiyun.com
   - DOMAIN-SUFFIX,santongit.com
   - DOMAIN-SUFFIX,santostang.com
-  - DOMAIN-SUFFIX,sanweihou.com
   - DOMAIN-SUFFIX,sanweimoxing.com
   - DOMAIN-SUFFIX,sanweiyiti.org
   - DOMAIN-SUFFIX,sanwen.com
@@ -62247,7 +62247,6 @@ payload:
   - DOMAIN-SUFFIX,yzhejin.com
   - DOMAIN-SUFFIX,yzhsk.com
   - DOMAIN-SUFFIX,yzinter.com
-  - DOMAIN-SUFFIX,yzitc.com
   - DOMAIN-SUFFIX,yzja.com
   - DOMAIN-SUFFIX,yzjjw.net
   - DOMAIN-SUFFIX,yzjsxy.com
