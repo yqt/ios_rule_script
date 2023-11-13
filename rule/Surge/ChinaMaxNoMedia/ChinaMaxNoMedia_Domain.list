@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-13 02:14:43
+# UPDATED: 2023-11-14 02:15:40
 # DOMAIN: 163
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 65784
-# IP-ASN: 1006
+# DOMAIN-SUFFIX: 65732
+# IP-ASN: 1007
 # IP-CIDR: 5964
 # IP-CIDR6: 3503
 # PROCESS-NAME: 11
-# USER-AGENT: 65
-# TOTAL: 76507
+# USER-AGENT: 69
+# TOTAL: 76460
 .0-6.com
 .00.net
 .000.link
@@ -17221,6 +17221,8 @@
 .daicuo.net
 .daicuo.vip
 .daidaicp.com
+.daidaidui.club
+.daidaitv.com
 .daidongxi.com
 .daigou.com
 .daiguaji.com
@@ -26138,7 +26140,6 @@
 .hapjs.org
 .haplat.net
 .happigo.com
-.happy24uk.com
 .happychang.net
 .happycodeboy.com
 .happyelements.com
@@ -28620,8 +28621,7 @@
 .huming.com
 .hunancatv.com
 .hunanedu.net
-.hunanliantong.com
-.hunanpea.com
+.hunanwb.com
 .hunanzhibo.com
 .hunbei.com
 .hunbei1.com
@@ -30288,7 +30288,6 @@
 .imglefeng.com
 .imglink.win
 .imgloc.com
-.imgo.tv
 .imgs.ovh
 .imgscdn.com
 .imgse.com
@@ -32555,7 +32554,6 @@
 .jishux.com
 .jisi17.com
 .jisu-cnd.com
-.jisuacg.com
 .jisuanke.com
 .jisuanqinet.com
 .jisuanzt.com
@@ -34541,6 +34539,7 @@
 .kjykcdn.com
 .kjzxtk.com
 .kk169.com
+.kk1885.com
 .kk30.com
 .kk39w.com
 .kk3g.net
@@ -41297,6 +41296,7 @@
 .ningxingxing.com
 .ninjacn.com
 .ninjadq.com
+.ninjamustdie.com
 .ninthpalace360.com
 .nio.com
 .nioapis.com
@@ -48957,6 +48957,7 @@
 .shuzhou.cc
 .shuzibao.com
 .shuzixiaoyuan.com
+.shuzixindong.com
 .shwcsh.com
 .shwdbjgs.com
 .shwebspace.com

@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-13 02:12:32
+# UPDATED: 2023-11-14 02:13:14
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64537
+# DOMAIN-SUFFIX: 64521
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64727
+# TOTAL: 64711
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -19710,6 +19710,8 @@ DOMAIN-SUFFIX,daicuo.cc
 DOMAIN-SUFFIX,daicuo.net
 DOMAIN-SUFFIX,daicuo.vip
 DOMAIN-SUFFIX,daidaicp.com
+DOMAIN-SUFFIX,daidaidui.club
+DOMAIN-SUFFIX,daidaitv.com
 DOMAIN-SUFFIX,daidongxi.com
 DOMAIN-SUFFIX,daigou.com
 DOMAIN-SUFFIX,daiguaji.com
@@ -27636,7 +27638,6 @@ DOMAIN-SUFFIX,hapi123.net
 DOMAIN-SUFFIX,hapingapp.com
 DOMAIN-SUFFIX,haplat.net
 DOMAIN-SUFFIX,happigo.com
-DOMAIN-SUFFIX,happy24uk.com
 DOMAIN-SUFFIX,happychang.net
 DOMAIN-SUFFIX,happycodeboy.com
 DOMAIN-SUFFIX,happyelements.com
@@ -33484,7 +33485,6 @@ DOMAIN-SUFFIX,jishuqq.com
 DOMAIN-SUFFIX,jishux.com
 DOMAIN-SUFFIX,jisi17.com
 DOMAIN-SUFFIX,jisu-cnd.com
-DOMAIN-SUFFIX,jisuacg.com
 DOMAIN-SUFFIX,jisuanqinet.com
 DOMAIN-SUFFIX,jisuanzt.com
 DOMAIN-SUFFIX,jisuapi.com
@@ -35367,6 +35367,7 @@ DOMAIN-SUFFIX,kjyicdn.com
 DOMAIN-SUFFIX,kjykcdn.com
 DOMAIN-SUFFIX,kjzxtk.com
 DOMAIN-SUFFIX,kk169.com
+DOMAIN-SUFFIX,kk1885.com
 DOMAIN-SUFFIX,kk30.com
 DOMAIN-SUFFIX,kk39w.com
 DOMAIN-SUFFIX,kk3g.net
@@ -41527,6 +41528,7 @@ DOMAIN-SUFFIX,ningxiajob.com
 DOMAIN-SUFFIX,ningxingxing.com
 DOMAIN-SUFFIX,ninjacn.com
 DOMAIN-SUFFIX,ninjadq.com
+DOMAIN-SUFFIX,ninjamustdie.com
 DOMAIN-SUFFIX,ninthpalace360.com
 DOMAIN-SUFFIX,nio.com
 DOMAIN-SUFFIX,nioapis.com
@@ -48465,6 +48467,7 @@ DOMAIN-SUFFIX,shuzhiduo.com
 DOMAIN-SUFFIX,shuzhou.cc
 DOMAIN-SUFFIX,shuzibao.com
 DOMAIN-SUFFIX,shuzixiaoyuan.com
+DOMAIN-SUFFIX,shuzixindong.com
 DOMAIN-SUFFIX,shwcsh.com
 DOMAIN-SUFFIX,shwdbjgs.com
 DOMAIN-SUFFIX,shwebspace.com

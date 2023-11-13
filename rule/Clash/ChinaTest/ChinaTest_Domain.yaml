@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-13 02:12:32
+# UPDATED: 2023-11-14 02:13:14
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64537
+# DOMAIN-SUFFIX: 64521
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64727
+# TOTAL: 64711
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -19711,6 +19711,8 @@ payload:
   - '+.daicuo.net'
   - '+.daicuo.vip'
   - '+.daidaicp.com'
+  - '+.daidaidui.club'
+  - '+.daidaitv.com'
   - '+.daidongxi.com'
   - '+.daigou.com'
   - '+.daiguaji.com'
@@ -27637,7 +27639,6 @@ payload:
   - '+.hapingapp.com'
   - '+.haplat.net'
   - '+.happigo.com'
-  - '+.happy24uk.com'
   - '+.happychang.net'
   - '+.happycodeboy.com'
   - '+.happyelements.com'
@@ -33485,7 +33486,6 @@ payload:
   - '+.jishux.com'
   - '+.jisi17.com'
   - '+.jisu-cnd.com'
-  - '+.jisuacg.com'
   - '+.jisuanqinet.com'
   - '+.jisuanzt.com'
   - '+.jisuapi.com'
@@ -35368,6 +35368,7 @@ payload:
   - '+.kjykcdn.com'
   - '+.kjzxtk.com'
   - '+.kk169.com'
+  - '+.kk1885.com'
   - '+.kk30.com'
   - '+.kk39w.com'
   - '+.kk3g.net'
@@ -41528,6 +41529,7 @@ payload:
   - '+.ningxingxing.com'
   - '+.ninjacn.com'
   - '+.ninjadq.com'
+  - '+.ninjamustdie.com'
   - '+.ninthpalace360.com'
   - '+.nio.com'
   - '+.nioapis.com'
@@ -48466,6 +48468,7 @@ payload:
   - '+.shuzhou.cc'
   - '+.shuzibao.com'
   - '+.shuzixiaoyuan.com'
+  - '+.shuzixindong.com'
   - '+.shwcsh.com'
   - '+.shwdbjgs.com'
   - '+.shwebspace.com'

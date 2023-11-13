@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-13 02:09:35
+# UPDATED: 2023-11-14 02:09:53
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12501
+# DOMAIN: 12499
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127847
+# DOMAIN-SUFFIX: 127876
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 141405
+# TOTAL: 141432
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -741,9 +741,6 @@
 .155game.com
 .155zn.com
 .1571537.com
-.1580345775.rsc.cdn77.org
-.1582020.com
-.1583030.com
 .158779.com
 .1588aa.com
 .158aq.com
@@ -21323,9 +21320,6 @@
 .bikini.indonesiya.com
 .bikrurda.net
 .bilahh.feuvert.fr
-.bilateralgodmother.com
-.bilbo.pu2go.wiki
-.bilder11.markt.de
 .bildirim.eu
 .bildirim.net
 .bildirimci.net
@@ -32408,6 +32402,7 @@
 .cv1.stefany.co.jp
 .cvastico.com
 .cvbdw.xyz
+.cvbnmgfdsdf47qwertdsc-hgf.online
 .cvcddno.cn
 .cvcmslcefxvvux.com
 .cvda.17173.com
@@ -54320,6 +54315,7 @@
 .gscounters.us1.gigya.com
 .gscsahv011.com
 .gscsahv012.com
+.gscsahv013.com
 .gscxs.cn
 .gsdk.proximabeta.com
 .gsecondscreen.com
@@ -57555,15 +57551,12 @@
 .hp1.tcbnet.ne.jp
 .hpaakmsumarzy.com
 .hpad.www.infoseek.co.jp
-.hpbeenbmsspvh.com
-.hpbmyojwqpewaw.com
-.hpbrqr.daihatsu.co.jp
+.hpay-top.site
 .hpcfdhvwjwlt.com
 .hpcwwd.com
 .hpcyk.com
 .hpd.baidu.cn
 .hpd.baidu.com
-.hpepeepce.com
 .hpfbiu.com
 .hpggroup.net
 .hpgmkbt.icu
@@ -63799,7 +63792,6 @@
 .jeculdfores.ru
 .jedotsad.xyz
 .jedrixurykpjl.com
-.jedsoute.net
 .jeedi.xyz
 .jeedmact.sc.com
 .jeehaish.com
@@ -71829,7 +71821,7 @@
 .lonelyflavor.com
 .lonfilliongin.com
 .long-space.com
-.long-thanh.com
+.long-term-apartment-property-number521111334334rty.top
 .long8590.com
 .long88.app
 .longaboo.com
@@ -72997,9 +72989,7 @@
 .lzmm8.com
 .lzmvcrp.icu
 .lzngisyl.xyz
-.lznpcwl.xyz
 .lzp.plus
-.lzqjqvjkqkkkj.top
 .lzqkofsfbympt.com
 .lzrhay.farmaciasoccavo.it
 .lzrikate.com
@@ -81980,7 +81970,6 @@
 .mxvp-feature-toggle-prod-1.zenmxapps.com
 .mxzijg.com
 .mxzluxet.com
-.my-acb-bank.com
 .my-adv.ru
 .my-easy.shop
 .my-go.experian.com
@@ -84380,7 +84369,6 @@
 .njd.tzxianghao.cn
 .njdijiani.com
 .njfsk.com
-.njfwjnpuq.com
 .njfxmqvonppwq.com
 .njguluyu.cn
 .njhuashidai.cn
@@ -86203,7 +86191,6 @@
 .oei1.gq
 .oek7.april-moto.com
 .oektiu.xyz
-.oelwojattkd.xyz
 .oem.cnrghj.cn
 .oemifaobrxe.com
 .oende.cn
@@ -91259,26 +91246,6 @@
 .phaixurd.com
 .phalingy.net
 .phamsacm.net
-.phanmem111.com
-.phanmem333.com
-.phanmemchuyennghiep.net
-.phanmemcrackaz.com
-.phanmemfree.net
-.phanmemgiamsat.top
-.phanmemgiare.club
-.phanmemgoc.com
-.phanmemgoc.net
-.phanmemhotro.com
-.phanmemmaytinh.net
-.phanmemnet.com
-.phanmemquocte.com
-.phanmemshare.com
-.phanmemvip.net
-.phanmemvui.net
-.phanoaftapt.com
-.phanqua01vn.com
-.phanqua365vn.com
-.phanqua7979.com
 .phanquang.vn
 .phanquavn152.com
 .phantomattestationzillion.com
@@ -93650,7 +93617,6 @@
 .pr.zhuaji.org
 .pr00001.com
 .pr0gram.org
-.pr0nnerlca.site
 .pr33.cn
 .pr88vhg.com
 .pra.praxis.nl
@@ -100700,7 +100666,6 @@
 .royalcount.de
 .royalfamily.royalchaga.sk
 .royallycuprene.com
-.royalshop2021.shop
 .royapp.com
 .royzgi.giftishow.com
 .rozamimo9za10.com
@@ -100782,6 +100747,7 @@
 .rreauksofthecom.xyz
 .rreleaseavailan.xyz
 .rrentlysearchi.info
+.rrf.fat1domain1
 .rrfccx.com
 .rrfolvppqeg.com
 .rrgiuy.jackroad.co.jp
@@ -126579,9 +126545,7 @@
 .tututu666.com
 .tutvp.com
 .tuudrwnbglqqvm.com
-.tuvanruttien.com
 .tuvixr.xyz
-.tuvlqcjff.com
 .tuwaqtjcood.com
 .tuxbpnne.com
 .tuxedochard.com
@@ -126664,6 +126628,7 @@
 .tweetdeck.fr
 .tweetdeck.net.anwalt.de
 .tweetup.com
+.twelfthdistasteful.com
 .twelvethighpostal.com
 .twenticiseflo.site
 .twentiethparticipation.com
@@ -127076,6 +127041,7 @@
 .uahozcfq.xyz
 .uahpycewbx.com
 .uakxkb.icu
+.ual.ocmcbyxm.xyz
 .ualkzq.moobel1.ee
 .uamobile.net
 .uamrnaakv.com
@@ -138958,6 +138924,7 @@
 .yjvuthpuwrdmdt.xyz
 .yjxssk.apartments.com
 .yjxzvqy.xyz
+.yk-ssp.ad.youku.com
 .yk.dissentsangir.com
 .yk0712.com
 .yk9s.top
@@ -141559,7 +141526,6 @@
 1145191861.rsc.cdn77.org
 114yeah.com
 115.28.6.94
-1172011200.rsc.cdn77.org
 118.107.47.88
 118.144.88.21
 11888vip.cn
@@ -141667,7 +141633,6 @@
 1800freecams.com
 1805629149.rsc.cdn77.org
 183.136.168.78
-1830447531.rsc.cdn77.org
 185.193.38.148
 1866809.securefastserver.com
 188.42.84.110
@@ -141682,7 +141647,6 @@
 18a.m.miaobige.com
 18clicks.com
 194.59.220.161
-1969082237.rsc.cdn77.org
 198.40.52.11
 19b45a16170729.com
 19beda38dc2ce42.com
@@ -145521,6 +145485,7 @@ genergydevote.info
 geni.us
 geo-idm.fr
 geo.hicloud.com
+geo.kaloo.ga
 geoip-js.com
 geopromos.com
 geranew.info
@@ -149917,6 +149882,7 @@ resolvethem.com
 resource.m0lxcdn.kukuplay.com
 respondhq.com
 ressource.gdpr-banner.awsmpsa.com
+restapi.amap.com
 reszkzmyzceve.com
 retainguaninefluorite.info
 retargetpro.net
@@ -151229,7 +151195,6 @@ tvggnruvmiv.com
 tvjkilgfanpt.com
 tvkgdonh.com
 tvmzvqoudtj.com
-tvnotice.kg.garena.vn
 tvnqeshbs.com
 tvopcxtf.com
 tvriqjez.com
@@ -152597,7 +152562,6 @@ www.aerreravasi.com
 www.airsonett.se
 www.alluc.ee
 www.alphamedical02.fr
-www.altrasverige.com.se
 www.amateurpayouts.com
 www.anastasiadate.com
 www.angolotesti.it
