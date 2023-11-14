@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-14 02:13:14
+# UPDATED: 2023-11-15 02:14:11
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64521
+# DOMAIN-SUFFIX: 64510
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64711
+# TOTAL: 64700
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -19782,7 +19782,6 @@ DOMAIN-SUFFIX,dakawm.cc
 DOMAIN-SUFFIX,dakayi.cc
 DOMAIN-SUFFIX,dakele.com
 DOMAIN-SUFFIX,dalaba.com
-DOMAIN-SUFFIX,dalao.net
 DOMAIN-SUFFIX,dalaosz.com
 DOMAIN-SUFFIX,dalianair-china.com
 DOMAIN-SUFFIX,dalianiso.com
@@ -23763,7 +23762,6 @@ DOMAIN-SUFFIX,fcpowerup.com
 DOMAIN-SUFFIX,fcrc114.com
 DOMAIN-SUFFIX,fcsc.com
 DOMAIN-SUFFIX,fcvvip.com
-DOMAIN-SUFFIX,fcwei.com
 DOMAIN-SUFFIX,fcxxh.org
 DOMAIN-SUFFIX,fcyhw.com
 DOMAIN-SUFFIX,fcz360.com
@@ -44845,7 +44843,6 @@ DOMAIN-SUFFIX,qiushu.cc
 DOMAIN-SUFFIX,qiushuzw.com
 DOMAIN-SUFFIX,qiusuoge.com
 DOMAIN-SUFFIX,qiutianaimeili.com
-DOMAIN-SUFFIX,qiuvps.com
 DOMAIN-SUFFIX,qiuweili.com
 DOMAIN-SUFFIX,qiuwu.net
 DOMAIN-SUFFIX,qiuxue360.com
@@ -47399,6 +47396,7 @@ DOMAIN-SUFFIX,sge.sh
 DOMAIN-SUFFIX,sghxz.com
 DOMAIN-SUFFIX,sgjwb.com
 DOMAIN-SUFFIX,sgllk.com
+DOMAIN-SUFFIX,sgmedia.cloud
 DOMAIN-SUFFIX,sgmlink.com
 DOMAIN-SUFFIX,sgmwlu.com
 DOMAIN-SUFFIX,sgmwsales.com

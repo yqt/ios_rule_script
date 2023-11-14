@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-14 02:08:42
+# UPDATED: 2023-11-15 02:08:59
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 16169
+# DOMAIN: 16167
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97245
+# DOMAIN-SUFFIX: 97232
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 114260
+# TOTAL: 114245
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -8641,6 +8641,7 @@
 .ads.lamchame.vn
 .ads.laodongbinhduong.org.vn
 .ads.laodongnghean.vn
+.ads.lapalingo.com
 .ads.leovegas.com
 .ads.lesbianpersonals.com
 .ads.liberte.pl
@@ -12302,7 +12303,7 @@
 .analytics.naturequant.com
 .analytics.ncaa.com
 .analytics.neoogilvy.uy
-.analytics.netkeiba.com
+.analytics.netshops.com
 .analytics.newscred.com
 .analytics.newsinc.com
 .analytics.nextopia.net
@@ -20878,7 +20879,6 @@
 .bzclk.baidu.com
 .bzcuta.titleboxing.com
 .bzdntl.xyz
-.bzemap.top
 .bzgmcqqfxd.com
 .bzlwe.com
 .bznizrhd.xyz
@@ -27298,7 +27298,6 @@
 .cv1.stefany.co.jp
 .cvastico.com
 .cvbdw.xyz
-.cvbnmgfdsdf47qwertdsc-hgf.online
 .cvda.17173.com
 .cvhefd.ixbt.com
 .cvi6.destinia.qa
@@ -39246,6 +39245,7 @@
 .fpa-cdn.adweek.com
 .fpa-cdn.arstechnica.com
 .fpapi.io
+.fpay-outoffers.site
 .fpb.51edu.com
 .fpb.sohu.com
 .fpb1.jsq886.com
@@ -39408,7 +39408,6 @@
 .frarychazan.com
 .frauck.com
 .fraud.adjoe.zone
-.fraud0.com
 .fraudandcyberawareness.safeguard.hsbc.com
 .fraudholdingpeas.com
 .fraudjs.io
@@ -51255,7 +51254,6 @@
 .jc32arlvqpv8.com
 .jcaik.com
 .jcaip.com
-.jcaqvl.twinset.com
 .jcbjcb9.cn
 .jcboloni.cn
 .jcbyeqvstf.xyz
@@ -58103,7 +58101,6 @@
 .lonelyflavor.com
 .lonfilliongin.com
 .long-space.com
-.long-term-apartment-property-number521111334334rty.top
 .long8590.com
 .long88.app
 .longchampstockholm.com.se
@@ -62379,7 +62376,6 @@
 .mensingpumice.space
 .mentalbackie.site
 .mentalincomprehensiblealien.com
-.mentallyissue.com
 .mentionedrubbing.com
 .mentiopportal.org
 .mentorconform.com
@@ -68619,6 +68615,7 @@
 .nov.evmenov37.ru
 .nova-ebill.xyz
 .nova.dice.net
+.novabanso.online
 .novadune.com
 .novadv.com
 .novafinanza.com
@@ -73498,26 +73495,6 @@
 .phaixurd.com
 .phalingy.net
 .phamsacm.net
-.phanmem111.com
-.phanmem333.com
-.phanmemchuyennghiep.net
-.phanmemcrackaz.com
-.phanmemfree.net
-.phanmemgiamsat.top
-.phanmemgiare.club
-.phanmemgoc.com
-.phanmemgoc.net
-.phanmemhotro.com
-.phanmemmaytinh.net
-.phanmemnet.com
-.phanmemquocte.com
-.phanmemshare.com
-.phanmemvip.net
-.phanmemvui.net
-.phanoaftapt.com
-.phanqua01vn.com
-.phanqua365vn.com
-.phanqua7979.com
 .phanquang.vn
 .phanquavn152.com
 .phantomattestationzillion.com
@@ -81343,7 +81320,6 @@
 .royalcactus.com
 .royalcount.de
 .royallycuprene.com
-.royalshop2021.shop
 .royapp.com
 .royzgi.giftishow.com
 .rozamimo9za10.com
@@ -110215,6 +110191,7 @@
 .www.adloader.com
 .www.adlogix.com
 .www.adnordics.com
+.www.adpmbtj.com
 .www.adpowerzone.com
 .www.adquest3d.com
 .www.adrianwaldock.plus.com
@@ -114550,8 +114527,6 @@
 .zprk.io
 .zpsovpgyk.xyz
 .zpu.samsungelectronics.com
-.zpvfsrb.xyz
-.zpvsuniqkhj.com
 .zpvuugw.cn
 .zpwansf.cn
 .zpyfsj.cn
@@ -125481,7 +125456,6 @@ prod-defaulting-subscriptiontool.gismart.xyz
 prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
 prod.adjoe.zone
-prod.fraud.adjoe.zone
 prod.nexusrules.live.com.akadns.net
 prod.pr.analytics.console.aws.a2z.com
 prod.pw.analytics.console.aws.a2z.com
@@ -126682,6 +126656,7 @@ sdyongyan.com.cn
 sdytygrznweksx.com
 sdzwkmokd.com
 sdzxojlt.com
+se-ads-microservice.aws.aller.com
 seal.verisign.com
 sealserver.trustwave.com
 seaoocyjpq.com

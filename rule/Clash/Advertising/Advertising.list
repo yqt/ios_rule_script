@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-14 02:08:39
-# DOMAIN: 16169
+# UPDATED: 2023-11-15 02:08:56
+# DOMAIN: 16167
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97245
+# DOMAIN-SUFFIX: 97232
 # IP-CIDR: 428
 # PROCESS-NAME: 5
-# TOTAL: 113962
+# TOTAL: 113947
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
 DOMAIN,10.10.34.34
@@ -2033,7 +2033,6 @@ DOMAIN,prod-defaulting-subscriptiontool.gismart.xyz
 DOMAIN,prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 DOMAIN,prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
 DOMAIN,prod.adjoe.zone
-DOMAIN,prod.fraud.adjoe.zone
 DOMAIN,prod.nexusrules.live.com.akadns.net
 DOMAIN,prod.pr.analytics.console.aws.a2z.com
 DOMAIN,prod.pw.analytics.console.aws.a2z.com
@@ -2212,6 +2211,7 @@ DOMAIN,sdkconfig.ad.india.xiaomi.com
 DOMAIN,sdkgw.us1.twilio.com
 DOMAIN,sdklogs.avocarrot.com
 DOMAIN,sdn.gongkao.hn.cn
+DOMAIN,se-ads-microservice.aws.aller.com
 DOMAIN,sec.video.qq.com
 DOMAIN,secondstreetapp.com
 DOMAIN,secure-adnxs.edgekey.net
@@ -21063,6 +21063,7 @@ DOMAIN-SUFFIX,ads.kure.tv
 DOMAIN-SUFFIX,ads.lamchame.vn
 DOMAIN-SUFFIX,ads.laodongbinhduong.org.vn
 DOMAIN-SUFFIX,ads.laodongnghean.vn
+DOMAIN-SUFFIX,ads.lapalingo.com
 DOMAIN-SUFFIX,ads.leovegas.com
 DOMAIN-SUFFIX,ads.lesbianpersonals.com
 DOMAIN-SUFFIX,ads.liberte.pl
@@ -23864,7 +23865,6 @@ DOMAIN-SUFFIX,analytics.msk1.ru
 DOMAIN-SUFFIX,analytics.msnbc.msn.com
 DOMAIN-SUFFIX,analytics.myshoptago.com
 DOMAIN-SUFFIX,analytics.nastooh.ir
-DOMAIN-SUFFIX,analytics.netkeiba.com
 DOMAIN-SUFFIX,analytics.newsinc.com
 DOMAIN-SUFFIX,analytics.nextopia.net
 DOMAIN-SUFFIX,analytics.ngs55.ru
@@ -29517,7 +29517,6 @@ DOMAIN-SUFFIX,bzamusfalofn.com
 DOMAIN-SUFFIX,bzbopfh.cn
 DOMAIN-SUFFIX,bzcjy.cn
 DOMAIN-SUFFIX,bzdntl.xyz
-DOMAIN-SUFFIX,bzemap.top
 DOMAIN-SUFFIX,bzgmcqqfxd.com
 DOMAIN-SUFFIX,bzlwe.com
 DOMAIN-SUFFIX,bznizrhd.xyz
@@ -33902,7 +33901,6 @@ DOMAIN-SUFFIX,cux.io
 DOMAIN-SUFFIX,cuyynol.com
 DOMAIN-SUFFIX,cvastico.com
 DOMAIN-SUFFIX,cvbdw.xyz
-DOMAIN-SUFFIX,cvbnmgfdsdf47qwertdsc-hgf.online
 DOMAIN-SUFFIX,cvkvtsjjrs.xyz
 DOMAIN-SUFFIX,cvmesi.xyz
 DOMAIN-SUFFIX,cvqgnkeqme.com
@@ -42199,6 +42197,7 @@ DOMAIN-SUFFIX,foxx.to
 DOMAIN-SUFFIX,foysswr.cn
 DOMAIN-SUFFIX,fp-cdn.azureedge.net
 DOMAIN-SUFFIX,fp.kakaku.com
+DOMAIN-SUFFIX,fpay-outoffers.site
 DOMAIN-SUFFIX,fpb.sohu.com
 DOMAIN-SUFFIX,fpb1.jsq886.com
 DOMAIN-SUFFIX,fpb1.kedabai.com
@@ -42299,7 +42298,7 @@ DOMAIN-SUFFIX,frarybjrbnlfd.com
 DOMAIN-SUFFIX,frarychazan.com
 DOMAIN-SUFFIX,frauck.com
 DOMAIN-SUFFIX,fraud.adjoe.zone
-DOMAIN-SUFFIX,fraud0.com
+DOMAIN-SUFFIX,fraudclatterflying.com
 DOMAIN-SUFFIX,fraudholdingpeas.com
 DOMAIN-SUFFIX,fraudjs.io
 DOMAIN-SUFFIX,frayvehemently.com
@@ -42596,7 +42595,6 @@ DOMAIN-SUFFIX,fsdwd.xyz
 DOMAIN-SUFFIX,fseed.ru
 DOMAIN-SUFFIX,fsfwetubfgd.com
 DOMAIN-SUFFIX,fsgiosi.com
-DOMAIN-SUFFIX,fsihfhjt.com
 DOMAIN-SUFFIX,fsjjrbz.cn
 DOMAIN-SUFFIX,fsksvtvhxtyqp.com
 DOMAIN-SUFFIX,fsm-files.ru
@@ -54629,7 +54627,6 @@ DOMAIN-SUFFIX,loneday.com
 DOMAIN-SUFFIX,lonelinessapp.com
 DOMAIN-SUFFIX,lonfilliongin.com
 DOMAIN-SUFFIX,long-space.com
-DOMAIN-SUFFIX,long-term-apartment-property-number521111334334rty.top
 DOMAIN-SUFFIX,long8590.com
 DOMAIN-SUFFIX,longchampstockholm.com.se
 DOMAIN-SUFFIX,longdehua.com
@@ -56587,7 +56584,6 @@ DOMAIN-SUFFIX,menispirfly.com
 DOMAIN-SUFFIX,menlithium.com
 DOMAIN-SUFFIX,mensingpumice.space
 DOMAIN-SUFFIX,mentalincomprehensiblealien.com
-DOMAIN-SUFFIX,mentallyissue.com
 DOMAIN-SUFFIX,mentionedrubbing.com
 DOMAIN-SUFFIX,mentiopportal.org
 DOMAIN-SUFFIX,mentorconform.com
@@ -60533,7 +60529,7 @@ DOMAIN-SUFFIX,nouveaulain.com
 DOMAIN-SUFFIX,nouvelles247.com
 DOMAIN-SUFFIX,nouvhidtxryveg.com
 DOMAIN-SUFFIX,nov.evmenov37.ru
-DOMAIN-SUFFIX,nova-ebill.xyz
+DOMAIN-SUFFIX,novabanso.online
 DOMAIN-SUFFIX,novadune.com
 DOMAIN-SUFFIX,novadv.com
 DOMAIN-SUFFIX,novafinanza.com
@@ -64177,26 +64173,6 @@ DOMAIN-SUFFIX,phaivais.net
 DOMAIN-SUFFIX,phaixurd.com
 DOMAIN-SUFFIX,phalingy.net
 DOMAIN-SUFFIX,phamsacm.net
-DOMAIN-SUFFIX,phanmem111.com
-DOMAIN-SUFFIX,phanmem333.com
-DOMAIN-SUFFIX,phanmemchuyennghiep.net
-DOMAIN-SUFFIX,phanmemcrackaz.com
-DOMAIN-SUFFIX,phanmemfree.net
-DOMAIN-SUFFIX,phanmemgiamsat.top
-DOMAIN-SUFFIX,phanmemgiare.club
-DOMAIN-SUFFIX,phanmemgoc.com
-DOMAIN-SUFFIX,phanmemgoc.net
-DOMAIN-SUFFIX,phanmemhotro.com
-DOMAIN-SUFFIX,phanmemmaytinh.net
-DOMAIN-SUFFIX,phanmemnet.com
-DOMAIN-SUFFIX,phanmemquocte.com
-DOMAIN-SUFFIX,phanmemshare.com
-DOMAIN-SUFFIX,phanmemvip.net
-DOMAIN-SUFFIX,phanmemvui.net
-DOMAIN-SUFFIX,phanoaftapt.com
-DOMAIN-SUFFIX,phanqua01vn.com
-DOMAIN-SUFFIX,phanqua365vn.com
-DOMAIN-SUFFIX,phanqua7979.com
 DOMAIN-SUFFIX,phanquang.vn
 DOMAIN-SUFFIX,phanquavn152.com
 DOMAIN-SUFFIX,phantomattestationzillion.com
@@ -68061,6 +68037,7 @@ DOMAIN-SUFFIX,radiancethedevice.com
 DOMAIN-SUFFIX,radiantskilled.com
 DOMAIN-SUFFIX,radiate.com
 DOMAIN-SUFFIX,radiateb2b.com
+DOMAIN-SUFFIX,radiateprose.com
 DOMAIN-SUFFIX,radicalovertime.com
 DOMAIN-SUFFIX,radicalverdictreview.com
 DOMAIN-SUFFIX,radied.com
@@ -70058,7 +70035,6 @@ DOMAIN-SUFFIX,royal-cash.com
 DOMAIN-SUFFIX,royalcactus.com
 DOMAIN-SUFFIX,royalcount.de
 DOMAIN-SUFFIX,royallycuprene.com
-DOMAIN-SUFFIX,royalshop2021.shop
 DOMAIN-SUFFIX,royapp.com
 DOMAIN-SUFFIX,rozamimo9za10.com
 DOMAIN-SUFFIX,rozivpxtl.com
@@ -74876,6 +74852,7 @@ DOMAIN-SUFFIX,stats.behance.net
 DOMAIN-SUFFIX,stats.bizweb.vn
 DOMAIN-SUFFIX,stats.blogger.com
 DOMAIN-SUFFIX,stats.break.com
+DOMAIN-SUFFIX,stats.cafepress.com
 DOMAIN-SUFFIX,stats.canalblog.com
 DOMAIN-SUFFIX,stats.concierge.com
 DOMAIN-SUFFIX,stats.coronalabs.com
@@ -86225,6 +86202,7 @@ DOMAIN-SUFFIX,www.adimages.beeb.com
 DOMAIN-SUFFIX,www.adloader.com
 DOMAIN-SUFFIX,www.adlogix.com
 DOMAIN-SUFFIX,www.adnordics.com
+DOMAIN-SUFFIX,www.adpmbtj.com
 DOMAIN-SUFFIX,www.adpowerzone.com
 DOMAIN-SUFFIX,www.adquest3d.com
 DOMAIN-SUFFIX,www.adrianwaldock.plus.com
@@ -89217,10 +89195,7 @@ DOMAIN-SUFFIX,zprelandings.com
 DOMAIN-SUFFIX,zprk.io
 DOMAIN-SUFFIX,zpsovpgyk.xyz
 DOMAIN-SUFFIX,zpu.samsungelectronics.com
-DOMAIN-SUFFIX,zpvfsrb.xyz
-DOMAIN-SUFFIX,zpvsuniqkhj.com
 DOMAIN-SUFFIX,zpvuugw.cn
-DOMAIN-SUFFIX,zpzlbv.xyz
 DOMAIN-SUFFIX,zq-hk.cn
 DOMAIN-SUFFIX,zq.lansedir.com
 DOMAIN-SUFFIX,zqdprrzjpcf.com

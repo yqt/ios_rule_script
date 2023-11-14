@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-14 02:13:14
+# UPDATED: 2023-11-15 02:14:11
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64521
+# DOMAIN-SUFFIX: 64510
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64711
+# TOTAL: 64700
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -19783,7 +19783,6 @@ payload:
   - '+.dakayi.cc'
   - '+.dakele.com'
   - '+.dalaba.com'
-  - '+.dalao.net'
   - '+.dalaosz.com'
   - '+.dalianair-china.com'
   - '+.dalianiso.com'
@@ -23764,7 +23763,6 @@ payload:
   - '+.fcrc114.com'
   - '+.fcsc.com'
   - '+.fcvvip.com'
-  - '+.fcwei.com'
   - '+.fcxxh.org'
   - '+.fcyhw.com'
   - '+.fcz360.com'
@@ -44846,7 +44844,6 @@ payload:
   - '+.qiushuzw.com'
   - '+.qiusuoge.com'
   - '+.qiutianaimeili.com'
-  - '+.qiuvps.com'
   - '+.qiuweili.com'
   - '+.qiuwu.net'
   - '+.qiuxue360.com'
@@ -47400,6 +47397,7 @@ payload:
   - '+.sghxz.com'
   - '+.sgjwb.com'
   - '+.sgllk.com'
+  - '+.sgmedia.cloud'
   - '+.sgmlink.com'
   - '+.sgmwlu.com'
   - '+.sgmwsales.com'

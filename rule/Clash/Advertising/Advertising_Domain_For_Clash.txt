@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-14 02:08:39
-# DOMAIN: 16169
+# UPDATED: 2023-11-15 02:08:56
+# DOMAIN: 16167
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97245
+# DOMAIN-SUFFIX: 97232
 # IP-CIDR: 428
 # PROCESS-NAME: 5
-# TOTAL: 113962
+# TOTAL: 113947
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -2033,7 +2033,6 @@ prod-defaulting-subscriptiontool.gismart.xyz
 prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
 prod.adjoe.zone
-prod.fraud.adjoe.zone
 prod.nexusrules.live.com.akadns.net
 prod.pr.analytics.console.aws.a2z.com
 prod.pw.analytics.console.aws.a2z.com
@@ -2212,6 +2211,7 @@ sdkconfig.ad.india.xiaomi.com
 sdkgw.us1.twilio.com
 sdklogs.avocarrot.com
 sdn.gongkao.hn.cn
+se-ads-microservice.aws.aller.com
 sec.video.qq.com
 secondstreetapp.com
 secure-adnxs.edgekey.net
@@ -21063,6 +21063,7 @@ play.kakao.com
 +.ads.lamchame.vn
 +.ads.laodongbinhduong.org.vn
 +.ads.laodongnghean.vn
++.ads.lapalingo.com
 +.ads.leovegas.com
 +.ads.lesbianpersonals.com
 +.ads.liberte.pl
@@ -23864,7 +23865,6 @@ play.kakao.com
 +.analytics.msnbc.msn.com
 +.analytics.myshoptago.com
 +.analytics.nastooh.ir
-+.analytics.netkeiba.com
 +.analytics.newsinc.com
 +.analytics.nextopia.net
 +.analytics.ngs55.ru
@@ -29517,7 +29517,6 @@ play.kakao.com
 +.bzbopfh.cn
 +.bzcjy.cn
 +.bzdntl.xyz
-+.bzemap.top
 +.bzgmcqqfxd.com
 +.bzlwe.com
 +.bznizrhd.xyz
@@ -33902,7 +33901,6 @@ play.kakao.com
 +.cuyynol.com
 +.cvastico.com
 +.cvbdw.xyz
-+.cvbnmgfdsdf47qwertdsc-hgf.online
 +.cvkvtsjjrs.xyz
 +.cvmesi.xyz
 +.cvqgnkeqme.com
@@ -42199,6 +42197,7 @@ play.kakao.com
 +.foysswr.cn
 +.fp-cdn.azureedge.net
 +.fp.kakaku.com
++.fpay-outoffers.site
 +.fpb.sohu.com
 +.fpb1.jsq886.com
 +.fpb1.kedabai.com
@@ -42299,7 +42298,7 @@ play.kakao.com
 +.frarychazan.com
 +.frauck.com
 +.fraud.adjoe.zone
-+.fraud0.com
++.fraudclatterflying.com
 +.fraudholdingpeas.com
 +.fraudjs.io
 +.frayvehemently.com
@@ -42596,7 +42595,6 @@ play.kakao.com
 +.fseed.ru
 +.fsfwetubfgd.com
 +.fsgiosi.com
-+.fsihfhjt.com
 +.fsjjrbz.cn
 +.fsksvtvhxtyqp.com
 +.fsm-files.ru
@@ -54629,7 +54627,6 @@ play.kakao.com
 +.lonelinessapp.com
 +.lonfilliongin.com
 +.long-space.com
-+.long-term-apartment-property-number521111334334rty.top
 +.long8590.com
 +.longchampstockholm.com.se
 +.longdehua.com
@@ -56587,7 +56584,6 @@ play.kakao.com
 +.menlithium.com
 +.mensingpumice.space
 +.mentalincomprehensiblealien.com
-+.mentallyissue.com
 +.mentionedrubbing.com
 +.mentiopportal.org
 +.mentorconform.com
@@ -60533,7 +60529,7 @@ play.kakao.com
 +.nouvelles247.com
 +.nouvhidtxryveg.com
 +.nov.evmenov37.ru
-+.nova-ebill.xyz
++.novabanso.online
 +.novadune.com
 +.novadv.com
 +.novafinanza.com
@@ -64177,26 +64173,6 @@ play.kakao.com
 +.phaixurd.com
 +.phalingy.net
 +.phamsacm.net
-+.phanmem111.com
-+.phanmem333.com
-+.phanmemchuyennghiep.net
-+.phanmemcrackaz.com
-+.phanmemfree.net
-+.phanmemgiamsat.top
-+.phanmemgiare.club
-+.phanmemgoc.com
-+.phanmemgoc.net
-+.phanmemhotro.com
-+.phanmemmaytinh.net
-+.phanmemnet.com
-+.phanmemquocte.com
-+.phanmemshare.com
-+.phanmemvip.net
-+.phanmemvui.net
-+.phanoaftapt.com
-+.phanqua01vn.com
-+.phanqua365vn.com
-+.phanqua7979.com
 +.phanquang.vn
 +.phanquavn152.com
 +.phantomattestationzillion.com
@@ -68061,6 +68037,7 @@ play.kakao.com
 +.radiantskilled.com
 +.radiate.com
 +.radiateb2b.com
++.radiateprose.com
 +.radicalovertime.com
 +.radicalverdictreview.com
 +.radied.com
@@ -70058,7 +70035,6 @@ play.kakao.com
 +.royalcactus.com
 +.royalcount.de
 +.royallycuprene.com
-+.royalshop2021.shop
 +.royapp.com
 +.rozamimo9za10.com
 +.rozivpxtl.com
@@ -74876,6 +74852,7 @@ play.kakao.com
 +.stats.bizweb.vn
 +.stats.blogger.com
 +.stats.break.com
++.stats.cafepress.com
 +.stats.canalblog.com
 +.stats.concierge.com
 +.stats.coronalabs.com
@@ -86225,6 +86202,7 @@ play.kakao.com
 +.www.adloader.com
 +.www.adlogix.com
 +.www.adnordics.com
++.www.adpmbtj.com
 +.www.adpowerzone.com
 +.www.adquest3d.com
 +.www.adrianwaldock.plus.com
@@ -89217,10 +89195,7 @@ play.kakao.com
 +.zprk.io
 +.zpsovpgyk.xyz
 +.zpu.samsungelectronics.com
-+.zpvfsrb.xyz
-+.zpvsuniqkhj.com
 +.zpvuugw.cn
-+.zpzlbv.xyz
 +.zq-hk.cn
 +.zq.lansedir.com
 +.zqdprrzjpcf.com

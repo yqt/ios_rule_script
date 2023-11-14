@@ -1,13 +1,13 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-14 02:15:13
+# UPDATED: 2023-11-15 02:16:31
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 65832
+# DOMAIN-SUFFIX: 65821
 # PROCESS-NAME: 11
 # USER-AGENT: 69
-# TOTAL: 66092
+# TOTAL: 66081
 .0-6.com
 .00.net
 .000.link
@@ -17327,7 +17327,6 @@
 .dakayi.cc
 .dakele.com
 .dalaba.com
-.dalao.net
 .dalaosz.com
 .dalianair-china.com
 .dalianiso.com
@@ -21637,7 +21636,6 @@
 .fcrc114.com
 .fcsc.com
 .fcvvip.com
-.fcwei.com
 .fcxxh.org
 .fcyhw.com
 .fcz360.com
@@ -30139,7 +30137,6 @@
 .ikaoguo.com
 .ikaolaa.com
 .ikaros.run
-.ikb.vc
 .ikcd.net
 .ikcest.org
 .ikcrm.com
@@ -45048,7 +45045,6 @@
 .qiushuzw.com
 .qiusuoge.com
 .qiutianaimeili.com
-.qiuvps.com
 .qiuweili.com
 .qiuwen.wiki
 .qiuwu.net
@@ -47908,6 +47904,7 @@
 .sghxz.com
 .sgjwb.com
 .sgllk.com
+.sgmedia.cloud
 .sgmlink.com
 .sgmwlu.com
 .sgmwsales.com

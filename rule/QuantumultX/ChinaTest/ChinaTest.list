@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-14 02:13:11
+# UPDATED: 2023-11-15 02:14:08
 # HOST: 166
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64521
+# HOST-SUFFIX: 64510
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64743
+# TOTAL: 64732
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -19784,7 +19784,6 @@ HOST-SUFFIX,dakawm.cc,ChinaTest
 HOST-SUFFIX,dakayi.cc,ChinaTest
 HOST-SUFFIX,dakele.com,ChinaTest
 HOST-SUFFIX,dalaba.com,ChinaTest
-HOST-SUFFIX,dalao.net,ChinaTest
 HOST-SUFFIX,dalaosz.com,ChinaTest
 HOST-SUFFIX,dalianair-china.com,ChinaTest
 HOST-SUFFIX,dalianiso.com,ChinaTest
@@ -23765,7 +23764,6 @@ HOST-SUFFIX,fcpowerup.com,ChinaTest
 HOST-SUFFIX,fcrc114.com,ChinaTest
 HOST-SUFFIX,fcsc.com,ChinaTest
 HOST-SUFFIX,fcvvip.com,ChinaTest
-HOST-SUFFIX,fcwei.com,ChinaTest
 HOST-SUFFIX,fcxxh.org,ChinaTest
 HOST-SUFFIX,fcyhw.com,ChinaTest
 HOST-SUFFIX,fcz360.com,ChinaTest
@@ -44847,7 +44845,6 @@ HOST-SUFFIX,qiushu.cc,ChinaTest
 HOST-SUFFIX,qiushuzw.com,ChinaTest
 HOST-SUFFIX,qiusuoge.com,ChinaTest
 HOST-SUFFIX,qiutianaimeili.com,ChinaTest
-HOST-SUFFIX,qiuvps.com,ChinaTest
 HOST-SUFFIX,qiuweili.com,ChinaTest
 HOST-SUFFIX,qiuwu.net,ChinaTest
 HOST-SUFFIX,qiuxue360.com,ChinaTest
@@ -47401,6 +47398,7 @@ HOST-SUFFIX,sge.sh,ChinaTest
 HOST-SUFFIX,sghxz.com,ChinaTest
 HOST-SUFFIX,sgjwb.com,ChinaTest
 HOST-SUFFIX,sgllk.com,ChinaTest
+HOST-SUFFIX,sgmedia.cloud,ChinaTest
 HOST-SUFFIX,sgmlink.com,ChinaTest
 HOST-SUFFIX,sgmwlu.com,ChinaTest
 HOST-SUFFIX,sgmwsales.com,ChinaTest
