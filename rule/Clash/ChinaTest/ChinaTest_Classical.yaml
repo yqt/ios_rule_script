@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-15 02:14:11
+# UPDATED: 2023-11-16 02:13:34
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64510
+# DOMAIN-SUFFIX: 64505
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64700
+# TOTAL: 64695
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -5922,6 +5922,7 @@ payload:
   - DOMAIN-SUFFIX,2fzb.com
   - DOMAIN-SUFFIX,2gdt.com
   - DOMAIN-SUFFIX,2gei.com
+  - DOMAIN-SUFFIX,2google.com
   - DOMAIN-SUFFIX,2haohr.com
   - DOMAIN-SUFFIX,2heng.xin
   - DOMAIN-SUFFIX,2hua.com
@@ -6313,6 +6314,7 @@ payload:
   - DOMAIN-SUFFIX,360u9.com
   - DOMAIN-SUFFIX,360uu.com
   - DOMAIN-SUFFIX,360vcloud.com
+  - DOMAIN-SUFFIX,360vipshop.com
   - DOMAIN-SUFFIX,360vrzy.com
   - DOMAIN-SUFFIX,360wbl.com
   - DOMAIN-SUFFIX,360weizhan.com
@@ -22770,7 +22772,6 @@ payload:
   - DOMAIN-SUFFIX,emojiwiz.com
   - DOMAIN-SUFFIX,emqx.com
   - DOMAIN-SUFFIX,emqx.net
-  - DOMAIN-SUFFIX,emr-volces.com
   - DOMAIN-SUFFIX,ems-audio.com
   - DOMAIN-SUFFIX,ems517.com
   - DOMAIN-SUFFIX,emshost.com
@@ -36796,6 +36797,7 @@ payload:
   - DOMAIN-SUFFIX,lewang.ltd
   - DOMAIN-SUFFIX,leweicn.com
   - DOMAIN-SUFFIX,lewen.la
+  - DOMAIN-SUFFIX,lewen567.com
   - DOMAIN-SUFFIX,lewenba.cc
   - DOMAIN-SUFFIX,lewenn.com
   - DOMAIN-SUFFIX,lewenxsw.com

@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-15 02:10:15
+# UPDATED: 2023-11-16 02:10:02
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12500
+# DOMAIN: 12498
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126546
+# DOMAIN-SUFFIX: 126634
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 140103
+# TOTAL: 140189
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -25767,7 +25767,6 @@
 .cdn.ad.citynews.it
 .cdn.adapi.fotoable.com
 .cdn.adc.eamobile.com
-.cdn.adevbom.com
 .cdn.adfenix.com
 .cdn.adm.myhayo.com
 .cdn.ads.jlscds.com
@@ -29110,8 +29109,7 @@
 .coixclamps.com
 .cojia.net
 .cojvur.icu
-.cokepompositycrest.com
-.cokqquqxrkxwqx.xyz
+.cokemoke.cf
 .col-med.com
 .col.casa.it
 .col.hztags.net
@@ -38476,7 +38474,6 @@
 .differenchi.pro
 .differentcoat.com
 .differentevidence.com
-.differentia.ru
 .differfundamental.com
 .difficultfog.com
 .difficultydilapidationsodium.com
@@ -44717,6 +44714,7 @@
 .essaypresidential.com
 .essbritanidim.club
 .essdhn.makuake.com
+.essen.trekkeeee.space
 .essential-trash.com
 .essential.awmcash.com
 .essentialpiece.pro
@@ -45314,7 +45312,6 @@
 .events2.www.edenfantasys.com
 .eventsapi.grocerkey.com
 .eventsbands.com
-.eventsink.api.redbee.live
 .eventsproxy.gargantuan.futureplc.com
 .eventstream.dodopizza.com
 .eventtracker.elitedaily.com
@@ -48306,7 +48303,6 @@
 .fogramokayed.com
 .fogsham.com
 .fogtrack.net
-.fogtweybq.com
 .foguroli.pro
 .fogvnoq.com
 .foheltou.com
@@ -51530,10 +51526,7 @@
 .ggxwb.miguvideo.com
 .ggxyyalrj.com
 .ggz55268.com
-.ggzckmlts.com
 .ggzkgfe.com
-.ggzzmm.shop
-.gh.vsee.me
 .gh8s.top
 .ghaahq.com
 .ghableleader.xyz
@@ -58524,9 +58517,7 @@
 .ibtjhkwytup.xyz
 .ibtmla.discovery-expedition.com
 .ibugreeza.com
-.ibukommfple.xyz
 .ibutheptesitrew.com
-.ibxckpvttgkat.com
 .ibza.romsenergy.com
 .ic-live.com
 .ic.ksosoft.com
@@ -60357,10 +60348,7 @@
 .inbox-messages.net
 .inbox.exacttarget.com
 .inboxtag.com
-.inbudewr.com
-.inc9lineedge.com
 .incarnatepicturesque.com
-.incaveprobeer.digital
 .inccnd.com
 .incentivegateway.com
 .incentivesnetwork.net
@@ -62901,9 +62889,7 @@
 .ixcgvh.cn
 .ixcris.com
 .ixelcpo.cn
-.ixgrvdfktpm.com
 .ixhbroslylgz.com
-.ixhvdktusdklt.xyz
 .ixia-elq.keysight.com
 .ixia-lp.keysight.com
 .ixiaa.com
@@ -64493,9 +64479,6 @@
 .joyorators.website
 .joyourself.com
 .joyous-concentrate.pro
-.joyous-north.pro
-.joyous-sensitive.com
-.joyous-storage.pro
 .joyouscreedweasel.com
 .joyoussurprise.com
 .joyrodethyme.digital
@@ -70583,7 +70566,6 @@
 .lkjgdyhtdrnau.com
 .lkjjhrwrcmvtl.com
 .lkjkbjnalnqnb.top
-.lkjoncgixi.com
 .lkjrx.xyz
 .lkkhedpqeduyukj.com
 .lkkmnudvvx.com
@@ -78785,6 +78767,7 @@
 .migc.g.mi.com
 .migcreport.g.mi.com
 .migdtqq.com
+.miggslxuqlowz.com
 .mighes.com
 .mighly.com
 .mightiger.net
@@ -79535,9 +79518,6 @@
 .mnemicguaza.cam
 .mnetads.com
 .mnevjhg.com
-.mnevunthkyb.com
-.mnfhxszj.xyz
-.mnfse.cn
 .mng-ads.com
 .mnhjk.com
 .mnhjkl.com
@@ -80559,7 +80539,6 @@
 .mpfofpynoououe.xyz
 .mpglie.apartmentguide.com
 .mpgsqk.xyz
-.mphcrjth.xyz
 .mphhgat.xyz
 .mphlrt.snipes.at
 .mpio.io
@@ -84615,8 +84594,6 @@
 .ntmemns.com
 .ntoftheusysia.info
 .ntoftheusysianedt.info
-.ntoftheusysih.info
-.ntopcd.underarmour.nl
 .ntopqualitylink.com
 .ntozchv.icu
 .ntozr.top
@@ -85463,8 +85440,6 @@
 .oconner.link
 .ocpi.americanexpress.ca
 .ocpydszq.xyz
-.ocrppeqevqihdi.com
-.ocryndsu.xyz
 .ocs.hagerty.com
 .ocslab.com
 .ocsp.godaddy.com
@@ -87589,7 +87564,6 @@
 .otinekocin.com
 .otireofhisl.one
 .otisephie.com
-.otisxx.sullyn.com
 .otjawzdugg.com
 .otjccfldytgkkox.xyz
 .otjedg.xyz
@@ -89887,6 +89861,7 @@
 .pci.aon.com
 .pcidata.cn
 .pciidk.shopee.vn
+.pcirurrkeazm.com
 .pcjdyp.com
 .pckgatups.bond
 .pclicks.com
@@ -90470,7 +90445,6 @@
 .pf.pchome.net
 .pf34zdjoeycr.com
 .pfactgmb.xyz
-.pfdclqlitxypve.com
 .pfddniedc.com
 .pfeite.com
 .pfepfe.cc
@@ -94660,7 +94634,6 @@
 .punchsub.net
 .puncol.com
 .punctuationceiling.com
-.pungentsmartlyhoarse.com
 .pungeywitlet.com
 .punishrwy.space
 .punkahskayles.com
@@ -101723,8 +101696,6 @@
 .safevisit.online
 .safewarns.com
 .saffianxenian.com
-.saffronrefuge.com
-.safprotection.com
 .safsdvc.com
 .sagbutsbhotia.com
 .sagcyq.xyz
@@ -102807,6 +102778,8 @@
 .sdfjtwp.com
 .sdfp.snssdk.com
 .sdfqs2.com
+.sdfsdafeeewwqq.trekkww.space
+.sdfsdfs.ooowpqoooowee222.fun
 .sdfsdvc.com
 .sdfsffa.trekkeeee.fun
 .sdfv66.com
@@ -106180,9 +106153,7 @@
 .skt-asum.com
 .skukfaokdm.com
 .skuligpzifan.com
-.skulkspreppie.com
 .skullhalfway.com
-.skunk.gameworkersolidarity.com
 .skwfupp.com
 .skwstat.ru
 .skxbbj.clasic.jp
@@ -119829,7 +119800,6 @@
 .titv.top
 .titvrbob.xyz
 .tivan.naver.com
-.tivapheegnoa.com
 .tivatingotherem.info
 .tiveacquisitsprett.info
 .tivixv.nutribullet.com
@@ -119906,8 +119876,6 @@
 .tjjs.km.com
 .tjme.io
 .tjmzzk.com
-.tjnffp.tilebar.com
-.tjnkrrygmgp.com
 .tjnvqptv.com
 .tjoomo.com
 .tjq.com
@@ -130927,6 +130895,7 @@
 .w3n.llbean.com
 .w3needman3w.com
 .w3plywbd72pf.com
+.w3wci.site
 .w4.com
 .w4jz.top
 .w4o7aea80ss3-a.akamaihd.net
@@ -134411,7 +134380,6 @@
 .www.adlogix.com
 .www.adnordics.com
 .www.adpinfo.com
-.www.adpmbtj.com
 .www.adpowerzone.com
 .www.adprudence.com
 .www.adquest3d.com
@@ -135780,9 +135748,7 @@
 .xguqeh.com
 .xgvenv.farmatodo.com.co
 .xgvfkge.cn
-.xgwhrvnxvhqgi.com
 .xgwkcpybi.com
-.xh.channercatasta.com
 .xh33g.net
 .xhaeuubhi.xyz
 .xhaiu.com
@@ -137236,6 +137202,9 @@
 .yasg114.com
 .yashi.com
 .yasma.top
+.yasmin.1.p2l.info
+.yasmin.3.p2l.info
+.yasmin.4.p2l.info
 .yassumeda.one
 .yast.rutube.ru
 .yatab.net
@@ -138372,7 +138341,6 @@
 .ytdksb.com
 .ytelc.com
 .yterxv.com
-.ytezym.xyz
 .ytfezzava.com
 .ytfotjfrttgyal.com
 .ytguowang.com
