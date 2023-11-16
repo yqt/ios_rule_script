@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-16 02:09:59
+# UPDATED: 2023-11-17 02:11:08
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 12498
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126634
+# DOMAIN-SUFFIX: 126707
 # IP-CIDR: 452
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 140201
+# TOTAL: 140274
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -824,6 +824,7 @@
 .17zhaole.com
 .17zheng.cn
 .18-plus.net
+.1800549549.rsc.cdn77.org
 .1800cnt.com
 .18052925.im.intermiles.com
 .180hits.de
@@ -848,6 +849,7 @@
 .188api.com
 .188cc81551.com
 .188xiaoba.net
+.1894157651.rsc.cdn77.org
 .189key.com
 .189zj.cn
 .18av.mm-cg.co
@@ -16668,6 +16670,7 @@
 .artsai.com
 .artsrookpassed.com
 .artsybutchercluster.com
+.arttrk.com
 .artz3keya.cyou
 .aruhdx.com
 .arukmstgnlaper.xyz
@@ -21050,7 +21053,6 @@
 .bhduan.xyz
 .bhfdgdounv.xyz
 .bhhkmzn.cn
-.bhhzlax.xyz
 .bhiagi.xyz
 .bhichong.com
 .bhicxb.cn
@@ -21615,6 +21617,7 @@
 .bjiuck.com
 .bjjabc.com
 .bjjnovsnejwm.com
+.bjjwvkbyfh.com
 .bjlmok.com
 .bjmantis.net
 .bjmcmj.cn
@@ -40541,7 +40544,6 @@
 .drydrum.com
 .dryerpreliminarymainly.com
 .dryinfestinsight.com
-.drylotsimbil.website
 .drystervernile.life
 .dryum.ru
 .dryzapsol.com
@@ -44394,9 +44396,6 @@
 .eqcilkii.com
 .eqclicks.movember.com
 .eqcwpeo.cn
-.eqdudaj.com
-.eqepeqrfaijsx.com
-.eqewdxnkex.com
 .eqfgc.com
 .eqghuu.com
 .eqhegcbxmsgwil.com
@@ -53903,7 +53902,6 @@
 .griksoud.net
 .grillcheekunfinished.com
 .grimacecalumny.com
-.grimsecretary.com
 .grinchsycoses.tech
 .gringrin.cn
 .grinnymohels.com
@@ -56032,6 +56030,7 @@
 .hfufkifmeni.com
 .hfuostp.com
 .hfvura.noriel.ro
+.hfwld.cn
 .hfwzbp.cn
 .hfxs01il.com
 .hfyxdl.com
@@ -56997,6 +56996,7 @@
 .hoonaptecun.com
 .hoood.info
 .hoopbeingsmigraine.com
+.hoopeeps.xyz
 .hoopersnonpoet.com
 .hoophaub.com
 .hoophejod.com
@@ -67269,7 +67269,6 @@
 .kuxinqi.com
 .kuxkddg.cn
 .kuyecelxn.com
-.kuyhaa-me.pw
 .kuyncvkntfke.com
 .kuyun.com
 .kuyw.cn
@@ -68982,7 +68981,6 @@
 .lhioqxkralmy.com
 .lhippac.cn
 .lhiswrkt.com
-.lhkmedia.in
 .lhmos.com
 .lhot.xyz
 .lhota.stanicezoo.cz
@@ -80564,8 +80562,6 @@
 .mpp9h.cn
 .mppapi.io
 .mppmnetwork.com
-.mppqellliovkuqi.com
-.mppwqimwfkrkpx.com
 .mpraven.org
 .mpression.net
 .mprhrvnxppdxci.com
@@ -83329,7 +83325,6 @@
 .nfuwpyx.com
 .nfwebminer.com
 .nfwivxk.com
-.nfxlrsxwvofi.com
 .nfyrumoska.com
 .nfztms.com
 .ng-vn-notice.gameitop.com
@@ -83822,7 +83817,6 @@
 .nld0jsg9s9p8.com
 .nlf6.vente-unique.pl
 .nlfbdgr.xyz
-.nlfqqjvyfr.com
 .nlgzhd.yoox.com
 .nlink.com.br
 .nljjem.honeys-onlineshop.com
@@ -91436,7 +91430,6 @@
 .pjewriw.top
 .pjgaez.autouncle.at
 .pjh7.us.chantelle.com
-.pjhbyaaadlw.com
 .pjivapiumeb.com
 .pjj9su.xyz
 .pjjlbjd.cn
@@ -96548,6 +96541,7 @@
 .qwjtdcl.cn
 .qwkmiot.com
 .qwmaeqrneewny.top
+.qwmdnlzitsys.com
 .qwnmfiti.xyz
 .qwogldy.top
 .qwqeifbsbxqozy.com
@@ -99143,6 +99137,7 @@
 .rgrd.xyz
 .rgtcqif.com
 .rgtqgsgwkopgnf.com
+.rguxbwbj.xyz
 .rgvqcsxqge.com
 .rgy1wk.ru
 .rgyfqq.com
@@ -100624,7 +100619,6 @@
 .rumpelstiltskinhead.com
 .rumstat.cdnvideo.ru
 .rumt-sg.com
-.rumt-zh.com
 .run-syndicate.com
 .run.haireig.com
 .runacjdfe.com
@@ -100924,7 +100918,6 @@
 .rzwhlgvzny.com
 .rzxov.cn
 .rzyosrlajku.com
-.rzzlhfx.com
 .rzzqhhoim.com
 .s-39.predictvideo.com
 .s-ad.rmp.rakuten.co.jp
@@ -104607,7 +104600,6 @@
 .sheewoamsaun.com
 .sheglach.net
 .shehikj.com
-.shek66.com
 .shelfoka.com
 .shell-recharge.tupinambaenergia.com.br
 .shellstore.info
@@ -115026,82 +115018,6 @@
 .sujev.cn
 .sukakongjian.top
 .sukcheatppwa.com
-.sukedrevenued.org
-.sukiem-muahe-pubgmobilevn.com
-.sukien-2021lmht.ga
-.sukien-ff-garena.com
-.sukien-freefirenammoi.site
-.sukien-garena-ob35.com
-.sukien-garenaffvn.com
-.sukien-giftcode24h-garena.com
-.sukien-giftcoded-garena.com
-.sukien-latquaff.com
-.sukien-lienminh.com
-.sukien-lienminhtocchien.site
-.sukien-lmht.com
-.sukien-lq-garena.com
-.sukien-nhanqua-garena.com
-.sukien-playtogether.com
-.sukien-pubgmbvng.com
-.sukien-pubgmobielievng.com
-.sukien-pubgmobilevietnam.club
-.sukien-quaythuongmembers.com
-.sukien-tet-mung1-lienquan.ga
-.sukienbts2022.com
-.sukiendtdv-lienquan-garena.co
-.sukienff.me
-.sukienffo4.com
-.sukienffvn.online
-.sukienffvn2021.com
-.sukienffvn2021.net
-.sukienfreefire.ezyro.com
-.sukienfreefirervn.com
-.sukienfreefirevietnam2021.com
-.sukienfreefive.com
-.sukiengarena2022.com
-.sukiengarenafreefire.tk
-.sukienhanghieuskin.weebly.com
-.sukienhefreefire.com
-.sukienhhlmht.weebly.com
-.sukienlienminh.online
-.sukienlienminh2022.weebly.com
-.sukienlienminhhanghieu.weebly.com
-.sukienlienquan2022-garena.com
-.sukienlienquan2022.com
-.sukienlienquanmobile2021.com
-.sukienlienquanthang8.com
-.sukienlienquanvietnam.com
-.sukienlienquanvn.net
-.sukienlienquanvn2021.com
-.sukienlmht.vn
-.sukienlq.com
-.sukienlq2021.com
-.sukienlqm.com
-.sukienmd.epizy.com
-.sukienmemberlienquan.com
-.sukienmemberships.com
-.sukienmuahe2021.com
-.sukiennhanqualqvn2021.com
-.sukienonline24h.com
-.sukienplaytogether.com
-.sukienpubg-thang6.tk
-.sukienpubgvng-global.com
-.sukienqua2022.com
-.sukienquatang.vn
-.sukienriot-lienminhtocchienvn.club
-.sukiensieusao.com
-.sukientanxuan2022.com
-.sukientogether.com
-.sukientrian2021.com
-.sukientrian2021.ga
-.sukientrianfreefire2021.ga
-.sukientrianfreefirevietnam.club
-.sukientriankhachhang2021.com
-.sukientrungthu-freefire.net
-.sukienvongquay.site
-.sukienvuongquocrong.com
-.sukienzingspeed.com
-.sukneyu.com
 .sukultingecauy.info
 .suldansspikes.com
 .sulelysr.com
@@ -117707,7 +117623,6 @@
 .tbieq.com
 .tbinq.com
 .tbiwkjomju.com
-.tbjasp.cyrillus.de
 .tbjfw.com
 .tbli.ir
 .tbm.snssdk.com
@@ -118602,7 +118517,6 @@
 .tfprivacy.live
 .tfptlgrw.co
 .tfptlgrw.live
-.tfqrqdpgarskxv.com
 .tfrwxv.xyz
 .tfssl.caohua.com
 .tftran.shop
@@ -129204,7 +129118,6 @@
 .vidsofdream.space
 .vidsofdream.today
 .vidsplanet.online
-.vidsplanet.space
 .vidsreal.online
 .vidsreal.space
 .vidsrev.com
@@ -140252,6 +140165,7 @@
 .zzsqqx.shopjapan.co.jp
 .zzsssy.com
 .zzsx8.com
+.zzuzishy.com
 .zzwflxs.com
 .zzwzsic.cn
 .zzxedr.xyz
