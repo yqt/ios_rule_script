@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-17 02:09:51
+# UPDATED: 2023-11-18 02:09:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16164
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97385
+# DOMAIN-SUFFIX: 97443
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 114395
+# TOTAL: 114453
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -434,6 +434,7 @@
 .11.hydcd.com
 .11.yiqig.cn
 .11.yiqig.com
+.1100058268.rsc.cdn77.org
 .1100ad.com
 .111111qb.com
 .1111supjavcom.xyz
@@ -587,6 +588,7 @@
 .146na.cn
 .147ad.com
 .1483167401.rsc.cdn77.org
+.1489231108.rsc.cdn77.org
 .148dfe140d0f3d5e.com
 .1493c7cc8b.com
 .1494.top
@@ -653,6 +655,9 @@
 .1717gs.com
 .1736253261.rsc.cdn77.org
 .173e.cn
+.1750802139.rsc.cdn77.org
+.1754457440.rsc.cdn77.org
+.1757151194.rsc.cdn77.org
 .175bar.com
 .176.net.jumia.ma
 .176um.com
@@ -9377,6 +9382,7 @@
 .adsninja.ca
 .adsniper.ru
 .adsnot.1javguru.xyz
+.adsnot.1supjav.xyz
 .adsocy.com
 .adsoftware.com
 .adsoftware.top
@@ -14595,6 +14601,7 @@
 .artsai.com
 .artsrookpassed.com
 .artsybutchercluster.com
+.arttrk.com
 .aruhdx.com
 .aruyevdqsnd.xyz
 .arvb.ewtcbedtmx.ru
@@ -16246,6 +16253,7 @@
 .b58ncoa1c07f.com
 .b5903af9fd.com
 .b5942f941d.com
+.b59812ee54afcabd.com
 .b5c28f9b84.com
 .b5e75c56.com
 .b5h7.com
@@ -18176,8 +18184,6 @@
 .bhdhddjbyf.com
 .bhduan.xyz
 .bhfdgdounv.xyz
-.bhgmlryalkwx.xyz
-.bhhzlax.xyz
 .bhiagi.xyz
 .bhichong.com
 .bhjac.azvub.cn
@@ -29398,7 +29404,6 @@
 .datingkoen.site
 .datingmeetnet.com
 .datingpush.space
-.datingshall.life
 .datingsphere.top
 .datingstyle.top
 .datingtoday.top
@@ -34357,7 +34362,7 @@
 .eiadf.xyz
 .eib2.cc
 .eicbgbnbvjf.com
-.eicxlvkek.com
+.eicxz6jfjaw.click
 .eicyds.qoo10.jp
 .eidosrebegin.com
 .eiewwepb.com
@@ -35599,9 +35604,6 @@
 .eqcilkii.com
 .eqclicks.movember.com
 .eqcwpeo.cn
-.eqdudaj.com
-.eqepeqrfaijsx.com
-.eqewdxnkex.com
 .eqfgc.com
 .eqghuu.com
 .eqhegcbxmsgwil.com
@@ -43301,7 +43303,8 @@
 .greatlove.pro
 .greatnumeric.com
 .greatservice.online
-.greatvay.xyz
+.greatstate.cloud
+.greatstoryvideo.se
 .greatvideos.xyz
 .greatviews.de
 .greatvpnoffers.com
@@ -45181,7 +45184,7 @@
 .hfresgtyytjncvvh.com
 .hfsteel.net
 .hfufkifmeni.com
-.hfvqqbwverxy.xyz
+.hfuostp.com
 .hfwld.cn
 .hfxs01il.com
 .hfyxdl.com
@@ -52338,7 +52341,6 @@
 .js.manga1000.top
 .js.mangajp.top
 .js.mangakl.su
-.js.mangalove.top
 .js.mbaidu.top
 .js.medi-8.net
 .js.mulan.cloud
@@ -62144,7 +62146,6 @@
 .meerihoh.net
 .meestuch.com
 .meet-buddy.com
-.meet.intercall.com
 .meet.westuc.com
 .meet3monk.com
 .meet4you.net
@@ -65476,8 +65477,6 @@
 .mpp9h.cn
 .mppapi.io
 .mppmnetwork.com
-.mppqellliovkuqi.com
-.mppwqimwfkrkpx.com
 .mpraven.org
 .mpression.net
 .mprhrvnxppdxci.com
@@ -66280,9 +66279,6 @@
 .myliveforyoudreder.com
 .mylives.xyz
 .mylmifwsi.com
-.mylorswtubw.com
-.mylotte.me
-.mylotte.shop
 .mylovelymommy.tk
 .mylovelypet.net
 .mylovesister.gq
@@ -67760,7 +67756,7 @@
 .nfuwpyx.com
 .nfwebminer.com
 .nfwivxk.com
-.nfxlrsxwvofi.com
+.nfyrumoska.com
 .nfztms.com
 .ng-vn-notice.gameitop.com
 .ng3.ads.warnerbros.com
@@ -68184,7 +68180,6 @@
 .nld0jsg9s9p8.com
 .nlf6.vente-unique.pl
 .nlfbdgr.xyz
-.nlfqqjvyfr.com
 .nlgzhd.yoox.com
 .nlink.com.br
 .nljjem.honeys-onlineshop.com
@@ -68233,7 +68228,6 @@
 .nmqbg.com
 .nmqdnykj.com
 .nmqwdmtwjleb.com
-.nmrjnqiwocfyi.com
 .nmrodam.com
 .nmssdbgmf.xyz
 .nmthpcanvokjbkh.xyz
@@ -71693,6 +71687,7 @@
 .owin.biqugego.com
 .owingsorthealthy.com
 .owingsucceeding.com
+.owithlerendu.com
 .owjbiwpkaoc.com
 .owjqox.vacansoleil.de
 .owktyvky.com
@@ -72756,9 +72751,7 @@
 .pbd.sogou.com
 .pbdjtlghawpiuoq.com
 .pbdo.net
-.pbecrm.aquanet.ru
 .pbfnyvl.com
-.pbgormggma.com
 .pbgrd.com
 .pbgtpjz.cn
 .pbhjohrx.xyz
@@ -74217,8 +74210,8 @@
 .pjcn.org
 .pjgaez.autouncle.at
 .pjh7.us.chantelle.com
-.pjhbyaaadlw.com
 .pjivapiumeb.com
+.pjj9su.xyz
 .pjjpp.com
 .pjlufuwtxv.com
 .pjnwmbz.com
@@ -77411,14 +77404,13 @@
 .pzlxnd.xyz
 .pzoifaum.info
 .pzoynkxexnx.com
-.pzqfmhy.com
+.pzpevk.newbalance.ru
 .pzqqstb.icu
 .pzrj6.top
 .pzuth.cn
 .pzvlnh.cn
 .pzwdtz.com
 .pzwjonv.icu
-.pzxhyp.aeropostale.com
 .pzykrcq.cn
 .pzz.events
 .q-counter.com
@@ -78445,6 +78437,7 @@
 .qwjtdcl.cn
 .qwkmiot.com
 .qwmaeqrneewny.top
+.qwmdnlzitsys.com
 .qwnmfiti.xyz
 .qwrdj.xyz
 .qwrot.cyou
@@ -81648,7 +81641,6 @@
 .rumpelstiltskinhead.com
 .rumstat.cdnvideo.ru
 .rumt-sg.com
-.rumt-zh.com
 .run-syndicate.com
 .run.haireig.com
 .runads.com
@@ -83721,6 +83713,7 @@
 .secondlytorch.com
 .secondmicrosite.com
 .secondquaver.com
+.secondtrick.com
 .secondunderminecalm.com
 .secpay.wostore.cn
 .secprf.com
@@ -84986,7 +84979,6 @@
 .sheewoamsaun.com
 .sheglach.net
 .shehikj.com
-.shek66.com
 .shelfoka.com
 .shell-recharge.tupinambaenergia.com.br
 .shellstore.info
@@ -93316,82 +93308,6 @@
 .sujev.cn
 .sukakongjian.top
 .sukcheatppwa.com
-.sukedrevenued.org
-.sukiem-muahe-pubgmobilevn.com
-.sukien-2021lmht.ga
-.sukien-ff-garena.com
-.sukien-freefirenammoi.site
-.sukien-garena-ob35.com
-.sukien-garenaffvn.com
-.sukien-giftcode24h-garena.com
-.sukien-giftcoded-garena.com
-.sukien-latquaff.com
-.sukien-lienminh.com
-.sukien-lienminhtocchien.site
-.sukien-lmht.com
-.sukien-lq-garena.com
-.sukien-nhanqua-garena.com
-.sukien-playtogether.com
-.sukien-pubgmbvng.com
-.sukien-pubgmobielievng.com
-.sukien-pubgmobilevietnam.club
-.sukien-quaythuongmembers.com
-.sukien-tet-mung1-lienquan.ga
-.sukienbts2022.com
-.sukiendtdv-lienquan-garena.co
-.sukienff.me
-.sukienffo4.com
-.sukienffvn.online
-.sukienffvn2021.com
-.sukienffvn2021.net
-.sukienfreefire.ezyro.com
-.sukienfreefirervn.com
-.sukienfreefirevietnam2021.com
-.sukienfreefive.com
-.sukiengarena2022.com
-.sukiengarenafreefire.tk
-.sukienhanghieuskin.weebly.com
-.sukienhefreefire.com
-.sukienhhlmht.weebly.com
-.sukienlienminh.online
-.sukienlienminh2022.weebly.com
-.sukienlienminhhanghieu.weebly.com
-.sukienlienquan2022-garena.com
-.sukienlienquan2022.com
-.sukienlienquanmobile2021.com
-.sukienlienquanthang8.com
-.sukienlienquanvietnam.com
-.sukienlienquanvn.net
-.sukienlienquanvn2021.com
-.sukienlmht.vn
-.sukienlq.com
-.sukienlq2021.com
-.sukienlqm.com
-.sukienmd.epizy.com
-.sukienmemberlienquan.com
-.sukienmemberships.com
-.sukienmuahe2021.com
-.sukiennhanqualqvn2021.com
-.sukienonline24h.com
-.sukienplaytogether.com
-.sukienpubg-thang6.tk
-.sukienpubgvng-global.com
-.sukienqua2022.com
-.sukienquatang.vn
-.sukienriot-lienminhtocchienvn.club
-.sukiensieusao.com
-.sukientanxuan2022.com
-.sukientogether.com
-.sukientrian2021.com
-.sukientrian2021.ga
-.sukientrianfreefire2021.ga
-.sukientrianfreefirevietnam.club
-.sukientriankhachhang2021.com
-.sukientrungthu-freefire.net
-.sukienvongquay.site
-.sukienvuongquocrong.com
-.sukienzingspeed.com
-.sukneyu.com
 .sukultingecauy.info
 .suldansspikes.com
 .sulelysr.com
@@ -94758,6 +94674,8 @@
 .tabloidbadger.com
 .tabloidsuggest.com
 .tabmo.io
+.taboizo.mom
+.tabonyventures.online
 .taboringrigri.com
 .tabulaeokas.com
 .tabutelei.guru
@@ -96201,7 +96119,6 @@
 .tfpeev.chanluu.com
 .tfppp.com
 .tfprivacy.live
-.tfqrqdpgarskxv.com
 .tfrwxv.xyz
 .tfssl.caohua.com
 .tftran.shop
@@ -114265,6 +114182,7 @@
 .zjxrg.top
 .zjybqqaleeva.top
 .zjybqqalenve.top
+.zjyeblzkajwjz.top
 .zk.91post.com
 .zk6.me
 .zkads.cc
@@ -114575,6 +114493,7 @@
 .ztqdkzn.cn
 .ztqnls.lojasrenner.com.br
 .ztrack.online
+.ztrc.cfd
 .ztrck.me
 .ztriskl.divisionfair.homes
 .ztsrv.com
@@ -114795,6 +114714,7 @@
 .zzsqqx.shopjapan.co.jp
 .zzsssy.com
 .zzsx8.com
+.zzuzishy.com
 .zzwflxs.com
 .zzxedr.xyz
 .zzxjlr.com

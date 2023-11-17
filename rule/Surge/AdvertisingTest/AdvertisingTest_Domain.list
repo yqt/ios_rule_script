@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-17 02:11:08
+# UPDATED: 2023-11-18 02:10:56
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 12498
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126707
+# DOMAIN-SUFFIX: 126756
 # IP-CIDR: 452
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 140274
+# TOTAL: 140323
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -541,6 +541,7 @@
 .11.hydcd.com
 .11.yiqig.cn
 .11.yiqig.com
+.1100058268.rsc.cdn77.org
 .1100ad.com
 .110380d053f716c4.com
 .1104piaoba2022.xyz
@@ -722,6 +723,7 @@
 .147ad.com
 .1480876790.rsc.cdn77.org
 .1483167401.rsc.cdn77.org
+.1489231108.rsc.cdn77.org
 .148dfe140d0f3d5e.com
 .1493c7cc8b.com
 .1494.top
@@ -797,6 +799,9 @@
 .1731d04ba1.com
 .1736253261.rsc.cdn77.org
 .173e.cn
+.1750802139.rsc.cdn77.org
+.1754457440.rsc.cdn77.org
+.1757151194.rsc.cdn77.org
 .175bar.com
 .176.net.jumia.ma
 .176um.com
@@ -10887,6 +10892,7 @@
 .adsninja.ca
 .adsniper.ru
 .adsnot.1javguru.xyz
+.adsnot.1supjav.xyz
 .adsocy.com
 .adsoftware.com
 .adsoftware.top
@@ -19860,7 +19866,6 @@
 .bcffkvpjqferl.com
 .bcfgkycsn.com
 .bcfgwi.skidxb.com
-.bcfhva.tradingpost.com.au
 .bcgame.top
 .bcggo.ru
 .bcguwwgkms.xyz
@@ -25035,10 +25040,7 @@
 .caoliuzx.tk
 .caolvch.com
 .caomeixz7.xyz
-.caonhanh.xyz
 .caonme.xyz
-.caoqebfaqnswc.com
-.caoviet.net
 .caoys1998.xyz
 .caozhixiong.cn
 .cap-cap-pop.com
@@ -53789,7 +53791,8 @@
 .greatlove.pro
 .greatnumeric.com
 .greatservice.online
-.greatvay.xyz
+.greatstate.cloud
+.greatstoryvideo.se
 .greatvideos.xyz
 .greatviews.de
 .greatvpnoffers.com
@@ -54164,7 +54167,6 @@
 .gsyegj.shatura.com
 .gszbba.cn
 .gszetzdm.xyz
-.gsziafjjgeq.com
 .gt.duowan.com
 .gt.unurnedbeleve.com
 .gt.yy.com
@@ -56273,8 +56275,6 @@
 .highwaydizzy.com
 .higoo4.com
 .higseres.com
-.higylflsnlmfk.com
-.hihashop.com
 .hihlj.online
 .hihufu.cn
 .hiibcfr.cn
@@ -66623,6 +66623,7 @@
 .knc.lv
 .kncecafvdeu.info
 .kncrnjspoxd.com
+.kncrya.xyz
 .kneadegotisticalrational.com
 .kneeansweras.com
 .kneescountdownenforcement.com
@@ -76303,7 +76304,6 @@
 .meadowlark.psynapse.no
 .meadowleader.com
 .meadowlullaby.com
-.meager-object.com
 .meagerdrawing.pro
 .meagplin.com
 .meakam.com
@@ -81641,6 +81641,7 @@
 .mylivechat.com
 .myliveforyoudreder.com
 .mylives.xyz
+.mylmifwsi.com
 .mylovelymommy.tk
 .mylovelypet.net
 .mylovesister.gq
@@ -83873,7 +83874,6 @@
 .nmqbg.com
 .nmqdnykj.com
 .nmqwdmtwjleb.com
-.nmrjnqiwocfyi.com
 .nmrlx.cn
 .nmrodam.com
 .nmssdbgmf.xyz
@@ -83926,7 +83926,6 @@
 .nnvtvx.chegg.com
 .nnwm.com
 .nnxijkdigwywla.com
-.no.resailslemures.com
 .no2veeamggaseber.com
 .no9pldds1lmn3.soundcloud.com
 .noa0.compteczam.fr
@@ -87996,6 +87995,7 @@
 .owin.biqugego.com
 .owingsorthealthy.com
 .owingsucceeding.com
+.owithlerendu.com
 .owjbiwpkaoc.com
 .owjqox.vacansoleil.de
 .owkeyiuxindchj.com
@@ -89765,6 +89765,7 @@
 .pbdjtlghawpiuoq.com
 .pbdo.net
 .pbecrm.aquanet.ru
+.pbfnyvl.com
 .pbgrd.com
 .pbgtpjz.cn
 .pbhdwm.cn
@@ -116786,6 +116787,8 @@
 .tabloidbadger.com
 .tabloidsuggest.com
 .tabmo.io
+.taboizo.mom
+.tabonyventures.online
 .taboringrigri.com
 .taboutricewu.xyz
 .tabulaeokas.com
@@ -139478,6 +139481,7 @@
 .zjxrg.top
 .zjybqqaleeva.top
 .zjybqqalenve.top
+.zjyeblzkajwjz.top
 .zjzain.aboutyou.bg
 .zjzste.tom-tailor.de
 .zk.91post.com
@@ -139870,6 +139874,7 @@
 .ztqdkzn.cn
 .ztqnls.lojasrenner.com.br
 .ztrack.online
+.ztrc.cfd
 .ztrck.me
 .ztriskl.divisionfair.homes
 .ztsrv.com

@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-16 02:13:34
+# UPDATED: 2023-11-18 02:15:31
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64505
+# DOMAIN-SUFFIX: 64499
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64695
+# TOTAL: 64689
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -7902,6 +7902,8 @@ DOMAIN-SUFFIX,56-7.com
 DOMAIN-SUFFIX,560.im
 DOMAIN-SUFFIX,56015.com
 DOMAIN-SUFFIX,5611.com
+DOMAIN-SUFFIX,5611501.cc
+DOMAIN-SUFFIX,5611535.cc
 DOMAIN-SUFFIX,561218.com
 DOMAIN-SUFFIX,56135.com
 DOMAIN-SUFFIX,5629.com
@@ -8079,6 +8081,8 @@ DOMAIN-SUFFIX,5951835ccc.com
 DOMAIN-SUFFIX,595818.com
 DOMAIN-SUFFIX,595led.com
 DOMAIN-SUFFIX,595tuchuang.com
+DOMAIN-SUFFIX,595tz286.cc
+DOMAIN-SUFFIX,595tz440.cc
 DOMAIN-SUFFIX,596fc.com
 DOMAIN-SUFFIX,597.com
 DOMAIN-SUFFIX,59706.com
@@ -10616,6 +10620,7 @@ DOMAIN-SUFFIX,aerochina.net
 DOMAIN-SUFFIX,aesdrink.com
 DOMAIN-SUFFIX,aesucai.com
 DOMAIN-SUFFIX,aet21.com
+DOMAIN-SUFFIX,aetomate13.vip
 DOMAIN-SUFFIX,aevit.xyz
 DOMAIN-SUFFIX,aexpec.com
 DOMAIN-SUFFIX,af360.com
@@ -17323,6 +17328,7 @@ DOMAIN-SUFFIX,chuanglian.net
 DOMAIN-SUFFIX,chuanglianhui.com
 DOMAIN-SUFFIX,chuanglinggame.com
 DOMAIN-SUFFIX,chuangluo.com
+DOMAIN-SUFFIX,chuangruo8.com
 DOMAIN-SUFFIX,chuangseo.com
 DOMAIN-SUFFIX,chuangshifurui.com
 DOMAIN-SUFFIX,chuangshitech.com
@@ -26300,6 +26306,7 @@ DOMAIN-SUFFIX,gs12122.com
 DOMAIN-SUFFIX,gs14.com
 DOMAIN-SUFFIX,gs1cn.org
 DOMAIN-SUFFIX,gs307.com
+DOMAIN-SUFFIX,gs3jro.xyz
 DOMAIN-SUFFIX,gsafc.com
 DOMAIN-SUFFIX,gsafety.com
 DOMAIN-SUFFIX,gsbankchina.com
@@ -46738,6 +46745,7 @@ DOMAIN-SUFFIX,santiwang.com
 DOMAIN-SUFFIX,santiyun.com
 DOMAIN-SUFFIX,santongit.com
 DOMAIN-SUFFIX,santostang.com
+DOMAIN-SUFFIX,sanweihou.com
 DOMAIN-SUFFIX,sanweimoxing.com
 DOMAIN-SUFFIX,sanweiyiti.org
 DOMAIN-SUFFIX,sanwen.com
@@ -58700,6 +58708,7 @@ DOMAIN-SUFFIX,xlyouxi.com
 DOMAIN-SUFFIX,xlys1904.com
 DOMAIN-SUFFIX,xlysauc.com
 DOMAIN-SUFFIX,xlysoft.net
+DOMAIN-SUFFIX,xlzcdn.com
 DOMAIN-SUFFIX,xlzfpt.com
 DOMAIN-SUFFIX,xlzhao.com
 DOMAIN-SUFFIX,xlzx.com
@@ -63233,6 +63242,7 @@ DOMAIN-SUFFIX,zhisheji.com
 DOMAIN-SUFFIX,zhishengbang.com
 DOMAIN-SUFFIX,zhishi.com
 DOMAIN-SUFFIX,zhishi.tech
+DOMAIN-SUFFIX,zhishibo.com
 DOMAIN-SUFFIX,zhishifenzi.com
 DOMAIN-SUFFIX,zhishilin.com
 DOMAIN-SUFFIX,zhishisoft.com
@@ -64097,7 +64107,6 @@ DOMAIN-SUFFIX,zlkb.net
 DOMAIN-SUFFIX,zlketang.com
 DOMAIN-SUFFIX,zlkj.fit
 DOMAIN-SUFFIX,zllife.net
-DOMAIN-SUFFIX,zlog.cc
 DOMAIN-SUFFIX,zlongad.com
 DOMAIN-SUFFIX,zlongame.com
 DOMAIN-SUFFIX,zlook.com
