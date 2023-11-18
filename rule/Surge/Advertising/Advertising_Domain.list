@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-18 02:09:29
+# UPDATED: 2023-11-19 02:08:59
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 16164
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97443
+# DOMAIN-SUFFIX: 97503
 # IP-CIDR: 428
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 114465
+# TOTAL: 114525
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -282,7 +282,6 @@
 .0xxd.com
 .0yzabcd.com
 .0z5jn.cn
-.1-1ads.com
 .1-cl0ud.com
 .1-creative-1.com
 .1.01fy.cn
@@ -840,7 +839,6 @@
 .1is7m7.cyou
 .1itot7tm.de
 .1iuybpo.com
-.1j02claf9p.pro
 .1j2h31.cn
 .1j771bhgi.de
 .1jc5t.xyz
@@ -1002,6 +1000,10 @@
 .2020mustang.com
 .2021.dxsbb.com
 .2022welcome.com
+.202305300.cn
+.202306135.cn
+.202306178.cn
+.202306196.cn
 .2023cradep0sit.com
 .2023sb.net
 .2024114t.shop
@@ -17190,9 +17192,6 @@
 .bcfads.com
 .bcfaonqj.com
 .bcffkvpjqferl.com
-.bcfgkycsn.com
-.bcfgwi.skidxb.com
-.bcfhva.tradingpost.com.au
 .bcgame.top
 .bcggo.ru
 .bch8.destinia.co
@@ -21544,10 +21543,7 @@
 .caoliuzx.tk
 .caolvch.com
 .caomeixz7.xyz
-.caonhanh.xyz
 .caonme.xyz
-.caoqebfaqnswc.com
-.caoviet.net
 .caoys1998.xyz
 .caozhixiong.cn
 .cap-cap-pop.com
@@ -24465,6 +24461,8 @@
 .cnzz.net
 .cnzz.yifenghuyu.com
 .cnzzlink.com
+.co-lih.space
+.co.5.p2l.info
 .co.akisinn.info
 .co.dewrain.life
 .co.dtech.baofeng.com
@@ -27452,7 +27450,6 @@
 .cylinderlongcheng.com
 .cylindermonastery.com
 .cylindrical-pollution.pro
-.cylsszrrfbkgjf.com
 .cymqhqxuchas.com
 .cyneburg-yam.com
 .cynicalspireheroism.com
@@ -32515,6 +32512,7 @@
 .drxrc.com
 .drydrum.com
 .dryerpreliminarymainly.com
+.dryerslegatos.com
 .dryinfestinsight.com
 .drystervernile.life
 .dryzapsol.com
@@ -43305,7 +43303,6 @@
 .greatlove.pro
 .greatnumeric.com
 .greatservice.online
-.greatstate.cloud
 .greatstoryvideo.se
 .greatvideos.xyz
 .greatviews.de
@@ -43626,7 +43623,6 @@
 .gsyegj.shatura.com
 .gszbba.cn
 .gszetzdm.xyz
-.gsziafjjgeq.com
 .gt.duowan.com
 .gt.yy.com
 .gt091102204euc.click
@@ -45395,8 +45391,7 @@
 .highwaycpmrevenue.com
 .highwaydizzy.com
 .higoo4.com
-.higylflsnlmfk.com
-.hihashop.com
+.higseres.com
 .hihlj.online
 .hihufu.cn
 .hiido.com
@@ -47457,6 +47452,7 @@
 .ieuhd.com
 .ieurop.net
 .ieurope1.fr
+.ievclqmo.com
 .iewad.net
 .iewhonhdvryu.com
 .iewtwo.xyz
@@ -51020,7 +51016,6 @@
 .ja9377.com
 .jaahrktlbd.com
 .jaaqbbqbst.com
-.jaaraypdsr.xyz
 .jaat3ax.site
 .jaavnacsdw.com
 .jab88.com
@@ -53953,6 +53948,7 @@
 .knc.lv
 .kncecafvdeu.info
 .kncrnjspoxd.com
+.kncrya.xyz
 .kneadegotisticalrational.com
 .kneeansweras.com
 .kneescountdownenforcement.com
@@ -55901,7 +55897,6 @@
 .lfdydk.com
 .lfeaqcozlbki.com
 .lfeeder.com
-.lfercl.tcb-beauty.net
 .lfewvebxzt.com
 .lffsnhwhxnqn.com
 .lfhnkp.com
@@ -58523,7 +58518,6 @@
 .lrnetherlands.wolterskluwer.com
 .lrp7.carrefour-banque.fr
 .lrpoint.fr
-.lrpoland.wolterskluwer.com
 .lrqknpk.com
 .lrqpyhn.icu
 .lrqvmaverkabb.top
@@ -59293,7 +59287,6 @@
 .m2.qinsx.cn
 .m2.washmen.com
 .m216j.cn
-.m28458.top
 .m2k3j7x8.com
 .m2pub.com
 .m2track.co
@@ -61819,7 +61812,6 @@
 .mea.com
 .meadowdocumentcaprizecaprize.com
 .meadowlullaby.com
-.meager-object.com
 .meagerdrawing.pro
 .meagplin.com
 .meakam.com
@@ -67642,7 +67634,6 @@
 .newsignites.com
 .newsinform.net
 .newsiqra.com
-.newsletter-link.com
 .newsletter.bcautoencheres.fr
 .newsletter.davey.com
 .newsletter.sst-apac.test.cjmadobe.com
@@ -69858,6 +69849,7 @@
 .ografazu.xyz
 .ograuwih.com
 .ogrid.org
+.ogrltiahldr.com
 .ogrrmasukq.com
 .ogskle.com
 .ogt.jp
@@ -95587,7 +95579,6 @@
 .teambetaffiliates.com
 .teamhodges.hodgesualumniandfriends.com
 .teamjwar.com
-.teammate.arclogics.com
 .teamrtb.net
 .teamsmarched.com
 .teamsperilous.com
@@ -100141,6 +100132,7 @@
 .tracking.ehrintelligence.com
 .tracking.eloq.soa.org
 .tracking.email-mandrill.pushd.com
+.tracking.emoneyadvisor.com
 .tracking.emsmobile.de
 .tracking.engagedigitalmedia.com
 .tracking.engineering.cloud.seek.com.au
@@ -104229,7 +104221,6 @@
 .utterlyfunding.com
 .uttermosthobbies.com
 .utubepwhml.com
-.utwwzqdx.xyz
 .utzwgittihhvn.com
 .uu.domainforlite.com
 .uu.feipukeplus.com
@@ -104500,6 +104491,7 @@
 .vads.vn
 .vaebard.com
 .vaedan.top
+.vaeesspot.com
 .vaehxkhbhguaq.xyz
 .vaemfecqllefj.xyz
 .vagromdecane.website
@@ -105508,6 +105500,7 @@
 .vidsforyou.mom
 .vidsforyou.online
 .vidsfull.online
+.vidsfull.space
 .vidsfun.info
 .vidsfun.online
 .vidsfun.space
@@ -110041,6 +110034,7 @@
 .www-stats.unipi.it
 .www-x-videos.com
 .www.0202.com.tw
+.www.1-1ads.com
 .www.1120.com.tw
 .www.1hkfq6598i.com
 .www.31d.net
@@ -114495,7 +114489,6 @@
 .ztqdkzn.cn
 .ztqnls.lojasrenner.com.br
 .ztrack.online
-.ztrc.cfd
 .ztrck.me
 .ztriskl.divisionfair.homes
 .ztsrv.com

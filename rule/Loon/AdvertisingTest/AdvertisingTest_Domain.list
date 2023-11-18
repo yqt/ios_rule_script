@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-18 02:11:00
+# UPDATED: 2023-11-19 02:10:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12498
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126756
+# DOMAIN-SUFFIX: 126802
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 140311
+# TOTAL: 140357
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -355,7 +355,6 @@
 .0xxd.com
 .0yzabcd.com
 .0z5jn.cn
-.1-1ads.com
 .1-cl0ud.com
 .1-creative-1.com
 .1.01fy.cn
@@ -937,7 +936,6 @@
 .1ccbt.com
 .1cctcm1gq.de
 .1cdhf.top
-.1cecn.icu
 .1cjzfyb.com
 .1ckbfk08k.de
 .1cpbac.ru
@@ -1003,7 +1001,6 @@
 .1is7m7.cyou
 .1itot7tm.de
 .1iuybpo.com
-.1j02claf9p.pro
 .1j2h31.cn
 .1j771bhgi.de
 .1jc5t.xyz
@@ -1189,6 +1186,10 @@
 .2022fada1028.xyz
 .2022shoupidan1024.xyz
 .2022welcome.com
+.202305300.cn
+.202306135.cn
+.202306178.cn
+.202306196.cn
 .2023cradep0sit.com
 .2023sb.net
 .2024114t.shop
@@ -24463,6 +24464,7 @@
 .c16cp358.com
 .c17b4e420d.com
 .c19f2.cn
+.c1d8i3p6.com
 .c1ecda.com
 .c1exchange.com
 .c1hit.zerkalo.io
@@ -28856,6 +28858,8 @@
 .cnzz.pygold.net
 .cnzz.yifenghuyu.com
 .cnzzlink.com
+.co-lih.space
+.co.5.p2l.info
 .co.akisinn.info
 .co.dewrain.life
 .co.dtech.baofeng.com
@@ -32493,7 +32497,6 @@
 .cylinderlongcheng.com
 .cylindermonastery.com
 .cylindrical-pollution.pro
-.cylsszrrfbkgjf.com
 .cymqhqxuchas.com
 .cyneburg-yam.com
 .cynicalspireheroism.com
@@ -37264,7 +37267,6 @@
 .dealsfor.life
 .dealtbroodconstitutional.com
 .deansent.top
-.deansoorawn.com
 .deanth.xyz
 .deanvividsquall.com
 .deapi.afreecatv.com
@@ -40543,6 +40545,7 @@
 .drxrc.com
 .drydrum.com
 .dryerpreliminarymainly.com
+.dryerslegatos.com
 .dryinfestinsight.com
 .drystervernile.life
 .dryum.ru
@@ -53789,7 +53792,6 @@
 .greatlove.pro
 .greatnumeric.com
 .greatservice.online
-.greatstate.cloud
 .greatstoryvideo.se
 .greatvideos.xyz
 .greatviews.de
@@ -58807,6 +58809,7 @@
 .ieuhd.com
 .ieurop.net
 .ieurope1.fr
+.ievclqmo.com
 .iewad.net
 .iewhonhdvryu.com
 .iewtwo.xyz
@@ -63078,7 +63081,6 @@
 .ja9377.com
 .jaahrktlbd.com
 .jaaqbbqbst.com
-.jaaraypdsr.xyz
 .jaat3ax.site
 .jaavnacsdw.com
 .jab88.com
@@ -63559,7 +63561,6 @@
 .jeoway.com
 .jeperdee.net
 .jeqixokniyny.com
-.jeqjawqoeraab.top
 .jeqxuvv.icu
 .jerboasjourney.com
 .jeribpupiled.com
@@ -72396,7 +72397,6 @@
 .lvjtiaa.xyz
 .lvkuaizi.com
 .lvkwz.com
-.lvlmhyjzdan.com
 .lvnlrmn.xyz
 .lvnmzhhod.com
 .lvnnqdgxdlhj.com
@@ -73360,7 +73360,6 @@
 .m2.qinsx.cn
 .m2.washmen.com
 .m216j.cn
-.m28458.top
 .m2k3j7x8.com
 .m2m-api.inmarket.com
 .m2pub.com
@@ -83178,7 +83177,6 @@
 .newsignites.com
 .newsinform.net
 .newsiqra.com
-.newsletter-link.com
 .newsletter.banquepopulaire.fr
 .newsletter.bcautoencheres.fr
 .newsletter.bdnews24.com
@@ -129107,6 +129105,7 @@
 .vidsforyou.mom
 .vidsforyou.online
 .vidsfull.online
+.vidsfull.space
 .vidsfun.info
 .vidsfun.online
 .vidsfun.space
@@ -134272,6 +134271,7 @@
 .www-stats.unipi.it
 .www-tb7c.pr0gramm.com
 .www-x-videos.com
+.www.1-1ads.com
 .www.1120.com.tw
 .www.1hkfq6598i.com
 .www.31d.net
@@ -139872,7 +139872,6 @@
 .ztqdkzn.cn
 .ztqnls.lojasrenner.com.br
 .ztrack.online
-.ztrc.cfd
 .ztrck.me
 .ztriskl.divisionfair.homes
 .ztsrv.com
