@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-19 02:09:08
+# UPDATED: 2023-11-20 02:09:05
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16164
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97503
+# DOMAIN-SUFFIX: 97537
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 114513
+# TOTAL: 114547
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -784,7 +784,6 @@
 .1ccbt.com
 .1cctcm1gq.de
 .1cdhf.top
-.1cecn.icu
 .1cjzfyb.com
 .1ckbfk08k.de
 .1cpbac.ru
@@ -877,7 +876,6 @@
 .1mpi.com
 .1mrmsp0ki.de
 .1mxabnt.com
-.1ng2l.space
 .1niao20230410.live
 .1nimo.com
 .1nqrqa.de
@@ -13036,6 +13034,7 @@
 .aoodoo.weiphone.com
 .aoooysewk.com
 .aopdqdrkgqbtgci.com
+.aopover.click
 .aopxnvrugx.com
 .aoqcqh.eavalyne.lt
 .aoqhfs.optikdodomu.cz
@@ -15993,6 +15992,7 @@
 .aypahalndxrxon.com
 .ayprokwbpc.com
 .ayqxx.com
+.ayra.fun
 .ayrovalcontain.com
 .ayrovalcontain.info
 .ayrtpmwuymzbbq.com
@@ -21077,6 +21077,7 @@
 .c16cp358.com
 .c17b4e420d.com
 .c19f2.cn
+.c1d8i3p6.com
 .c1ecda.com
 .c1exchange.com
 .c1hit.zerkalo.io
@@ -24459,7 +24460,6 @@
 .cnzz.net
 .cnzz.yifenghuyu.com
 .cnzzlink.com
-.co-lih.space
 .co.5.p2l.info
 .co.akisinn.info
 .co.dewrain.life
@@ -26590,8 +26590,7 @@
 .creative.live.missav.com
 .creative.live.tktube.com
 .creative.live7mm.tv
-.creative.myavlive.com
-.creative.ohmycams.com
+.creative.mnaspm.com
 .creative.sphdigital.com
 .creative.strip.chat
 .creative.stripchat.com
@@ -29776,7 +29775,6 @@
 .dealsfor.life
 .dealtbroodconstitutional.com
 .deansent.top
-.deansoorawn.com
 .deanth.xyz
 .deanvividsquall.com
 .deapi.afreecatv.com
@@ -32944,6 +32942,7 @@
 .dwomtkmr.com
 .dwoonqodmk.com
 .dwoopjvhazta.com
+.dwq661.biz
 .dwr3zytn850g.cloudfront.net
 .dwrdjfdxtoel.com
 .dwrlwx.polo-motorrad.de
@@ -35036,6 +35035,7 @@
 .emoticappfriends.com
 .emoticfriends.com
 .emoticon.sns.iqiyi.com
+.emotional-register.com
 .emotionalfriendship.com
 .emotionaljudgment.pro
 .emotionallycosmeticshardly.com
@@ -36403,7 +36403,6 @@
 .everestop.io
 .everesttech.net
 .evergage.com
-.evergreentroutpitiful.com
 .everlastinghighlight.com
 .everprobation.com
 .eversales.space
@@ -36936,6 +36935,7 @@
 .ezl.com
 .ezlgszdb.icu
 .ezmob.com
+.ezngisyw.xyz
 .eznoz.xyz
 .ezobam.jdsports.nl
 .ezodn.com
@@ -51414,7 +51414,7 @@
 .jeopardizeflirting.com
 .jeoway.com
 .jeperdee.net
-.jeqjawqoeraab.top
+.jeqixokniyny.com
 .jeqxuvv.icu
 .jeribpupiled.com
 .jerjrqqzmzkzy.top
@@ -51915,7 +51915,6 @@
 .jmvisuals.com
 .jmvscgd.com
 .jmvvpb.xyz
-.jmxiwcjx.com
 .jmxlaser.com
 .jmylj.cn
 .jmzill.manterolcasa.com
@@ -57518,7 +57517,6 @@
 .lnzangcha.com
 .lnzjlr.xyz
 .lnzqmaqzjlnnw.top
-.lo.dama582.com
 .lo8ve6ygour3pea4cee.com
 .loachesmanjeri.space
 .loader-cdn.azureedge.net
@@ -58808,7 +58806,6 @@
 .lvjtiaa.xyz
 .lvkuaizi.com
 .lvkwz.com
-.lvlmhyjzdan.com
 .lvnlrmn.xyz
 .lvnmzhhod.com
 .lvnnqdgxdlhj.com
@@ -107022,7 +107019,6 @@
 .vzeyba.shopee.co.id
 .vzfizr.xyz
 .vzhjnorkudcxbiy.com
-.vzhjnw.officedepot.com
 .vzhzlraxtwgyn.com
 .vzigttqgqx.com
 .vzoarcomvorz.com
@@ -111187,6 +111183,7 @@
 .xgspzv.troyestore.com
 .xgstemmj.com
 .xguqeh.com
+.xgwhrvnxvhqgi.com
 .xgwkcpybi.com
 .xh33g.net
 .xhaeuubhi.xyz
@@ -114487,6 +114484,7 @@
 .ztqdkzn.cn
 .ztqnls.lojasrenner.com.br
 .ztrack.online
+.ztrc.cfd
 .ztrck.me
 .ztriskl.divisionfair.homes
 .ztsrv.com

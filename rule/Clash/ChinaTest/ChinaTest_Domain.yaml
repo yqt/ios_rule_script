@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-18 02:15:31
+# UPDATED: 2023-11-20 02:14:23
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64499
+# DOMAIN-SUFFIX: 64439
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64689
+# TOTAL: 64629
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -10621,7 +10621,6 @@ payload:
   - '+.aesdrink.com'
   - '+.aesucai.com'
   - '+.aet21.com'
-  - '+.aetomate13.vip'
   - '+.aevit.xyz'
   - '+.aexpec.com'
   - '+.af360.com'
@@ -18700,7 +18699,7 @@ payload:
   - '+.coolstyle.org'
   - '+.cooluc.com'
   - '+.coolwarmsy.com'
-  - '+.coolwei.com'
+  - '+.coolxap.com'
   - '+.coolxcloud.com'
   - '+.coolyun.com'
   - '+.coolzcloud.com'
@@ -40843,7 +40842,6 @@ payload:
   - '+.myroome.com'
   - '+.myrtb.net'
   - '+.myrunners.com'
-  - '+.myscore.org'
   - '+.mysemlife.com'
   - '+.myshow800.com'
   - '+.myshown.com'
@@ -42581,6 +42579,7 @@ payload:
   - '+.oss-cn-beijing-aliyuncs.com'
   - '+.oss.link'
   - '+.oss.so'
+  - '+.ossdshxh.com'
   - '+.osvlabs.com'
   - '+.oswdj.com'
   - '+.oswhy.com'
@@ -44490,6 +44489,7 @@ payload:
   - '+.qianxunclub.com'
   - '+.qianyan.biz'
   - '+.qianyan001.com'
+  - '+.qianyanapp.com'
   - '+.qianyuangx.com'
   - '+.qianyue999.com'
   - '+.qianyuewenhua.xyz'
@@ -52774,6 +52774,7 @@ payload:
   - '+.tuimotuimo.com'
   - '+.tuipeanut.com'
   - '+.tuipear.com'
+  - '+.tuipink.com'
   - '+.tuiplay.com'
   - '+.tuirabbit.com'
   - '+.tuirice.com'
@@ -58866,8 +58867,6 @@ payload:
   - '+.xn--otu796d'
   - '+.xn--pbt1sj69ag8b.com'
   - '+.xn--q20av2y36ac54a.com'
-  - '+.xn--rhqv96g'
-  - '+.xn--ruqx2ez8em6ez9pv4l.com'
   - '+.xn--s4t325g.com'
   - '+.xn--ses554g'
   - '+.xn--uisx71c0r1a.com'
@@ -59436,6 +59435,7 @@ payload:
   - '+.xycdn.net'
   - '+.xyclouds.com'
   - '+.xycwei.com'
+  - '+.xyd686.com'
   - '+.xydcname.com'
   - '+.xydcname.net'
   - '+.xydhl.com'

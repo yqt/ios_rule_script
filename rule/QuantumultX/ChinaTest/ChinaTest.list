@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-18 02:15:28
+# UPDATED: 2023-11-20 02:14:20
 # HOST: 166
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64499
+# HOST-SUFFIX: 64439
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64721
+# TOTAL: 64661
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -10622,7 +10622,6 @@ HOST-SUFFIX,aerochina.net,ChinaTest
 HOST-SUFFIX,aesdrink.com,ChinaTest
 HOST-SUFFIX,aesucai.com,ChinaTest
 HOST-SUFFIX,aet21.com,ChinaTest
-HOST-SUFFIX,aetomate13.vip,ChinaTest
 HOST-SUFFIX,aevit.xyz,ChinaTest
 HOST-SUFFIX,aexpec.com,ChinaTest
 HOST-SUFFIX,af360.com,ChinaTest
@@ -18701,7 +18700,7 @@ HOST-SUFFIX,coolsphoto.com,ChinaTest
 HOST-SUFFIX,coolstyle.org,ChinaTest
 HOST-SUFFIX,cooluc.com,ChinaTest
 HOST-SUFFIX,coolwarmsy.com,ChinaTest
-HOST-SUFFIX,coolwei.com,ChinaTest
+HOST-SUFFIX,coolxap.com,ChinaTest
 HOST-SUFFIX,coolxcloud.com,ChinaTest
 HOST-SUFFIX,coolyun.com,ChinaTest
 HOST-SUFFIX,coolzcloud.com,ChinaTest
@@ -40844,7 +40843,6 @@ HOST-SUFFIX,myriptide.com,ChinaTest
 HOST-SUFFIX,myroome.com,ChinaTest
 HOST-SUFFIX,myrtb.net,ChinaTest
 HOST-SUFFIX,myrunners.com,ChinaTest
-HOST-SUFFIX,myscore.org,ChinaTest
 HOST-SUFFIX,mysemlife.com,ChinaTest
 HOST-SUFFIX,myshow800.com,ChinaTest
 HOST-SUFFIX,myshown.com,ChinaTest
@@ -42582,6 +42580,7 @@ HOST-SUFFIX,osredm.com,ChinaTest
 HOST-SUFFIX,oss-cn-beijing-aliyuncs.com,ChinaTest
 HOST-SUFFIX,oss.link,ChinaTest
 HOST-SUFFIX,oss.so,ChinaTest
+HOST-SUFFIX,ossdshxh.com,ChinaTest
 HOST-SUFFIX,osvlabs.com,ChinaTest
 HOST-SUFFIX,oswdj.com,ChinaTest
 HOST-SUFFIX,oswhy.com,ChinaTest
@@ -44491,6 +44490,7 @@ HOST-SUFFIX,qianxs.com,ChinaTest
 HOST-SUFFIX,qianxunclub.com,ChinaTest
 HOST-SUFFIX,qianyan.biz,ChinaTest
 HOST-SUFFIX,qianyan001.com,ChinaTest
+HOST-SUFFIX,qianyanapp.com,ChinaTest
 HOST-SUFFIX,qianyuangx.com,ChinaTest
 HOST-SUFFIX,qianyue999.com,ChinaTest
 HOST-SUFFIX,qianyuewenhua.xyz,ChinaTest
@@ -52775,6 +52775,7 @@ HOST-SUFFIX,tuimob.com,ChinaTest
 HOST-SUFFIX,tuimotuimo.com,ChinaTest
 HOST-SUFFIX,tuipeanut.com,ChinaTest
 HOST-SUFFIX,tuipear.com,ChinaTest
+HOST-SUFFIX,tuipink.com,ChinaTest
 HOST-SUFFIX,tuiplay.com,ChinaTest
 HOST-SUFFIX,tuirabbit.com,ChinaTest
 HOST-SUFFIX,tuirice.com,ChinaTest
@@ -58867,8 +58868,6 @@ HOST-SUFFIX,xn--nyqy26a,ChinaTest
 HOST-SUFFIX,xn--otu796d,ChinaTest
 HOST-SUFFIX,xn--pbt1sj69ag8b.com,ChinaTest
 HOST-SUFFIX,xn--q20av2y36ac54a.com,ChinaTest
-HOST-SUFFIX,xn--rhqv96g,ChinaTest
-HOST-SUFFIX,xn--ruqx2ez8em6ez9pv4l.com,ChinaTest
 HOST-SUFFIX,xn--s4t325g.com,ChinaTest
 HOST-SUFFIX,xn--ses554g,ChinaTest
 HOST-SUFFIX,xn--uisx71c0r1a.com,ChinaTest
@@ -59437,6 +59436,7 @@ HOST-SUFFIX,xycareer.com,ChinaTest
 HOST-SUFFIX,xycdn.net,ChinaTest
 HOST-SUFFIX,xyclouds.com,ChinaTest
 HOST-SUFFIX,xycwei.com,ChinaTest
+HOST-SUFFIX,xyd686.com,ChinaTest
 HOST-SUFFIX,xydcname.com,ChinaTest
 HOST-SUFFIX,xydcname.net,ChinaTest
 HOST-SUFFIX,xydhl.com,ChinaTest

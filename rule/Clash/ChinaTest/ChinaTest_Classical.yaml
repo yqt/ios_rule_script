@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-18 02:15:31
+# UPDATED: 2023-11-20 02:14:23
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64499
+# DOMAIN-SUFFIX: 64439
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64689
+# TOTAL: 64629
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -10621,7 +10621,6 @@ payload:
   - DOMAIN-SUFFIX,aesdrink.com
   - DOMAIN-SUFFIX,aesucai.com
   - DOMAIN-SUFFIX,aet21.com
-  - DOMAIN-SUFFIX,aetomate13.vip
   - DOMAIN-SUFFIX,aevit.xyz
   - DOMAIN-SUFFIX,aexpec.com
   - DOMAIN-SUFFIX,af360.com
@@ -18700,7 +18699,7 @@ payload:
   - DOMAIN-SUFFIX,coolstyle.org
   - DOMAIN-SUFFIX,cooluc.com
   - DOMAIN-SUFFIX,coolwarmsy.com
-  - DOMAIN-SUFFIX,coolwei.com
+  - DOMAIN-SUFFIX,coolxap.com
   - DOMAIN-SUFFIX,coolxcloud.com
   - DOMAIN-SUFFIX,coolyun.com
   - DOMAIN-SUFFIX,coolzcloud.com
@@ -40843,7 +40842,6 @@ payload:
   - DOMAIN-SUFFIX,myroome.com
   - DOMAIN-SUFFIX,myrtb.net
   - DOMAIN-SUFFIX,myrunners.com
-  - DOMAIN-SUFFIX,myscore.org
   - DOMAIN-SUFFIX,mysemlife.com
   - DOMAIN-SUFFIX,myshow800.com
   - DOMAIN-SUFFIX,myshown.com
@@ -42581,6 +42579,7 @@ payload:
   - DOMAIN-SUFFIX,oss-cn-beijing-aliyuncs.com
   - DOMAIN-SUFFIX,oss.link
   - DOMAIN-SUFFIX,oss.so
+  - DOMAIN-SUFFIX,ossdshxh.com
   - DOMAIN-SUFFIX,osvlabs.com
   - DOMAIN-SUFFIX,oswdj.com
   - DOMAIN-SUFFIX,oswhy.com
@@ -44490,6 +44489,7 @@ payload:
   - DOMAIN-SUFFIX,qianxunclub.com
   - DOMAIN-SUFFIX,qianyan.biz
   - DOMAIN-SUFFIX,qianyan001.com
+  - DOMAIN-SUFFIX,qianyanapp.com
   - DOMAIN-SUFFIX,qianyuangx.com
   - DOMAIN-SUFFIX,qianyue999.com
   - DOMAIN-SUFFIX,qianyuewenhua.xyz
@@ -52774,6 +52774,7 @@ payload:
   - DOMAIN-SUFFIX,tuimotuimo.com
   - DOMAIN-SUFFIX,tuipeanut.com
   - DOMAIN-SUFFIX,tuipear.com
+  - DOMAIN-SUFFIX,tuipink.com
   - DOMAIN-SUFFIX,tuiplay.com
   - DOMAIN-SUFFIX,tuirabbit.com
   - DOMAIN-SUFFIX,tuirice.com
@@ -58866,8 +58867,6 @@ payload:
   - DOMAIN-SUFFIX,xn--otu796d
   - DOMAIN-SUFFIX,xn--pbt1sj69ag8b.com
   - DOMAIN-SUFFIX,xn--q20av2y36ac54a.com
-  - DOMAIN-SUFFIX,xn--rhqv96g
-  - DOMAIN-SUFFIX,xn--ruqx2ez8em6ez9pv4l.com
   - DOMAIN-SUFFIX,xn--s4t325g.com
   - DOMAIN-SUFFIX,xn--ses554g
   - DOMAIN-SUFFIX,xn--uisx71c0r1a.com
@@ -59436,6 +59435,7 @@ payload:
   - DOMAIN-SUFFIX,xycdn.net
   - DOMAIN-SUFFIX,xyclouds.com
   - DOMAIN-SUFFIX,xycwei.com
+  - DOMAIN-SUFFIX,xyd686.com
   - DOMAIN-SUFFIX,xydcname.com
   - DOMAIN-SUFFIX,xydcname.net
   - DOMAIN-SUFFIX,xydhl.com

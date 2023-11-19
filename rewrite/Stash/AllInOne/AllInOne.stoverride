@@ -1,13 +1,13 @@
 name: AllInOne
-desc: 最后更新时间 2023-11-19 02:18:52
+desc: 最后更新时间 2023-11-20 02:18:43
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 689
-# mitm: 721
+# reject: 688
+# mitm: 722
 # force-http-engine-hosts: 6
 # total: 1455
 
@@ -888,7 +888,9 @@ http:
     - "118.178.214.118"
     - "118.89.204.198"
     - "122.14.246.33"
+    - "123.59.31.1"
     - "140.179.224.63"
+    - "154.8.131.171"
     - "175.102.178.52"
     - "182.92.251.113"
     - "3dd0be8a-54fe-43ff-a0e7-f670c4f20432.bspapp.com"

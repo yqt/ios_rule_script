@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-19 02:10:21
+# UPDATED: 2023-11-20 02:10:17
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 12498
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126802
+# DOMAIN-SUFFIX: 126830
 # IP-CIDR: 452
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 140369
+# TOTAL: 140397
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -14715,6 +14715,7 @@
 .aoovqo8t.stats.lncld.net
 .aopcoms.aoptec.com
 .aopdqdrkgqbtgci.com
+.aopover.click
 .aopxnvrugx.com
 .aoqcqh.eavalyne.lt
 .aoqhfs.optikdodomu.cz
@@ -18414,6 +18415,7 @@
 .aypbpr.tokopedia.com
 .ayprokwbpc.com
 .ayqxx.com
+.ayra.fun
 .ayrovalcontain.com
 .ayrovalcontain.info
 .ayrtpmwuymzbbq.com
@@ -28789,7 +28791,6 @@
 .cnpinzhuo.com
 .cnpkqvtiwcfjsot.xyz
 .cnpxwl.cheapcaribbean.com
-.cnqaaa.xyz
 .cnrdlpk.xyz
 .cnredg.xyz
 .cnscdj.com
@@ -28860,7 +28861,6 @@
 .cnzz.pygold.net
 .cnzz.yifenghuyu.com
 .cnzzlink.com
-.co-lih.space
 .co.5.p2l.info
 .co.akisinn.info
 .co.dewrain.life
@@ -31432,8 +31432,7 @@
 .creative.live.missav.com
 .creative.live.tktube.com
 .creative.live7mm.tv
-.creative.myavlive.com
-.creative.ohmycams.com
+.creative.mnaspm.com
 .creative.sphdigital.com
 .creative.strip.chat
 .creative.stripchat.com
@@ -45338,7 +45337,6 @@
 .everestop.io
 .everesttech.net
 .evergage.com
-.evergreentroutpitiful.com
 .everlastinghighlight.com
 .everprobation.com
 .eversales.space
@@ -70802,7 +70800,6 @@
 .lnzangcha.com
 .lnzjlr.xyz
 .lnzqmaqzjlnnw.top
-.lo.dama582.com
 .lo8ve6ygour3pea4cee.com
 .lo9b.top
 .loachesmanjeri.space
@@ -96606,9 +96603,7 @@
 .qymjpg.star-tex.ru
 .qyn6.ofertastelecable.es
 .qynpfyvxkyv.com
-.qynqvkkmbzvkk.top
 .qyoqeq.xyz
-.qyowjhyyckraps.com
 .qyqc4s.com
 .qyqkemrarznvv.top
 .qysknb.fukuishimbun.co.jp
@@ -100783,7 +100778,6 @@
 .rvt2687sqo9o.ru
 .rvv.emol.com
 .rvvji.online
-.rvvmhp.xyz
 .rvwtpwmtnfj.com
 .rvxqnjsczubld.com
 .rvygmdlwenyl.com
@@ -111471,6 +111465,7 @@
 .srkft.com
 .srkhbdjgxyys.xyz
 .srkl.pw
+.srldkqj.cn
 .srlhgo.cn
 .srm4.destinia.co.no
 .srmdata-eur.com
@@ -116290,6 +116285,7 @@
 .t.dangdang.com
 .t.dawsoncreekeventscentre.com
 .t.db-gruppen.de
+.t.deepnote.com
 .t.deloittece.com
 .t.depaulbluedemons.com
 .t.destentor.nl
@@ -130283,9 +130279,6 @@
 .voynto.com
 .vozer.voffka.com
 .vozftn.xyz
-.vp-hanmuc.com
-.vp-nanghanmuc.com
-.vp-nanghanmuc.online
 .vp.html5.qq.com
 .vp111.vip
 .vp7811.com
@@ -135666,6 +135659,7 @@
 .xguqeh.com
 .xgvenv.farmatodo.com.co
 .xgvfkge.cn
+.xgwhrvnxvhqgi.com
 .xgwkcpybi.com
 .xh33g.net
 .xhaeuubhi.xyz
@@ -139874,6 +139868,7 @@
 .ztqdkzn.cn
 .ztqnls.lojasrenner.com.br
 .ztrack.online
+.ztrc.cfd
 .ztrck.me
 .ztriskl.divisionfair.homes
 .ztsrv.com

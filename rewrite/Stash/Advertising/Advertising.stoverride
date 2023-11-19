@@ -1,9 +1,9 @@
 name: 复写去广告
-desc: 最后更新时间 2023-11-19 02:18:44
+desc: 最后更新时间 2023-11-20 02:18:36
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 727
-# mitm: 677
+# reject: 726
+# mitm: 678
 # force-http-engine-hosts: 6
 # total: 1410
 
@@ -716,7 +716,9 @@ http:
     - "116.85.2.15"
     - "118.178.214.118"
     - "122.14.246.33"
+    - "123.59.31.1"
     - "140.179.224.63"
+    - "154.8.131.171"
     - "175.102.178.52"
     - "182.92.251.113"
     - "1jietu.com"
