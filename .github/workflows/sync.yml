@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: tgymnich/fork-sync@v1.9
         with:
-          owner: blackmatrix7
+          owner: yqt
+          repo: ios_rule_script
           base: master
           head: master
