@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-20 02:10:25
+# UPDATED: 2023-11-21 02:10:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12498
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 126830
+# DOMAIN-SUFFIX: 126839
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 140385
+# TOTAL: 140394
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -1188,7 +1188,6 @@
 .2022welcome.com
 .202305300.cn
 .202306135.cn
-.202306178.cn
 .202306196.cn
 .2023cradep0sit.com
 .2023sb.net
@@ -14713,7 +14712,6 @@
 .aoovqo8t.stats.lncld.net
 .aopcoms.aoptec.com
 .aopdqdrkgqbtgci.com
-.aopover.click
 .aopxnvrugx.com
 .aoqcqh.eavalyne.lt
 .aoqhfs.optikdodomu.cz
@@ -27402,6 +27400,7 @@
 .ckies.net
 .ckikq.com
 .cklithuw.xyz
+.ckmbig.xyz
 .ckmpojarw.com
 .ckofrnk.com
 .ckohixbcyzm.com
@@ -36828,6 +36827,7 @@
 .dauntgolfconfiscate.com
 .dauntlessamusingcomrade.com
 .dauntslip.com
+.dautegoa.xyz
 .dav.davrontech.com
 .davaifoa.com
 .davarello.com
@@ -42291,7 +42291,6 @@
 .ecybnxxpeq.com
 .ecyxbhvnntj.com
 .eczemagrison.uno
-.ed-clr-01.com
 .ed-sys.net
 .ed.2.west.com
 .ed.at.thamaster.de
@@ -43134,7 +43133,6 @@
 .elmiestkanuri.top
 .elmkrljayamrb.top
 .elmobot.eu
-.elmonopolicycr.info
 .elnpe.com
 .eloer.cn
 .elogiumtagmeme.com
@@ -49753,6 +49751,7 @@
 .fxbcpr.xyz
 .fxc.aiquxs.com
 .fxcast.com
+.fxcfvgsec.top
 .fxdepo.com
 .fxdwdwv.cn
 .fxeaobv.icu
@@ -50537,7 +50536,6 @@
 .gcaothushop.net
 .gcapi.sy.kugou.com
 .gcbflvx.cn
-.gcbtbruxslwoc.xyz
 .gcbtgh26.xyz
 .gccmembershiprewards.americanexpress.de
 .gccmembershiprewards.americanexpress.it
@@ -58525,7 +58523,6 @@
 .ic.wps.cn
 .icalnormaticalacyc.info
 .icanhazip.com
-.icarusrt.thehempdoctor.com
 .icas.ikea.com
 .icas.ikea.net
 .icast.cn
@@ -63175,7 +63172,6 @@
 .jamstech.store
 .jan19.zhiyueit.com
 .jandaqwe.com
-.jane1.top
 .jane2.top
 .janendark.life
 .janeroosterstrk.com
@@ -65314,9 +65310,7 @@
 .jzdgn.cn
 .jzdn.talk-hk.cn
 .jzdwl4.cn
-.jzeamuow.com
 .jzeapwlruols.com
-.jzgfhr.nordicnest.com
 .jzixypd.icu
 .jzjxmj.com
 .jzkapp.com
@@ -88084,6 +88078,7 @@
 .oxqq.pandasuite.io
 .oxredex.ru
 .oxrendflare.com
+.oxrvfsi.xyz
 .oxthrilled.com
 .oxtrmw.marinarinaldi.com
 .oxtsale1.com
@@ -96785,7 +96780,6 @@
 .raab3frog.com
 .raac33.net
 .raadth.com
-.rabattcoop.com
 .rabbit.homamo.co
 .rabbit.meitustat.com
 .rabbit.radicalxchange.org
@@ -99121,10 +99115,7 @@
 .rgmseo.thejewellershop.com
 .rgnlaigz.fun
 .rgp-ign.fr
-.rgpqgasbmqere.com
 .rgpujh.xyz
-.rgqhamkhnoex.xyz
-.rgqllsbt.com
 .rgqxbf.com
 .rgrd.xyz
 .rgtcqif.com
@@ -111345,6 +111336,7 @@
 .sqszs.top
 .sqtivj.vidaxl.hr
 .square.site
+.squarelovin.com
 .squarepicket.com
 .squashfriction.com
 .squashtalk.com
@@ -129443,9 +129435,6 @@
 .viiyblva.com
 .viiymfvi.com
 .viizuusa.com
-.vijcwykceav.com
-.vijeli.uno
-.vikingclan.kano.link
 .vikrak.com
 .viladram.xyz
 .vilagfigyelo.com
@@ -135620,6 +135609,7 @@
 .xfo.monesyy.com
 .xfobuc.serenaandlily.com
 .xfolbv.yourrent2own.com
+.xfqrsjq.cn
 .xfreeservice.com
 .xftrtljc.xyz
 .xfvvygrv.com
@@ -139463,7 +139453,6 @@
 .zjrtuhds.top
 .zjrua.site
 .zjsdsports.cn
-.zjsru-iweb.net
 .zjsyawqj.cn
 .zjthzf.xyz
 .zjttaqx.cn
@@ -139686,7 +139675,6 @@
 .zorbikala.com
 .zorkabiz.ru
 .zorlsbln.cyou
-.zorosrv.com
 .zortaudi.xyz
 .zortinah.com
 .zosteraclumsy.website
@@ -139866,7 +139854,6 @@
 .ztqdkzn.cn
 .ztqnls.lojasrenner.com.br
 .ztrack.online
-.ztrc.cfd
 .ztrck.me
 .ztriskl.divisionfair.homes
 .ztsrv.com
@@ -148959,7 +148946,6 @@ sdtqotoe.com
 sdytygrznweksx.com
 sdzwkmokd.com
 sdzxojlt.com
-se-ads-microservice.aws.aller.com
 seal.verisign.com
 seaoocyjpq.com
 search.video.iqiyi.com

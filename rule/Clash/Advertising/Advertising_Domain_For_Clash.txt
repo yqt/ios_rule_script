@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-20 02:09:03
-# DOMAIN: 16164
+# UPDATED: 2023-11-21 02:09:08
+# DOMAIN: 16192
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97537
+# DOMAIN-SUFFIX: 97508
 # IP-CIDR: 428
 # PROCESS-NAME: 5
-# TOTAL: 114249
+# TOTAL: 114248
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -1481,6 +1481,11 @@ howdoesin.net
 hpplay.cdn.cibn.cc
 hrzn-nxt.com
 html5.gamemonetize.com
+htracker1.zmzfile.com
+htracker2.zmzfile.com
+htracker3.zmzfile.com
+htracker4.zmzfile.com
+htracker5.zmzfile.com
 http.52dsj.com
 httpdns-sdk.n.netease.com
 httpdns.browser.miui.com
@@ -2211,7 +2216,6 @@ sdkconfig.ad.india.xiaomi.com
 sdkgw.us1.twilio.com
 sdklogs.avocarrot.com
 sdn.gongkao.hn.cn
-se-ads-microservice.aws.aller.com
 sec.video.qq.com
 secondstreetapp.com
 secure-adnxs.edgekey.net
@@ -2342,6 +2346,7 @@ static.target2sell.com
 static.user-grey.com
 static.vuevideo.net
 static.youzu.com
+static.ziffdavis.com
 static.ziftsolutions.com
 static1.searchbox.baidu.com
 statics-marketingsites-eus-ms-com.akamaized.net
@@ -2466,6 +2471,11 @@ trackdat.pinsightmedia.com
 tracker.bang.com
 tracker.personizely.net
 tracker.winudf.com
+tracker1.zmzfile.com
+tracker2.zmzfile.com
+tracker3.zmzfile.com
+tracker4.zmzfile.com
+tracker5.zmzfile.com
 tracking-1611167402.us-east-1.elb.amazonaws.com
 tracking-3-9f58.trnox.com
 tracking.admarketplace.net.edgekey.net
@@ -6329,6 +6339,7 @@ download-performance.com
 download.56.com
 download.grandcloud.cn
 download.ttrili.com
+download.zjsyawqj.cn
 download.zzb6.cn
 download207.mediafire.com
 downloadandsave-a.akamaihd.net
@@ -9025,6 +9036,7 @@ js.mzxxiend.com
 js.sghjtc.xyz
 js.static.tebaidu.cn
 js.yulzm.com
+js.zjsyawqj.cn
 js1.sxptfw.com
 js2.vgetv.xyz
 js2.vgetv1.xyz
@@ -15268,6 +15280,7 @@ www.xiruz.kit.net
 www.ywvcomputerprocess.info
 www.zatzy.com
 www.zctei.com
+www.zjsyawqj.cn
 www.zyxyfy.com
 wwwmobiroll.com
 wwwmurgd.com
@@ -16055,18 +16068,23 @@ zhizi.qq.com
 zhkbjqtstd.com
 zhlfogiy.com
 zhlrcaahpuqh.com
+zhongkaowu.com
+zhougong.info
 zhovjymmkg.com
 zhqigwbchfnqn.com
 zhrmtsxcdkjj.com
 zhuanshenghuo1.kuaizhan.com
 zhululm.com
+zhuren.site
 zhxdduzdibm.com
 zhxdiirwhtico.com
 ziccardia.com
+zichenit.com
 zidedge.com
 zidqkapwgnsh.com
 zidtqsrzosud.com
 ziebgbikz.com
+ziffdavis.com
 zilogora.com
 zinhavnpak.com
 zinphyra.com
@@ -16077,7 +16095,9 @@ zipropyl.com
 ziqdunppuzjd.com
 zirlztyowfnif.com
 zisbrygtluib.com
+ziyouxiaoyuan.cn
 ziznjduvyqygtk.com
+zj66.net
 zjefjxjukiasd.com
 zjhnmbfqylme.com
 zjiktkmjyo.com
@@ -16088,6 +16108,7 @@ zjllvkfa.com
 zjncvhnkh.com
 zjqymhsk.com
 zjsnrqxltqk.com
+zjsyawqj.cn
 zjujxffup.com
 zjwcddahpz.com
 zkgyibosyh.com
@@ -16099,6 +16120,7 @@ zksdztizohcfy.com
 zkwtqwwks.com
 zkzpfpoazfgq.com
 zlahmbwm.com
+zlbkj.com
 zlddifyo.com
 zldijcenor.com
 zlfgedpuxrbpgm.com
@@ -16112,6 +16134,7 @@ zlxfpawyyoq.com
 zly.dlhxgg.com
 zmasxytjskg.com
 zmbuidget.com
+zmctrack.net
 zmhwglwmi.com
 zmkkiqghh.com
 zmnhcswlu.com
@@ -16124,6 +16147,7 @@ znckkjdguw.com
 zndsssp.dangbei.net
 znicvrdirncxq.com
 znjwkwha.com
+znlgplt.com
 znmdscnynybx.com
 znnzwdgu.com
 znoumvve.com
@@ -16141,6 +16165,7 @@ zonhpljclov.com
 zoocauvo.net
 zoofaupt.net
 zoomdirect.com.au
+zoossoft.cn
 zorwrite.com
 zoszujvvlu.com
 zotjktpk.com
@@ -16163,6 +16188,7 @@ zpqejgbya.com
 zpwqnicvzi.com
 zpwtylxpfeje.com
 zpxgdlqoofx.com
+zq-hk.cn
 zqbnfjpewvnhjj.com
 zqdftafa.com
 zqeqclcfdc.com
@@ -16319,6 +16345,7 @@ play.kakao.com
 +.02953a52b0.com
 +.02a2749187.com
 +.02aa19117f396e9.com
++.02asdf.com
 +.02ce917efd.com
 +.02ip.ru
 +.033.com
@@ -16929,7 +16956,6 @@ play.kakao.com
 +.2022shoupidan1024.xyz
 +.202305300.cn
 +.202306135.cn
-+.202306178.cn
 +.202306196.cn
 +.2023cradep0sit.com
 +.2023sb.net
@@ -23735,6 +23761,7 @@ play.kakao.com
 +.analytics-cdiscount.com
 +.analytics-consent-manager-v2-prod.azureedge.net
 +.analytics-data.io
++.analytics-debugger.com
 +.analytics-egain.com
 +.analytics-events.inshorts.com
 +.analytics-gateway.delta.dp.lightricks.com
@@ -24323,7 +24350,6 @@ play.kakao.com
 +.aonwqlpu.com
 +.aoooysewk.com
 +.aopdqdrkgqbtgci.com
-+.aopover.click
 +.aopxnvrugx.com
 +.aoredi.com
 +.aorms.com
@@ -25029,8 +25055,6 @@ play.kakao.com
 +.asg.bhabhiporn.pro
 +.asg.faperoni.com
 +.asg.irontube.net
-+.asg.prettytube.net
-+.asgardrecatch.com
 +.asgccummig.com
 +.asgclick.com
 +.asgclickkl.com
@@ -31373,6 +31397,7 @@ play.kakao.com
 +.ckfkigayvdb.com
 +.ckgnoy.com
 +.cklithuw.xyz
++.ckmbig.xyz
 +.ckofrnk.com
 +.ckrf1.com
 +.ckspodaotjotkn.com
@@ -31568,6 +31593,7 @@ play.kakao.com
 +.click.twcwigs.com
 +.click.vieon.vn
 +.click.xjfatm.top
++.click.zmctrack.net
 +.click2freemoney.com
 +.click2sell.eu
 +.click4assistance.co.uk
@@ -32031,7 +32057,6 @@ play.kakao.com
 +.cnofijeash.xyz
 +.cnomy.com
 +.cnpkqvtiwcfjsot.xyz
-+.cnqaaa.xyz
 +.cnrdlpk.xyz
 +.cnredg.xyz
 +.cnshiw2.com
@@ -38439,8 +38464,6 @@ play.kakao.com
 +.ecpms.net
 +.ecpshapm.xyz
 +.ecrwqu.com
-+.ecslkbpb.com
-+.ecstatic-rope.pro
 +.ecsv2.roblox.com
 +.ecsxtrhfgvs.com
 +.ecthymaalgodon.com
@@ -38977,7 +39000,6 @@ play.kakao.com
 +.elmiestkanuri.top
 +.elmkrljayamrb.top
 +.elmobot.eu
-+.elmonopolicycr.info
 +.elnpe.com
 +.elogiumtagmeme.com
 +.elogs.vnexpress.net
@@ -42857,6 +42879,7 @@ play.kakao.com
 +.fxbcc.cyou
 +.fxbcpr.xyz
 +.fxcast.com
++.fxcfvgsec.top
 +.fxdepo.com
 +.fxeaobv.icu
 +.fxggbfjfi.com
@@ -46789,6 +46812,7 @@ play.kakao.com
 +.holenhw.com
 +.holict.com
 +.hollekeamboina.com
++.hollistersverige.com.se
 +.hollowcharacter.com
 +.hollowgleamed.com
 +.holm.ru
@@ -50104,8 +50128,6 @@ play.kakao.com
 +.jeffstrategic.com
 +.jehobsee.com
 +.jeidd.xyz
-+.jeivreeultvgt.com
-+.jejlkzmfvnj.com
 +.jekmmlwnyzyjr.top
 +.jekson44.ru
 +.jelfmtsr5i.ru
@@ -51076,6 +51098,8 @@ play.kakao.com
 +.jwujvjo.cn
 +.jwwhsqz.ru
 +.jwxwnr.xyz
++.jwycmuozlpu.com
++.jwydulaplhmo.com
 +.jwylcrb.cn
 +.jx1999.com
 +.jxal.net
@@ -51133,7 +51157,6 @@ play.kakao.com
 +.jzclick.soso.com
 +.jzdgn.cn
 +.jzdwl4.cn
-+.jzeamuow.com
 +.jzeapwlruols.com
 +.jzixypd.icu
 +.jzleekzkrwjll.top
@@ -56141,7 +56164,6 @@ play.kakao.com
 +.mdjdg.girlssohorny.net
 +.mdjdpyrt.xyz
 +.mdkkbrbhlji.com
-+.mdkycodubgvms.com
 +.mdotlabs.com
 +.mdpycygel.com
 +.mdqhyxe.cn
@@ -58736,7 +58758,6 @@ play.kakao.com
 +.myzhuanghe.cn
 +.myzontpouffs.guru
 +.mzcsdf.com
-+.mzelzfnj.xyz
 +.mziso.xyz
 +.mzlit.com
 +.mznbrazfty.com
@@ -62880,7 +62901,7 @@ play.kakao.com
 +.oxmqzeszyo.com
 +.oxn.gerkon.eu
 +.oxredex.ru
-+.oxrqdkfftw.com
++.oxrendflare.com
 +.oxrvfsi.xyz
 +.oxthrilled.com
 +.oxtracking.com
@@ -65399,6 +65420,7 @@ play.kakao.com
 +.postitial.com
 +.postmasterdirect.com
 +.postmedia.us.janrainsso.com
++.postponeacademic.com
 +.postquare.com
 +.postrelease.com
 +.postureunlikeagile.com
@@ -67863,9 +67885,7 @@ play.kakao.com
 +.qylrihck.xyz
 +.qymdcuco.com
 +.qynpfyvxkyv.com
-+.qynqvkkmbzvkk.top
 +.qyoqeq.xyz
-+.qyowjhyyckraps.com
 +.qyqkemrarznvv.top
 +.qyuimi.xyz
 +.qyxwfe.com
@@ -69391,10 +69411,7 @@ play.kakao.com
 +.rglxzqlqcp.com
 +.rglymepfbvdeb.xyz
 +.rgp-ign.fr
-+.rgpqgasbmqere.com
 +.rgpujh.xyz
-+.rgqhamkhnoex.xyz
-+.rgqllsbt.com
 +.rgqxbf.com
 +.rgrd.xyz
 +.rgtcqif.com
@@ -70368,7 +70385,6 @@ play.kakao.com
 +.rvshjxsbohimgb.com
 +.rvt2687sqo9o.ru
 +.rvvji.online
-+.rvvmhp.xyz
 +.rvxqnjsczubld.com
 +.rvygmdlwenyl.com
 +.rvyuqfjjv.com
@@ -74368,6 +74384,7 @@ play.kakao.com
 +.sqqqytzxjywx.com
 +.sqszs.top
 +.square.site
++.squarelovin.com
 +.squarepicket.com
 +.squashtalk.com
 +.squatdisloyal.com
@@ -74407,6 +74424,7 @@ play.kakao.com
 +.srkft.com
 +.srkhbdjgxyys.xyz
 +.srkl.pw
++.srldkqj.cn
 +.srlhgo.cn
 +.srmdata-eur.com
 +.srmdata-us.com
@@ -76820,6 +76838,7 @@ play.kakao.com
 +.telemetry.battle.net
 +.telemetry.canva.com
 +.telemetry.dropbox.com
++.telemetry.goodlifefitness.com
 +.telemetry.malwarebytes.com
 +.telemetry.mozilla.org
 +.telemetry.navigatorapp.net
@@ -83715,11 +83734,7 @@ play.kakao.com
 +.voynto.com
 +.vozer.voffka.com
 +.vozftn.xyz
-+.vp-hanmuc.com
-+.vp-nanghanmuc.com
-+.vp-nanghanmuc.online
-+.vp111.vip
-+.vp7811.com
++.vp1.zkshfbdg.info
 +.vpath.net
 +.vpb-hanmuc.com
 +.vpb-hanmuc.online
@@ -88775,54 +88790,33 @@ play.kakao.com
 +.zhedvge.com
 +.zheevmmvlwg.com
 +.zhej78i1an8w6ceu.com
-+.zhenghemold.com
-+.zhengjian.org
 +.zhengliyqq.com
 +.zherimo.ru
 +.zhfvwkkftg.com
-+.zhh8886.com
++.zhhgmh.mobi
 +.zhhxxnfuxn.com
-+.zhiad.com
 +.zhibo128x1.xyz
-+.zhichangwo.com
-+.zhihuiduijian.com
-+.zhilingshidai.com
-+.zhimaad.cn
-+.zhimengad.com
-+.zhipufs.com
-+.zhiyaspa.com
++.zhiqi.pub
 +.zhkzt.com
 +.zhmpqpqna.com
 +.zhmzsjvkii.com
 +.zhongfumzzew.com
-+.zhongkaowu.com
-+.zhongwenqing.com
-+.zhongxingad.com
-+.zhongxinlm.com
++.zhopka.vsezaibis.ru
 +.zhoubo01.cn
 +.zhouduanyyds.com
 +.zhouduayqq.com
-+.zhougong.info
 +.zhould.com
-+.zhoz.com
 +.zhqmctfwip.com
 +.zhrrzug.xyz
-+.zhuahu.com
-+.zhuangjizhuli.net
-+.zhuichaguoji.org
-+.zhuren.site
-+.zhushicm.com
 +.zhuxiao11.cn
 +.zhvo.top
 +.zhyivocrjeplby.com
 +.zi8ivy4b0c7l.com
 +.ziaratjs.tech
 +.zibaweva.com
-+.zichenit.com
 +.zidgrrfgb.com
 +.zidoudsa.net
 +.zieltracker.de
-+.ziffdavis.com
 +.zifyeldq.top
 +.zighoacm.com
 +.zigighol.xyz
@@ -88866,22 +88860,14 @@ play.kakao.com
 +.zisboombah.net
 +.zismone.ru
 +.zitaptugo.com
-+.zitchuhoove.com
-+.zivbxion.ru
-+.zivtux.com
 +.ziwane.uno
 +.zixuyi.xyz
-+.ziye8.com
-+.ziykrgc.ru
-+.ziyouxiaoyuan.cn
 +.ziyu.net
 +.ziyzcu.buzz
 +.ziziatramel.uno
 +.zizoxozoox.com
-+.zj66.net
-+.zjbzzmnnkbjzy.top
++.zjai.xyz
 +.zjdruhn.xyz
-+.zjemch.ru
 +.zjgfq.com
 +.zjjlhvo.xyz
 +.zjlbugpawe.com
@@ -88891,15 +88877,12 @@ play.kakao.com
 +.zjpwrpo.com
 +.zjqs.shop
 +.zjrnyrranjjay.top
-+.zjsru-iweb.net
-+.zjsyawqj.cn
 +.zjthzf.xyz
 +.zjupukgjuez.com
 +.zjybqqaleeva.top
 +.zjybqqalenve.top
 +.zjyeblzkajwjz.top
 +.zk6.me
-+.zkads.cc
 +.zkapibwampca.com
 +.zkawzmlvqjejy.top
 +.zkbkat.com
@@ -88916,8 +88899,6 @@ play.kakao.com
 +.zla963.top
 +.zlacraft.com
 +.zlbcxr.xyz
-+.zlbkj.com
-+.zlbvewof.com
 +.zlclgzs.cn
 +.zldzbr.xyz
 +.zlfthh.xyz
@@ -88936,7 +88917,6 @@ play.kakao.com
 +.zlyhslx.icu
 +.zm232.com
 +.zmadsvd.cn
-+.zmctrack.net
 +.zmdesf.cn
 +.zmdjbl.xyz
 +.zmedia.com
@@ -88946,28 +88926,18 @@ play.kakao.com
 +.zmhwaiapbtfq.com
 +.zmikrctxf.com
 +.zmjagawa.com
-+.zmklhev.cn
-+.zmkma.com
-+.zml-apm-prd.dbv4.noncd.db.de
-+.zmomo.cc
-+.zmxncb5.com
-+.zmzfile.com
 +.znaptag.com
 +.znavidsde.cfd
 +.znbdr.com
-+.znctrack.net
-+.zndaowjdnf.stream
 +.zndvfrl.xyz
 +.znegiu.top
 +.znews.su
-+.znlgplt.com
 +.znllfp.xyz
 +.znnhmzumod.com
 +.znnodl.xyz
 +.znqip.net
 +.znrtfj.xyz
 +.znwzcmd.cn
-+.znxblom.cn
 +.znyjmbh.icu
 +.zoachoar.net
 +.zoachops.com
@@ -88994,13 +88964,8 @@ play.kakao.com
 +.zoiqrudc.com
 +.zokbywpncgqrq.com
 +.zombiharshen.top
-+.zomcz.cyou
-+.zona.pl
-+.zona.plus
 +.zona1.at.ua
 +.zonealta.com
-+.zongzuhulian.com
-+.zonst.com
 +.zontera.com
 +.zonupiza.com
 +.zonureflakier.uno
@@ -89013,13 +88978,11 @@ play.kakao.com
 +.zoopsame.com
 +.zooshawo.com
 +.zoosnet.net
-+.zoossoft.cn
 +.zoossoft.net
 +.zoozistu.net
 +.zopvjn.xyz
 +.zorango.com
 +.zorkabiz.ru
-+.zorosrv.com
 +.zortaudi.xyz
 +.zosteraclumsy.website
 +.zotcjeig.xyz
@@ -89036,7 +88999,6 @@ play.kakao.com
 +.zoxkljeicxi.com
 +.zozocash.biz
 +.zozoter.ru
-+.zp0573.cn
 +.zp0737.com
 +.zpbiqrovnozhn.com
 +.zpcfnzjq.com
@@ -89056,7 +89018,6 @@ play.kakao.com
 +.zpsovpgyk.xyz
 +.zpu.samsungelectronics.com
 +.zpvuugw.cn
-+.zq-hk.cn
 +.zq.lansedir.com
 +.zqdprrzjpcf.com
 +.zqfbsrldaeawna.com
@@ -89108,7 +89069,6 @@ play.kakao.com
 +.ztfzizpkjrmhbc.com
 +.ztnibpbkl.com
 +.ztqdkzn.cn
-+.ztrc.cfd
 +.ztrck.me
 +.ztriskl.divisionfair.homes
 +.ztsrv.com
@@ -90326,6 +90286,7 @@ play.kakao.com
 +.abc.ruiwen.com
 +.abc.xtyx918.com
 +.abc.yjbys.com
++.abc.zhiyaspa.com
 +.abc656.today
 +.abcd.zsrt88.cn
 +.abcj.dooccn.com
@@ -97267,6 +97228,8 @@ play.kakao.com
 +.myes.youku.com
 +.mygeneclub.com
 +.myhug.cn
++.myjsym.zichenit.com
++.mymm.zichenit.com
 +.myregeneaf.com
 +.mysty.com.cn
 +.mytanwan.com
@@ -130705,6 +130668,7 @@ play.kakao.com
 +.www.tracking.adp.co.uk
 +.www.us.roche-applied-science.com
 +.www.vetxanh.edu.vn
++.www.zmxncb5.com
 +.www.zxcvb23.com
 +.www1.drwilsons.com
 +.www1.happ.social
