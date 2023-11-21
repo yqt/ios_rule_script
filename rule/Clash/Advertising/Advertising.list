@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-21 02:09:08
+# UPDATED: 2023-11-22 02:09:40
 # DOMAIN: 16192
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97508
+# DOMAIN-SUFFIX: 97534
 # IP-CIDR: 428
 # PROCESS-NAME: 5
-# TOTAL: 114248
+# TOTAL: 114274
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
 DOMAIN,10.10.34.34
@@ -23902,6 +23902,7 @@ DOMAIN-SUFFIX,analytics.msk1.ru
 DOMAIN-SUFFIX,analytics.msnbc.msn.com
 DOMAIN-SUFFIX,analytics.myshoptago.com
 DOMAIN-SUFFIX,analytics.nastooh.ir
+DOMAIN-SUFFIX,analytics.netkeiba.com
 DOMAIN-SUFFIX,analytics.newsinc.com
 DOMAIN-SUFFIX,analytics.nextopia.net
 DOMAIN-SUFFIX,analytics.ngs55.ru
@@ -35454,6 +35455,7 @@ DOMAIN-SUFFIX,daunnotes.com
 DOMAIN-SUFFIX,dauntgolfconfiscate.com
 DOMAIN-SUFFIX,dauntlessamusingcomrade.com
 DOMAIN-SUFFIX,dauntslip.com
+DOMAIN-SUFFIX,dautegoa.xyz
 DOMAIN-SUFFIX,davaifoa.com
 DOMAIN-SUFFIX,davarello.com
 DOMAIN-SUFFIX,davedbux.ir
@@ -38475,7 +38477,7 @@ DOMAIN-SUFFIX,ecustomeropinions.com
 DOMAIN-SUFFIX,ecwmvlhy.com
 DOMAIN-SUFFIX,ecyxbhvnntj.com
 DOMAIN-SUFFIX,eczemagrison.uno
-DOMAIN-SUFFIX,ed-clr-01.com
+DOMAIN-SUFFIX,ed-sys.net
 DOMAIN-SUFFIX,ed.at.thamaster.de
 DOMAIN-SUFFIX,ed028aa9c4.com
 DOMAIN-SUFFIX,ed11f01827.com
@@ -39475,7 +39477,7 @@ DOMAIN-SUFFIX,epresententifi.com
 DOMAIN-SUFFIX,eprjyvjhmtpbo.xyz
 DOMAIN-SUFFIX,eproof.com
 DOMAIN-SUFFIX,eps-analyzer.de
-DOMAIN-SUFFIX,epsauthoup.com
+DOMAIN-SUFFIX,epsilondelta.co
 DOMAIN-SUFFIX,epsuphoa.xyz
 DOMAIN-SUFFIX,eptanecgntm.com
 DOMAIN-SUFFIX,eptepcaiydxlk.com
@@ -42747,6 +42749,7 @@ DOMAIN-SUFFIX,funcats.info
 DOMAIN-SUFFIX,funconsistency.com
 DOMAIN-SUFFIX,functionalclam.com
 DOMAIN-SUFFIX,functionalcover.com
+DOMAIN-SUFFIX,functionalfeather.com
 DOMAIN-SUFFIX,functionfreaklacerate.com
 DOMAIN-SUFFIX,functionsprecision.com
 DOMAIN-SUFFIX,fundsbe.com
@@ -42859,8 +42862,6 @@ DOMAIN-SUFFIX,fwdservice.com
 DOMAIN-SUFFIX,fwealjdmeptu.com
 DOMAIN-SUFFIX,fweia.xyz
 DOMAIN-SUFFIX,fwepd.xyz
-DOMAIN-SUFFIX,fwffa.cn
-DOMAIN-SUFFIX,fwftmuxxeh.com
 DOMAIN-SUFFIX,fwhhcpj.xyz
 DOMAIN-SUFFIX,fwix.com
 DOMAIN-SUFFIX,fwnowvgk.com
@@ -43326,7 +43327,6 @@ DOMAIN-SUFFIX,gcads.osdn.com
 DOMAIN-SUFFIX,gcafdhiacibjafajadi.ru
 DOMAIN-SUFFIX,gcaothushop.net
 DOMAIN-SUFFIX,gcbflvx.cn
-DOMAIN-SUFFIX,gcbtbruxslwoc.xyz
 DOMAIN-SUFFIX,gcbtgh26.xyz
 DOMAIN-SUFFIX,gcebhl.com
 DOMAIN-SUFFIX,gcfabtyir.com
@@ -43976,6 +43976,7 @@ DOMAIN-SUFFIX,givemelink.cc
 DOMAIN-SUFFIX,givememmastreams.com
 DOMAIN-SUFFIX,givemysoft.ru
 DOMAIN-SUFFIX,givenconserve.com
+DOMAIN-SUFFIX,givensidewaysremoved.com
 DOMAIN-SUFFIX,givesboranes.com
 DOMAIN-SUFFIX,givesthtosb.com
 DOMAIN-SUFFIX,givide.com
@@ -49929,7 +49930,6 @@ DOMAIN-SUFFIX,jamokeuntress.com
 DOMAIN-SUFFIX,jamsoulsfriday.com
 DOMAIN-SUFFIX,jamstech.store
 DOMAIN-SUFFIX,jandaqwe.com
-DOMAIN-SUFFIX,jane1.top
 DOMAIN-SUFFIX,jane2.top
 DOMAIN-SUFFIX,janendark.life
 DOMAIN-SUFFIX,janezk.50webs.co
@@ -70168,6 +70168,7 @@ DOMAIN-SUFFIX,rtk.io
 DOMAIN-SUFFIX,rtl-most.blogspot.hu
 DOMAIN-SUFFIX,rtl1.net
 DOMAIN-SUFFIX,rtlog.tiktokv.com
+DOMAIN-SUFFIX,rtm-tracking.zozo.jp
 DOMAIN-SUFFIX,rtmark.net
 DOMAIN-SUFFIX,rtmladnew.com
 DOMAIN-SUFFIX,rtncskottpfwb.com
@@ -79092,6 +79093,7 @@ DOMAIN-SUFFIX,tracking.etidning.vastgotabladet.se
 DOMAIN-SUFFIX,tracking.etidning.vetlandaposten.se
 DOMAIN-SUFFIX,tracking.etidning.vlt.se
 DOMAIN-SUFFIX,tracking.etidning.vn.se
+DOMAIN-SUFFIX,tracking.exipure.com
 DOMAIN-SUFFIX,tracking.expressen.se
 DOMAIN-SUFFIX,tracking.fado.vn
 DOMAIN-SUFFIX,tracking.fagersta-posten.se

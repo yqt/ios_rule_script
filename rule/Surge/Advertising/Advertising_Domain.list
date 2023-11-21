@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-21 02:09:02
+# UPDATED: 2023-11-22 02:09:34
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 16192
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97508
+# DOMAIN-SUFFIX: 97534
 # IP-CIDR: 428
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 114558
+# TOTAL: 114584
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -12314,6 +12314,7 @@
 .analytics.naturequant.com
 .analytics.ncaa.com
 .analytics.neoogilvy.uy
+.analytics.netkeiba.com
 .analytics.netshops.com
 .analytics.newscred.com
 .analytics.newsinc.com
@@ -29422,6 +29423,7 @@
 .dauntgolfconfiscate.com
 .dauntlessamusingcomrade.com
 .dauntslip.com
+.dautegoa.xyz
 .davaifoa.com
 .davarello.com
 .davedbux.ir
@@ -33888,7 +33890,6 @@
 .ecwmvlhy.com
 .ecyxbhvnntj.com
 .eczemagrison.uno
-.ed-clr-01.com
 .ed-sys.net
 .ed.at.thamaster.de
 .ed.emp-online.ch
@@ -40091,8 +40092,6 @@
 .fwealjdmeptu.com
 .fweia.xyz
 .fwepd.xyz
-.fwffa.cn
-.fwftmuxxeh.com
 .fwhhcpj.xyz
 .fwix.com
 .fwjoi.com
@@ -40804,9 +40803,7 @@
 .gcaothushop.net
 .gcapi.sy.kugou.com
 .gcbflvx.cn
-.gcbtbruxslwoc.xyz
 .gcbtgh26.xyz
-.gccmembershiprewards.americanexpress.de
 .gccmembershiprewards.americanexpress.it
 .gccode.gongchang.com
 .gcebhl.com
@@ -41775,6 +41772,7 @@
 .givememmastreams.com
 .givemysoft.ru
 .givenconserve.com
+.givensidewaysremoved.com
 .givesboranes.com
 .givesthtosb.com
 .givevacation.com
@@ -51092,7 +51090,6 @@
 .jamsoulsfriday.com
 .jamstech.store
 .jandaqwe.com
-.jane1.top
 .jane2.top
 .janendark.life
 .janezk.50webs.co
@@ -100178,6 +100175,7 @@
 .tracking.events.adp.com
 .tracking.exclusive-networks.com
 .tracking.exklusivladies.de
+.tracking.experiencescottsdale.com
 .tracking.expressen.se
 .tracking.fado.vn
 .tracking.fagersta-posten.se
