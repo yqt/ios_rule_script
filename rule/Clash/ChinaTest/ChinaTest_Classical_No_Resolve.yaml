@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-20 02:14:23
+# UPDATED: 2023-11-23 02:14:16
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64439
+# DOMAIN-SUFFIX: 64387
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64629
+# TOTAL: 64577
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -20203,7 +20203,6 @@ payload:
   - DOMAIN-SUFFIX,ddmap.com
   - DOMAIN-SUFFIX,ddmer.com
   - DOMAIN-SUFFIX,ddnddn.com
-  - DOMAIN-SUFFIX,ddnspod.com
   - DOMAIN-SUFFIX,ddnsto.com
   - DOMAIN-SUFFIX,ddnx.com
   - DOMAIN-SUFFIX,ddong.com
@@ -21574,7 +21573,6 @@ payload:
   - DOMAIN-SUFFIX,drtyf.com
   - DOMAIN-SUFFIX,drugfuture.com
   - DOMAIN-SUFFIX,druggcp.net
-  - DOMAIN-SUFFIX,druid.vip
   - DOMAIN-SUFFIX,drupalla.com
   - DOMAIN-SUFFIX,drupalproject.org
   - DOMAIN-SUFFIX,drv.tw
@@ -22964,6 +22962,7 @@ payload:
   - DOMAIN-SUFFIX,ergengtech.com
   - DOMAIN-SUFFIX,ergengtv.com
   - DOMAIN-SUFFIX,ergouzi.fun
+  - DOMAIN-SUFFIX,erhkpo.com
   - DOMAIN-SUFFIX,erichfund.com
   - DOMAIN-SUFFIX,erji.com
   - DOMAIN-SUFFIX,erke.com
@@ -23504,8 +23503,6 @@ payload:
   - DOMAIN-SUFFIX,fangchanhz.com
   - DOMAIN-SUFFIX,fangchip.com
   - DOMAIN-SUFFIX,fangcloud.com
-  - DOMAIN-SUFFIX,fangdaijisuanqi.com
-  - DOMAIN-SUFFIX,fangdaijisuanqi.net
   - DOMAIN-SUFFIX,fangdd.com
   - DOMAIN-SUFFIX,fangdichanceo.com
   - DOMAIN-SUFFIX,fangdr.com
@@ -31461,7 +31458,6 @@ payload:
   - DOMAIN-SUFFIX,imglefeng.com
   - DOMAIN-SUFFIX,imglink.win
   - DOMAIN-SUFFIX,imgloc.com
-  - DOMAIN-SUFFIX,imgs.ovh
   - DOMAIN-SUFFIX,imgscdn.com
   - DOMAIN-SUFFIX,imgse.com
   - DOMAIN-SUFFIX,imgsha.com
@@ -37155,7 +37151,6 @@ payload:
   - DOMAIN-SUFFIX,liliyago.com
   - DOMAIN-SUFFIX,lilosrv.com
   - DOMAIN-SUFFIX,lilvb.com
-  - DOMAIN-SUFFIX,lilygo.cc
   - DOMAIN-SUFFIX,lilysamericandiner.com
   - DOMAIN-SUFFIX,lilysgame.com
   - DOMAIN-SUFFIX,limaoqiu.com
@@ -40521,7 +40516,6 @@ payload:
   - DOMAIN-SUFFIX,mtzxgf.com
   - DOMAIN-SUFFIX,mubanjianli.com
   - DOMAIN-SUFFIX,mubanwan.com
-  - DOMAIN-SUFFIX,mubixueyuan.com
   - DOMAIN-SUFFIX,mubucm.com
   - DOMAIN-SUFFIX,mucaipin.com
   - DOMAIN-SUFFIX,mucf.cc
@@ -42427,7 +42421,6 @@ payload:
   - DOMAIN-SUFFIX,openedv.com
   - DOMAIN-SUFFIX,openerp.hk
   - DOMAIN-SUFFIX,openeuler.org
-  - DOMAIN-SUFFIX,openeuler.sh
   - DOMAIN-SUFFIX,openew.com
   - DOMAIN-SUFFIX,openfrp.net
   - DOMAIN-SUFFIX,opengcc.org
@@ -48504,7 +48497,6 @@ payload:
   - DOMAIN-SUFFIX,shyihuoh.com
   - DOMAIN-SUFFIX,shykx.com
   - DOMAIN-SUFFIX,shykz123456.com
-  - DOMAIN-SUFFIX,shyojin.com
   - DOMAIN-SUFFIX,shyonghui.xyz
   - DOMAIN-SUFFIX,shyongzeng.com
   - DOMAIN-SUFFIX,shyouai.com
@@ -49493,7 +49485,6 @@ payload:
   - DOMAIN-SUFFIX,southseagy.com
   - DOMAIN-SUFFIX,southsurvey.com
   - DOMAIN-SUFFIX,southyule.com
-  - DOMAIN-SUFFIX,soutiyun.com
   - DOMAIN-SUFFIX,soutre.com
   - DOMAIN-SUFFIX,soutu123.com
   - DOMAIN-SUFFIX,soutushenqi.com
@@ -53530,6 +53521,7 @@ payload:
   - DOMAIN-SUFFIX,uooss.com
   - DOMAIN-SUFFIX,uooyoo.com
   - DOMAIN-SUFFIX,uoozi.com
+  - DOMAIN-SUFFIX,uoschina.com
   - DOMAIN-SUFFIX,uostools.com
   - DOMAIN-SUFFIX,uouo123.com
   - DOMAIN-SUFFIX,uovz.com
@@ -60451,10 +60443,8 @@ payload:
   - DOMAIN-SUFFIX,yinhanglilv.net
   - DOMAIN-SUFFIX,yinhangzhaopin.com
   - DOMAIN-SUFFIX,yinhe.com
-  - DOMAIN-SUFFIX,yinher.com
   - DOMAIN-SUFFIX,yinheyuedu.com
   - DOMAIN-SUFFIX,yinhu.com
-  - DOMAIN-SUFFIX,yinhuadm.cc
   - DOMAIN-SUFFIX,yini.org
   - DOMAIN-SUFFIX,yinji.org
   - DOMAIN-SUFFIX,yinjietd.com

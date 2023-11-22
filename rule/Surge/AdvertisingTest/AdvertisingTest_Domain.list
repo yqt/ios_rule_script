@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-22 02:10:56
+# UPDATED: 2023-11-23 02:10:44
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 12498
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127502
+# DOMAIN-SUFFIX: 127579
 # IP-CIDR: 452
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 141069
+# TOTAL: 141146
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -542,6 +542,7 @@
 .11.yiqig.com
 .1100058268.rsc.cdn77.org
 .1100ad.com
+.1102734998.rsc.cdn77.org
 .110380d053f716c4.com
 .1104piaoba2022.xyz
 .1106yh.com
@@ -580,6 +581,7 @@
 .116bea31bf.com
 .116zhuce.com
 .1170555.com
+.1176528718.rsc.cdn77.org
 .1178.shucong.com
 .118114.cn
 .1187531871.rsc.cdn77.org
@@ -772,6 +774,7 @@
 .166br.com
 .166f.com
 .1675450967.rsc.cdn77.org
+.1678970469.rsc.cdn77.org
 .168.it168.com
 .1680292335.rsc.cdn77.org
 .1680660.com
@@ -2074,6 +2077,7 @@
 .389gmunden.trekkww.space
 .389telfs.trekkww.space
 .389waidhofen.trekkww.space
+.38bw0.space
 .38c99.com
 .38d9953876.com
 .38kmute.xyz
@@ -7101,7 +7105,6 @@
 .acdbidoxmfu.com
 .acdcdn.com
 .acdcmarimo.com
-.acdhahqc.com
 .acdn01.vidox.net
 .acdnpro.com
 .ace.naver.com
@@ -12859,7 +12862,6 @@
 .aihuihui.xyz
 .aiia.xin
 .aiiaqw.xyz
-.aiixyxwx.com
 .aijiamao.top
 .aijielang.cn
 .aijtdcfvks.xyz
@@ -26518,8 +26520,6 @@
 .chaisewharry.top
 .chaishid.net
 .chaistos.net
-.chaiwhaukra.com
-.chaiwimtie.com
 .chajagibbous.com
 .chajv.top
 .chalaips.com
@@ -37462,7 +37462,6 @@
 .decossee.com
 .decouvre.la
 .decoycreation.com
-.decpo.xyz
 .decreasetome.com
 .decreertenet.website
 .decurvepon.com
@@ -45708,6 +45707,7 @@
 .exinepenname.top
 .exipure.net
 .exisperstrk.com
+.existencethrough.com
 .existingcraziness.com
 .existingpass.com
 .exists-mazard.icu
@@ -51877,7 +51877,6 @@
 .giufjcfjdv.com
 .giulli.fr
 .giuntatrub.website
-.givaphofklu.com
 .giveesqtnq.com
 .givemecarforbuying.com
 .givemelink.cc
@@ -54539,9 +54538,6 @@
 .gussimsosurvey.space
 .gustaver.ddns.net
 .gustilyoblate.uno
-.gustygrandmother.com
-.gutchauzaugh.com
-.guterrat.gaius.app
 .gutjfeskwfk.xyz
 .gutobtdagruw.com
 .gutouwang.net
@@ -54914,9 +54910,6 @@
 .hackconsole.fr
 .hackeraa.xyz
 .hackerz.ir
-.hackgamemienphi.com
-.hacktaikhoan.com
-.hacktaikhoanfacebook.com
 .hadabqhbewcrt.com
 .hadarone.com
 .haddock.jeffreyknox.dev
@@ -58912,9 +58905,7 @@
 .ieiukkwfqhwuvwy.com
 .iejsk.com
 .ieju.zgtwpscw.cn
-.ielgag.top
 .iemiq.com
-.iemufbuvehrjo.xyz
 .iemwbu.cn
 .iendoo.com
 .ienkdaccessible.cn
@@ -61419,7 +61410,6 @@
 .inform.janssenpro.eu
 .inform.milestonegroup.com.au
 .informacja-dnia.com
-.informalequipment.pro
 .informantbartonharass.com
 .informatics.filamentcolors.xyz
 .informatie.communicatie.nn.nl
@@ -63320,6 +63310,7 @@
 .jamstech.store
 .jan19.zhiyueit.com
 .jandaqwe.com
+.jane1.top
 .jane2.top
 .janendark.life
 .janeroosterstrk.com
@@ -65449,6 +65440,7 @@
 .jyt58.top
 .jytbxzil.com
 .jytjw.com
+.jyuirxswk.com
 .jyupgi.eurostarshotels.co.uk
 .jyuyjxx.cn
 .jyvith.xyz
@@ -66223,7 +66215,6 @@
 .khewwakrywmgxr.com
 .khfiwx.sephora.com.br
 .khfpcxqwrauj.com
-.khfyas.bellybandit.com
 .khg.xinrongblg.com
 .khg97644rvbg.com
 .khgacoucr.com
@@ -66705,7 +66696,6 @@
 .kmjbwejnr.xyz
 .kmjndas.com
 .kmkixuha.com
-.kmkthnyd.com
 .kmlpgjh.xyz
 .kmlvdhequlpli.com
 .kmlxlkz.cn
@@ -70720,8 +70710,6 @@
 .lkoobbpti.com
 .lkoqtvvajktpjsk.xyz
 .lkot.top
-.lkoulntogv.com
-.lkoxbiwi.com
 .lkpmprksau.com
 .lkqd.com
 .lkqd.net
@@ -94301,10 +94289,7 @@
 .psbiaf.converse.com
 .psclicks.com
 .psdn.xyz
-.psedregn.net
-.pseeckotees.com
 .pseeghud.com
-.pseegroah.com
 .pseekree.com
 .pseekseecm.com
 .pseemsee.com
@@ -104270,7 +104255,6 @@
 .setbbts.cyou
 .setemoump.com
 .sethiteblindly.guru
-.setidlgzwc.com
 .setitoefanyor.org
 .setka.media
 .setoniale.com
@@ -106556,7 +106540,6 @@
 .slizindy.top
 .sljkj.com
 .slkdfg.com
-.slkdnlkfnskl.com
 .sllate.fr
 .sllo.top
 .slm.dantri.com.vn
@@ -116182,7 +116165,6 @@
 .syjkscy.cn
 .sykc.madeindesign.ch
 .sykfmgu.com
-.sykojkqjygahl.com
 .sykty.com
 .syllableliking.com
 .sylvatealonely.com
@@ -121104,7 +121086,6 @@
 .toyota.lol
 .toysrestrictcue.com
 .tozoruaon.com
-.tozuoi.xyz
 .tozwrqnq.xyz
 .tp.ackermann.ch
 .tp.ambria.de
@@ -128439,7 +128420,6 @@
 .vacant-writer.com
 .vacationambulancekin.com
 .vacationinvolve.com
-.vacationsoot.com
 .vaccinationinvalidphosphate.com
 .vaccinationwear.com
 .vaccinegrownparliamentary.com
@@ -129252,7 +129232,6 @@
 .vib8-vay.com
 .vib84.com
 .vibber.download
-.vibcskh.com
 .vibeaconstr.onezapp.com
 .vibmhetkcedookx.com
 .viboom.com
@@ -133033,7 +133012,6 @@
 .whoumtip.xyz
 .whoungoz.net
 .whounoag.xyz
-.whounsou.com
 .whourgie.com
 .whoursie.com
 .whoururt.xyz
@@ -139142,6 +139120,7 @@
 .zationsuchasr.com
 .zatloudredr.com
 .zatnoh.com
+.zattdf.xyz
 .zaubanel.com
 .zaucharo.xyz
 .zauglomo.net

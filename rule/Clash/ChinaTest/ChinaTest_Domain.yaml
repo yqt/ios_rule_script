@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-20 02:14:23
+# UPDATED: 2023-11-23 02:14:16
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64439
+# DOMAIN-SUFFIX: 64387
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64629
+# TOTAL: 64577
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -20203,7 +20203,6 @@ payload:
   - '+.ddmap.com'
   - '+.ddmer.com'
   - '+.ddnddn.com'
-  - '+.ddnspod.com'
   - '+.ddnsto.com'
   - '+.ddnx.com'
   - '+.ddong.com'
@@ -21574,7 +21573,6 @@ payload:
   - '+.drtyf.com'
   - '+.drugfuture.com'
   - '+.druggcp.net'
-  - '+.druid.vip'
   - '+.drupalla.com'
   - '+.drupalproject.org'
   - '+.drv.tw'
@@ -22964,6 +22962,7 @@ payload:
   - '+.ergengtech.com'
   - '+.ergengtv.com'
   - '+.ergouzi.fun'
+  - '+.erhkpo.com'
   - '+.erichfund.com'
   - '+.erji.com'
   - '+.erke.com'
@@ -23504,8 +23503,6 @@ payload:
   - '+.fangchanhz.com'
   - '+.fangchip.com'
   - '+.fangcloud.com'
-  - '+.fangdaijisuanqi.com'
-  - '+.fangdaijisuanqi.net'
   - '+.fangdd.com'
   - '+.fangdichanceo.com'
   - '+.fangdr.com'
@@ -31461,7 +31458,6 @@ payload:
   - '+.imglefeng.com'
   - '+.imglink.win'
   - '+.imgloc.com'
-  - '+.imgs.ovh'
   - '+.imgscdn.com'
   - '+.imgse.com'
   - '+.imgsha.com'
@@ -37155,7 +37151,6 @@ payload:
   - '+.liliyago.com'
   - '+.lilosrv.com'
   - '+.lilvb.com'
-  - '+.lilygo.cc'
   - '+.lilysamericandiner.com'
   - '+.lilysgame.com'
   - '+.limaoqiu.com'
@@ -40521,7 +40516,6 @@ payload:
   - '+.mtzxgf.com'
   - '+.mubanjianli.com'
   - '+.mubanwan.com'
-  - '+.mubixueyuan.com'
   - '+.mubucm.com'
   - '+.mucaipin.com'
   - '+.mucf.cc'
@@ -42427,7 +42421,6 @@ payload:
   - '+.openedv.com'
   - '+.openerp.hk'
   - '+.openeuler.org'
-  - '+.openeuler.sh'
   - '+.openew.com'
   - '+.openfrp.net'
   - '+.opengcc.org'
@@ -48504,7 +48497,6 @@ payload:
   - '+.shyihuoh.com'
   - '+.shykx.com'
   - '+.shykz123456.com'
-  - '+.shyojin.com'
   - '+.shyonghui.xyz'
   - '+.shyongzeng.com'
   - '+.shyouai.com'
@@ -49493,7 +49485,6 @@ payload:
   - '+.southseagy.com'
   - '+.southsurvey.com'
   - '+.southyule.com'
-  - '+.soutiyun.com'
   - '+.soutre.com'
   - '+.soutu123.com'
   - '+.soutushenqi.com'
@@ -53530,6 +53521,7 @@ payload:
   - '+.uooss.com'
   - '+.uooyoo.com'
   - '+.uoozi.com'
+  - '+.uoschina.com'
   - '+.uostools.com'
   - '+.uouo123.com'
   - '+.uovz.com'
@@ -60451,10 +60443,8 @@ payload:
   - '+.yinhanglilv.net'
   - '+.yinhangzhaopin.com'
   - '+.yinhe.com'
-  - '+.yinher.com'
   - '+.yinheyuedu.com'
   - '+.yinhu.com'
-  - '+.yinhuadm.cc'
   - '+.yini.org'
   - '+.yinji.org'
   - '+.yinjietd.com'
