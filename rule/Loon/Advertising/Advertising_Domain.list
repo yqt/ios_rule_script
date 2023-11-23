@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-23 02:09:33
+# UPDATED: 2023-11-24 02:08:48
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 16192
+# DOMAIN: 16193
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97604
+# DOMAIN-SUFFIX: 97638
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 114642
+# TOTAL: 114677
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -36,6 +36,7 @@
 .008844.cc
 .00aaa2d81c1d174.com
 .00d3ed994e.com
+.00d84987c0.com
 .00oo00.com
 .00px.net
 .01.gxso.net
@@ -627,6 +628,7 @@
 .158779.com
 .1588aa.com
 .158aq.com
+.1590742428.rsc.cdn77.org
 .15cacaospice63nhdk.com
 .15gifts.com
 .15tianqi.com
@@ -10812,7 +10814,6 @@
 .aihoasso.net
 .aiia.xin
 .aiiaqw.xyz
-.aiixyxwx.com
 .aijiamao.top
 .aijielang.cn
 .aikan6.com
@@ -16068,6 +16069,7 @@
 .azvjudwr.info
 .azvneyrknejew.top
 .azvozac.ru
+.azwkjjkmbqavv.top
 .azxcuqzzozi.com
 .azxdkucizr.com
 .azxorqjkafa.com
@@ -23215,7 +23217,6 @@
 .cidhdgv.xyz
 .ciedpso.com
 .cieh.mx
-.cierzoskismat.com
 .cifawsoqvawj.com
 .cifflattie.com
 .cifqfyafsolzb.com
@@ -41339,6 +41340,7 @@
 .getlasso.co
 .getlink-service.com
 .getlink.pw
+.getlinkk.link
 .getmackeepersoftpro.xyz
 .getmacos.org
 .getmailcounter.com
@@ -41980,7 +41982,6 @@
 .glo-glo-oom.com
 .gloacmie.com
 .gloacmug.net
-.gloacmug.xyz
 .gloaftil.com
 .gloagaus.xyz
 .gloaghouph.com
@@ -50859,7 +50860,6 @@
 .ixjrwczv.com
 .ixkhaxpubqf.com
 .ixkofjcwzlz.com
-.ixmbkxthnj.xyz
 .ixnow.xyz
 .ixnp.com
 .ixpub.net
@@ -51082,6 +51082,7 @@
 .jamsoulsfriday.com
 .jamstech.store
 .jandaqwe.com
+.jane1.top
 .jane2.top
 .janendark.life
 .janezk.50webs.co
@@ -53889,7 +53890,6 @@
 .kmindex.ru
 .kmjndas.com
 .kmkixuha.com
-.kmkthnyd.com
 .kmlpgjh.xyz
 .kmlvdhequlpli.com
 .kmmgoogle.oss-ap-southeast-1.aliyuncs.com
@@ -57318,8 +57318,6 @@
 .lknqfn.furla.com
 .lkoqtvvajktpjsk.xyz
 .lkot.top
-.lkoulntogv.com
-.lkoxbiwi.com
 .lkpmprksau.com
 .lkqd.com
 .lkqd.net
@@ -64459,9 +64457,7 @@
 .mlog.aipai.com
 .mlog.m1905.cn
 .mlog.search.xiaomi.net
-.mloxcnrt.com
 .mlpeqwkruffs.com
-.mlrrvusoiebaox.com
 .mlsat04.de
 .mlsend.com
 .mlsjh.com
@@ -65887,7 +65883,6 @@
 .mupufktvziob.com
 .mupyfpimgnvqdgy.com
 .muqsad.xyz
-.muqtti.motoin.de
 .muragetunnel.com
 .muralattentive.com
 .muralshelvesdeposition.com
@@ -71567,7 +71562,6 @@
 .overlook.fun
 .overlooked-cup.pro
 .overlooked-scratch.pro
-.overlookrapt.com
 .overlordtea.cn
 .overmewer.com
 .overnmentil.site
@@ -71730,6 +71724,7 @@
 .oxu24.com
 .oxwtihtvdwgdaq.com
 .oxwwoeukjispema.ru
+.oxxolqgizza.com
 .oxxvikappo.com
 .oxybe.com
 .oxydaserucked.com
@@ -73527,6 +73522,7 @@
 .phoaglee.com
 .phoalard.net
 .phoampun.net
+.phoamsoa.xyz
 .phoapsoo.com
 .phoaptee.net
 .phoaraut.com
@@ -73762,7 +73758,7 @@
 .pictures-album.com
 .picturesquefilms.net
 .pictureturn.com
-.piddme.buyma.com
+.pidetucreditoaqui.site
 .pidoco.fr
 .pidorg.ru
 .pidurrmu.xyz
@@ -74233,6 +74229,8 @@
 .pktytp.membershop.lv
 .pkudawbkcl.com
 .pkynqq.com
+.pl-oferta7239.online
+.pl-oferta7335.online
 .pl-topgal.m-shop.me
 .pl.1feed.app
 .pl.astro-akatemia.fi
@@ -75192,6 +75190,7 @@
 .portal.insight.maruelutions.averydennison.com
 .portal.krollontrack.co.uk
 .portalhc.com
+.portalinfo.xyz
 .portalisimmo.com
 .portalregionstip.com
 .portatoleprid.uno
@@ -86441,7 +86440,6 @@
 .slivz.com
 .sljkj.com
 .slkdfg.com
-.slkdnlkfnskl.com
 .sllate.fr
 .sllo.top
 .slm.dantri.com.vn
@@ -94631,7 +94629,6 @@
 .tabloidsuggest.com
 .tabmo.io
 .taboizo.mom
-.tabonyventures.online
 .taboringrigri.com
 .tabulaeokas.com
 .tabutelei.guru
@@ -98045,7 +98042,6 @@
 .toyosbullpen.com
 .toysrestrictcue.com
 .tozoruaon.com
-.tozuoi.xyz
 .tozwrqnq.xyz
 .tp.ackermann.ch
 .tp.ambria.de
@@ -105473,6 +105469,7 @@
 .vidsocean.space
 .vidsofdream.space
 .vidsplanet.online
+.vidsplanet.space
 .vidsreal.online
 .vidsreal.space
 .vidsrev.com
@@ -106301,11 +106298,7 @@
 .vnah567.com
 .vnanf.com
 .vnbgcquiihu.xyz
-.vnbitcoin.cc
-.vnbyclsboyoya.com
 .vndcrknbh.xyz
-.vnduthianhgroup.com
-.vnebank.xyz
 .vneffwecka.com
 .vnet.cn
 .vnf4.belleetbio.com
@@ -122722,6 +122715,7 @@ logic.anzuinfra.com
 loginfra.com
 logrp.hpplay.cn
 logs-01.loggly.com
+logs-ott.fbox.fpt.vn
 logs.81plug.com
 logs.datadoghq.com
 lohappbnrpgypu.com

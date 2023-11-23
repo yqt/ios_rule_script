@@ -1,12 +1,12 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-23 02:16:18
+# UPDATED: 2023-11-24 02:16:06
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 65699
+# DOMAIN-SUFFIX: 65688
 # USER-AGENT: 69
-# TOTAL: 65948
+# TOTAL: 65937
 .0-6.com
 .00.net
 .000.link
@@ -44173,6 +44173,8 @@
 .pyddd.com
 .pyer.site
 .pyhead.com
+.pyjia.com
+.pyjsh.com
 .pyker.com
 .pylist.com
 .pyneo.com
@@ -46870,6 +46872,7 @@
 .rxjhbaby.com
 .rxjiasu.com
 .rxjt.co
+.rxn30.app
 .rxohsn.xyz
 .rxshc.com
 .rxykamto.com

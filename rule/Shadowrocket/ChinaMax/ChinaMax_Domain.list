@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-23 02:15:31
+# UPDATED: 2023-11-24 02:15:12
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 65946
-# IP-ASN: 1010
+# DOMAIN-SUFFIX: 65935
+# IP-ASN: 1009
 # IP-CIDR: 9497
 # USER-AGENT: 69
-# TOTAL: 76702
+# TOTAL: 76690
 .0-6.com
 .00.net
 .000.link
@@ -44448,6 +44448,8 @@
 .pyddd.com
 .pyer.site
 .pyhead.com
+.pyjia.com
+.pyjsh.com
 .pyker.com
 .pylist.com
 .pyneo.com
@@ -47149,6 +47151,7 @@
 .rxjhbaby.com
 .rxjiasu.com
 .rxjt.co
+.rxn30.app
 .rxohsn.xyz
 .rxshc.com
 .rxykamto.com

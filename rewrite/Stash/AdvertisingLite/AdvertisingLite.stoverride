@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2023-11-20 02:18:54
+desc: 最后更新时间 2023-11-24 02:18:14
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 540
-# mitm: 445
+# reject: 542
+# mitm: 446
 # force-http-engine-hosts: 6
-# total: 991
+# total: 994
 
 
 
