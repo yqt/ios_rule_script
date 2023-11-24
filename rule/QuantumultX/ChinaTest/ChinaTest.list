@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-24 10:37:50
+# UPDATED: 2023-11-25 02:13:24
 # HOST: 166
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64376
+# HOST-SUFFIX: 64370
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64598
+# TOTAL: 64592
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -19720,7 +19720,6 @@ HOST-SUFFIX,daicuo.net,ChinaTest
 HOST-SUFFIX,daicuo.vip,ChinaTest
 HOST-SUFFIX,daidaicp.com,ChinaTest
 HOST-SUFFIX,daidaidui.club,ChinaTest
-HOST-SUFFIX,daidaitv.com,ChinaTest
 HOST-SUFFIX,daidongxi.com,ChinaTest
 HOST-SUFFIX,daigou.com,ChinaTest
 HOST-SUFFIX,daiguaji.com,ChinaTest
@@ -26304,7 +26303,6 @@ HOST-SUFFIX,gs12122.com,ChinaTest
 HOST-SUFFIX,gs14.com,ChinaTest
 HOST-SUFFIX,gs1cn.org,ChinaTest
 HOST-SUFFIX,gs307.com,ChinaTest
-HOST-SUFFIX,gs3jro.xyz,ChinaTest
 HOST-SUFFIX,gsafc.com,ChinaTest
 HOST-SUFFIX,gsafety.com,ChinaTest
 HOST-SUFFIX,gsbankchina.com,ChinaTest
@@ -27542,6 +27540,7 @@ HOST-SUFFIX,haomifi.com,ChinaTest
 HOST-SUFFIX,haomijie.com,ChinaTest
 HOST-SUFFIX,haommn.com,ChinaTest
 HOST-SUFFIX,haomove.com,ChinaTest
+HOST-SUFFIX,haomugua.com,ChinaTest
 HOST-SUFFIX,haomzl.com,ChinaTest
 HOST-SUFFIX,haonames.com,ChinaTest
 HOST-SUFFIX,haonic.com,ChinaTest
@@ -54293,18 +54292,7 @@ HOST-SUFFIX,voidme.com,ChinaTest
 HOST-SUFFIX,vojs.tv,ChinaTest
 HOST-SUFFIX,vokop.com,ChinaTest
 HOST-SUFFIX,vol.moe,ChinaTest
-HOST-SUFFIX,volc-dns.com,ChinaTest
-HOST-SUFFIX,volc-dns.net,ChinaTest
-HOST-SUFFIX,volc-dns.pub,ChinaTest
-HOST-SUFFIX,volc-embed.com,ChinaTest
-HOST-SUFFIX,volcadocean.com,ChinaTest
-HOST-SUFFIX,volcadvc.com,ChinaTest
-HOST-SUFFIX,volcalb.com,ChinaTest
 HOST-SUFFIX,volcanicengine.com,ChinaTest
-HOST-SUFFIX,volcautovod.com,ChinaTest
-HOST-SUFFIX,volcbiz.com,ChinaTest
-HOST-SUFFIX,volcca.com,ChinaTest
-HOST-SUFFIX,volcca.net,ChinaTest
 HOST-SUFFIX,volccdn.com,ChinaTest
 HOST-SUFFIX,volccdn1.com,ChinaTest
 HOST-SUFFIX,volccdn2.com,ChinaTest
@@ -56952,6 +56940,7 @@ HOST-SUFFIX,www21420.com,ChinaTest
 HOST-SUFFIX,www3.djicdn.com,ChinaTest
 HOST-SUFFIX,www4.djicdn.com,ChinaTest
 HOST-SUFFIX,www48-365365.com,ChinaTest
+HOST-SUFFIX,www5.djicdn.com,ChinaTest
 HOST-SUFFIX,wwwatch.in,ChinaTest
 HOST-SUFFIX,wwwbuild.net,ChinaTest
 HOST-SUFFIX,wwwer.net,ChinaTest
@@ -60447,6 +60436,7 @@ HOST-SUFFIX,yinhangkaoshi.net,ChinaTest
 HOST-SUFFIX,yinhanglilv.net,ChinaTest
 HOST-SUFFIX,yinhangzhaopin.com,ChinaTest
 HOST-SUFFIX,yinhe.com,ChinaTest
+HOST-SUFFIX,yinhecn.com,ChinaTest
 HOST-SUFFIX,yinheyuedu.com,ChinaTest
 HOST-SUFFIX,yinhu.com,ChinaTest
 HOST-SUFFIX,yini.org,ChinaTest

@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-24 10:40:23
+# UPDATED: 2023-11-25 02:15:57
 # DOMAIN: 163
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 65588
+# DOMAIN-SUFFIX: 65582
 # IP-ASN: 1009
-# IP-CIDR: 5981
-# IP-CIDR6: 3516
+# IP-CIDR: 5982
+# IP-CIDR6: 3498
 # PROCESS-NAME: 11
 # USER-AGENT: 69
-# TOTAL: 76348
+# TOTAL: 76325
 .0-6.com
 .00.net
 .000.link
@@ -17229,7 +17229,6 @@
 .daicuo.vip
 .daidaicp.com
 .daidaidui.club
-.daidaitv.com
 .daidongxi.com
 .daigou.com
 .daiguaji.com
@@ -24713,7 +24712,6 @@
 .gs12122.com
 .gs14.com
 .gs1cn.org
-.gs3jro.xyz
 .gsadds.com
 .gsafc.com
 .gsafety.com
@@ -26033,6 +26031,7 @@
 .haomijie.com
 .haommn.com
 .haomove.com
+.haomugua.com
 .haomzl.com
 .haonames.com
 .haonic.com
@@ -55382,18 +55381,7 @@
 .vojs.tv
 .vokop.com
 .vol.moe
-.volc-dns.com
-.volc-dns.net
-.volc-dns.pub
-.volc-embed.com
-.volcadocean.com
-.volcadvc.com
-.volcalb.com
 .volcanicengine.com
-.volcautovod.com
-.volcbiz.com
-.volcca.com
-.volcca.net
 .volccdn.com
 .volccdn1.com
 .volccdn2.com
@@ -58246,6 +58234,7 @@
 .www3.djicdn.com
 .www4.djicdn.com
 .www48-365365.com
+.www5.djicdn.com
 .wwwatch.in
 .wwwbuild.net
 .wwwer.net
@@ -61991,6 +61980,7 @@
 .yinhanglilv.net
 .yinhangzhaopin.com
 .yinhe.com
+.yinhecn.com
 .yinheyuedu.com
 .yinhu.com
 .yini.org
