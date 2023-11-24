@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-24 02:10:02
+# UPDATED: 2023-11-24 10:34:47
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 12499
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127670
+# DOMAIN-SUFFIX: 127706
 # IP-CIDR: 452
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 141238
+# TOTAL: 141274
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -23589,7 +23589,6 @@
 .btn.rtl2.de
 .btnativedirect.com
 .btncdn.com
-.btnwxhjv.xyz
 .btodsjr.com
 .btonzfjleinuax.com
 .btpnative.com
@@ -31974,8 +31973,6 @@
 .cthbini.xyz
 .cthisismoych.com
 .cthkgodgy.com
-.ctiarbwaxam.com
-.ctiascaqkn.com
 .ctiavxtakmw.com
 .ctiawbxvhajg.com
 .cticalwhichhere.info
@@ -39262,6 +39259,7 @@
 .djmwwdrznntss.com
 .djnaivalj34ub.cloudfront.net
 .djnqoe.rani.com.tr
+.djponj.xyz
 .djqacscl.com
 .djqitgfjfu.com
 .djr4k68f8n55o.cloudfront.net
@@ -42582,8 +42580,6 @@
 .edvforeveretest.info
 .edvfwlacluo.com
 .edvrfjrrxk.com
-.edvruqmrjvlg.com
-.edvxgqx.com
 .edvxygh.com
 .edw.edmunds.com
 .edwad.co
@@ -51794,7 +51790,6 @@
 .gimhae.streek.space
 .gimme-promo.com
 .gimnsr.com
-.gimohhfzvmpdt.com
 .gimp.es
 .gimpingurubu.life
 .gimwcpketr.com
@@ -56908,9 +56903,7 @@
 .ho47no3iry.de
 .hoa44trk.com
 .hoabinoo.net
-.hoacauch.net
 .hoagiesmowed.com
-.hoakhoithanhlichmamnon9999.weebly.com
 .hoakz.xyz
 .hoanaijo.com
 .hoangkim1.org
@@ -67051,10 +67044,7 @@
 .kovla.com
 .kowqd7.top
 .kowqd9.top
-.koxcsmmcealss.com
-.koxqdviupg.xyz
 .koyuod.xyz
-.kozhyf.icu
 .kozoysnsx.com
 .kozszolgalat.com
 .kozuyzcciaygg.com
@@ -81264,7 +81254,6 @@
 .murcs.org
 .murderassuredness.com
 .murdoog.com
-.murdyq.com
 .muricidmartins.com
 .muriheem.net
 .murkfrazil.com
@@ -84264,7 +84253,6 @@
 .noosersturtles.com
 .noosingimmask.com
 .noowho.com
-.noozjifbn.com
 .nopalryyipped.com
 .nope.arabxforum.com
 .nope.xn--mgbkt9eckr.net
@@ -94285,6 +94273,7 @@
 .psbiaf.converse.com
 .psclicks.com
 .psdn.xyz
+.psedregn.net
 .pseeghud.com
 .pseekree.com
 .pseekseecm.com
@@ -121203,6 +121192,7 @@
 .tqmibkqlwqdysi.com
 .tqnggnsi.fun
 .tqqjk.top
+.tqrjlqt.com
 .tqrznqs.cn
 .tqvacq.intrend.it
 .tqwxtglpr.com
@@ -130653,6 +130643,7 @@
 .vpotyflfox.com
 .vppst.iltrovatore.it
 .vppvyt.ladernierechasse.com
+.vpqko.fun
 .vpqpbgvgly.com
 .vpqrydt.xyz
 .vprtrfc.com
@@ -132690,8 +132681,6 @@
 .wfpjeul.cn
 .wfqgfaa.cn
 .wfthumty.pm
-.wftyehw.cn
-.wfutphkrendhr.com
 .wfuwlkgm.com
 .wfuxwegisqhe.com
 .wfwpok.impressionen.de
@@ -138576,6 +138565,7 @@
 .ytdksb.com
 .ytelc.com
 .yterxv.com
+.ytezym.xyz
 .ytfezzava.com
 .ytfotjfrttgyal.com
 .ytguowang.com
@@ -140072,6 +140062,7 @@
 .zpsh.shop
 .zpsovpgyk.xyz
 .zpu.samsungelectronics.com
+.zpvsuniqkhj.com
 .zpvuugw.cn
 .zpwansf.cn
 .zpyfsj.cn

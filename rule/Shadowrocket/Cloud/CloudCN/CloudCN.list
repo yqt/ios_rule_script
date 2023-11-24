@@ -1,7 +1,8 @@
 # NAME: CloudCN
 # AUTHOR: LM-Firefly
 # REPO: https://github.com/LM-Firefly/Rules
-# UPDATED: 2024-02-03 01:48:32
+# UPDATED: 2023-11-24 10:39:48
+# DOMAIN-SUFFIX: 161
 # IP-CIDR: 231
 # TOTAL: 231
 IP-CIDR,1.116.116.0/22,no-resolve

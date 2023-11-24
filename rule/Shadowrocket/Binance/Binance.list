@@ -1,9 +1,9 @@
 # NAME: Binance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:48:34
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2023-11-24 10:39:50
+# DOMAIN-SUFFIX: 33
+# TOTAL: 33
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.com

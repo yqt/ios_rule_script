@@ -1,9 +1,24 @@
 # NAME: Salesforce
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:47:58
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2023-11-24 10:39:06
+# DOMAIN-SUFFIX: 47
+# TOTAL: 47
+DOMAIN-SUFFIX,appcloud.com
+DOMAIN-SUFFIX,appexchange.com
+DOMAIN-SUFFIX,attic.io
+DOMAIN-SUFFIX,beyondcore.com
+DOMAIN-SUFFIX,buddymedia.com
+DOMAIN-SUFFIX,chatter.com
+DOMAIN-SUFFIX,cloudcraze.com
+DOMAIN-SUFFIX,cotweet.com
+DOMAIN-SUFFIX,data.com
+DOMAIN-SUFFIX,demandware.com
+DOMAIN-SUFFIX,desk.com
+DOMAIN-SUFFIX,documentforce.com
+DOMAIN-SUFFIX,dreamforce.com
+DOMAIN-SUFFIX,einstein.com
+DOMAIN-SUFFIX,exacttarget.com
 DOMAIN-SUFFIX,force.com
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,herokuapp.com

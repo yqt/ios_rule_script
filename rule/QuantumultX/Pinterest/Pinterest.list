@@ -1,9 +1,10 @@
 # NAME: Pinterest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:47:29
-# HOST-SUFFIX: 23
-# TOTAL: 23
+# UPDATED: 2023-11-24 10:38:40
+# HOST-SUFFIX: 52
+# TOTAL: 52
+HOST-SUFFIX,pin.it,Pinterest
 HOST-SUFFIX,pinimg.com,Pinterest
 HOST-SUFFIX,pinterest.at,Pinterest
 HOST-SUFFIX,pinterest.ca,Pinterest
