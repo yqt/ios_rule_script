@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-25 02:09:53
+# UPDATED: 2023-11-26 02:09:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12499
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127714
+# DOMAIN-SUFFIX: 127776
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 141270
+# TOTAL: 141332
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -784,6 +784,7 @@
 .168ya.xyz
 .168zwm.com
 .1691730330.rsc.cdn77.org
+.1693478152.rsc.cdn77.org
 .16a754560b.com
 .16ao.mathon.fr
 .16dcc05513.com
@@ -7132,7 +7133,6 @@
 .acfaaoaaxdqm.com
 .acfc8b5ca7.com
 .acfsxqoa.com
-.acftxqqg.com
 .acfyamxwluprpx.com
 .acgbase.com
 .acgbenzi.com
@@ -10726,7 +10726,6 @@
 .adschill.com
 .adscholar.com
 .adschoom.com
-.adscience.nl
 .adscienceltd.com
 .adsclick.qq.com
 .adsclick.yx.js.cn
@@ -18192,6 +18191,7 @@
 .awmbed.com
 .awmbriegurries.com
 .awmdelivery.com
+.awmocpqihh.com
 .awmonitor.com
 .awmplus.com
 .awmserve.com
@@ -32875,7 +32875,6 @@
 .d1af033869koo7.cloudfront.net
 .d1af165twk0zgn.cloudfront.net
 .d1aiciyg0qwvvr.cloudfront.net
-.d1ap9gbbf77h85.cloudfront.net
 .d1appgm50chwbg.cloudfront.net
 .d1aqvw7cn4ydzo.cloudfront.net
 .d1aukpqf83rqhe.cloudfront.net
@@ -50708,7 +50707,6 @@
 .gcn-1nterc.com
 .gcn.tuv.com
 .gcoiys.cutsclothing.com
-.gcomfbzrsa.com
 .gcotipdaxatp.com
 .gcouh.com
 .gcouncer.buzz
@@ -55229,7 +55227,6 @@
 .hare.felix-schmid.de
 .hare.startupbootcamp.com.au
 .haree.cn
-.harelipwelshes.digital
 .haresmodus.com
 .harfuzawmk.com
 .harhtwb.com
@@ -63226,6 +63223,7 @@
 .jackpotbeautifulsulky.com
 .jackpotpresents.com
 .jacksonduct.com
+.jackwolfskinsverige.com.se
 .jaclottens.live
 .jacmolta.com
 .jacnrobv.com
@@ -63892,7 +63890,6 @@
 .jiangxing.live
 .jiangxing.pub
 .jiangyahuid.top
-.jiangyahuir.top
 .jiangzimeng1.cn
 .jianjianjiao.top
 .jianjiaovip.vip
@@ -65458,6 +65455,7 @@
 .jzqbyykbrrzvq.top
 .jzqce.com
 .jzqfac.bestsecret.ch
+.jzsqwkjvnz.com
 .jzt.jd.com
 .jztchllgpcrwu.com
 .jztucbb.com
@@ -66115,9 +66113,7 @@
 .kf.qingwk.com
 .kf3msfm.com
 .kfand.com
-.kfareputfeab.org
 .kfckcu.xyz
-.kfctds59.shop
 .kfd3sm2c.com
 .kfdg22.com
 .kfdg55.com
@@ -87423,7 +87419,6 @@
 .orest-vlv.com
 .oretracker.top
 .orfa1st5.de
-.org-secured.com
 .orgagetnization.org
 .organexpectationsmaintain.com
 .organic-harmony.com
@@ -100536,7 +100531,18 @@
 .rtb.trade
 .rtb.videonow.ru
 .rtb.wedeo.ru
+.rtb1.adscience.nl
+.rtb10.adscience.nl
+.rtb11.adscience.nl
+.rtb12.adscience.nl
 .rtb123.com
+.rtb13.adscience.nl
+.rtb14.adscience.nl
+.rtb15.adscience.nl
+.rtb16.adscience.nl
+.rtb17.adscience.nl
+.rtb18.adscience.nl
+.rtb19.adscience.nl
 .rtb1bid.com
 .rtb2-apac.catapultx.com
 .rtb2-apac.convergeselect.net
@@ -100568,6 +100574,26 @@
 .rtb2-uswest.e-volution.ai
 .rtb2-uswest.webithr.com
 .rtb2-uswest.xaprio.net
+.rtb2.adscience.nl
+.rtb2.vashoot.com
+.rtb20.adscience.nl
+.rtb21.adscience.nl
+.rtb22.adscience.nl
+.rtb23.adscience.nl
+.rtb24.adscience.nl
+.rtb25.adscience.nl
+.rtb26.adscience.nl
+.rtb27.adscience.nl
+.rtb28.adscience.nl
+.rtb29.adscience.nl
+.rtb3.adscience.nl
+.rtb30.adscience.nl
+.rtb4.adscience.nl
+.rtb5.adscience.nl
+.rtb6.adscience.nl
+.rtb7.adscience.nl
+.rtb8.adscience.nl
+.rtb9.adscience.nl
 .rtbadzesto.com
 .rtbapi.douyucdn.cn
 .rtbasia.com
@@ -102952,6 +102978,7 @@
 .sdegwynml.bmaci.me
 .sdeiqmltglx.com
 .sdfafds6.com
+.sdfasdfsdfsdf.trekkww.fun
 .sdfg68.com
 .sdfgbuy.com
 .sdfjtwp.com
@@ -115491,6 +115518,7 @@
 .supplysuede.com
 .support-ip.com
 .support-v2.sweetwaternow.com
+.support-widget.userlocal.jp
 .support.bradken.com
 .support.flex.com
 .support.panasonic.eu
@@ -126423,8 +126451,6 @@
 .uebadu.com
 .uebawtz7.me
 .uebipacy.xyz
-.uebohjhh.xyz
-.uectfe.toptantr.com
 .ued8.destinia.sg
 .uedata.amazon.com
 .uedvam.tatilsepeti.com
@@ -134596,6 +134622,7 @@
 .www.adquest3d.com
 .www.adrianwaldock.plus.com
 .www.ads.mediastinct.com
+.www.adscience.nl
 .www.adservtech.com
 .www.adsnet.se
 .www.adspics.com

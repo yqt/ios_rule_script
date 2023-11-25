@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-25 02:08:40
+# UPDATED: 2023-11-26 02:08:22
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 16193
+# DOMAIN: 16194
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97723
+# DOMAIN-SUFFIX: 97803
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 114762
+# TOTAL: 114843
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -652,6 +652,7 @@
 .168xiazai.com
 .168ya.xyz
 .1691730330.rsc.cdn77.org
+.1693478152.rsc.cdn77.org
 .16a754560b.com
 .16ao.mathon.fr
 .16i6nuuc2ej.koelewijn.nl
@@ -3306,6 +3307,7 @@
 .9eb0538646.com
 .9eb10b7a3d04a.com
 .9ee93ebe3a.com
+.9eu7c.top
 .9f11.win
 .9f50508b3c.com
 .9f62b6f6bf.com
@@ -5983,7 +5985,6 @@
 .acexedge.com
 .acfaaoaaxdqm.com
 .acfsxqoa.com
-.acftxqqg.com
 .acfyamxwluprpx.com
 .acgbase.com
 .acgbenzi.com
@@ -9191,7 +9192,6 @@
 .adschill.com
 .adscholar.com
 .adschoom.com
-.adscience.nl
 .adscienceltd.com
 .adsclick.qq.com
 .adsclick.yx.js.cn
@@ -16053,7 +16053,6 @@
 .azorbe.com
 .azpresearch.club
 .azq.zozo.jp
-.azqqloborwwba.top
 .azraelzvro.com
 .azscgj.penningtons.com
 .azsin.ru
@@ -20322,7 +20321,6 @@
 .btn.rtl2.de
 .btnativedirect.com
 .btncdn.com
-.btnwxhjv.xyz
 .btodsjr.com
 .btonzfjleinuax.com
 .btpnative.com
@@ -22800,7 +22798,6 @@
 .check-now.online
 .check-out-this.site
 .check-update-today.com
-.check.frbservices.org
 .check.tadapi.info
 .checkaccff.com
 .checkbl.ru
@@ -25366,7 +25363,6 @@
 .connectreadoasis.com
 .connects.ch
 .connectstats.mckesson.com
-.connecttest.arubanetworks.com
 .connecttoday.eu
 .connectwithus.cetera.com
 .connexionsafe.com
@@ -27012,9 +27008,7 @@
 .cthbini.xyz
 .cthisismoych.com
 .cthkgodgy.com
-.ctiarbwaxam.com
-.ctiascaqkn.com
-.ctiawbxvhajg.com
+.ctiavxtakmw.com
 .cticalwhichhere.info
 .ctienlf.top
 .ctiev.com
@@ -27724,7 +27718,6 @@
 .d1af033869koo7.cloudfront.net
 .d1af165twk0zgn.cloudfront.net
 .d1aiciyg0qwvvr.cloudfront.net
-.d1ap9gbbf77h85.cloudfront.net
 .d1appgm50chwbg.cloudfront.net
 .d1aqvw7cn4ydzo.cloudfront.net
 .d1aukpqf83rqhe.cloudfront.net
@@ -29751,6 +29744,7 @@
 .de17a.com
 .de2nsnw1i3egd.cloudfront.net
 .deacon.ghfkk.com
+.deadlineevaporate.com
 .deadlinefunnel.com
 .deadly-variety.pro
 .deadlyheart.pro
@@ -31331,8 +31325,6 @@
 .djmaza.in
 .djmwwdrznntss.com
 .djnaivalj34ub.cloudfront.net
-.djnqoe.rani.com.tr
-.djphnuhkbjf.com
 .djponj.xyz
 .djqacscl.com
 .djqitgfjfu.com
@@ -34051,8 +34043,6 @@
 .edvforeveretest.info
 .edvfwlacluo.com
 .edvrfjrrxk.com
-.edvruqmrjvlg.com
-.edvxgqx.com
 .edvxygh.com
 .edw.edmunds.com
 .edwate.com
@@ -35259,7 +35249,6 @@
 .engage.tines.com
 .engage.unisa.edu.au
 .engage.uq.edu.au
-.engage.us.victorinsurance.com
 .engage.windows.com
 .engage2demand.cisco.com
 .engagebdr.com
@@ -38577,7 +38566,6 @@
 .flcrcyj.com
 .fldes6fq.de
 .fldkakjccxhgw.com
-.fldoai.municipal.com
 .flecur.com
 .fleddatabaseclothing.com
 .fleddaughter.com
@@ -40861,8 +40849,6 @@
 .gcm.ksmobile.com
 .gcm.ksmobile.net
 .gcn-1nterc.com
-.gcoiys.cutsclothing.com
-.gcomfbzrsa.com
 .gcotipdaxatp.com
 .gcouh.com
 .gcounter.hosting4u.net
@@ -41150,7 +41136,6 @@
 .geolocation.outreach.com
 .geolsoul.life
 .geometryworstaugust.com
-.geompzr.com
 .geoplugin.net
 .geopolice.com
 .geopostcodes.fr
@@ -46706,6 +46691,7 @@
 .huwkiycoup.com
 .huwuftie.com
 .huxifena.cn
+.huxsvl.xyz
 .huylki.com
 .huzhanbin.cn
 .hvac.goodcoinc.com
@@ -51006,6 +50992,7 @@
 .jackpotbeautifulsulky.com
 .jackpotpresents.com
 .jacksonduct.com
+.jackwolfskinsverige.com.se
 .jaclottens.live
 .jacmolta.com
 .jacnrobv.com
@@ -52849,7 +52836,6 @@
 .jzpvgldgtbpjb.com
 .jzqbyykbrrzvq.top
 .jzqce.com
-.jzqgyccwefd.com
 .jzsqwkjvnz.com
 .jzt.jd.com
 .jztchllgpcrwu.com
@@ -54172,10 +54158,7 @@
 .kovla.com
 .kowqd7.top
 .kowqd9.top
-.koxcsmmcealss.com
-.koxqdviupg.xyz
 .koyuod.xyz
-.kozhyf.icu
 .kozoysnsx.com
 .kozszolgalat.com
 .kpbqlqv.cn
@@ -57287,7 +57270,6 @@
 .lkhmkmhlqst.xyz
 .lkidke.com
 .lkj23jlkajsa.realestate.help
-.lkjbrd.signals.com
 .lkjgdyhtdrnau.com
 .lkjjhrwrcmvtl.com
 .lkjkbjnalnqnb.top
@@ -71008,7 +70990,6 @@
 .orest-vlv.com
 .oretracker.top
 .orfa1st5.de
-.org-secured.com
 .orgagetnization.org
 .organexpectationsmaintain.com
 .organic-harmony.com
@@ -75699,7 +75680,6 @@
 .prfctmney.com
 .prft1pub.com
 .prftonnes.com
-.prhhqo.vintagevoyage.ru
 .prhphla.xyz
 .prhzxq.com
 .pri12mel.com
@@ -76408,6 +76388,7 @@
 .psbiaf.converse.com
 .psclicks.com
 .psdn.xyz
+.psedregn.net
 .pseeghud.com
 .pseekree.com
 .pseekseecm.com
@@ -81397,8 +81378,38 @@
 .rtb.trade
 .rtb.videonow.ru
 .rtb.wedeo.ru
+.rtb1.adscience.nl
+.rtb10.adscience.nl
+.rtb11.adscience.nl
+.rtb12.adscience.nl
 .rtb123.com
+.rtb13.adscience.nl
+.rtb14.adscience.nl
+.rtb15.adscience.nl
+.rtb16.adscience.nl
+.rtb17.adscience.nl
+.rtb18.adscience.nl
+.rtb19.adscience.nl
 .rtb1bid.com
+.rtb2.adscience.nl
+.rtb20.adscience.nl
+.rtb21.adscience.nl
+.rtb22.adscience.nl
+.rtb23.adscience.nl
+.rtb24.adscience.nl
+.rtb25.adscience.nl
+.rtb26.adscience.nl
+.rtb27.adscience.nl
+.rtb28.adscience.nl
+.rtb29.adscience.nl
+.rtb3.adscience.nl
+.rtb30.adscience.nl
+.rtb4.adscience.nl
+.rtb5.adscience.nl
+.rtb6.adscience.nl
+.rtb7.adscience.nl
+.rtb8.adscience.nl
+.rtb9.adscience.nl
 .rtbadzesto.com
 .rtbanalytics.com
 .rtbasia.com
@@ -83452,7 +83463,6 @@
 .sdd.hi1718.com
 .sddan.com
 .sdeiqmltglx.com
-.sdfdfff.flelgwe.site
 .sdfg68.com
 .sdfgbuy.com
 .sdfjtwp.com
@@ -98133,6 +98143,7 @@
 .tqlvkfgnrsd.com
 .tqmibkqlwqdysi.com
 .tqqjk.top
+.tqrjlqt.com
 .tqrznqs.cn
 .tqvacq.intrend.it
 .tqwxtglpr.com
@@ -100068,6 +100079,7 @@
 .tracking.ehrintelligence.com
 .tracking.eloq.soa.org
 .tracking.email-mandrill.pushd.com
+.tracking.emilyclarkconsulting.com
 .tracking.emoneyadvisor.com
 .tracking.emsmobile.de
 .tracking.engagedigitalmedia.com
@@ -108404,10 +108416,8 @@
 .wfpjeul.cn
 .wfqgfaa.cn
 .wfthumty.pm
-.wftyehw.cn
-.wfutphkrendhr.com
 .wfuwlkgm.com
-.wfwpok.impressionen.de
+.wfuxwegisqhe.com
 .wfxoi.xyz
 .wfyqc.com
 .wg-aff.com
@@ -109983,6 +109993,7 @@
 .www.adpowerzone.com
 .www.adquest3d.com
 .www.adrianwaldock.plus.com
+.www.adscience.nl
 .www.adservtech.com
 .www.adsnet.se
 .www.adspics.com
@@ -113107,6 +113118,7 @@
 .ytdksb.com
 .ytelc.com
 .yterxv.com
+.ytezym.xyz
 .ytfezzava.com
 .ytfotjfrttgyal.com
 .ytguowang.com
@@ -114258,6 +114270,7 @@
 .zprk.io
 .zpsovpgyk.xyz
 .zpu.samsungelectronics.com
+.zpvsuniqkhj.com
 .zpvuugw.cn
 .zpwansf.cn
 .zpyfsj.cn
