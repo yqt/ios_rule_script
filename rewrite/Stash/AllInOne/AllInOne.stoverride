@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2023-11-24 10:40:54
+desc: 最后更新时间 2023-11-27 02:17:06
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 690
-# mitm: 723
+# reject: 691
+# mitm: 726
 # force-http-engine-hosts: 6
-# total: 1458
+# total: 1462
 
 
 
@@ -148,7 +148,7 @@ http:
     - ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.wdk\.render\.querysinglepage - reject
     - ^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/show\.do - reject
     - ^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v2\/show - reject
-    - ^https?:\/\/ad\.lofter\.com\/.*yitou\/madr - reject
+    - ^https?:\/\/activity2\.api\.ofo\.com\/ofo\/Api\/v2\/ads - reject
     - ^https?:\/\/ad\.mcloud\.139\.com\/advertapi\/adv-filter\/adv-filter\/AdInfoFilter\/getAdInfos$ - reject
     - ^https?:\/\/adapi\.izuiyou\.com\/ - reject
     - ^https?:\/\/adm\.10jqka\.com\.cn\/interface\/ad\/recommend - reject
@@ -866,6 +866,8 @@ http:
     - "*.mting.info"
     - "*.ott.cibntv.net"
     - "*.peopleapp.com"
+    - "*.pornhub.com"
+    - "*.pstatp.com"
     - "*.qyfxgd.cn"
     - "*.smkj33.top"
     - "*.tipatipa.xyz"
@@ -873,10 +875,9 @@ http:
     - "*.tv.sohu.com"
     - "*.umetrip.com"
     - "*.uve.weibo.com"
-    - "*.v2ex.com"
+    - "*.weibo.cn"
     - "*.weilai555.com"
-    - "*.xbwpys.com"
-    - "*.yuanfudao.com"
+    - "*.wtzw.com"
     - "*.yuxueyuan.cn"
     - "*api.oray.net"
     - "*cupid.iqiyi.com"

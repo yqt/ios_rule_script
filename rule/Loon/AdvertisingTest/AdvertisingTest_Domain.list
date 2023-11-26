@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-26 02:09:27
+# UPDATED: 2023-11-27 02:09:56
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12499
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 127776
+# DOMAIN-SUFFIX: 127847
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 141332
+# TOTAL: 141403
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -1205,6 +1205,7 @@
 .2048hd.space
 .204st.us
 .2052.flash2-http.qq.com
+.205rome.trekkww.space
 .2066401308.com
 .206ads.com
 .206solutions.com
@@ -23587,6 +23588,7 @@
 .btn.rtl2.de
 .btnativedirect.com
 .btncdn.com
+.btnldivewzzfso.com
 .btodsjr.com
 .btonzfjleinuax.com
 .btpnative.com
@@ -25918,7 +25920,6 @@
 .cdn.hivps.xyz
 .cdn.house
 .cdn.hunteryvely.com
-.cdn.ianjumb.com
 .cdn.iclicash.com
 .cdn.img.kachapt.cn
 .cdn.img.liuxingyul.cn
@@ -40322,8 +40323,6 @@
 .dpm.demdex.net.iberostar.com
 .dpmsrv.com
 .dpns-notifications.com
-.dpnwqokx.com
-.dpoevnml.com
 .dppaivsn6f9dy.cloudfront.net
 .dpqtdkf.cn
 .dprograp.online
@@ -46770,8 +46769,8 @@
 .fbu8.montecarloseasonalsale.com
 .fbu8.ticket-online.montecarlolive.com
 .fbuser.ovp.vn
-.fbviet88.com
 .fbvskv3.com
+.fbwaikol.com
 .fbwvly.cn
 .fbxyuleyktun.com
 .fbycnk.chiaki.vn
@@ -57423,6 +57422,7 @@
 .hpaakmsumarzy.com
 .hpad.www.infoseek.co.jp
 .hpay-top.site
+.hpbmyojwqpewaw.com
 .hpcfdhvwjwlt.com
 .hpcwwd.com
 .hpcyk.com
@@ -58541,7 +58541,6 @@
 .iangp.com
 .iangs.com
 .ianhice.pw
-.ianjgmpat.com
 .ianjumb.com
 .ianxalim.pw
 .iaogqszcujbls.com
@@ -59140,6 +59139,7 @@
 .iii.6park.com
 .iiid.bluescream.cn
 .iijls.com
+.iinzwyd.com
 .iiqtru.aunworks.jp
 .iiroz.xyz
 .iirpvchv.cn
@@ -63492,7 +63492,7 @@
 .jcpclick.com
 .jcpjfyikk.dogbonemarket.com
 .jcplzp.lancel.com
-.jcqueawk.xyz
+.jcqwzssqks.com
 .jcr3.onlyyouhotels.com
 .jcreje.com
 .jcrnbnw.com
@@ -63584,6 +63584,7 @@
 .jdpm.net.cn
 .jdrnpei.xyz
 .jdt8.net
+.jdufvnoytl.com
 .jduiv.com
 .jdwaegarlqjw.com
 .jdwhlqb.com
@@ -63890,6 +63891,7 @@
 .jiangxing.live
 .jiangxing.pub
 .jiangyahuid.top
+.jiangyahuir.top
 .jiangzimeng1.cn
 .jianjianjiao.top
 .jianjiaovip.vip
@@ -79597,7 +79599,6 @@
 .mmmytckae.com
 .mmn811.top
 .mmnetwork.mobi
-.mmocorporation2017.com
 .mmoddkdn.com
 .mmoframes.com
 .mmofreegames.online
@@ -81325,7 +81326,6 @@
 .muxingkj.com
 .muybjar.cn
 .muycpg.xyz
-.muyihh.top
 .muyoozrkkyr.com
 .muyviajero.com
 .muyxmmz.cn
@@ -83884,7 +83884,6 @@
 .njjebgkvrniwmr.com
 .njjmp.com
 .njjrlf.com
-.njkewubccvt.com
 .njlcmkzfex.com
 .njlzougyfjo.com
 .njmaq.com
@@ -84587,6 +84586,7 @@
 .nr1234.com
 .nr7.us
 .nra.locktonaffinity.net
+.nrbztakre.com
 .nrc.dxsvr.com
 .nrcqqpjx.xyz
 .nreg.world
@@ -84731,7 +84731,6 @@
 .ntjacb.com
 .ntjmnyzwkpb.com
 .ntlab.org
-.ntlysearchingf.info
 .ntlzvrv.xyz
 .ntmastsault.info
 .ntmatchwithy.info
@@ -95212,7 +95211,6 @@
 .pvclouds.com
 .pvd.to
 .pvdrtiy.com
-.pvfbav.sportler.com
 .pvjiqmryv.com
 .pvjlfjz.cn
 .pvlcbsynxsabti.com
@@ -96733,6 +96731,7 @@
 .qxfly.com
 .qxgbgixnzcoen.com
 .qxhspimg.com
+.qxiabfmmtjhyv.com
 .qxjdlf.com
 .qxjohabnsheyt.com
 .qxknktdbftc.com
@@ -100916,7 +100915,6 @@
 .ruthlessrobin.com
 .ruthowhagi.com
 .ruthproudlyquest.com
-.ruthproudlyquestion.top
 .ruthrequire.com
 .rutientuthetindung.com
 .rutientuthetindung5s.com
@@ -116127,7 +116125,6 @@
 .sxmyyx.com
 .sxp.allianz.de
 .sxswjkgs.com
-.sxtnpzd.xyz
 .sxtpkrrvdvm.com
 .sxtyhl.top
 .sxuheg.xyz
@@ -130712,8 +130709,6 @@
 .vrasxjrsl.com
 .vrbmhngqjh.com
 .vrcamdl.istaging.com
-.vrcamdltest.istaging.com
-.vrcjleonnurifjy.xyz
 .vrdxznr.xyz
 .vreephay.com
 .vrewpywootyu.com
@@ -139274,7 +139269,6 @@
 .zealousstraitcommit.com
 .zealpickup.com
 .zealsalts.com
-.zealshyalite.com
 .zealso.com
 .zeatse.buzz
 .zebeaa.click
@@ -139989,7 +139983,10 @@
 .zohdfd.xyz
 .zoiqrudc.com
 .zokbywpncgqrq.com
-.zombieslayer-alternate.kano.link
+.zola.trekkww.fun
+.zoloft.1.p2l.info
+.zoloft.3.p2l.info
+.zoloft.4.p2l.info
 .zombieslayer.kano.link
 .zombiharshen.top
 .zomcz.cyou

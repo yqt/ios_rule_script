@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-26 02:13:17
-# DOMAIN: 149
+# UPDATED: 2023-11-27 02:14:12
+# DOMAIN: 152
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 119
 # IP-CIDR: 8
 # IP-CIDR6: 2
-# TOTAL: 281
+# TOTAL: 284
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,1c.premierzal.ru
@@ -61,6 +61,7 @@ payload:
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,private.anonseed.com
   - DOMAIN,public-tracker.cf
+  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker01-msk-virt.corbina.net
@@ -95,6 +96,7 @@ payload:
   - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
+  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.electro-torrent.pl
   - DOMAIN,tracker.farted.net
@@ -107,7 +109,6 @@ payload:
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.ipv6tracker.ru
-  - DOMAIN,tracker.jdx3.org
   - DOMAIN,tracker.k.vu
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.lilithraws.cf
@@ -120,6 +121,7 @@ payload:
   - DOMAIN,tracker.openbittorrent.com
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
+  - DOMAIN,tracker.publictracker.xyz
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
   - DOMAIN,tracker.rev.pm
@@ -147,6 +149,7 @@ payload:
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,trackers.mlsub.net
+  - DOMAIN,ts.populargamers.co.za
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,u6.trakx.crim.ist

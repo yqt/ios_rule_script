@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-26 02:08:24
+# UPDATED: 2023-11-27 02:08:48
 # DOMAIN: 16194
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97803
+# DOMAIN-SUFFIX: 97828
 # IP-CIDR: 428
 # PROCESS-NAME: 5
-# TOTAL: 114545
+# TOTAL: 114570
 payload:
   - '03.lzzncm.com'
   - '04.lzzncm.com'
@@ -27945,7 +27945,6 @@ payload:
   - '+.bjeellnaldl.xyz'
   - '+.bjgztt.com'
   - '+.bjhhbox.xyz'
-  - '+.bjiehnopho.com'
   - '+.bjiuck.com'
   - '+.bjjabc.com'
   - '+.bjjnovsnejwm.com'
@@ -37420,8 +37419,6 @@ payload:
   - '+.dpjrba.com'
   - '+.dpmsrv.com'
   - '+.dpns-notifications.com'
-  - '+.dpnwqokx.com'
-  - '+.dpoevnml.com'
   - '+.dppaivsn6f9dy.cloudfront.net'
   - '+.dprograp.online'
   - '+.dprtb.com'
@@ -45709,7 +45706,6 @@ payload:
   - '+.hardwaretakeoutintimidate.com'
   - '+.hardynarrow.com'
   - '+.haree.cn'
-  - '+.harelipwelshes.digital'
   - '+.haresmodus.com'
   - '+.harhtwb.com'
   - '+.haribdathesea.com'
@@ -47685,6 +47681,7 @@ payload:
   - '+.i7ece0xrg4nx.com'
   - '+.i99i.org'
   - '+.i9klo.com'
+  - '+.ia.5.p2l.info'
   - '+.ia.iinfo.cz'
   - '+.iaacua.xyz'
   - '+.iabjksixpvperd.com'
@@ -50277,6 +50274,7 @@ payload:
   - '+.jiangjinmoa.cn'
   - '+.jiangxing.live'
   - '+.jiangxing.pub'
+  - '+.jiangyahuid.top'
   - '+.jiangzimeng1.cn'
   - '+.jiankongbao.com'
   - '+.jianpian.vip'
@@ -51567,12 +51565,8 @@ payload:
   - '+.keywordstrategy.org'
   - '+.keyxel.com'
   - '+.kezldfv.cn'
-  - '+.kfareputfeab.org'
   - '+.kfckcu.xyz'
-  - '+.kfctds59.shop'
-  - '+.kfdg22.com'
-  - '+.kfdg55.com'
-  - '+.kfebxhjlco.com'
+  - '+.kfeoxtgutp.com'
   - '+.kffawlmqdahowhr.com'
   - '+.kfhninhokutn.com'
   - '+.kfiupggnofpqs.com'
@@ -61991,7 +61985,7 @@ payload:
   - '+.onrbsceloko.com'
   - '+.onsafelink.com'
   - '+.onscroll.com'
-  - '+.onseleauks.org'
+  - '+.onsequentlys.xyz'
   - '+.onservantas.org'
   - '+.onsetknives.com'
   - '+.onsetours.com'
@@ -62578,7 +62572,6 @@ payload:
   - '+.oujouniw.com'
   - '+.oukiacryst.com'
   - '+.oukoushu.xyz'
-  - '+.ouldhukelpm.org'
   - '+.oulrarta.net'
   - '+.oulrukry.xyz'
   - '+.oulsools.com'
@@ -66983,8 +66976,6 @@ payload:
   - '+.pvmax.net'
   - '+.pvnwap.zol.com.cn'
   - '+.pvnzrr.xyz'
-  - '+.pvpdbth.xyz'
-  - '+.pvpti222.com'
   - '+.pvqzggfkuxum.com'
   - '+.pvranking.com'
   - '+.pvrtx.net'
@@ -67103,6 +67094,7 @@ payload:
   - '+.q27sz.com'
   - '+.q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me'
   - '+.q2i8kd5n.de'
+  - '+.q2p.pub'
   - '+.q4v3c.site'
   - '+.q5e40b17ii.ru'
   - '+.q8ntfhfngm.com'
@@ -80657,7 +80649,6 @@ payload:
   - '+.ue8im.com'
   - '+.ueaynogiwgqr.com'
   - '+.uebipacy.xyz'
-  - '+.uebohjhh.xyz'
   - '+.uedata.amazon.com'
   - '+.uedvxswwfub.com'
   - '+.uee.me'
@@ -83833,7 +83824,6 @@ payload:
   - '+.vqzbzuhhxhcf.com'
   - '+.vrasxjrsl.com'
   - '+.vrbmhngqjh.com'
-  - '+.vrcjleonnurifjy.xyz'
   - '+.vrdxznr.xyz'
   - '+.vreephay.com'
   - '+.vrewpywootyu.com'
@@ -84566,7 +84556,6 @@ payload:
   - '+.webcounter.cz'
   - '+.webcounter.together.net'
   - '+.webcounter.ws'
-  - '+.webdatatrace.com'
   - '+.webengage.co'
   - '+.webengage.com'
   - '+.webest.info'

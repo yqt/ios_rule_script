@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-26 02:08:19
+# UPDATED: 2023-11-27 02:08:42
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 16194
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97803
+# DOMAIN-SUFFIX: 97828
 # IP-CIDR: 428
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 114855
+# TOTAL: 114880
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -17217,8 +17217,6 @@
 .bcm.interactives.dk
 .bcmoney.xyz
 .bcnewltd.club
-.bcob.charlotte.edu
-.bcob.uncc.edu
 .bcovazp.icu
 .bcprm.com
 .bcqnbge.cn
@@ -32223,8 +32221,6 @@
 .dpm.demdex.net.iberostar.com
 .dpmsrv.com
 .dpns-notifications.com
-.dpnwqokx.com
-.dpoevnml.com
 .dppaivsn6f9dy.cloudfront.net
 .dprograp.online
 .dprtb.com
@@ -38766,7 +38762,6 @@
 .fmkqhwrfvs.com
 .fmnetwork.nl
 .fmorugnmnihrcv.com
-.fmpjka.moroccanoil.com
 .fmpub.net
 .fmqidg.letras.com
 .fmqidg.letras.mus.br
@@ -44390,7 +44385,6 @@
 .hardwaretakeoutintimidate.com
 .hardynarrow.com
 .haree.cn
-.harelipwelshes.digital
 .haresmodus.com
 .harhtwb.com
 .haribdathesea.com
@@ -51544,8 +51538,9 @@
 .jiangjinmoa.cn
 .jianglongjie.cn
 .jiangmg.com
+.jiangxing.live
+.jiangxing.pub
 .jiangyahuid.top
-.jiangyahuir.top
 .jiangzimeng1.cn
 .jianjiaovip.vip
 .jiankongbao.com
@@ -53371,9 +53366,7 @@
 .kezldfv.cn
 .kf3msfm.com
 .kfand.com
-.kfareputfeab.org
 .kfckcu.xyz
-.kfctds59.shop
 .kfd3sm2c.com
 .kfdg22.com
 .kfdg55.com
@@ -70521,7 +70514,7 @@
 .onsafelink.com
 .onscribedpastrong.info
 .onscroll.com
-.onseleauks.org
+.onsequentlys.xyz
 .onservantas.org
 .onsetknives.com
 .onsetours.com
@@ -71326,7 +71319,7 @@
 .oukiacryst.com
 .oukoushu.xyz
 .oul78c.cn
-.ouldhukelpm.org
+.oulpli.bettybarclay.com
 .oulrarta.net
 .oulrukry.xyz
 .oulsools.com
@@ -77364,7 +77357,6 @@
 .q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
 .q2i8kd5n.de
 .q3xly8i4oz.app.taxmachine.be
-.q4l5gz6lqog6.www.eventus.io
 .q4v3c.site
 .q5e40b17ii.ru
 .q671e.cn
@@ -100807,7 +100799,6 @@
 .traffic.club
 .traffic.feedremedy.com
 .traffic.focuusing.com
-.traffic.hostedstatus.page
 .traffic.hyteck.de
 .traffic.mogujie.com
 .traffic.name
@@ -102773,7 +102764,6 @@
 .uebadu.com
 .uebawtz7.me
 .uebipacy.xyz
-.uebohjhh.xyz
 .ued8.destinia.sg
 .uedata.amazon.com
 .uedvam.tatilsepeti.com
@@ -106671,8 +106661,6 @@
 .vrasxjrsl.com
 .vrbmhngqjh.com
 .vrcamdl.istaging.com
-.vrcamdltest.istaging.com
-.vrcjleonnurifjy.xyz
 .vrdxznr.xyz
 .vreephay.com
 .vrewpywootyu.com
