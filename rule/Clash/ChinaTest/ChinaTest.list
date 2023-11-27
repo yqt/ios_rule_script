@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-25 02:13:27
+# UPDATED: 2023-11-28 02:12:59
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64370
+# DOMAIN-SUFFIX: 64374
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64560
+# TOTAL: 64564
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -10699,6 +10699,7 @@ DOMAIN-SUFFIX,ahdf56.com
 DOMAIN-SUFFIX,ahdsez.com
 DOMAIN-SUFFIX,ahdzfp.com
 DOMAIN-SUFFIX,aheading.com
+DOMAIN-SUFFIX,ahfdcb.com
 DOMAIN-SUFFIX,ahfensitong.com
 DOMAIN-SUFFIX,ahfgb.com
 DOMAIN-SUFFIX,ahglj.com
@@ -36056,6 +36057,7 @@ DOMAIN-SUFFIX,kz8yx.com
 DOMAIN-SUFFIX,kza.cc
 DOMAIN-SUFFIX,kzeaa.com
 DOMAIN-SUFFIX,kzecc.com
+DOMAIN-SUFFIX,kzehh.com
 DOMAIN-SUFFIX,kzepp.com
 DOMAIN-SUFFIX,kzerr.com
 DOMAIN-SUFFIX,kzqs.com
@@ -42408,7 +42410,6 @@ DOMAIN-SUFFIX,openaizh.com
 DOMAIN-SUFFIX,openanolis.org
 DOMAIN-SUFFIX,openasic.org
 DOMAIN-SUFFIX,openbayes.com
-DOMAIN-SUFFIX,openbcs.com
 DOMAIN-SUFFIX,openbtba.com
 DOMAIN-SUFFIX,opencas.org
 DOMAIN-SUFFIX,opencloudos.org
@@ -48206,6 +48207,7 @@ DOMAIN-SUFFIX,shouyouzhijia.net
 DOMAIN-SUFFIX,shouzan365.com
 DOMAIN-SUFFIX,shouzhang.com
 DOMAIN-SUFFIX,shouzhangapp.com
+DOMAIN-SUFFIX,shouzhou365.com
 DOMAIN-SUFFIX,shouzhuanzhidao.com
 DOMAIN-SUFFIX,shovesoft.com
 DOMAIN-SUFFIX,show160.com
@@ -54290,6 +54292,7 @@ DOMAIN-SUFFIX,voidme.com
 DOMAIN-SUFFIX,vojs.tv
 DOMAIN-SUFFIX,vokop.com
 DOMAIN-SUFFIX,vol.moe
+DOMAIN-SUFFIX,volcalb.com
 DOMAIN-SUFFIX,volcanicengine.com
 DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,volccdn1.com
@@ -54892,6 +54895,7 @@ DOMAIN-SUFFIX,wantquotes.net
 DOMAIN-SUFFIX,wantumusic.com
 DOMAIN-SUFFIX,wantwords.net
 DOMAIN-SUFFIX,wanwang.space
+DOMAIN-SUFFIX,wanwanol.com
 DOMAIN-SUFFIX,wanweipc.com
 DOMAIN-SUFFIX,wanweixin.com
 DOMAIN-SUFFIX,wanwudezhi.com
@@ -62190,6 +62194,7 @@ DOMAIN-SUFFIX,yyq.com
 DOMAIN-SUFFIX,yyrec.com
 DOMAIN-SUFFIX,yyrenting.com
 DOMAIN-SUFFIX,yyrtv.com
+DOMAIN-SUFFIX,yys0.icu
 DOMAIN-SUFFIX,yysweb.com
 DOMAIN-SUFFIX,yytad.com
 DOMAIN-SUFFIX,yytek.com

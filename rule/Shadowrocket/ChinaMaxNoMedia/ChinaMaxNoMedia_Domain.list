@@ -1,14 +1,14 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-27 02:15:49
+# UPDATED: 2023-11-28 02:15:15
 # DOMAIN: 163
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 65582
-# IP-ASN: 1010
-# IP-CIDR: 9480
+# DOMAIN-SUFFIX: 65587
+# IP-ASN: 1008
+# IP-CIDR: 9481
 # USER-AGENT: 69
-# TOTAL: 76315
+# TOTAL: 76319
 .0-6.com
 .00.net
 .000.link
@@ -7342,6 +7342,7 @@
 .ahdsez.com
 .ahdzfp.com
 .aheading.com
+.ahfdcb.com
 .ahfensitong.com
 .ahfgb.com
 .ahglj.com
@@ -23556,7 +23557,6 @@
 .gfdj99665.com
 .gfdns.net
 .gfdsa.net
-.gfdwsx.com
 .gfedu.com
 .gffirm.com
 .gffwq.com
@@ -42246,7 +42246,6 @@
 .openapp.run
 .openasic.org
 .openbayes.com
-.openbcs.com
 .openbtba.com
 .opencas.org
 .opencloudos.org
@@ -48682,6 +48681,7 @@
 .shouzan365.com
 .shouzhang.com
 .shouzhangapp.com
+.shouzhou365.com
 .shouzhuanzhidao.com
 .shovesoft.com
 .show160.com
@@ -55379,6 +55379,7 @@
 .vojs.tv
 .vokop.com
 .vol.moe
+.volcalb.com
 .volcanicengine.com
 .volccdn.com
 .volccdn1.com
@@ -56020,8 +56021,8 @@
 .wantwords.net
 .wantwu.com
 .wanwan4399.com
-.wanwang.com
 .wanwang.space
+.wanwanol.com
 .wanweipc.com
 .wanweixin.com
 .wanwudezhi.com

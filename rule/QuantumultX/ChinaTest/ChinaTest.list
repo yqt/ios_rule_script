@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-25 02:13:24
+# UPDATED: 2023-11-28 02:12:57
 # HOST: 166
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64370
+# HOST-SUFFIX: 64374
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64592
+# TOTAL: 64596
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -10701,6 +10701,7 @@ HOST-SUFFIX,ahdf56.com,ChinaTest
 HOST-SUFFIX,ahdsez.com,ChinaTest
 HOST-SUFFIX,ahdzfp.com,ChinaTest
 HOST-SUFFIX,aheading.com,ChinaTest
+HOST-SUFFIX,ahfdcb.com,ChinaTest
 HOST-SUFFIX,ahfensitong.com,ChinaTest
 HOST-SUFFIX,ahfgb.com,ChinaTest
 HOST-SUFFIX,ahglj.com,ChinaTest
@@ -36058,6 +36059,7 @@ HOST-SUFFIX,kz8yx.com,ChinaTest
 HOST-SUFFIX,kza.cc,ChinaTest
 HOST-SUFFIX,kzeaa.com,ChinaTest
 HOST-SUFFIX,kzecc.com,ChinaTest
+HOST-SUFFIX,kzehh.com,ChinaTest
 HOST-SUFFIX,kzepp.com,ChinaTest
 HOST-SUFFIX,kzerr.com,ChinaTest
 HOST-SUFFIX,kzqs.com,ChinaTest
@@ -42410,7 +42412,6 @@ HOST-SUFFIX,openaizh.com,ChinaTest
 HOST-SUFFIX,openanolis.org,ChinaTest
 HOST-SUFFIX,openasic.org,ChinaTest
 HOST-SUFFIX,openbayes.com,ChinaTest
-HOST-SUFFIX,openbcs.com,ChinaTest
 HOST-SUFFIX,openbtba.com,ChinaTest
 HOST-SUFFIX,opencas.org,ChinaTest
 HOST-SUFFIX,opencloudos.org,ChinaTest
@@ -48208,6 +48209,7 @@ HOST-SUFFIX,shouyouzhijia.net,ChinaTest
 HOST-SUFFIX,shouzan365.com,ChinaTest
 HOST-SUFFIX,shouzhang.com,ChinaTest
 HOST-SUFFIX,shouzhangapp.com,ChinaTest
+HOST-SUFFIX,shouzhou365.com,ChinaTest
 HOST-SUFFIX,shouzhuanzhidao.com,ChinaTest
 HOST-SUFFIX,shovesoft.com,ChinaTest
 HOST-SUFFIX,show160.com,ChinaTest
@@ -54292,6 +54294,7 @@ HOST-SUFFIX,voidme.com,ChinaTest
 HOST-SUFFIX,vojs.tv,ChinaTest
 HOST-SUFFIX,vokop.com,ChinaTest
 HOST-SUFFIX,vol.moe,ChinaTest
+HOST-SUFFIX,volcalb.com,ChinaTest
 HOST-SUFFIX,volcanicengine.com,ChinaTest
 HOST-SUFFIX,volccdn.com,ChinaTest
 HOST-SUFFIX,volccdn1.com,ChinaTest
@@ -54894,6 +54897,7 @@ HOST-SUFFIX,wantquotes.net,ChinaTest
 HOST-SUFFIX,wantumusic.com,ChinaTest
 HOST-SUFFIX,wantwords.net,ChinaTest
 HOST-SUFFIX,wanwang.space,ChinaTest
+HOST-SUFFIX,wanwanol.com,ChinaTest
 HOST-SUFFIX,wanweipc.com,ChinaTest
 HOST-SUFFIX,wanweixin.com,ChinaTest
 HOST-SUFFIX,wanwudezhi.com,ChinaTest
@@ -62192,6 +62196,7 @@ HOST-SUFFIX,yyq.com,ChinaTest
 HOST-SUFFIX,yyrec.com,ChinaTest
 HOST-SUFFIX,yyrenting.com,ChinaTest
 HOST-SUFFIX,yyrtv.com,ChinaTest
+HOST-SUFFIX,yys0.icu,ChinaTest
 HOST-SUFFIX,yysweb.com,ChinaTest
 HOST-SUFFIX,yytad.com,ChinaTest
 HOST-SUFFIX,yytek.com,ChinaTest
