@@ -1,10 +1,10 @@
 # NAME: EasyPrivacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-24 10:39:20
+# UPDATED: 2023-11-28 11:12:39
 # DOMAIN: 7
-# DOMAIN-SUFFIX: 21720
-# TOTAL: 21727
+# DOMAIN-SUFFIX: 21759
+# TOTAL: 21766
 DOMAIN,185.193.38.148
 DOMAIN,34.215.155.61
 DOMAIN,35.194.26.233
@@ -3230,7 +3230,6 @@ DOMAIN-SUFFIX,acemetrix.actonservice.com
 DOMAIN-SUFFIX,acendas.actonservice.com
 DOMAIN-SUFFIX,acesse.tc.com.br
 DOMAIN-SUFFIX,achieverknee.com
-DOMAIN-SUFFIX,acidicgrip.com
 DOMAIN-SUFFIX,acidicstraw.com
 DOMAIN-SUFFIX,acidpigs.com
 DOMAIN-SUFFIX,aciysf.destockage-fitness.com
@@ -3611,7 +3610,6 @@ DOMAIN-SUFFIX,aggelakia.openapp.link
 DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,agma-analytics.de
 DOMAIN-SUFFIX,agnes.waz.de
-DOMAIN-SUFFIX,agoqaa.stockmann.com
 DOMAIN-SUFFIX,agreeablearch.com
 DOMAIN-SUFFIX,agreeablestew.com
 DOMAIN-SUFFIX,agreeabletouch.com
@@ -5251,8 +5249,6 @@ DOMAIN-SUFFIX,automate.opex.com
 DOMAIN-SUFFIX,automaticflock.com
 DOMAIN-SUFFIX,automaticside.com
 DOMAIN-SUFFIX,automaticturkey.com
-DOMAIN-SUFFIX,automation.pemco.com
-DOMAIN-SUFFIX,automationtest.pemco.com
 DOMAIN-SUFFIX,automotive-business.vodafone.com
 DOMAIN-SUFFIX,automotive.balluff.com
 DOMAIN-SUFFIX,autozone.actonservice.com
@@ -5524,7 +5520,6 @@ DOMAIN-SUFFIX,bagbeam.com
 DOMAIN-SUFFIX,bagbgo.unitednude.eu
 DOMAIN-SUFFIX,baiduccdn1.com
 DOMAIN-SUFFIX,baitbaseball.com
-DOMAIN-SUFFIX,bakercommunications.actonservice.com
 DOMAIN-SUFFIX,balancemailbox.com
 DOMAIN-SUFFIX,ballantine.actonservice.com
 DOMAIN-SUFFIX,balloonbelieve.com
@@ -9823,6 +9818,7 @@ DOMAIN-SUFFIX,evnt.iol.it
 DOMAIN-SUFFIX,evolent.actonservice.com
 DOMAIN-SUFFIX,evolutionmarketing.actonservice.com
 DOMAIN-SUFFIX,evrget.nikkan-gendai.com
+DOMAIN-SUFFIX,evs.icy-lake.kickstarter.com
 DOMAIN-SUFFIX,evt-api.ntm.eu
 DOMAIN-SUFFIX,evt.houzz.com
 DOMAIN-SUFFIX,evupmg.olehenriksen.com
@@ -10493,7 +10489,6 @@ DOMAIN-SUFFIX,generateoffice.com
 DOMAIN-SUFFIX,genesis.malwarebytes.com
 DOMAIN-SUFFIX,gentian-frd.hjapi.com
 DOMAIN-SUFFIX,gentlemoonlight.com
-DOMAIN-SUFFIX,geo.bluedot.io
 DOMAIN-SUFFIX,geo.brobible.com
 DOMAIN-SUFFIX,geo.emol.cl
 DOMAIN-SUFFIX,geo.ertya.com
@@ -11256,7 +11251,6 @@ DOMAIN-SUFFIX,h5log.zongheng.com
 DOMAIN-SUFFIX,h78xb.pw
 DOMAIN-SUFFIX,habitualhumor.com
 DOMAIN-SUFFIX,hal.courrierinternational.com
-DOMAIN-SUFFIX,halcyoncanyon.com
 DOMAIN-SUFFIX,hallowedinvention.com
 DOMAIN-SUFFIX,haltingbadge.com
 DOMAIN-SUFFIX,haltingdivision.com
@@ -11275,7 +11269,6 @@ DOMAIN-SUFFIX,handyfield.com
 DOMAIN-SUFFIX,handyfireman.com
 DOMAIN-SUFFIX,handyincrease.com
 DOMAIN-SUFFIX,haostat.qihoo.com
-DOMAIN-SUFFIX,haplesshydrant.com
 DOMAIN-SUFFIX,haplessland.com
 DOMAIN-SUFFIX,happen.spkt.io
 DOMAIN-SUFFIX,happenhistory.com
@@ -11286,7 +11279,6 @@ DOMAIN-SUFFIX,hardinet.actonservice.com
 DOMAIN-SUFFIX,hardtofindmilk.com
 DOMAIN-SUFFIX,harlan.actonservice.com
 DOMAIN-SUFFIX,harman.epoise.com
-DOMAIN-SUFFIX,harmantest.epoise.com
 DOMAIN-SUFFIX,harmonywing.com
 DOMAIN-SUFFIX,harpra-companion-test.harvinar.com
 DOMAIN-SUFFIX,harpra-companion.harvinar.com
@@ -13600,9 +13592,6 @@ DOMAIN-SUFFIX,lift.acquia.com
 DOMAIN-SUFFIX,liftedknowledge.com
 DOMAIN-SUFFIX,lightcushion.com
 DOMAIN-SUFFIX,lightenafterthought.com
-DOMAIN-SUFFIX,lighterthinnerstronger.fiber-line.com
-DOMAIN-SUFFIX,ligxyv.hackers.co.kr
-DOMAIN-SUFFIX,lilogy.actonservice.com
 DOMAIN-SUFFIX,limone.iltrovatore.it
 DOMAIN-SUFFIX,lineside.networkrail.co.uk
 DOMAIN-SUFFIX,link-acceptance.alan.com
@@ -16413,7 +16402,6 @@ DOMAIN-SUFFIX,megadata.co.kr
 DOMAIN-SUFFIX,meinauto.hdd-dienste.de
 DOMAIN-SUFFIX,mellamanjorge.net.anwalt.de
 DOMAIN-SUFFIX,mellowbike.com
-DOMAIN-SUFFIX,mellowhush.com
 DOMAIN-SUFFIX,mellowmailbox.com
 DOMAIN-SUFFIX,melodicminute.com
 DOMAIN-SUFFIX,meltmilk.com
@@ -16426,7 +16414,6 @@ DOMAIN-SUFFIX,memberships.clubcorp.com
 DOMAIN-SUFFIX,memelq.acs.org
 DOMAIN-SUFFIX,memopilot.com
 DOMAIN-SUFFIX,memorizeline.com
-DOMAIN-SUFFIX,memorizematch.com
 DOMAIN-SUFFIX,memorizeneck.com
 DOMAIN-SUFFIX,memorycobweb.com
 DOMAIN-SUFFIX,mentorsticks.com
@@ -19370,11 +19357,7 @@ DOMAIN-SUFFIX,plausible.zest.dev
 DOMAIN-SUFFIX,plausible.zorin.com
 DOMAIN-SUFFIX,plausiblecable.com
 DOMAIN-SUFFIX,plausiblecdn.co
-DOMAIN-SUFFIX,play.ab05.bet
 DOMAIN-SUFFIX,play.adtonos.com
-DOMAIN-SUFFIX,play.b-t11.com
-DOMAIN-SUFFIX,play.betluk7.com
-DOMAIN-SUFFIX,play.colorplay.fun
 DOMAIN-SUFFIX,play.fanslide.com
 DOMAIN-SUFFIX,play.goldplay.me
 DOMAIN-SUFFIX,play.jdb888.club
@@ -21659,8 +21642,6 @@ DOMAIN-SUFFIX,sep02.hinagiku-life.jp
 DOMAIN-SUFFIX,separateshow.com
 DOMAIN-SUFFIX,separatesilver.com
 DOMAIN-SUFFIX,separatesort.com
-DOMAIN-SUFFIX,sephora-qa.branch.rocks
-DOMAIN-SUFFIX,sephora-qa.branchstaging.com
 DOMAIN-SUFFIX,seraphichorizon.com
 DOMAIN-SUFFIX,serendipityecho.com
 DOMAIN-SUFFIX,serenecascade.com
@@ -21736,8 +21717,21 @@ DOMAIN-SUFFIX,shakysurprise.com
 DOMAIN-SUFFIX,shakytaste.com
 DOMAIN-SUFFIX,shallowblade.com
 DOMAIN-SUFFIX,shallowsmile.com
-DOMAIN-SUFFIX,shamerain.com
 DOMAIN-SUFFIX,shapecomb.com
+DOMAIN-SUFFIX,share-backcountry.onxmaps.com
+DOMAIN-SUFFIX,share-dev.perchwell.com
+DOMAIN-SUFFIX,share-dev1.sparemin.com
+DOMAIN-SUFFIX,share-hunt.onxmaps.com
+DOMAIN-SUFFIX,share-idi.dailyrounds.org
+DOMAIN-SUFFIX,share-local.sparemin.com
+DOMAIN-SUFFIX,share-staging.perchwell.com
+DOMAIN-SUFFIX,share-stg1.sparemin.com
+DOMAIN-SUFFIX,share-test.hnow.io
+DOMAIN-SUFFIX,share-test.travelloapp.com
+DOMAIN-SUFFIX,share-test.usehamper.com
+DOMAIN-SUFFIX,share.1stphorm.app
+DOMAIN-SUFFIX,share.appdater.mobi
+DOMAIN-SUFFIX,share.appwinit.com
 DOMAIN-SUFFIX,share.atlantic.money
 DOMAIN-SUFFIX,share.aynrand.org
 DOMAIN-SUFFIX,share.beaconlearningapp.com
@@ -24232,7 +24226,6 @@ DOMAIN-SUFFIX,so.swisscom.ch
 DOMAIN-SUFFIX,so8.hyatt.com
 DOMAIN-SUFFIX,soahu1wnmt6l.www.replai.io
 DOMAIN-SUFFIX,soapfighters.com
-DOMAIN-SUFFIX,soapps.net
 DOMAIN-SUFFIX,soaprange.com
 DOMAIN-SUFFIX,soapsmoke.com
 DOMAIN-SUFFIX,soccajoeys.actonservice.com
@@ -24640,6 +24633,7 @@ DOMAIN-SUFFIX,spread.epoolers.com
 DOMAIN-SUFFIX,springaftermath.com
 DOMAIN-SUFFIX,springboard.aon.com
 DOMAIN-SUFFIX,springsister.com
+DOMAIN-SUFFIX,springsnails.com
 DOMAIN-SUFFIX,spt.ahram.org.eg
 DOMAIN-SUFFIX,spuriousbase.com
 DOMAIN-SUFFIX,spurioussquirrel.com
@@ -26272,7 +26266,6 @@ DOMAIN-SUFFIX,stupendoussnow.com
 DOMAIN-SUFFIX,stupidscene.com
 DOMAIN-SUFFIX,stupidsnake.com
 DOMAIN-SUFFIX,sturdysnail.com
-DOMAIN-SUFFIX,styles.hautelook.com
 DOMAIN-SUFFIX,su1.les-suites.ca
 DOMAIN-SUFFIX,sub.booksdream-mypage.com
 DOMAIN-SUFFIX,sub.ecd.bookoffonline.co.jp
@@ -30814,11 +30807,6 @@ DOMAIN-SUFFIX,wgyapq.stormberg.com
 DOMAIN-SUFFIX,wh.ipaddress.com
 DOMAIN-SUFFIX,whahmy.timberland.es
 DOMAIN-SUFFIX,whale3.io
-DOMAIN-SUFFIX,whatcounts.branch.rocks
-DOMAIN-SUFFIX,whatif.fr.adobe.com
-DOMAIN-SUFFIX,whatif.it.adobe.com
-DOMAIN-SUFFIX,whatif.nl.adobe.com
-DOMAIN-SUFFIX,whcmij.altitude-sports.com
 DOMAIN-SUFFIX,whimsicalgrove.com
 DOMAIN-SUFFIX,whineattempt.com
 DOMAIN-SUFFIX,whirlwealth.com

@@ -15,16 +15,16 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
-最后更新时间：2023-11-28 02:14:51
+最后更新时间：2023-11-28 11:13:26
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 167  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 65687  | 
+| DOMAIN-SUFFIX | 65656  | 
 | PROCESS-NAME | 13  | 
-| TOTAL | 65880  | 
+| TOTAL | 65849  | 
 
 
 ## Clash 
@@ -533,7 +533,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://rules.kr328.app/hupu.yaml
 - https://rules.kr328.app/didi.yaml
 - https://rules.kr328.app/pingan.yaml
-- https://rules.kr328.app/abc.yaml
 - https://rules.kr328.app/baidu-ads.yaml
 - https://rules.kr328.app/jd@ads.yaml
 - https://rules.kr328.app/pinduoduo.yaml

@@ -1,15 +1,15 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-24 10:37:33
+# UPDATED: 2023-11-28 11:10:43
 # HOST: 29
 # HOST-KEYWORD: 25
-# HOST-SUFFIX: 1096
+# HOST-SUFFIX: 1253
 # HOST-WILDCARD: 10
 # IP-CIDR: 918
 # IP6-CIDR: 6
 # USER-AGENT: 62
-# TOTAL: 2146
+# TOTAL: 2303
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,GlobalMedia
 HOST,api.okzy.tv,GlobalMedia
 HOST,apm-misaka.biliapi.net,GlobalMedia
@@ -1328,9 +1328,6 @@ HOST-KEYWORD,uk-live,GlobalMedia
 HOST-KEYWORD,voddazn,GlobalMedia
 HOST-KEYWORD,youtube,GlobalMedia
 USER-AGENT,*Spotify*,GlobalMedia
-USER-AGENT,*YouTubeMusic*,GlobalMedia
-USER-AGENT,*com.google.ios.youtubemusic*,GlobalMedia
-USER-AGENT,*youtube*,GlobalMedia
 USER-AGENT,AbemaTV*,GlobalMedia
 USER-AGENT,All4*,GlobalMedia
 USER-AGENT,Anime*,GlobalMedia
@@ -1383,11 +1380,7 @@ USER-AGENT,Viu*,GlobalMedia
 USER-AGENT,ViuTV*,GlobalMedia
 USER-AGENT,WeMusic*,GlobalMedia
 USER-AGENT,WeTV*,GlobalMedia
-USER-AGENT,YouTube*,GlobalMedia
-USER-AGENT,YouTubeMusic*,GlobalMedia
 USER-AGENT,com.apple.tv*,GlobalMedia
-USER-AGENT,com.google.ios.youtube*,GlobalMedia
-USER-AGENT,com.google.ios.youtubemusic*,GlobalMedia
 USER-AGENT,com.kktv*,GlobalMedia
 USER-AGENT,com.kktv.ios.kktv*,GlobalMedia
 USER-AGENT,discovery+*,GlobalMedia

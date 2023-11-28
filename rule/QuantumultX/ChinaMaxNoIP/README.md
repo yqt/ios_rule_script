@@ -15,17 +15,17 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
-最后更新时间：2023-11-28 02:14:49
+最后更新时间：2023-11-28 11:13:23
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 167  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 65687  | 
+| HOST-SUFFIX | 65656  | 
 | HOST-WILDCARD | 1  | 
 | USER-AGENT | 69  | 
-| TOTAL | 65937  | 
+| TOTAL | 65906  | 
 
 
 ## QuantumultX 
@@ -502,7 +502,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://rules.kr328.app/hupu.yaml
 - https://rules.kr328.app/didi.yaml
 - https://rules.kr328.app/pingan.yaml
-- https://rules.kr328.app/abc.yaml
 - https://rules.kr328.app/baidu-ads.yaml
 - https://rules.kr328.app/jd@ads.yaml
 - https://rules.kr328.app/pinduoduo.yaml

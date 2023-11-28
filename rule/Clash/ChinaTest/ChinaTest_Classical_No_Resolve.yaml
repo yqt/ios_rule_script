@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-28 02:12:59
+# UPDATED: 2023-11-28 11:11:03
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64374
+# DOMAIN-SUFFIX: 64345
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64564
+# TOTAL: 64535
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -18700,7 +18700,6 @@ payload:
   - DOMAIN-SUFFIX,coolstyle.org
   - DOMAIN-SUFFIX,cooluc.com
   - DOMAIN-SUFFIX,coolwarmsy.com
-  - DOMAIN-SUFFIX,coolxap.com
   - DOMAIN-SUFFIX,coolxcloud.com
   - DOMAIN-SUFFIX,coolyun.com
   - DOMAIN-SUFFIX,coolzcloud.com
@@ -21280,6 +21279,7 @@ payload:
   - DOMAIN-SUFFIX,dongfengtrucks.com
   - DOMAIN-SUFFIX,dongfund.com
   - DOMAIN-SUFFIX,dongge.com
+  - DOMAIN-SUFFIX,donggua.com
   - DOMAIN-SUFFIX,donghaifunds.com
   - DOMAIN-SUFFIX,donghao.org
   - DOMAIN-SUFFIX,donghui.tech
@@ -25234,7 +25234,6 @@ payload:
   - DOMAIN-SUFFIX,gather-dns.com
   - DOMAIN-SUFFIX,gathernames.com
   - DOMAIN-SUFFIX,gavindesign.com
-  - DOMAIN-SUFFIX,gawin.info
   - DOMAIN-SUFFIX,gaxgame.com
   - DOMAIN-SUFFIX,gaxrmyy.com
   - DOMAIN-SUFFIX,gbase8a.com
@@ -28714,6 +28713,7 @@ payload:
   - DOMAIN-SUFFIX,hldbtv.com
   - DOMAIN-SUFFIX,hldgp.com
   - DOMAIN-SUFFIX,hldnews.com
+  - DOMAIN-SUFFIX,hldsjsjx.com
   - DOMAIN-SUFFIX,hlej.com
   - DOMAIN-SUFFIX,hlgad.com
   - DOMAIN-SUFFIX,hlgdata.com
@@ -29972,8 +29972,8 @@ payload:
   - DOMAIN-SUFFIX,huming.com
   - DOMAIN-SUFFIX,hunancatv.com
   - DOMAIN-SUFFIX,hunanedu.net
-  - DOMAIN-SUFFIX,hunanliantong.com
   - DOMAIN-SUFFIX,hunanpea.com
+  - DOMAIN-SUFFIX,hunanwb.com
   - DOMAIN-SUFFIX,hunanzhibo.com
   - DOMAIN-SUFFIX,hunbei.com
   - DOMAIN-SUFFIX,hunbei1.com
@@ -46312,6 +46312,7 @@ payload:
   - DOMAIN-SUFFIX,rrbus.com
   - DOMAIN-SUFFIX,rrcimg.com
   - DOMAIN-SUFFIX,rrcp.com
+  - DOMAIN-SUFFIX,rrdaj.com
   - DOMAIN-SUFFIX,rree.com
   - DOMAIN-SUFFIX,rrfed.com
   - DOMAIN-SUFFIX,rrfmn.com
@@ -50005,7 +50006,6 @@ payload:
   - DOMAIN-SUFFIX,sujiaozhipin888.com
   - DOMAIN-SUFFIX,suki.club
   - DOMAIN-SUFFIX,suki.moe
-  - DOMAIN-SUFFIX,sukimad.com
   - DOMAIN-SUFFIX,sukiu.net
   - DOMAIN-SUFFIX,sukkaw.com
   - DOMAIN-SUFFIX,sukoutu.com
@@ -57284,6 +57284,7 @@ payload:
   - DOMAIN-SUFFIX,xbpro.vip
   - DOMAIN-SUFFIX,xbptc.com
   - DOMAIN-SUFFIX,xbpz9.com
+  - DOMAIN-SUFFIX,xbqgyy.com
   - DOMAIN-SUFFIX,xbrl-cn.org
   - DOMAIN-SUFFIX,xbrother.com
   - DOMAIN-SUFFIX,xbuwrp.sbs

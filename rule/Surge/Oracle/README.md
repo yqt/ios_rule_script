@@ -12,7 +12,7 @@ Oracle规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-11-24 10:38:23
+最后更新时间：2023-11-28 11:11:54
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -65,6 +65,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Oracle.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Oracle.yaml
+- https://rules.kr328.app/oracle.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
