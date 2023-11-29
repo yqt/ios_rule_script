@@ -1,13 +1,13 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-29 02:15:42
+# UPDATED: 2023-11-30 02:17:09
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 65656
+# DOMAIN-SUFFIX: 65651
 # PROCESS-NAME: 11
 # USER-AGENT: 69
-# TOTAL: 65916
+# TOTAL: 65911
 .0-6.com
 .00.net
 .000.link
@@ -30322,8 +30322,6 @@
 .imgcdc.com
 .imgcdn2.com
 .imgchr.com
-.imgcook.com
-.imgdianyingoss.com
 .imgeek.org
 .imgets.com
 .imgii.com

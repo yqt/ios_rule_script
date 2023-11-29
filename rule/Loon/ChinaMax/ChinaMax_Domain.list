@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-29 02:15:00
+# UPDATED: 2023-11-30 02:16:11
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 65903
+# DOMAIN-SUFFIX: 65898
 # IP-ASN: 1013
-# IP-CIDR: 5984
+# IP-CIDR: 5994
 # IP-CIDR6: 3498
 # USER-AGENT: 69
-# TOTAL: 76647
+# TOTAL: 76652
 .0-6.com
 .00.net
 .000.link
@@ -30583,8 +30583,6 @@
 .imgcdc.com
 .imgcdn2.com
 .imgchr.com
-.imgcook.com
-.imgdianyingoss.com
 .imgeek.org
 .imgets.com
 .imgii.com
