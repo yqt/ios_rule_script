@@ -1,14 +1,14 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-30 02:17:47
+# UPDATED: 2023-12-01 02:16:18
 # DOMAIN: 163
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 65551
+# DOMAIN-SUFFIX: 65548
 # IP-ASN: 1013
 # IP-CIDR: 9492
 # USER-AGENT: 69
-# TOTAL: 76299
+# TOTAL: 76296
 .0-6.com
 .00.net
 .000.link
@@ -19643,7 +19643,6 @@
 .dyhr88.com
 .dyhxgame.com
 .dyhzj.com
-.dyidc.cc
 .dyie.net
 .dyjqd.com
 .dyketai.net
@@ -40048,6 +40047,7 @@
 .mrcywang.com
 .mrdede.com
 .mrentea.com
+.mrflay.com
 .mrhallacg.com
 .mrjeke.com
 .mrjiang.com
@@ -42719,7 +42719,6 @@
 .paizhe.com
 .paizi.com
 .paizi.net
-.paizi10.com
 .pajkb.com
 .pajkdc.com
 .palace-international.com
@@ -50552,6 +50551,7 @@
 .sudaizhijia.com
 .sudaoa.com
 .suddenfix.com
+.sudidc.com
 .sudoinfotech.com
 .sudu-67ph.com
 .sudu-72ub.com
@@ -53990,7 +53990,6 @@
 .tyouquan.com
 .typany.com
 .type.so
-.typecho.work
 .typechodev.com
 .typecodes.com
 .typeeasy.net

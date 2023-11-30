@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-30 02:14:47
+# UPDATED: 2023-12-01 02:13:44
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64339
+# DOMAIN-SUFFIX: 64336
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64529
+# TOTAL: 64526
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -21930,7 +21930,6 @@ DOMAIN-SUFFIX,dygzs.com
 DOMAIN-SUFFIX,dyhr88.com
 DOMAIN-SUFFIX,dyhxgame.com
 DOMAIN-SUFFIX,dyhzj.com
-DOMAIN-SUFFIX,dyidc.cc
 DOMAIN-SUFFIX,dyie.net
 DOMAIN-SUFFIX,dyjqd.com
 DOMAIN-SUFFIX,dyketai.net
@@ -40399,6 +40398,7 @@ DOMAIN-SUFFIX,mrcrm.com
 DOMAIN-SUFFIX,mrcywang.com
 DOMAIN-SUFFIX,mrdede.com
 DOMAIN-SUFFIX,mrentea.com
+DOMAIN-SUFFIX,mrflay.com
 DOMAIN-SUFFIX,mrhallacg.com
 DOMAIN-SUFFIX,mrjeke.com
 DOMAIN-SUFFIX,mrjiang.com
@@ -42801,7 +42801,6 @@ DOMAIN-SUFFIX,paiyiws.com
 DOMAIN-SUFFIX,paizhe.com
 DOMAIN-SUFFIX,paizi.com
 DOMAIN-SUFFIX,paizi.net
-DOMAIN-SUFFIX,paizi10.com
 DOMAIN-SUFFIX,pajkb.com
 DOMAIN-SUFFIX,pajkdc.com
 DOMAIN-SUFFIX,palace-international.com
@@ -49944,6 +49943,7 @@ DOMAIN-SUFFIX,sucoupon.com
 DOMAIN-SUFFIX,sudaizhijia.com
 DOMAIN-SUFFIX,sudaoa.com
 DOMAIN-SUFFIX,suddenfix.com
+DOMAIN-SUFFIX,sudidc.com
 DOMAIN-SUFFIX,sudoinfotech.com
 DOMAIN-SUFFIX,sudu-67ph.com
 DOMAIN-SUFFIX,sudu-72ub.com
@@ -53062,7 +53062,6 @@ DOMAIN-SUFFIX,tyouai.com
 DOMAIN-SUFFIX,tyouquan.com
 DOMAIN-SUFFIX,typany.com
 DOMAIN-SUFFIX,type.so
-DOMAIN-SUFFIX,typecho.work
 DOMAIN-SUFFIX,typechodev.com
 DOMAIN-SUFFIX,typecodes.com
 DOMAIN-SUFFIX,typekuon.com

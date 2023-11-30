@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-30 02:09:21
+# UPDATED: 2023-12-01 02:09:01
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16177
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 98352
+# DOMAIN-SUFFIX: 98410
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 115375
+# TOTAL: 115433
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -12408,7 +12408,6 @@
 .analytics.sixfigureswine.com
 .analytics.sketchup.com
 .analytics.skinit.com
-.analytics.skroutz.gr
 .analytics.skyscanner.net
 .analytics.slashdotmedia.com
 .analytics.slidesai.io
@@ -13184,7 +13183,6 @@
 .api.rees46.com
 .api.ryanyao.design
 .api.sdffwef11.com
-.api.service.belboon.com
 .api.setting.intl.miui.com
 .api.shuaji.360.cn
 .api.telemetry.watchabc.go.com
@@ -14579,7 +14577,7 @@
 .artlessdevote.com
 .artneesrparkete.info
 .artonsbewasand.com
-.artoukfarepu.org
+.artpainting.indonesiya.com
 .artpever.com
 .artreconnect.com
 .artsai.com
@@ -17018,7 +17016,7 @@
 .bavde1.icu
 .bavde3.icu
 .bavkvoks.xyz
-.bavvgo.zingat.com
+.bavwwovatawh.com
 .bavxuhaxtqi.com
 .bavxxf.xyz
 .baw5tracker.com
@@ -19872,7 +19870,6 @@
 .brcdn.com
 .brcicar.eccocar.com
 .brclickrent.eccocar.com
-.brcrx.eccocar.com
 .brdhbgcp.com
 .brdmin.com
 .brdriveonrental.eccocar.com
@@ -24922,9 +24919,6 @@
 .commonswing.com
 .commonvivacious.com
 .commonwealthproficient.com
-.comms.cigna.co.uk
-.comms.cigna.es
-.comms.cignaglobalhealth.com
 .comms.groupmarketing.dimensiondata.com
 .comms.services.global.ntt
 .commsvc.stern.de
@@ -27757,7 +27751,6 @@
 .d1i2v9a8xom2hy.cloudfront.net
 .d1i3h541wbnrfi.cloudfront.net
 .d1i64ia3gj0ol1.cloudfront.net
-.d1i76h1c9mme1m.cloudfront.net
 .d1igvjcl1gjs62.cloudfront.net
 .d1ilwohzbe4ao6.cloudfront.net
 .d1izuvv2qy7hel.cloudfront.net
@@ -33056,7 +33049,6 @@
 .dzl.baidu.com
 .dzletao.com
 .dzliege.com
-.dzprcdskxn.com
 .dzpu6za66svjl.cloudfront.net
 .dzr4v2ld8fze2.cloudfront.net
 .dzrenju2.cn
@@ -40063,7 +40055,6 @@
 .fxiuuaa.com
 .fxjs.2541.com
 .fxkfhbn.xyz
-.fxluaijchj.com
 .fxmacd.com
 .fxmdjr.mamastar.jp
 .fxmdjr.saita-puls.com
@@ -41971,7 +41962,6 @@
 .glogoowo.net
 .glogroap.net
 .glokta.info
-.gloltaiz.xyz
 .glomocon.xyz
 .glomseci.com
 .glonsophe.com
@@ -43566,7 +43556,6 @@
 .gtiou.com
 .gtiqmsbpor.com
 .gtitcah.com
-.gtkimwuyvqfb.com
 .gtlpaj.com
 .gtm-server.healthline.com
 .gtm.allabolag.se
@@ -44915,7 +44904,8 @@
 .helverglitch.website
 .helvetinus.com
 .hemaglnkrvdcgxe.com
-.hemblx.vans.cl
+.hemahi5.inthere.link
+.hemasejereeds.com
 .hembrandsteppe.com
 .hemineedunks.com
 .hemingway-dries-i-207.site
@@ -45862,7 +45852,6 @@
 .homevi4.tintuc-vi-vn.xyz
 .homevi5.tintuc-vi-vn.xyz
 .homewares.org
-.homeycommemorate.com
 .homierceston.top
 .hommetendance.fr
 .hommmaq.com
@@ -47631,7 +47620,6 @@
 .ilade.xyz
 .ilaterdeallyi.info
 .ilaterdeallyig.info
-.ilathetchit.com
 .ilawitrototlet.com
 .ilbanner.com
 .ilcdamnqtpem.com
@@ -56873,10 +56861,7 @@
 .lionesssupercatering.com
 .lionettrip.xyz
 .lionporcelain.com
-.liosix.mtvuutiset.fi
-.lioyfmp.cn
 .lipidicchaoush.com
-.lipmswonv.com
 .lippedabyssal.com
 .lipsate.com
 .lipsn.ru
@@ -67886,6 +67871,7 @@
 .njpyrn.xyz
 .njq.net
 .njqyjlyh.com
+.njreka.xyz
 .njrnwan.cn
 .njs.imagicskin.com
 .njslx.cn
@@ -72046,7 +72032,6 @@
 .panoramicplane.com
 .panoramio.com
 .panoz.xyz
-.panpant.xyz
 .pansymerbaby.com
 .pantafives.com
 .pantatec.ae
@@ -72055,8 +72040,8 @@
 .pantheonsite.io
 .panther.goguardian.com
 .pantherads.com
+.pantoumcashoos.com
 .pantsurplus.com
-.panuelobriard.com
 .panwenjun.top
 .panyarspan.com
 .panyh123456.cn
@@ -76232,8 +76217,6 @@
 .psirdain.com
 .psirsoor.com
 .psirsugn.net
-.psistaugli.com
-.psithich.com
 .psixoahi.xyz
 .psma01.com
 .psma02.com
@@ -78886,7 +78869,6 @@
 .realeducation.kangan.edu.au
 .realer.info
 .realescowbell.com
-.realestate.collinscu.org
 .realevalbs.com
 .realgfsbucks.com
 .realhumandeals.com
@@ -80624,6 +80606,8 @@
 .rlqoyht.icu
 .rlrekuaonqt.com
 .rlsspiuyx.com
+.rlsynmlz.fun
+.rlsyuulz.cam
 .rluuva.com
 .rlvvakyuipqbl.com
 .rlwiupbqn.com
@@ -81441,6 +81425,7 @@
 .ruperparverew.xyz
 .ruptionverst.space
 .rural-patience.com
+.rural-report.pro
 .ruralrobin.com
 .rurate.com
 .rurber.com
@@ -85797,7 +85782,6 @@
 .sincernething.xyz
 .sincetrade.com
 .sindatontherrom.com
-.sindtex.shop
 .sinefilmizlesen.com
 .sinera.org
 .sineweddefeise.com
@@ -96409,7 +96393,6 @@
 .thrilling.ru
 .thrillingblindly.com
 .thrillingpairsreside.com
-.thripelbertie.website
 .thrivebuisson.top
 .thrivecover.com
 .thrivenrewired.life
@@ -101676,7 +101659,6 @@
 .tsw0.com
 .tswmel.com
 .tswtwufqx.com
-.tswyxkasqago.com
 .tsyfnhd.com
 .tsyndicate.com
 .tsyndicate.net
@@ -107236,7 +107218,6 @@
 .waugique.net
 .wauk1care.com
 .waunsgraphs.website
-.wauroufu.net
 .waushaup.com
 .waushool.com
 .waust.at
@@ -109400,6 +109381,7 @@
 .wretchmilitantasia.com
 .wrevenuewasadi.info
 .wrfiwa.ru
+.wrfkjw.com
 .wrgjbsjxb.xyz
 .wrhv.education.gouv.fr
 .wriedwite.uno
@@ -110546,6 +110528,7 @@
 .wzcnha.lenspure.com
 .wzctuv.xyz
 .wzcznlufq.com
+.wzdy.xyz
 .wzdzht7am5.com
 .wzfjsh.cn
 .wzguosutang.com
@@ -112209,10 +112192,7 @@
 .yh300.vip
 .yh303030.com
 .yh6u.dealeusedevoyages.com
-.yhazrfacxd.com
 .yhbcii.com
-.yhbdzh.farmasiint.com
-.yhbheroq.xyz
 .yhdd1.com
 .yhdichan.com
 .yheyg94gjv2o.ru
@@ -112226,6 +112206,7 @@
 .yhhuzt.gintarine.lt
 .yhjgjk.wemakeup.it
 .yhjh04.com
+.yhkeqboz.com
 .yhlvgpqsr.com
 .yhlzadr.xyz
 .yhnvgdkw.xyz
@@ -112935,7 +112916,6 @@
 .yttz113.com
 .ytunion.com
 .ytvigqwx.com
-.ytxmseqnehwstg.xyz
 .ytybl.com
 .ytzihf.com
 .yu.ac.kr
@@ -114172,6 +114152,7 @@
 .zsdzcpw.mobi
 .zsedu99.cn
 .zsfjpbnxyyx.com
+.zsgpdafjd.com
 .zsh-work.com
 .zshacker.com
 .zshyudl.com

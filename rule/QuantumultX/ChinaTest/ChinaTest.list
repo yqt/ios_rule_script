@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-30 02:14:43
+# UPDATED: 2023-12-01 02:13:41
 # HOST: 166
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64339
+# HOST-SUFFIX: 64336
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64561
+# TOTAL: 64558
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -21932,7 +21932,6 @@ HOST-SUFFIX,dygzs.com,ChinaTest
 HOST-SUFFIX,dyhr88.com,ChinaTest
 HOST-SUFFIX,dyhxgame.com,ChinaTest
 HOST-SUFFIX,dyhzj.com,ChinaTest
-HOST-SUFFIX,dyidc.cc,ChinaTest
 HOST-SUFFIX,dyie.net,ChinaTest
 HOST-SUFFIX,dyjqd.com,ChinaTest
 HOST-SUFFIX,dyketai.net,ChinaTest
@@ -40401,6 +40400,7 @@ HOST-SUFFIX,mrcrm.com,ChinaTest
 HOST-SUFFIX,mrcywang.com,ChinaTest
 HOST-SUFFIX,mrdede.com,ChinaTest
 HOST-SUFFIX,mrentea.com,ChinaTest
+HOST-SUFFIX,mrflay.com,ChinaTest
 HOST-SUFFIX,mrhallacg.com,ChinaTest
 HOST-SUFFIX,mrjeke.com,ChinaTest
 HOST-SUFFIX,mrjiang.com,ChinaTest
@@ -42803,7 +42803,6 @@ HOST-SUFFIX,paiyiws.com,ChinaTest
 HOST-SUFFIX,paizhe.com,ChinaTest
 HOST-SUFFIX,paizi.com,ChinaTest
 HOST-SUFFIX,paizi.net,ChinaTest
-HOST-SUFFIX,paizi10.com,ChinaTest
 HOST-SUFFIX,pajkb.com,ChinaTest
 HOST-SUFFIX,pajkdc.com,ChinaTest
 HOST-SUFFIX,palace-international.com,ChinaTest
@@ -49946,6 +49945,7 @@ HOST-SUFFIX,sucoupon.com,ChinaTest
 HOST-SUFFIX,sudaizhijia.com,ChinaTest
 HOST-SUFFIX,sudaoa.com,ChinaTest
 HOST-SUFFIX,suddenfix.com,ChinaTest
+HOST-SUFFIX,sudidc.com,ChinaTest
 HOST-SUFFIX,sudoinfotech.com,ChinaTest
 HOST-SUFFIX,sudu-67ph.com,ChinaTest
 HOST-SUFFIX,sudu-72ub.com,ChinaTest
@@ -53064,7 +53064,6 @@ HOST-SUFFIX,tyouai.com,ChinaTest
 HOST-SUFFIX,tyouquan.com,ChinaTest
 HOST-SUFFIX,typany.com,ChinaTest
 HOST-SUFFIX,type.so,ChinaTest
-HOST-SUFFIX,typecho.work,ChinaTest
 HOST-SUFFIX,typechodev.com,ChinaTest
 HOST-SUFFIX,typecodes.com,ChinaTest
 HOST-SUFFIX,typekuon.com,ChinaTest
