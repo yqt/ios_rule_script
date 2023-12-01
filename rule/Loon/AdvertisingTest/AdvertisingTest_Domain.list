@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-01 02:10:14
+# UPDATED: 2023-12-01 10:34:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12517
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 128460
+# DOMAIN-SUFFIX: 128508
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 142034
+# TOTAL: 142082
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -168,7 +168,6 @@
 .0594003.com
 .0594529.com
 .059e71004b.com
-.05e11c9f6f.com
 .05ee3a24ed11df058c8.com
 .05fc725q.cn
 .05pg9z.com
@@ -739,6 +738,7 @@
 .1516shop.com
 .152media.com
 .15306ad0e1.com
+.1537621450.rsc.cdn77.org
 .1540685764.rsc.cdn77.org
 .154886c13e.com
 .1556048427.rsc.cdn77.org
@@ -788,6 +788,7 @@
 .170yy.com
 .1711811.com
 .17123.net
+.1713481975.rsc.cdn77.org
 .1717gs.com
 .1731d04ba1.com
 .1736253261.rsc.cdn77.org
@@ -838,6 +839,7 @@
 .1857964468.rsc.cdn77.org
 .186078.com
 .1871869301.rsc.cdn77.org
+.1872859781.rsc.cdn77.org
 .188aaa.us
 .188affiliates.com
 .188api.com
@@ -17550,7 +17552,6 @@
 .attendantsammunitiondeliquencydeliquency.com
 .attendantsrescuediscrepancy.com
 .attendantsteakfax.com
-.attendedconnectionunique.com
 .attendingtarget.com
 .attentiongolanchampagne.com
 .attentioniau.com
@@ -21471,7 +21472,6 @@
 .birdmedia.com
 .birdnavy.com
 .birgga.top
-.birglucy.xyz
 .birlerskababs.com
 .biroads.com
 .birqmiowxfh.com
@@ -50560,6 +50560,7 @@
 .gcfabtyir.com
 .gcfx777.com
 .gcfynlyvab.com
+.gcgggct.cn
 .gcheck.carthook.com
 .gcheg.com
 .gcihkyd.cn
@@ -53517,7 +53518,6 @@
 .goudgctjcgan.com
 .goufanli100.com
 .goufldsbktds.com
-.gouheethsurvey.space
 .gouhei.top
 .goulanmeng.cn
 .gouloupt.com
@@ -88013,7 +88013,6 @@
 .oxghhbxz.com
 .oxharmonysample.com
 .oxhdtgmlryv.com
-.oxhfalnniu.com
 .oxi23.cn
 .oxidy.com
 .oxifwsabgd.nzz.ch
@@ -95179,6 +95178,7 @@
 .pyyhkn.com
 .pyzjhd.com
 .pyzkk.com
+.pyzwxkb.com
 .pzajdh.guicheweb.com.br
 .pzapi-ij.com
 .pzapi-kg.com
@@ -101678,6 +101678,7 @@
 .sagumnlx.com
 .sahandkeightg.xyz
 .sahara.trekkeeee.fun
+.sahara.trekkeeee.space
 .saheckas.xyz
 .saiceezu.xyz
 .saicmotor.fr
@@ -130466,6 +130467,7 @@
 .vqjvnjxbgnz.com
 .vqjxlie.cn
 .vqp3.madeindesign.co.uk
+.vqzbzuhhxhcf.com
 .vr.mttr.pt
 .vr.vivareal.com
 .vraatdwugla.com
@@ -135161,6 +135163,7 @@
 .wwww.649649.com
 .wwwwndings.click
 .wwwww.asia
+.wwxufo.com
 .wwxxww.ru
 .wwydakja.net
 .wwydakja.org
