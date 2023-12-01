@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-01 02:13:41
+# UPDATED: 2023-12-02 02:13:25
 # HOST: 166
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64336
+# HOST-SUFFIX: 64307
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64558
+# TOTAL: 64529
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -21798,6 +21798,7 @@ HOST-SUFFIX,dusays.com,ChinaTest
 HOST-SUFFIX,dushewang.com,ChinaTest
 HOST-SUFFIX,dushicn.com,ChinaTest
 HOST-SUFFIX,dushiliren.net,ChinaTest
+HOST-SUFFIX,dushimh.com,ChinaTest
 HOST-SUFFIX,dushu.com,ChinaTest
 HOST-SUFFIX,dushu.io,ChinaTest
 HOST-SUFFIX,dushu263.com,ChinaTest
@@ -33585,6 +33586,7 @@ HOST-SUFFIX,jiuyang.com,ChinaTest
 HOST-SUFFIX,jiuyao666.com,ChinaTest
 HOST-SUFFIX,jiuyaowangluo.com,ChinaTest
 HOST-SUFFIX,jiuyi2005.com,ChinaTest
+HOST-SUFFIX,jiuyingwangluo.com,ChinaTest
 HOST-SUFFIX,jiuyuehuyu.com,ChinaTest
 HOST-SUFFIX,jiuyuu.com,ChinaTest
 HOST-SUFFIX,jiuzhaigou-china.com,ChinaTest
@@ -35112,7 +35114,6 @@ HOST-SUFFIX,kele8.com,ChinaTest
 HOST-SUFFIX,kelehuyu.com,ChinaTest
 HOST-SUFFIX,kelepi.com,ChinaTest
 HOST-SUFFIX,keleqiu.com,ChinaTest
-HOST-SUFFIX,kelete.com,ChinaTest
 HOST-SUFFIX,kelibiao.com,ChinaTest
 HOST-SUFFIX,kelink.com,ChinaTest
 HOST-SUFFIX,kelon.com,ChinaTest
@@ -53524,7 +53525,6 @@ HOST-SUFFIX,uoolu.com,ChinaTest
 HOST-SUFFIX,uooss.com,ChinaTest
 HOST-SUFFIX,uooyoo.com,ChinaTest
 HOST-SUFFIX,uoozi.com,ChinaTest
-HOST-SUFFIX,uoschina.com,ChinaTest
 HOST-SUFFIX,uostools.com,ChinaTest
 HOST-SUFFIX,uouo123.com,ChinaTest
 HOST-SUFFIX,uovz.com,ChinaTest
@@ -54816,8 +54816,6 @@ HOST-SUFFIX,wangyeyixia.com,ChinaTest
 HOST-SUFFIX,wangyou.com,ChinaTest
 HOST-SUFFIX,wangyou2.com,ChinaTest
 HOST-SUFFIX,wangyuan.com,ChinaTest
-HOST-SUFFIX,wangyuedaojia.com,ChinaTest
-HOST-SUFFIX,wangyunf.com,ChinaTest
 HOST-SUFFIX,wangyuwang.com,ChinaTest
 HOST-SUFFIX,wangzhan123.net,ChinaTest
 HOST-SUFFIX,wangzhan360.com,ChinaTest

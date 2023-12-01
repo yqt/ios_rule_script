@@ -1,13 +1,13 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-01 02:15:46
+# UPDATED: 2023-12-02 02:15:30
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 65648
+# DOMAIN-SUFFIX: 65622
 # PROCESS-NAME: 11
 # USER-AGENT: 69
-# TOTAL: 65908
+# TOTAL: 65882
 .0-6.com
 .00.net
 .000.link
@@ -19537,6 +19537,7 @@
 .dushicn.com
 .dushifen.com
 .dushiliren.net
+.dushimh.com
 .dushu.com
 .dushu.io
 .dushu263.com
@@ -32699,6 +32700,7 @@
 .jiuyao666.com
 .jiuyaowangluo.com
 .jiuyi2005.com
+.jiuyingwangluo.com
 .jiuyuehuyu.com
 .jiuyuu.com
 .jiuzhaigou-china.com
@@ -34312,7 +34314,6 @@
 .kelehuyu.com
 .kelepi.com
 .keleqiu.com
-.kelete.com
 .kelibiao.com
 .kelink.com
 .kelon.com
@@ -54595,7 +54596,6 @@
 .uooss.com
 .uooyoo.com
 .uoozi.com
-.uoschina.com
 .uostools.com
 .uouo123.com
 .uovz.com
@@ -56015,8 +56015,6 @@
 .wangyou.com
 .wangyou2.com
 .wangyuan.com
-.wangyuedaojia.com
-.wangyunf.com
 .wangyuwang.com
 .wangzhan123.net
 .wangzhan360.com

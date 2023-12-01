@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-01 02:09:01
+# UPDATED: 2023-12-02 02:08:47
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16177
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 98410
+# DOMAIN-SUFFIX: 98480
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 115433
+# TOTAL: 115503
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -132,7 +132,6 @@
 .0594003.com
 .0594529.com
 .059e71004b.com
-.05e11c9f6f.com
 .05ee3a24ed11df058c8.com
 .05pg9z.com
 .05q9n.cn
@@ -614,6 +613,7 @@
 .1516shop.com
 .152media.com
 .15306ad0e1.com
+.1537621450.rsc.cdn77.org
 .1540685764.rsc.cdn77.org
 .154886c13e.com
 .1556048427.rsc.cdn77.org
@@ -656,6 +656,7 @@
 .170yy.com
 .1711811.com
 .17123.net
+.1713481975.rsc.cdn77.org
 .1717gs.com
 .1736253261.rsc.cdn77.org
 .173e.cn
@@ -704,6 +705,7 @@
 .1857964468.rsc.cdn77.org
 .186078.com
 .1871869301.rsc.cdn77.org
+.1872859781.rsc.cdn77.org
 .188aaa.us
 .188affiliates.com
 .188api.com
@@ -3062,7 +3064,6 @@
 .8v7wg.com
 .8wtkfxiss1o2.com
 .8zkt7.xyz
-.8zse5d.cyou
 .9001476746.com
 .90053999.com
 .90370.com
@@ -6900,7 +6901,6 @@
 .ad8888.top
 .ad9377.com
 .ad999.biz
-.ada8-2.ampleur.jp
 .ada8.ampleur.jp
 .adabra.com
 .adacado.com
@@ -11000,7 +11000,6 @@
 .ajur.info
 .ajvjpupava.com
 .ajvnragtua.com
-.ajvzis.triumph.com
 .ajx130.online
 .ajxx98.online
 .ajyrsxdvbyc.xyz
@@ -11418,6 +11417,7 @@
 .alltracked.com
 .alludedapexdepression.com
 .alludedaridboob.com
+.alludedgrinbanquet.com
 .allure-ng.net
 .allureencourage.com
 .allureoutlayterrific.com
@@ -12705,6 +12705,7 @@
 .anglishreasts.site
 .angorch-cdr7.com
 .angossa.com
+.angprobinsyano.su
 .angry-golick-2a96e5.netlify.app
 .angryme.cn
 .angsrvr.com
@@ -14288,8 +14289,7 @@
 .aqpvglv.cn
 .aqqgli3vle.bid
 .aqqlwcuqtskbz.com
-.aqrokdw.cn
-.aqsufdbramaw.com
+.aqsj.xyz
 .aqtracker.com
 .aquagoat.xyz
 .aquank.com
@@ -25892,7 +25892,6 @@
 .couchcoaster.jp
 .coudswamper.com
 .couhiboa.com
-.coukagrous.com
 .couldburgeon.com
 .couldobliterate.com
 .coull.com
@@ -31289,7 +31288,6 @@
 .djsdmdbwlpbab.com
 .djsn888.com
 .djssdvbo.com
-.djsxyvgrkyl.com
 .djugoogs.com
 .djuzsbnnm.biz
 .djv99sxoqpv11.cloudfront.net
@@ -34129,7 +34127,7 @@
 .efalid.top
 .efanyorgagetni.info
 .efatik.me
-.efbenj.adorebeauty.com.au
+.efdcw.cyou
 .effacedefend.com
 .effaceecho.com
 .effacerevealing.com
@@ -35017,8 +35015,6 @@
 .emycewiw.xyz
 .emyfueuktureukwor.info
 .emynwlz.xyz
-.emzlbqqnnbmzj.top
-.en-sg.siemensplmevents.com
 .en.btc-trader-app.club
 .en.btcprofit.we-trck.com
 .en.likefever.org
@@ -38859,6 +38855,7 @@
 .foogpdywvrswrxl.com
 .fooid.xyz
 .foojimie.net
+.foolerybonded.com
 .foolish-devil.pro
 .foolishcheek.pro
 .fooluminou.review
@@ -40736,6 +40733,7 @@
 .gcfabtyir.com
 .gcfx777.com
 .gcfynlyvab.com
+.gcgggct.cn
 .gcheg.com
 .gcirm.argusleader.com
 .gcirm.argusleader.gcion.com
@@ -42976,7 +42974,6 @@
 .goudgctjcgan.com
 .goufanli100.com
 .goufldsbktds.com
-.gouheethsurvey.space
 .gouhei.top
 .goulanmeng.cn
 .gouloupt.com
@@ -43837,8 +43834,6 @@
 .gxssjz.com
 .gxsuum.discountmugs.com
 .gxunj.com
-.gxusko.pinkpanda.hu
-.gxvaunase.com
 .gxx4t.online
 .gxxcbj.com
 .gxxie.com
@@ -50093,7 +50088,7 @@
 .ion.btcswe.com
 .ionakasulba.info
 .ionakasulba.xyz
-.ioniamcurr.info
+.ionamin.1.p2l.info
 .ionicsshelyak.com
 .ionigravida.com
 .ioniserpinones.com
@@ -51752,6 +51747,8 @@
 .jlpupeaqsxvvk.com
 .jlrfx.com
 .jlssbz.com
+.jlsynmla.fun
+.jlsyuula.cam
 .jltdgjqgtbfyg.com
 .jltjgujdnyp.com
 .jltolz.xyz
@@ -53225,8 +53222,6 @@
 .ketgetoexukpr.info
 .ketheappyrin.com
 .ketiverdisof.com
-.ketlpsmt.com
-.ketodis.com
 .ketogenopsins.uno
 .ketoo.com
 .ketquaxosotoancau.org
@@ -53331,7 +53326,6 @@
 .kgqzgj.rougegorge.com
 .kgroundandinte.net
 .kgsehayyvhk.com
-.kgtrnyeqmsvkwu.com
 .kgua0o66bcw8.com
 .kguaq.com
 .kguke.com
@@ -54097,8 +54091,8 @@
 .kpu.samsungelectronics.com
 .kpyerxzn.xyz
 .kq6lwk3m9g.ru
+.kq7k.icu
 .kqbrgl.icu
-.kqchxa.denizbutik.com
 .kqhi97lf.de
 .kqiaq.com
 .kqjpipl.com
@@ -55456,7 +55450,6 @@
 .lehebraverooper.xyz
 .lehechapunevent.com
 .lehephubu.com
-.lehoacku.net
 .lehrer-finden.de
 .lehtymns.com
 .lehvxwciysoac.com
@@ -71474,9 +71467,8 @@
 .oxen.hillcountrytexas.com
 .oxenturftrot.com
 .oxfoadv.store
-.oxghhbxz.com
+.oxharmonysample.com
 .oxhdtgmlryv.com
-.oxhfalnniu.com
 .oxi23.cn
 .oxidy.com
 .oxifwsabgd.nzz.ch
@@ -96048,7 +96040,7 @@
 .theenfu.com
 .theensos.xyz
 .theepsie.com
-.theessoapt.com
+.theerdax.com
 .theestatehouse.co.uk
 .theextensionexpert.com
 .thefacux.com
@@ -106447,7 +106439,6 @@
 .vqjfiuwbqpvwrn.xyz
 .vqjvnjxbgnz.com
 .vqp3.madeindesign.co.uk
-.vqtyargb.com
 .vqzbzuhhxhcf.com
 .vr.mttr.pt
 .vr.vivareal.com
@@ -110434,6 +110425,7 @@
 .wwww.649649.com
 .wwwwndings.click
 .wwwww.asia
+.wwxufo.com
 .wwxxww.ru
 .wx.paigu.com
 .wx.xwjqr.com

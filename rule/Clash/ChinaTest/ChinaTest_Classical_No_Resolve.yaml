@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-01 02:13:44
+# UPDATED: 2023-12-02 02:13:28
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64336
+# DOMAIN-SUFFIX: 64307
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64526
+# TOTAL: 64497
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -21797,6 +21797,7 @@ payload:
   - DOMAIN-SUFFIX,dushewang.com
   - DOMAIN-SUFFIX,dushicn.com
   - DOMAIN-SUFFIX,dushiliren.net
+  - DOMAIN-SUFFIX,dushimh.com
   - DOMAIN-SUFFIX,dushu.com
   - DOMAIN-SUFFIX,dushu.io
   - DOMAIN-SUFFIX,dushu263.com
@@ -33584,6 +33585,7 @@ payload:
   - DOMAIN-SUFFIX,jiuyao666.com
   - DOMAIN-SUFFIX,jiuyaowangluo.com
   - DOMAIN-SUFFIX,jiuyi2005.com
+  - DOMAIN-SUFFIX,jiuyingwangluo.com
   - DOMAIN-SUFFIX,jiuyuehuyu.com
   - DOMAIN-SUFFIX,jiuyuu.com
   - DOMAIN-SUFFIX,jiuzhaigou-china.com
@@ -35111,7 +35113,6 @@ payload:
   - DOMAIN-SUFFIX,kelehuyu.com
   - DOMAIN-SUFFIX,kelepi.com
   - DOMAIN-SUFFIX,keleqiu.com
-  - DOMAIN-SUFFIX,kelete.com
   - DOMAIN-SUFFIX,kelibiao.com
   - DOMAIN-SUFFIX,kelink.com
   - DOMAIN-SUFFIX,kelon.com
@@ -53523,7 +53524,6 @@ payload:
   - DOMAIN-SUFFIX,uooss.com
   - DOMAIN-SUFFIX,uooyoo.com
   - DOMAIN-SUFFIX,uoozi.com
-  - DOMAIN-SUFFIX,uoschina.com
   - DOMAIN-SUFFIX,uostools.com
   - DOMAIN-SUFFIX,uouo123.com
   - DOMAIN-SUFFIX,uovz.com
@@ -54815,8 +54815,6 @@ payload:
   - DOMAIN-SUFFIX,wangyou.com
   - DOMAIN-SUFFIX,wangyou2.com
   - DOMAIN-SUFFIX,wangyuan.com
-  - DOMAIN-SUFFIX,wangyuedaojia.com
-  - DOMAIN-SUFFIX,wangyunf.com
   - DOMAIN-SUFFIX,wangyuwang.com
   - DOMAIN-SUFFIX,wangzhan123.net
   - DOMAIN-SUFFIX,wangzhan360.com

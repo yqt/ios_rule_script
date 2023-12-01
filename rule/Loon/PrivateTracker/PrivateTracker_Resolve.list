@@ -1,18 +1,18 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-30 02:15:48
-# DOMAIN: 148
+# UPDATED: 2023-12-02 02:14:22
+# DOMAIN: 144
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 122
 # IP-CIDR: 8
 # IP-CIDR6: 2
-# TOTAL: 283
+# TOTAL: 279
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,6.pocketnet.app
-DOMAIN,6ahddutb1ucc3cp.ru
-DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
+DOMAIN,aarsen.me
+DOMAIN,acxx.de
 DOMAIN,aegir.sexy
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,black-bird.ynh.fr
@@ -48,11 +48,9 @@ DOMAIN,oh.fuuuuuck.com
 DOMAIN,open.acgnxtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
-DOMAIN,open.xxtor.com
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
 DOMAIN,opentracker.io
@@ -61,13 +59,11 @@ DOMAIN,private.anonseed.com
 DOMAIN,public-tracker.cf
 DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
-DOMAIN,retracker.lanta.me
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run-2.publictracker.xyz
 DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
 DOMAIN,sabross.xyz
-DOMAIN,share.camoe.cn
 DOMAIN,static.54.161.216.95.clients.your-server.de
 DOMAIN,su-data.com
 DOMAIN,t.acg.rip
@@ -87,10 +83,10 @@ DOMAIN,tracker.anima.nz
 DOMAIN,tracker.artixlinux.org
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
-DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dump.cl
@@ -101,9 +97,7 @@ DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gbitt.info
-DOMAIN,tracker.gcrreen.xyz
 DOMAIN,tracker.imgoingto.icu
-DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.k.vu
@@ -111,7 +105,6 @@ DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.cf
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.loligirl.cn
-DOMAIN,tracker.mirrorbay.org
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
@@ -121,7 +114,6 @@ DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
-DOMAIN,tracker.rev.pm
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
@@ -130,36 +122,36 @@ DOMAIN,tracker.t-rb.org
 DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.com
-DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker1.myporn.club
+DOMAIN,tracker2.ctix.cn
 DOMAIN,tracker2.dler.com
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,trackers.mlsub.net
+DOMAIN,ts.populargamers.co.za
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
 DOMAIN,uploads.gamecoast.net
-DOMAIN,uraniumhexafluori.de
+DOMAIN,v2.iperson.xyz
 DOMAIN,v6-tracker.0g.cx
 DOMAIN,wepzone.net
-DOMAIN,wg.mortis.me
-DOMAIN,www.2600.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
-DOMAIN,www.torrent.eu.org
 DOMAIN,www.wareztorrent.com
+DOMAIN,x.paranoid.agency
+DOMAIN,x.t-1.org
 DOMAIN,y.paranoid.agency
+DOMAIN,yahor.of.by
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,2xfree.org
 DOMAIN-SUFFIX,52pt.site
@@ -177,7 +169,7 @@ DOMAIN-SUFFIX,beitai.pt
 DOMAIN-SUFFIX,beyond-hd.me
 DOMAIN-SUFFIX,bibliotik.me
 DOMAIN-SUFFIX,bittorrent.com
-DOMAIN-SUFFIX,blutopia.cc
+DOMAIN-SUFFIX,blutopia.xyz
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,bt.neu6.edu.cn
@@ -283,9 +275,8 @@ DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,xauat6.edu.cn
 DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,chdbits
-DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
 IP-CIDR,119.28.71.45/32
 IP-CIDR,184.105.151.166/32
 IP-CIDR,207.241.226.111/32
