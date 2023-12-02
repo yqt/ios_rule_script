@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-02 02:13:25
+# UPDATED: 2023-12-03 02:13:17
 # HOST: 166
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64307
+# HOST-SUFFIX: 64298
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64529
+# TOTAL: 64520
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -5863,7 +5863,7 @@ HOST-SUFFIX,28493.com,ChinaTest
 HOST-SUFFIX,2853x.com,ChinaTest
 HOST-SUFFIX,2858999.com,ChinaTest
 HOST-SUFFIX,285u.com,ChinaTest
-HOST-SUFFIX,2886633.com,ChinaTest
+HOST-SUFFIX,288288dy.com,ChinaTest
 HOST-SUFFIX,288idc.com,ChinaTest
 HOST-SUFFIX,2898.com,ChinaTest
 HOST-SUFFIX,28beiduo.com,ChinaTest
@@ -25419,7 +25419,6 @@ HOST-SUFFIX,geejing.com,ChinaTest
 HOST-SUFFIX,geek-docs.com,ChinaTest
 HOST-SUFFIX,geek-papa.com,ChinaTest
 HOST-SUFFIX,geek-share.com,ChinaTest
-HOST-SUFFIX,geekbang.com,ChinaTest
 HOST-SUFFIX,geekbang.org,ChinaTest
 HOST-SUFFIX,geekbangtech.com,ChinaTest
 HOST-SUFFIX,geekcar.com,ChinaTest
@@ -26568,7 +26567,6 @@ HOST-SUFFIX,gulou120.com,ChinaTest
 HOST-SUFFIX,gulu.tv,ChinaTest
 HOST-SUFFIX,gulu001.com,ChinaTest
 HOST-SUFFIX,gulugj.com,ChinaTest
-HOST-SUFFIX,gululu.com,ChinaTest
 HOST-SUFFIX,gulutea.com,ChinaTest
 HOST-SUFFIX,gumang.com,ChinaTest
 HOST-SUFFIX,gumaor.com,ChinaTest
@@ -58802,33 +58800,25 @@ HOST-SUFFIX,xmzmmr.com,ChinaTest
 HOST-SUFFIX,xmzylh.com,ChinaTest
 HOST-SUFFIX,xn--1qqw23a,ChinaTest
 HOST-SUFFIX,xn--2krw29cdqai43k.com,ChinaTest
-HOST-SUFFIX,xn--2quq3tovao9rkkh379a.com,ChinaTest
-HOST-SUFFIX,xn--2qux23cs4e63q.com,ChinaTest
 HOST-SUFFIX,xn--3bst00m,ChinaTest
 HOST-SUFFIX,xn--3ds443g,ChinaTest
-HOST-SUFFIX,xn--4n0arfvg.com,ChinaTest
 HOST-SUFFIX,xn--4qr912ma.com,ChinaTest
 HOST-SUFFIX,xn--55qx5d,ChinaTest
 HOST-SUFFIX,xn--5tzm5g,ChinaTest
-HOST-SUFFIX,xn--5usq45ab9cq10aihcp50d.com,ChinaTest
-HOST-SUFFIX,xn--6fr35ac1xmmm.com,ChinaTest
 HOST-SUFFIX,xn--6frz82g,ChinaTest
 HOST-SUFFIX,xn--6qq986b3xl,ChinaTest
 HOST-SUFFIX,xn--7hv285el2dtof.com,ChinaTest
 HOST-SUFFIX,xn--7qvz7xssa.com,ChinaTest
 HOST-SUFFIX,xn--8y0a063a,ChinaTest
 HOST-SUFFIX,xn--9et52u,ChinaTest
-HOST-SUFFIX,xn--9qrw67b3udl12b.ren,ChinaTest
 HOST-SUFFIX,xn--chq7lp8e46htw3g.com,ChinaTest
 HOST-SUFFIX,xn--czr694b,ChinaTest
-HOST-SUFFIX,xn--czr93rxry.com,ChinaTest
 HOST-SUFFIX,xn--czrs0t,ChinaTest
 HOST-SUFFIX,xn--czru2d,ChinaTest
 HOST-SUFFIX,xn--dkr447bejn.com,ChinaTest
 HOST-SUFFIX,xn--dkr447bejn.net,ChinaTest
 HOST-SUFFIX,xn--ebr05n.com,ChinaTest
 HOST-SUFFIX,xn--fiq228c5hs,ChinaTest
-HOST-SUFFIX,xn--fiq2km75ifcu.com,ChinaTest
 HOST-SUFFIX,xn--fiq64b,ChinaTest
 HOST-SUFFIX,xn--fiq6q20pz51d.com,ChinaTest
 HOST-SUFFIX,xn--fiqa108dbd596g538d.com,ChinaTest
@@ -58846,18 +58836,17 @@ HOST-SUFFIX,xn--it-1r3f.com,ChinaTest
 HOST-SUFFIX,xn--jvrp4x1zyfta.net,ChinaTest
 HOST-SUFFIX,xn--jvrr72kgma408a.com,ChinaTest
 HOST-SUFFIX,xn--kput3i,ChinaTest
-HOST-SUFFIX,xn--lmqx92ae1ishfsot0iw.com,ChinaTest
 HOST-SUFFIX,xn--ntsp37j.net,ChinaTest
 HOST-SUFFIX,xn--nyqx2gbsm8u0b.com,ChinaTest
 HOST-SUFFIX,xn--nyqy26a,ChinaTest
 HOST-SUFFIX,xn--otu796d,ChinaTest
 HOST-SUFFIX,xn--pbt1sj69ag8b.com,ChinaTest
 HOST-SUFFIX,xn--q20av2y36ac54a.com,ChinaTest
+HOST-SUFFIX,xn--rhqv96g,ChinaTest
 HOST-SUFFIX,xn--s4t325g.com,ChinaTest
 HOST-SUFFIX,xn--ses554g,ChinaTest
 HOST-SUFFIX,xn--uisx71c0r1a.com,ChinaTest
 HOST-SUFFIX,xn--unup4y,ChinaTest
-HOST-SUFFIX,xn--vhqqb9tu5puzbh4d4wb1yo982d2jdfq3e.com,ChinaTest
 HOST-SUFFIX,xn--vhquv,ChinaTest
 HOST-SUFFIX,xn--vuq861b,ChinaTest
 HOST-SUFFIX,xn--w9qr0k.com,ChinaTest

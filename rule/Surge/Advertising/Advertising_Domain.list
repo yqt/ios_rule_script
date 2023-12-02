@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-02 02:08:44
+# UPDATED: 2023-12-03 02:08:34
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 16177
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 98480
+# DOMAIN-SUFFIX: 98536
 # IP-CIDR: 428
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 115515
+# TOTAL: 115571
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -470,6 +470,7 @@
 .116zhuce.com
 .1170555.com
 .1178.shucong.com
+.1186656647.rsc.cdn77.org
 .1187531871.rsc.cdn77.org
 .1188.com
 .118ex.cn
@@ -1672,7 +1673,6 @@
 .3hufi.site
 .3i1cx7b9nupt.com
 .3i2i.com
-.3j0pw4ed7uac-a.akamaihd.net
 .3j8c56p9.de
 .3jia5.com
 .3kbktygzr5.ru
@@ -5160,6 +5160,7 @@
 .a907907.com
 .a9377j.com
 .a962m.xyz
+.a96a79a34e.com
 .a99hz.space
 .a9able.com
 .a9d8e7b6i5s.andgino.jp
@@ -6203,6 +6204,7 @@
 .actoramusement.com
 .actpbfa.com
 .actpx.com
+.actressact.com
 .actressdoleful.com
 .actrkn.com
 .actrqdr.cn
@@ -8647,7 +8649,6 @@
 .ads.lamchame.vn
 .ads.laodongbinhduong.org.vn
 .ads.laodongnghean.vn
-.ads.lapalingo.com
 .ads.leovegas.com
 .ads.lesbianpersonals.com
 .ads.liberte.pl
@@ -15201,7 +15202,9 @@
 .attendancemeaningleaped.com
 .attendantsammunitiondeliquencydeliquency.com
 .attendantsrescuediscrepancy.com
+.attendantsteakfax.com
 .attendingtarget.com
+.attentiongolanchampagne.com
 .attentioniau.com
 .attentionkick.com
 .attepigom.com
@@ -18482,7 +18485,6 @@
 .birdmedia.com
 .birdnavy.com
 .birgga.top
-.birglucy.xyz
 .biroads.com
 .birqmiowxfh.com
 .birter.com
@@ -21540,7 +21542,6 @@
 .capndr.com
 .capodannoinversilia.com
 .capostdelivery.com
-.capounsou.com
 .cappaghdiamat.com
 .cappens-dreperor.com
 .capping.sirius.press
@@ -24909,6 +24910,7 @@
 .commercial.equifax.com
 .commercial.inform.equifax.com
 .commercialvalue.org
+.commindo-media-ressourcen.de
 .commiseratefacilenotably.com
 .commission-junction.com
 .commissionfactory.com.au
@@ -26680,7 +26682,6 @@
 .crm.velocify.com
 .crm4d.com
 .crmbizfly.todo.vn
-.crmcommunications.progressive.com
 .crmentjg.com
 .crmmetrix.fr
 .crmmetrixwris.com
@@ -27282,8 +27283,6 @@
 .cvtfyyflrrkjsam.xyz
 .cvtk01.gmo-agree.com
 .cvtr.io
-.cvtspo.moebel24.de
-.cvuduufdewm.com
 .cvuvoljuqlkeuc.com
 .cvyimypsjxca.com
 .cvzvun.vidaxl.de
@@ -32590,8 +32589,6 @@
 .dtcpdvnojquf.com
 .dtdvmuadong-lienquan.com
 .dtedpypskgbdap.com
-.dtestpromo.fiat.it
-.dthablbrl.com
 .dthechildren.org
 .dthvdr9.com
 .dti-ranker.com
@@ -33440,6 +33437,7 @@
 .eap.big5.enorth.com.cn
 .eap.enorth.com.cn
 .eapect.icu
+.eapsmnw.cyou
 .earact.com
 .eardepth-prisists.com
 .eardewova.com
@@ -34421,6 +34419,7 @@
 .elas666.pics
 .elasticad.net
 .elasticchange.com
+.elasticdestruct.com
 .elasticducks.com
 .elastinabuker.site
 .elastx.net
@@ -41968,7 +41967,6 @@
 .gloodain.net
 .gloodsie.com
 .gloogeed.xyz
-.gloognoogrix.com
 .gloogruk.com
 .glookup.info
 .gloolrey.com
@@ -45576,7 +45574,6 @@
 .hkepc.net
 .hkfgsxpnaga.xyz
 .hkfuy.com
-.hkgcthphxttqkqf.com
 .hkifcxblsu.com
 .hkilops.com
 .hkilyflawp.com
@@ -46063,6 +46060,7 @@
 .hotinga.ru
 .hotjar.com
 .hotjar.io
+.hotkabachok.com
 .hotlinemultiply.com
 .hotlog.ru
 .hotnews1.me
@@ -46345,7 +46343,6 @@
 .htihvgpmna.xyz
 .htintpa.tech
 .htjsk.com
-.htjuxdkjppm.com
 .htkcm.com
 .htkk1.top
 .htkk2.top
@@ -49548,7 +49545,6 @@
 .inoreader.fr
 .inorseph.xyz
 .inosinetimpana.com
-.inourdreamsa.org
 .inowe.xyz
 .inpage-push.com
 .inpage-push.net
@@ -50911,7 +50907,6 @@
 .jackpotbeautifulsulky.com
 .jackpotpresents.com
 .jacksonduct.com
-.jackwolfskinsverige.com.se
 .jaclottens.live
 .jacmolta.com
 .jacnrobv.com
@@ -53063,7 +53058,6 @@
 .kddtri.cn
 .kdfjabv.com
 .kdgjsf.com
-.kdh095.cn
 .kdh8.com
 .kdieu.com
 .kdiso.ru
@@ -59655,7 +59649,6 @@
 .marchgrinwimp.com
 .marchingsmug.com
 .marchtv.ru
-.marcjacobssverige.com.se
 .marcoscrupulousmarks.com
 .marcycoin.org
 .marenfu11.cn
@@ -61388,6 +61381,7 @@
 .mcurrentlyse.shop
 .mcututzk.com
 .mcvwjzj.com
+.mcxmke.com
 .mcxsw.xyz
 .mcycity.com
 .mczbf.com
@@ -65789,11 +65783,7 @@
 .mvqycoenp.com
 .mvspjwd.com
 .mvtracker.com
-.mvubzqaowhhgii.com
 .mvujvxc.com
-.mvuvjalhykrxhj.xyz
-.mvvhwabeshu.xyz
-.mvwslulukdlux.xyz
 .mw6xj4.cn
 .mwa.meanwellaustralia.com.au
 .mwa.xingyimin.com
@@ -68044,7 +68034,7 @@
 .nobost.com
 .nobrain.dk
 .nobrrjpxbpmus.com
-.nocaadobefpc.optus.com.au
+.nockerlpittite.website
 .noclef.com
 .nocturnalloom.com
 .nocuousbestir.com
@@ -69625,6 +69615,7 @@
 .ohndsplu.com
 .ohnooo.ru
 .ohnwmjnsvijdrgx.xyz
+.ohopao.xyz
 .ohoyao.com
 .ohoycaline.com
 .ohpgamsojj.com
@@ -72943,7 +72934,6 @@
 .permutive.com
 .peropusparmese.com
 .perperarenail.com
-.perpetrateabsolute.com
 .perpetratoralienglory.com
 .perpetratoronpour.com
 .perpetualpail.com
@@ -73382,8 +73372,6 @@
 .phpancake.com
 .phpape.com
 .phpkxtwuibv.com
-.phpmyadmin.toolmonger.net.jumia.co.tz
-.phpmyvpbbank.com
 .phpstat.cntcm.com.cn
 .phpstat.com
 .phpteaser.ru
@@ -78148,6 +78136,7 @@
 .qwmaeqrneewny.top
 .qwmdnlzitsys.com
 .qwnmfiti.xyz
+.qwqeifbsbxqozy.com
 .qwrdj.xyz
 .qwrot.cyou
 .qwrwawwmblybj.top
@@ -81023,8 +81012,6 @@
 .rpzbfftekjdz.com
 .rqakljxbs.com
 .rqauutf.icu
-.rqbdyk.evo.com
-.rqctubqtcbgeug.com
 .rqd.qq.com
 .rqdcusltmryapg.com
 .rqfedjzveel.com
@@ -90087,7 +90074,6 @@
 .sqgnqc.xyz
 .sqgofqnyamo.com
 .sqhyjfbckqrxd.xyz
-.sqkrnqdb.com
 .sqlekbxp.xyz
 .sqlick.com
 .sqm.telemetry.microsoft.com.nsatc.net
@@ -97337,9 +97323,8 @@
 .toabaise.net
 .toabuck.xyz
 .toads.osdn.com
-.toaduroo.xyz
+.toadtexture.com
 .toaglaun.xyz
-.toaglegi.com
 .toaioi.lol
 .toaioi.xyz
 .toajephu.com
@@ -102660,7 +102645,6 @@
 .uhijmv.cn
 .uhjrjhgthc.com
 .uhjxitn.xyz
-.uhlagm.rakurakuseisan.jp
 .uhllogeum.digital
 .uhn9.up-france.fr
 .uhodsplo.com
@@ -104035,6 +104019,7 @@
 .uwfxvvm.cn
 .uwgmguwpzkeudh.com
 .uwgnpkd.cn
+.uwhuglup.net
 .uwmlmhcjmjvuqy.xyz
 .uwoaptee.com
 .uwrzjgtnur.com
@@ -104759,7 +104744,6 @@
 .veinnotionmariner.com
 .veinteractive.com
 .veirregnant.club
-.veitgov.cc
 .vel7.xyz
 .velaro.com
 .velismedia.com
@@ -105566,7 +105550,6 @@
 .viiymfvi.com
 .viizuusa.com
 .vijcwykceav.com
-.vijeli.uno
 .vik-analytics.moonactive.net
 .vikrak.com
 .viladram.xyz

@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-02 02:13:28
+# UPDATED: 2023-12-03 02:13:20
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64307
+# DOMAIN-SUFFIX: 64298
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64497
+# TOTAL: 64488
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -5861,7 +5861,7 @@ DOMAIN-SUFFIX,28493.com
 DOMAIN-SUFFIX,2853x.com
 DOMAIN-SUFFIX,2858999.com
 DOMAIN-SUFFIX,285u.com
-DOMAIN-SUFFIX,2886633.com
+DOMAIN-SUFFIX,288288dy.com
 DOMAIN-SUFFIX,288idc.com
 DOMAIN-SUFFIX,2898.com
 DOMAIN-SUFFIX,28beiduo.com
@@ -25417,7 +25417,6 @@ DOMAIN-SUFFIX,geejing.com
 DOMAIN-SUFFIX,geek-docs.com
 DOMAIN-SUFFIX,geek-papa.com
 DOMAIN-SUFFIX,geek-share.com
-DOMAIN-SUFFIX,geekbang.com
 DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,geekbangtech.com
 DOMAIN-SUFFIX,geekcar.com
@@ -26566,7 +26565,6 @@ DOMAIN-SUFFIX,gulou120.com
 DOMAIN-SUFFIX,gulu.tv
 DOMAIN-SUFFIX,gulu001.com
 DOMAIN-SUFFIX,gulugj.com
-DOMAIN-SUFFIX,gululu.com
 DOMAIN-SUFFIX,gulutea.com
 DOMAIN-SUFFIX,gumang.com
 DOMAIN-SUFFIX,gumaor.com
@@ -58800,33 +58798,25 @@ DOMAIN-SUFFIX,xmzmmr.com
 DOMAIN-SUFFIX,xmzylh.com
 DOMAIN-SUFFIX,xn--1qqw23a
 DOMAIN-SUFFIX,xn--2krw29cdqai43k.com
-DOMAIN-SUFFIX,xn--2quq3tovao9rkkh379a.com
-DOMAIN-SUFFIX,xn--2qux23cs4e63q.com
 DOMAIN-SUFFIX,xn--3bst00m
 DOMAIN-SUFFIX,xn--3ds443g
-DOMAIN-SUFFIX,xn--4n0arfvg.com
 DOMAIN-SUFFIX,xn--4qr912ma.com
 DOMAIN-SUFFIX,xn--55qx5d
 DOMAIN-SUFFIX,xn--5tzm5g
-DOMAIN-SUFFIX,xn--5usq45ab9cq10aihcp50d.com
-DOMAIN-SUFFIX,xn--6fr35ac1xmmm.com
 DOMAIN-SUFFIX,xn--6frz82g
 DOMAIN-SUFFIX,xn--6qq986b3xl
 DOMAIN-SUFFIX,xn--7hv285el2dtof.com
 DOMAIN-SUFFIX,xn--7qvz7xssa.com
 DOMAIN-SUFFIX,xn--8y0a063a
 DOMAIN-SUFFIX,xn--9et52u
-DOMAIN-SUFFIX,xn--9qrw67b3udl12b.ren
 DOMAIN-SUFFIX,xn--chq7lp8e46htw3g.com
 DOMAIN-SUFFIX,xn--czr694b
-DOMAIN-SUFFIX,xn--czr93rxry.com
 DOMAIN-SUFFIX,xn--czrs0t
 DOMAIN-SUFFIX,xn--czru2d
 DOMAIN-SUFFIX,xn--dkr447bejn.com
 DOMAIN-SUFFIX,xn--dkr447bejn.net
 DOMAIN-SUFFIX,xn--ebr05n.com
 DOMAIN-SUFFIX,xn--fiq228c5hs
-DOMAIN-SUFFIX,xn--fiq2km75ifcu.com
 DOMAIN-SUFFIX,xn--fiq64b
 DOMAIN-SUFFIX,xn--fiq6q20pz51d.com
 DOMAIN-SUFFIX,xn--fiqa108dbd596g538d.com
@@ -58844,18 +58834,17 @@ DOMAIN-SUFFIX,xn--it-1r3f.com
 DOMAIN-SUFFIX,xn--jvrp4x1zyfta.net
 DOMAIN-SUFFIX,xn--jvrr72kgma408a.com
 DOMAIN-SUFFIX,xn--kput3i
-DOMAIN-SUFFIX,xn--lmqx92ae1ishfsot0iw.com
 DOMAIN-SUFFIX,xn--ntsp37j.net
 DOMAIN-SUFFIX,xn--nyqx2gbsm8u0b.com
 DOMAIN-SUFFIX,xn--nyqy26a
 DOMAIN-SUFFIX,xn--otu796d
 DOMAIN-SUFFIX,xn--pbt1sj69ag8b.com
 DOMAIN-SUFFIX,xn--q20av2y36ac54a.com
+DOMAIN-SUFFIX,xn--rhqv96g
 DOMAIN-SUFFIX,xn--s4t325g.com
 DOMAIN-SUFFIX,xn--ses554g
 DOMAIN-SUFFIX,xn--uisx71c0r1a.com
 DOMAIN-SUFFIX,xn--unup4y
-DOMAIN-SUFFIX,xn--vhqqb9tu5puzbh4d4wb1yo982d2jdfq3e.com
 DOMAIN-SUFFIX,xn--vhquv
 DOMAIN-SUFFIX,xn--vuq861b
 DOMAIN-SUFFIX,xn--w9qr0k.com

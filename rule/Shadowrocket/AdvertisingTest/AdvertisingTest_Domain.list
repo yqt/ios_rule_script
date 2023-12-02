@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-02 02:10:05
+# UPDATED: 2023-12-03 02:09:56
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12517
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 128520
+# DOMAIN-SUFFIX: 128570
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 142094
+# TOTAL: 142144
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -580,6 +580,7 @@
 .1170555.com
 .1178.shucong.com
 .118114.cn
+.1186656647.rsc.cdn77.org
 .1187531871.rsc.cdn77.org
 .1188.com
 .118ex.cn
@@ -25096,7 +25097,7 @@
 .capndr.com
 .capodannoinversilia.com
 .capostdelivery.com
-.capounsou.com
+.capot.trekkww.space
 .cappaghdiamat.com
 .cappens-dreperor.com
 .capping.sirius.press
@@ -29454,6 +29455,7 @@
 .commercial.equifax.com
 .commercial.inform.equifax.com
 .commercialvalue.org
+.commindo-media-ressourcen.de
 .commiseratefacilenotably.com
 .commission-junction.com
 .commissionfactory.com.au
@@ -32374,7 +32376,6 @@
 .cvtk01.gmo-agree.com
 .cvtr.io
 .cvtspo.moebel24.de
-.cvuduufdewm.com
 .cvuvoljuqlkeuc.com
 .cvyimypsjxca.com
 .cvzvun.vidaxl.de
@@ -40740,7 +40741,6 @@
 .dteakfzixo.com
 .dtedpypskgbdap.com
 .dtestpromo.fiat.it
-.dthablbrl.com
 .dthechildren.org
 .dthvdr9.com
 .dti-ranker.com
@@ -43034,6 +43034,7 @@
 .elas666.pics
 .elasticad.net
 .elasticchange.com
+.elasticdestruct.com
 .elasticducks.com
 .elastinabuker.site
 .elastx.net
@@ -47833,6 +47834,7 @@
 .fjtroip.cn
 .fjttbkoxer.xyz
 .fjtzjy.com
+.fjxstt.xyz
 .fjxyo.com
 .fjzdmy.com
 .fjzimaoqu.cn
@@ -50508,7 +50510,6 @@
 .gbaseby.ru
 .gbbgaiuqq.com
 .gbc27.online
-.gbcloudbank.com
 .gbcnvip15.com
 .gbddeyjekkixrn.com
 .gbeik.com
@@ -52096,7 +52097,6 @@
 .gloodain.net
 .gloodsie.com
 .gloogeed.xyz
-.gloognoogrix.com
 .gloogruk.com
 .glookup.info
 .gloolrey.com
@@ -52367,6 +52367,7 @@
 .go.accredible.com
 .go.accumaxglobal.com.au
 .go.acelisconnectedhealth.com
+.go.activengage.com
 .go.adaquest.com
 .go.adbloom.co
 .go.advisorgroup.com
@@ -56589,7 +56590,6 @@
 .hkepc.net
 .hkfgsxpnaga.xyz
 .hkfuy.com
-.hkgcthphxttqkqf.com
 .hkifcxblsu.com
 .hkilops.com
 .hkilyflawp.com
@@ -57534,7 +57534,6 @@
 .htintpa.tech
 .htjrlm.com
 .htjsk.com
-.htjuxdkjppm.com
 .htkcm.com
 .htkk1.top
 .htkk2.top
@@ -58761,6 +58760,7 @@
 .iee5.com
 .ieememberhima.xyz
 .ieeod0.com
+.ieequd.icu
 .ieg.intel.com
 .iegepv.diemer.de
 .ieggdijjfccaffgdafb.ru
@@ -61473,7 +61473,6 @@
 .inoreader.fr
 .inorseph.xyz
 .inosinetimpana.com
-.inourdreamsa.org
 .inowe.xyz
 .inpage-push.com
 .inpage-push.net
@@ -63094,7 +63093,6 @@
 .jackpotbeautifulsulky.com
 .jackpotpresents.com
 .jacksonduct.com
-.jackwolfskinsverige.com.se
 .jaclottens.live
 .jacmolta.com
 .jacnrobv.com
@@ -67941,6 +67939,7 @@
 .latternarcoticbullet.com
 .latticescience.com
 .latticescipub.com
+.latu.cc
 .latvia.trekkww.fun
 .laudulut.com
 .laughablecopper.com
@@ -72545,6 +72544,7 @@
 .lzmm8.com
 .lzmvcrp.icu
 .lzngisyl.xyz
+.lznpcwl.xyz
 .lzp.plus
 .lzqjqvjkqkkkj.top
 .lzqkofsfbympt.com
@@ -75994,6 +75994,7 @@
 .mcurrentlysea.info
 .mcututzk.com
 .mcvwjzj.com
+.mcxmke.com
 .mcxsw.xyz
 .mcycity.com
 .mcylzynw.com
@@ -81195,7 +81196,6 @@
 .mvqycoenp.com
 .mvspjwd.com
 .mvtracker.com
-.mvubzqaowhhgii.com
 .mvujvxc.com
 .mvusq.xyz
 .mvuvjalhykrxhj.xyz
@@ -90247,7 +90247,6 @@
 .pernkcpymuyshbd.xyz
 .peropusparmese.com
 .perperarenail.com
-.perpetrateabsolute.com
 .perpetratoralienglory.com
 .perpetratoronpour.com
 .perpetualpail.com
@@ -90758,8 +90757,6 @@
 .phpancake.com
 .phpape.com
 .phpkxtwuibv.com
-.phpmyadmin.toolmonger.net.jumia.co.tz
-.phpmyvpbbank.com
 .phpstat.cntcm.com.cn
 .phpstat.com
 .phpteaser.ru
@@ -120329,9 +120326,7 @@
 .toad.ettiennevorster.co.za
 .toads.osdn.com
 .toadtexture.com
-.toaduroo.xyz
 .toaglaun.xyz
-.toaglegi.com
 .toaioi.lol
 .toaioi.xyz
 .toajephu.com
@@ -120511,6 +120506,7 @@
 .tontent.powv1deo.cc
 .tontent.powvideo.net
 .tontent.powzers.lol
+.tontrinevengre.com
 .tooaastandhei.info
 .tooasthmaloose.com
 .toogeepaun.com
@@ -128655,7 +128651,6 @@
 .veinourd.buzz
 .veinteractive.com
 .veirregnant.club
-.veitgov.cc
 .vel7.xyz
 .velaro.com
 .velismedia.com
@@ -129554,6 +129549,7 @@
 .viiyblva.com
 .viiymfvi.com
 .viizuusa.com
+.vijcwykceav.com
 .vikrak.com
 .viladram.xyz
 .vilagfigyelo.com
