@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-03 02:09:51
+# UPDATED: 2023-12-04 02:10:54
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12517
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 128570
+# DOMAIN-SUFFIX: 128585
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 142144
+# TOTAL: 142159
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -1181,7 +1181,6 @@
 .2022welcome.com
 .202305300.cn
 .202306135.cn
-.202306196.cn
 .2023cradep0sit.com
 .2023sb.net
 .2024114t.shop
@@ -13905,6 +13904,7 @@
 .amazinglyprogramswilfrid.com
 .amazingmagics.com
 .amazon-cornerstone.com
+.amazon-informations.fr
 .amazonclix.com
 .amazonlogistics.jp
 .amazonsg.shop
@@ -29372,7 +29372,7 @@
 .colved.com
 .colvk.viki.io
 .colxasyb.com
-.com-bank.xyz
+.com-confirmationaddress.xyz
 .com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
 .com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 .com-us.shop
@@ -51247,7 +51247,6 @@
 .getlasso.co
 .getlink-service.com
 .getlink.pw
-.getlinkk.link
 .getmackeepersoftpro.xyz
 .getmacos.org
 .getmailcounter.com
@@ -56053,7 +56052,7 @@
 .hgbn1.com
 .hgbnr.com
 .hgbvtax.cn
-.hgcbvpjswabie.xyz
+.hgcf65edfch.buzz
 .hgcmnews.pro
 .hgdanbas.cn
 .hgdpllko.com
@@ -62467,9 +62466,7 @@
 .is686.com
 .isabelisa.com
 .isac.thermofisher.com
-.isacambank.com
-.isacembank.com
-.isacombank.net
+.isadijkroispsu.xyz
 .isaicham.com
 .isaishad.com
 .isanalyze.com
@@ -64563,7 +64560,6 @@
 .jqueryserve.org
 .jqueryserver.com
 .jqvajfvs.xyz
-.jqwsldso.com
 .jqwww.download
 .jqxrrygqnagn.ru
 .jqz9.com
@@ -90914,7 +90910,6 @@
 .pictureturn.com
 .pidanpaven.com
 .piddme.buyma.com
-.pidetucreditoaqui.site
 .pidoco.fr
 .pidorg.ru
 .pidurrmu.xyz
@@ -91443,8 +91438,6 @@
 .pkudawbkcl.com
 .pkynqq.com
 .pl-go.experian.com
-.pl-oferta7239.online
-.pl-oferta7335.online
 .pl-topgal.m-shop.me
 .pl.1feed.app
 .pl.astro-akatemia.fi
@@ -92555,7 +92548,6 @@
 .portal.insight.maruelutions.averydennison.com
 .portal.krollontrack.co.uk
 .portalhc.com
-.portalinfo.xyz
 .portalisimmo.com
 .portalregionstip.com
 .portatoleprid.uno
@@ -127598,6 +127590,7 @@
 .usairguw.com
 .usancit.top
 .usao.77gog.com
+.usaoptimizedby.increasingly.co
 .usapolice.com
 .usatoday.app.ur.gcion.com
 .usb-vna.coppermountaintech.com

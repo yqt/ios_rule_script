@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-03 02:08:34
+# UPDATED: 2023-12-04 02:09:29
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 16177
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 98536
+# DOMAIN-SUFFIX: 98549
 # IP-CIDR: 428
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 115571
+# TOTAL: 115584
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -1002,7 +1002,6 @@
 .2022welcome.com
 .202305300.cn
 .202306135.cn
-.202306196.cn
 .2023cradep0sit.com
 .2023sb.net
 .2024114t.shop
@@ -5305,8 +5304,6 @@
 .aapeople.cn
 .aapsis.com
 .aapubcti.xyz
-.aaqnpa.sizeofficial.se
-.aarfmftslfz.com
 .aarghwoning.digital
 .aarki.com
 .aarki.net
@@ -11624,6 +11621,7 @@
 .amazinglyprogramswilfrid.com
 .amazingmagics.com
 .amazon-cornerstone.com
+.amazon-informations.fr
 .amazonclix.com
 .amazonlogistics.jp
 .amazonsg.shop
@@ -24845,7 +24843,7 @@
 .columnsremembrancesoap.com
 .colved.com
 .colvk.viki.io
-.com-bank.xyz
+.com-confirmationaddress.xyz
 .com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
 .com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 .com-us.shop
@@ -38375,8 +38373,6 @@
 .fjtroip.cn
 .fjttbkoxer.xyz
 .fjtzjy.com
-.fjwymafkgqfq.xyz
-.fjxowepqiwrdao.com
 .fjxstt.xyz
 .fjxyo.com
 .fjzdmy.com
@@ -40688,7 +40684,6 @@
 .gbaseby.ru
 .gbbgaiuqq.com
 .gbc27.online
-.gbcloudbank.com
 .gbcnvip15.com
 .gbddeyjekkixrn.com
 .gbeik.com
@@ -41258,7 +41253,6 @@
 .getlasso.co
 .getlink-service.com
 .getlink.pw
-.getlinkk.link
 .getmackeepersoftpro.xyz
 .getmacos.org
 .getmailcounter.com
@@ -42182,16 +42176,10 @@
 .go.17app.co
 .go.4010.ru
 .go.4sq.com
-.go.accredible.com
-.go.accumaxglobal.com.au
-.go.acelisconnectedhealth.com
+.go.accessbybmw.com
 .go.activengage.com
-.go.adaquest.com
-.go.aero.com
-.go.alpha.avant.com
-.go.alphaapp.sharekey.com
-.go.americangriddle.com
-.go.anthonyliftgates.com
+.go.advisorgroup.com
+.go.ali-cle.org
 .go.app.sharekey.com
 .go.asian.mingle.com
 .go.askbee.my
@@ -45096,7 +45084,7 @@
 .hgbn.space
 .hgbn1.com
 .hgbnr.com
-.hgcbvpjswabie.xyz
+.hgcf65edfch.buzz
 .hgcmnews.pro
 .hgdanbas.cn
 .hgdpllko.com
@@ -50398,10 +50386,7 @@
 .is1-ssl.mzstatic.com
 .is686.com
 .isabelisa.com
-.isac.thermofisher.com
-.isacambank.com
-.isacembank.com
-.isacombank.net
+.isadijkroispsu.xyz
 .isaicham.com
 .isaishad.com
 .isanalyze.com
@@ -54985,7 +54970,6 @@
 .latticescience.com
 .latticescipub.com
 .latu.cc
-.laudianauchlet.com
 .laudulut.com
 .laughablecopper.com
 .laughablelizards.com
@@ -58764,6 +58748,7 @@
 .lzmm8.com
 .lzmvcrp.icu
 .lzngisyl.xyz
+.lznpcwl.xyz
 .lzp.plus
 .lzqjqvjkqkkkj.top
 .lzqkofsfbympt.com
@@ -73512,7 +73497,6 @@
 .pictures-album.com
 .picturesquefilms.net
 .pictureturn.com
-.pidetucreditoaqui.site
 .pidoco.fr
 .pidorg.ru
 .pidurrmu.xyz
@@ -73982,8 +73966,6 @@
 .pktytp.membershop.lv
 .pkudawbkcl.com
 .pkynqq.com
-.pl-oferta7239.online
-.pl-oferta7335.online
 .pl-topgal.m-shop.me
 .pl.1feed.app
 .pl.astro-akatemia.fi
@@ -74939,7 +74921,6 @@
 .portal.insight.maruelutions.averydennison.com
 .portal.krollontrack.co.uk
 .portalhc.com
-.portalinfo.xyz
 .portalisimmo.com
 .portalregionstip.com
 .portatoleprid.uno
@@ -77354,7 +77335,6 @@
 .qgisjfmwhhsmfe.com
 .qgjapp.com
 .qgl27.xyz
-.qgmikp.fleurdumal.com
 .qgnlbjkxrzb.com
 .qgoqkcpw.xyz
 .qgrnyis.cn
@@ -101860,6 +101840,7 @@
 .tunnelstitchfinal.com
 .tunnl.com
 .tunovl.xyz
+.tunuhap.com
 .tuoens.cn
 .tuoguang1111.com
 .tuoizbtl.xyz

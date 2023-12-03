@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-03 02:08:40
+# UPDATED: 2023-12-04 02:09:35
 # DOMAIN: 16177
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 98536
+# DOMAIN-SUFFIX: 98549
 # IP-CIDR: 428
 # PROCESS-NAME: 5
-# TOTAL: 115261
+# TOTAL: 115274
 payload:
   - '03.lzzncm.com'
   - '04.lzzncm.com'
@@ -16935,7 +16935,6 @@ payload:
   - '+.2022shoupidan1024.xyz'
   - '+.202305300.cn'
   - '+.202306135.cn'
-  - '+.202306196.cn'
   - '+.2023cradep0sit.com'
   - '+.2023sb.net'
   - '+.2024114t.shop'
@@ -18807,7 +18806,6 @@ payload:
   - '+.aapeople.cn'
   - '+.aapsis.com'
   - '+.aapubcti.xyz'
-  - '+.aarfmftslfz.com'
   - '+.aarghwoning.digital'
   - '+.aarki.com'
   - '+.aarki.net'
@@ -23545,6 +23543,7 @@ payload:
   - '+.amazingcounters.com'
   - '+.amazinglyprogramswilfrid.com'
   - '+.amazon-cornerstone.com'
+  - '+.amazon-informations.fr'
   - '+.amazonclix.com'
   - '+.amazonlogistics.jp'
   - '+.amazonsg.shop'
@@ -32364,8 +32363,7 @@ payload:
   - '+.columnistcandour.com'
   - '+.columnsremembrancesoap.com'
   - '+.colved.com'
-  - '+.com-bank.xyz'
-  - '+.com-us.shop'
+  - '+.com-confirmationaddress.xyz'
   - '+.com-wkejf32ljd23409system.net'
   - '+.com495.ru'
   - '+.comalonger.com'
@@ -41553,8 +41551,6 @@ payload:
   - '+.fjsytjs.cn'
   - '+.fjtroip.cn'
   - '+.fjttbkoxer.xyz'
-  - '+.fjwymafkgqfq.xyz'
-  - '+.fjxowepqiwrdao.com'
   - '+.fjxstt.xyz'
   - '+.fjzimaoqu.cn'
   - '+.fka06.site'
@@ -43260,7 +43256,6 @@ payload:
   - '+.gbaseby.ru'
   - '+.gbbgaiuqq.com'
   - '+.gbc27.online'
-  - '+.gbcloudbank.com'
   - '+.gbcnvip15.com'
   - '+.gbddeyjekkixrn.com'
   - '+.gbf77po03m.com'
@@ -43616,7 +43611,6 @@ payload:
   - '+.getlasso.co'
   - '+.getlink-service.com'
   - '+.getlink.pw'
-  - '+.getlinkk.link'
   - '+.getmackeepersoftpro.xyz'
   - '+.getmacos.org'
   - '+.getmailcounter.com'
@@ -44323,6 +44317,7 @@ payload:
   - '+.go-rank.de'
   - '+.go-rillatrack.com'
   - '+.go-srv.com'
+  - '+.go.activengage.com'
   - '+.go.bidfluence.com'
   - '+.go.celebjihad.live'
   - '+.go.clicknplay.to'
@@ -46240,7 +46235,7 @@ payload:
   - '+.hgbn.space'
   - '+.hgbn1.com'
   - '+.hgbnr.com'
-  - '+.hgcbvpjswabie.xyz'
+  - '+.hgcf65edfch.buzz'
   - '+.hgcmnews.pro'
   - '+.hgdpllko.com'
   - '+.hgearlpfbm.top'
@@ -49412,9 +49407,7 @@ payload:
   - '+.is-tracking-pixel-api-prod.appspot.com'
   - '+.is1-ssl.mzstatic.com'
   - '+.is686.com'
-  - '+.isacambank.com'
-  - '+.isacembank.com'
-  - '+.isacombank.net'
+  - '+.isadijkroispsu.xyz'
   - '+.isaicham.com'
   - '+.isaishad.com'
   - '+.isanalyze.com'
@@ -52764,7 +52757,6 @@ payload:
   - '+.latticescience.com'
   - '+.latticescipub.com'
   - '+.latu.cc'
-  - '+.laudianauchlet.com'
   - '+.laudulut.com'
   - '+.laughbuckle.com'
   - '+.laughteroccasionallywarp.com'
@@ -55066,6 +55058,7 @@ payload:
   - '+.lzjl.com'
   - '+.lzmvcrp.icu'
   - '+.lzngisyl.xyz'
+  - '+.lznpcwl.xyz'
   - '+.lzp.plus'
   - '+.lzqjqvjkqkkkj.top'
   - '+.lzqkofsfbympt.com'
@@ -64223,7 +64216,6 @@ payload:
   - '+.picturecorrespond.com'
   - '+.pictures-album.com'
   - '+.pictureturn.com'
-  - '+.pidetucreditoaqui.site'
   - '+.pidoco.fr'
   - '+.pidorg.ru'
   - '+.pidurrmu.xyz'
@@ -64505,8 +64497,6 @@ payload:
   - '+.pkthyp.uno'
   - '+.pkudawbkcl.com'
   - '+.pkynqq.com'
-  - '+.pl-oferta7239.online'
-  - '+.pl-oferta7335.online'
   - '+.pl.web.toleadoo.com'
   - '+.pl520.com'
   - '+.pla-tk.flipkart.net'
@@ -65171,7 +65161,6 @@ payload:
   - '+.portak.net'
   - '+.portakamus.com'
   - '+.portalhc.com'
-  - '+.portalinfo.xyz'
   - '+.portalisimmo.com'
   - '+.portalregionstip.com'
   - '+.portatoleprid.uno'
@@ -79999,6 +79988,7 @@ payload:
   - '+.tunnelstitchfinal.com'
   - '+.tunnl.com'
   - '+.tunovl.xyz'
+  - '+.tunuhap.com'
   - '+.tuoens.cn'
   - '+.tuoizbtl.xyz'
   - '+.tuotianxia.top'

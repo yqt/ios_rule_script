@@ -1,14 +1,14 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-03 02:15:52
+# UPDATED: 2023-12-04 02:18:24
 # DOMAIN: 163
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 65514
+# DOMAIN-SUFFIX: 65780
 # IP-ASN: 1013
 # IP-CIDR: 9530
 # USER-AGENT: 69
-# TOTAL: 76300
+# TOTAL: 76566
 .0-6.com
 .00.net
 .000.link
@@ -128,7 +128,6 @@
 .021fenglei.com
 .021fx.com
 .021gjhb.com
-.021huaying.com
 .021hunbohui.com
 .021ja.com
 .021jingwei.com
@@ -7852,7 +7851,6 @@
 .alexyan.cc
 .algorithmart.com
 .ali-api-test.net
-.ali-expo.com
 .ali-gtm-01.net
 .ali-gtm-pressure.com
 .ali-health.com
@@ -9888,6 +9886,7 @@
 .bdinfo.net
 .bdispatch.com
 .bdispatch.net
+.bditong.com
 .bdkssc.com
 .bdkyr.com
 .bdns-api-test.net
@@ -9904,6 +9903,8 @@
 .bdqn666.com
 .bdqnwh.com
 .bds-cn.com
+.bdsagslb.com
+.bdsagslbtest.com
 .bdsana.com
 .bdshuang.com
 .bdsimg.com
@@ -11877,7 +11878,6 @@
 .bytetraffic.net
 .bytetstatic.com
 .bytetstatic.net
-.byteug.com
 .bytevalk.com
 .bytevcloudvod.com
 .bytevdn-boe.com
@@ -19022,7 +19022,6 @@
 .doubean.com
 .doubilm.com
 .doubimeizhi.com
-.doublestarmingren.com
 .doubo03.com
 .douboshi.net
 .douc.cc
@@ -19254,6 +19253,7 @@
 .drtyf.com
 .drugfuture.com
 .druggcp.net
+.druid.vip
 .drupalla.com
 .drupalproject.org
 .drv.tw
@@ -20542,6 +20542,7 @@
 .empornium.me
 .emqx.com
 .emqx.net
+.emr-volces.com
 .ems-audio.com
 .ems517.com
 .emsec.hk
@@ -24731,6 +24732,7 @@
 .gsjy.net
 .gsktraining.com
 .gskwai.com
+.gskyty.com
 .gslbdns.com
 .gslbdns.net
 .gsmpers.com
@@ -35332,7 +35334,6 @@
 .kybapp.net
 .kybimg.com
 .kyboye.com
-.kybyun.com
 .kych5.com
 .kydev.net
 .kye-erp.com
@@ -42244,6 +42245,7 @@
 .openapp.run
 .openasic.org
 .openbayes.com
+.openbcs.com
 .openbtba.com
 .opencas.org
 .opencloudos.org
@@ -42370,7 +42372,6 @@
 .orientgolf.com
 .orientpc.com
 .orienttumor.com
-.origin-safari.com
 .originalimg.com
 .originalkindergarten.com
 .originalstatic.com
@@ -54978,7 +54979,6 @@
 .vdnsv.com
 .vdolady.com
 .vdongchina.com
-.vdyoo.com
 .ve-imcloud.com
 .ve-trafficroute.com
 .ve-trafficroute.net
@@ -55375,8 +55375,18 @@
 .vojs.tv
 .vokop.com
 .vol.moe
+.volc-dns.com
+.volc-dns.net
+.volc-dns.pub
+.volc-embed.com
+.volcadocean.com
+.volcadvc.com
 .volcalb.com
 .volcanicengine.com
+.volcautovod.com
+.volcbiz.com
+.volcca.com
+.volcca.net
 .volccdn.com
 .volccdn1.com
 .volccdn2.com
@@ -55389,6 +55399,7 @@
 .volcdns.com
 .volcdns.pub
 .volceapi.com
+.volceapplog.com
 .volcecr.com
 .volcecw.com
 .volcenginapi.com
@@ -58091,6 +58102,7 @@
 .wumeishebei.com
 .wumii.tv
 .wuming.com
+.wupfrl.com
 .wuqing.cc
 .wuqiong.info
 .wuqishike.com

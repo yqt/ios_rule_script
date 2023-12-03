@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-03 02:13:20
+# UPDATED: 2023-12-04 02:15:14
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64298
+# DOMAIN-SUFFIX: 64623
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64488
+# TOTAL: 64813
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -3868,7 +3868,6 @@ xn--flw351e.com
 +.021fenglei.com
 +.021fx.com
 +.021gjhb.com
-+.021huaying.com
 +.021hunbohui.com
 +.021ja.com
 +.021jingwei.com
@@ -11412,6 +11411,7 @@ xn--flw351e.com
 +.amdotibet.com
 +.amec-inc.com
 +.amegroups.org
++.amemv.net
 +.americachineselife.com
 +.amethystum.com
 +.amexpressnetwork.com
@@ -13092,6 +13092,7 @@ xn--flw351e.com
 +.bdinfo.net
 +.bdispatch.com
 +.bdispatch.net
++.bditong.com
 +.bdkssc.com
 +.bdkyr.com
 +.bdns-api-test.net
@@ -14933,7 +14934,6 @@ xn--flw351e.com
 +.bytetraffic.net
 +.bytetstatic.com
 +.bytetstatic.net
-+.byteug.com
 +.bytevalk.com
 +.bytevcloudvod.com
 +.bytevdn-boe.com
@@ -21366,7 +21366,6 @@ xn--flw351e.com
 +.doubean.com
 +.doubilm.com
 +.doubimeizhi.com
-+.doublestarmingren.com
 +.doubo03.com
 +.douboshi.net
 +.douc.cc
@@ -21572,6 +21571,7 @@ xn--flw351e.com
 +.drtyf.com
 +.drugfuture.com
 +.druggcp.net
++.druid.vip
 +.drupalla.com
 +.drupalproject.org
 +.drv.tw
@@ -22774,6 +22774,7 @@ xn--flw351e.com
 +.emojiwiz.com
 +.emqx.com
 +.emqx.net
++.emr-volces.com
 +.ems-audio.com
 +.ems517.com
 +.emshost.com
@@ -23583,7 +23584,6 @@ xn--flw351e.com
 +.fanqiang.com
 +.fanqianzhushou.com
 +.fanqie.im
-+.fanqiejiang.net
 +.fanqieopen.com
 +.fanqieopenpic.com
 +.fanqieopenstatic.com
@@ -26322,6 +26322,7 @@ xn--flw351e.com
 +.gsjy.net
 +.gsktraining.com
 +.gskwai.com
++.gskyty.com
 +.gslbdns.com
 +.gslbdns.net
 +.gsmpers.com
@@ -36023,7 +36024,6 @@ xn--flw351e.com
 +.kybapp.net
 +.kybimg.com
 +.kyboye.com
-+.kybyun.com
 +.kych5.com
 +.kydev.net
 +.kye-erp.com
@@ -42408,6 +42408,7 @@ xn--flw351e.com
 +.openanolis.org
 +.openasic.org
 +.openbayes.com
++.openbcs.com
 +.openbtba.com
 +.opencas.org
 +.opencloudos.org
@@ -42512,7 +42513,6 @@ xn--flw351e.com
 +.orientgolf.com
 +.orientpc.com
 +.orienttumor.com
-+.origin-safari.com
 +.originalimg.com
 +.originalkindergarten.com
 +.originalstatic.com
@@ -53932,7 +53932,6 @@ xn--flw351e.com
 +.vdndc.com
 +.vdnsv.com
 +.vdongchina.com
-+.vdyoo.com
 +.ve-imcloud.com
 +.ve-trafficroute.com
 +.ve-trafficroute.net
@@ -54288,8 +54287,18 @@ xn--flw351e.com
 +.vojs.tv
 +.vokop.com
 +.vol.moe
++.volc-dns.com
++.volc-dns.net
++.volc-dns.pub
++.volc-embed.com
++.volcadocean.com
++.volcadvc.com
 +.volcalb.com
 +.volcanicengine.com
++.volcautovod.com
++.volcbiz.com
++.volcca.com
++.volcca.net
 +.volccdn.com
 +.volccdn1.com
 +.volccdn2.com
@@ -56808,6 +56817,7 @@ xn--flw351e.com
 +.wumart.com
 +.wumeishebei.com
 +.wumii.tv
++.wupfrl.com
 +.wuqing.cc
 +.wuqiong.info
 +.wuqishike.com
@@ -63714,7 +63724,6 @@ xn--flw351e.com
 +.zihua01.com
 +.zihuazhijia.com
 +.ziisp.com
-+.ziji.work
 +.zijieapi.net
 +.zijiedj.com
 +.zijieimg.com

@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-03 02:13:20
+# UPDATED: 2023-12-04 02:15:14
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64298
+# DOMAIN-SUFFIX: 64623
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64488
+# TOTAL: 64813
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -3869,7 +3869,6 @@ payload:
   - DOMAIN-SUFFIX,021fenglei.com
   - DOMAIN-SUFFIX,021fx.com
   - DOMAIN-SUFFIX,021gjhb.com
-  - DOMAIN-SUFFIX,021huaying.com
   - DOMAIN-SUFFIX,021hunbohui.com
   - DOMAIN-SUFFIX,021ja.com
   - DOMAIN-SUFFIX,021jingwei.com
@@ -11413,6 +11412,7 @@ payload:
   - DOMAIN-SUFFIX,amdotibet.com
   - DOMAIN-SUFFIX,amec-inc.com
   - DOMAIN-SUFFIX,amegroups.org
+  - DOMAIN-SUFFIX,amemv.net
   - DOMAIN-SUFFIX,americachineselife.com
   - DOMAIN-SUFFIX,amethystum.com
   - DOMAIN-SUFFIX,amexpressnetwork.com
@@ -13093,6 +13093,7 @@ payload:
   - DOMAIN-SUFFIX,bdinfo.net
   - DOMAIN-SUFFIX,bdispatch.com
   - DOMAIN-SUFFIX,bdispatch.net
+  - DOMAIN-SUFFIX,bditong.com
   - DOMAIN-SUFFIX,bdkssc.com
   - DOMAIN-SUFFIX,bdkyr.com
   - DOMAIN-SUFFIX,bdns-api-test.net
@@ -14934,7 +14935,6 @@ payload:
   - DOMAIN-SUFFIX,bytetraffic.net
   - DOMAIN-SUFFIX,bytetstatic.com
   - DOMAIN-SUFFIX,bytetstatic.net
-  - DOMAIN-SUFFIX,byteug.com
   - DOMAIN-SUFFIX,bytevalk.com
   - DOMAIN-SUFFIX,bytevcloudvod.com
   - DOMAIN-SUFFIX,bytevdn-boe.com
@@ -21367,7 +21367,6 @@ payload:
   - DOMAIN-SUFFIX,doubean.com
   - DOMAIN-SUFFIX,doubilm.com
   - DOMAIN-SUFFIX,doubimeizhi.com
-  - DOMAIN-SUFFIX,doublestarmingren.com
   - DOMAIN-SUFFIX,doubo03.com
   - DOMAIN-SUFFIX,douboshi.net
   - DOMAIN-SUFFIX,douc.cc
@@ -21573,6 +21572,7 @@ payload:
   - DOMAIN-SUFFIX,drtyf.com
   - DOMAIN-SUFFIX,drugfuture.com
   - DOMAIN-SUFFIX,druggcp.net
+  - DOMAIN-SUFFIX,druid.vip
   - DOMAIN-SUFFIX,drupalla.com
   - DOMAIN-SUFFIX,drupalproject.org
   - DOMAIN-SUFFIX,drv.tw
@@ -22775,6 +22775,7 @@ payload:
   - DOMAIN-SUFFIX,emojiwiz.com
   - DOMAIN-SUFFIX,emqx.com
   - DOMAIN-SUFFIX,emqx.net
+  - DOMAIN-SUFFIX,emr-volces.com
   - DOMAIN-SUFFIX,ems-audio.com
   - DOMAIN-SUFFIX,ems517.com
   - DOMAIN-SUFFIX,emshost.com
@@ -23584,7 +23585,6 @@ payload:
   - DOMAIN-SUFFIX,fanqiang.com
   - DOMAIN-SUFFIX,fanqianzhushou.com
   - DOMAIN-SUFFIX,fanqie.im
-  - DOMAIN-SUFFIX,fanqiejiang.net
   - DOMAIN-SUFFIX,fanqieopen.com
   - DOMAIN-SUFFIX,fanqieopenpic.com
   - DOMAIN-SUFFIX,fanqieopenstatic.com
@@ -26323,6 +26323,7 @@ payload:
   - DOMAIN-SUFFIX,gsjy.net
   - DOMAIN-SUFFIX,gsktraining.com
   - DOMAIN-SUFFIX,gskwai.com
+  - DOMAIN-SUFFIX,gskyty.com
   - DOMAIN-SUFFIX,gslbdns.com
   - DOMAIN-SUFFIX,gslbdns.net
   - DOMAIN-SUFFIX,gsmpers.com
@@ -36024,7 +36025,6 @@ payload:
   - DOMAIN-SUFFIX,kybapp.net
   - DOMAIN-SUFFIX,kybimg.com
   - DOMAIN-SUFFIX,kyboye.com
-  - DOMAIN-SUFFIX,kybyun.com
   - DOMAIN-SUFFIX,kych5.com
   - DOMAIN-SUFFIX,kydev.net
   - DOMAIN-SUFFIX,kye-erp.com
@@ -42409,6 +42409,7 @@ payload:
   - DOMAIN-SUFFIX,openanolis.org
   - DOMAIN-SUFFIX,openasic.org
   - DOMAIN-SUFFIX,openbayes.com
+  - DOMAIN-SUFFIX,openbcs.com
   - DOMAIN-SUFFIX,openbtba.com
   - DOMAIN-SUFFIX,opencas.org
   - DOMAIN-SUFFIX,opencloudos.org
@@ -42513,7 +42514,6 @@ payload:
   - DOMAIN-SUFFIX,orientgolf.com
   - DOMAIN-SUFFIX,orientpc.com
   - DOMAIN-SUFFIX,orienttumor.com
-  - DOMAIN-SUFFIX,origin-safari.com
   - DOMAIN-SUFFIX,originalimg.com
   - DOMAIN-SUFFIX,originalkindergarten.com
   - DOMAIN-SUFFIX,originalstatic.com
@@ -53933,7 +53933,6 @@ payload:
   - DOMAIN-SUFFIX,vdndc.com
   - DOMAIN-SUFFIX,vdnsv.com
   - DOMAIN-SUFFIX,vdongchina.com
-  - DOMAIN-SUFFIX,vdyoo.com
   - DOMAIN-SUFFIX,ve-imcloud.com
   - DOMAIN-SUFFIX,ve-trafficroute.com
   - DOMAIN-SUFFIX,ve-trafficroute.net
@@ -54289,8 +54288,18 @@ payload:
   - DOMAIN-SUFFIX,vojs.tv
   - DOMAIN-SUFFIX,vokop.com
   - DOMAIN-SUFFIX,vol.moe
+  - DOMAIN-SUFFIX,volc-dns.com
+  - DOMAIN-SUFFIX,volc-dns.net
+  - DOMAIN-SUFFIX,volc-dns.pub
+  - DOMAIN-SUFFIX,volc-embed.com
+  - DOMAIN-SUFFIX,volcadocean.com
+  - DOMAIN-SUFFIX,volcadvc.com
   - DOMAIN-SUFFIX,volcalb.com
   - DOMAIN-SUFFIX,volcanicengine.com
+  - DOMAIN-SUFFIX,volcautovod.com
+  - DOMAIN-SUFFIX,volcbiz.com
+  - DOMAIN-SUFFIX,volcca.com
+  - DOMAIN-SUFFIX,volcca.net
   - DOMAIN-SUFFIX,volccdn.com
   - DOMAIN-SUFFIX,volccdn1.com
   - DOMAIN-SUFFIX,volccdn2.com
@@ -56809,6 +56818,7 @@ payload:
   - DOMAIN-SUFFIX,wumart.com
   - DOMAIN-SUFFIX,wumeishebei.com
   - DOMAIN-SUFFIX,wumii.tv
+  - DOMAIN-SUFFIX,wupfrl.com
   - DOMAIN-SUFFIX,wuqing.cc
   - DOMAIN-SUFFIX,wuqiong.info
   - DOMAIN-SUFFIX,wuqishike.com
@@ -63715,7 +63725,6 @@ payload:
   - DOMAIN-SUFFIX,zihua01.com
   - DOMAIN-SUFFIX,zihuazhijia.com
   - DOMAIN-SUFFIX,ziisp.com
-  - DOMAIN-SUFFIX,ziji.work
   - DOMAIN-SUFFIX,zijieapi.net
   - DOMAIN-SUFFIX,zijiedj.com
   - DOMAIN-SUFFIX,zijieimg.com
