@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-04 02:18:19
+# UPDATED: 2023-12-05 02:19:20
 # DOMAIN: 163
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 65780
+# DOMAIN-SUFFIX: 65766
 # IP-ASN: 1013
 # IP-CIDR: 6026
 # IP-CIDR6: 3504
 # PROCESS-NAME: 11
 # USER-AGENT: 69
-# TOTAL: 76577
+# TOTAL: 76563
 .0-6.com
 .00.net
 .000.link
@@ -4371,6 +4371,7 @@
 .545c.com
 .5460.net
 .54674479.com
+.5490196.cc
 .5499.com
 .54benniao.com
 .54doctor.net
@@ -15030,7 +15031,6 @@
 .cloudhefei.com
 .cloudhengshui.com
 .cloudhin.com
-.cloudhost.link
 .cloudhosts.xyz
 .cloudhua.com
 .cloudhuaihua.com
@@ -42721,6 +42721,7 @@
 .paizhe.com
 .paizi.com
 .paizi.net
+.paizi10.com
 .pajkb.com
 .pajkdc.com
 .palace-international.com
@@ -49390,8 +49391,6 @@
 .sjwyx.com
 .sjxinxiwang.com
 .sjxs.la
-.sjxyit.com
-.sjxysec.com
 .sjycbl.com
 .sjytech.com
 .sjyx.com

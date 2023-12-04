@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-04 02:15:14
+# UPDATED: 2023-12-05 02:16:05
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64623
+# DOMAIN-SUFFIX: 64610
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64813
+# TOTAL: 64800
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -7827,6 +7827,7 @@ payload:
   - '+.545c.com'
   - '+.5460.net'
   - '+.54674479.com'
+  - '+.5490196.cc'
   - '+.5499.com'
   - '+.54benniao.com'
   - '+.54doctor.net'
@@ -12434,7 +12435,6 @@ payload:
   - '+.b5b6.com'
   - '+.b5csgo.plus'
   - '+.b5esports.me'
-  - '+.b5v0m3q8.com'
   - '+.b612.me'
   - '+.b612kaji.com'
   - '+.b7l.cc'
@@ -42801,6 +42801,7 @@ payload:
   - '+.paizhe.com'
   - '+.paizi.com'
   - '+.paizi.net'
+  - '+.paizi10.com'
   - '+.pajkb.com'
   - '+.pajkdc.com'
   - '+.palace-international.com'
@@ -44753,7 +44754,6 @@ payload:
   - '+.qiniu.io'
   - '+.qiniuapi.com'
   - '+.qiniucs.com'
-  - '+.qiniuio.com'
   - '+.qiniukodo.com'
   - '+.qiniupkg.com'
   - '+.qiniutek.com'
@@ -48872,8 +48872,6 @@ payload:
   - '+.sjwxzy.com'
   - '+.sjxinxiwang.com'
   - '+.sjxs.la'
-  - '+.sjxyit.com'
-  - '+.sjxysec.com'
   - '+.sjycbl.com'
   - '+.sjytech.com'
   - '+.sjyx.com'

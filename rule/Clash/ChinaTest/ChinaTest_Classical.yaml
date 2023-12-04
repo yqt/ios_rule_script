@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-04 02:15:14
+# UPDATED: 2023-12-05 02:16:05
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64623
+# DOMAIN-SUFFIX: 64610
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64813
+# TOTAL: 64800
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -7827,6 +7827,7 @@ payload:
   - DOMAIN-SUFFIX,545c.com
   - DOMAIN-SUFFIX,5460.net
   - DOMAIN-SUFFIX,54674479.com
+  - DOMAIN-SUFFIX,5490196.cc
   - DOMAIN-SUFFIX,5499.com
   - DOMAIN-SUFFIX,54benniao.com
   - DOMAIN-SUFFIX,54doctor.net
@@ -12434,7 +12435,6 @@ payload:
   - DOMAIN-SUFFIX,b5b6.com
   - DOMAIN-SUFFIX,b5csgo.plus
   - DOMAIN-SUFFIX,b5esports.me
-  - DOMAIN-SUFFIX,b5v0m3q8.com
   - DOMAIN-SUFFIX,b612.me
   - DOMAIN-SUFFIX,b612kaji.com
   - DOMAIN-SUFFIX,b7l.cc
@@ -42801,6 +42801,7 @@ payload:
   - DOMAIN-SUFFIX,paizhe.com
   - DOMAIN-SUFFIX,paizi.com
   - DOMAIN-SUFFIX,paizi.net
+  - DOMAIN-SUFFIX,paizi10.com
   - DOMAIN-SUFFIX,pajkb.com
   - DOMAIN-SUFFIX,pajkdc.com
   - DOMAIN-SUFFIX,palace-international.com
@@ -44753,7 +44754,6 @@ payload:
   - DOMAIN-SUFFIX,qiniu.io
   - DOMAIN-SUFFIX,qiniuapi.com
   - DOMAIN-SUFFIX,qiniucs.com
-  - DOMAIN-SUFFIX,qiniuio.com
   - DOMAIN-SUFFIX,qiniukodo.com
   - DOMAIN-SUFFIX,qiniupkg.com
   - DOMAIN-SUFFIX,qiniutek.com
@@ -48872,8 +48872,6 @@ payload:
   - DOMAIN-SUFFIX,sjwxzy.com
   - DOMAIN-SUFFIX,sjxinxiwang.com
   - DOMAIN-SUFFIX,sjxs.la
-  - DOMAIN-SUFFIX,sjxyit.com
-  - DOMAIN-SUFFIX,sjxysec.com
   - DOMAIN-SUFFIX,sjycbl.com
   - DOMAIN-SUFFIX,sjytech.com
   - DOMAIN-SUFFIX,sjyx.com
