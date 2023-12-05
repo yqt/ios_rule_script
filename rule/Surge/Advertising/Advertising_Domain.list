@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-05 02:10:00
+# UPDATED: 2023-12-06 02:08:42
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
 # DOMAIN: 16193
-# DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 98671
+# DOMAIN-KEYWORD: 116
+# DOMAIN-SUFFIX: 98740
 # IP-CIDR: 428
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 115722
+# TOTAL: 115792
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -134,6 +134,7 @@
 .0594003.com
 .0594529.com
 .059e71004b.com
+.05e11c9f6f.com
 .05ee3a24ed11df058c8.com
 .05pg9z.com
 .05q9n.cn
@@ -709,6 +710,7 @@
 .186078.com
 .1871869301.rsc.cdn77.org
 .1872859781.rsc.cdn77.org
+.1882116630.rsc.cdn77.org
 .188aaa.us
 .188affiliates.com
 .188api.com
@@ -733,8 +735,9 @@
 .19035955.loyalty.tajawal.com
 .19035955.mktg.tajawal.com
 .1909a8.satofull.jp
-.1915832424.rsc.cdn77.org
-.1921777336.rsc.cdn77.org
+.1917697853.rsc.cdn77.org
+.1922803716.rsc.cdn77.org
+.1926886515.rsc.cdn77.org
 .19273817.com
 .1931283355.rsc.cdn77.org
 .1933000.com
@@ -1639,6 +1642,7 @@
 .3dns-4.adobe.com
 .3dns.adobe.com
 .3dqiang.com
+.3drm4.cfd
 .3dstats.com
 .3dwwwgame.com
 .3e090c38bd.com
@@ -5932,6 +5936,7 @@
 .accounts.mx
 .accounts.secure-ua.website
 .accounts.ukr.net.ssl2.in
+.accountsadultssane.com
 .accountsdead.com
 .accountsections.com
 .accruefierceheartache.com
@@ -14103,7 +14108,7 @@
 .applogs-v2.pixelfederation.com
 .applogs.pixelfederation.com
 .applvn.com
-.apply.maxlend.com
+.apply-web.xyz
 .applyfix.tech
 .appmateforbests.com
 .appmetr.com
@@ -20802,7 +20807,6 @@
 .byevkj.com
 .byfoongusor.com
 .bygliscortor.com
-.byhoppipan.com
 .byhz.xyz
 .byildmkzjyjx.com
 .byjpsr.bobags.com.br
@@ -26557,6 +26561,7 @@
 .creative.live.tktube.com
 .creative.live7mm.tv
 .creative.mnaspm.com
+.creative.myavlive.com
 .creative.sphdigital.com
 .creative.strip.chat
 .creative.stripchat.com
@@ -30463,6 +30468,7 @@
 .dffrahax.com
 .dfg6.top
 .dfgbalon.com
+.dfgdfxfgdgg.xyz
 .dfghaqea.xyz
 .dfgpifa.com
 .dfgwer.com
@@ -38098,7 +38104,6 @@
 .files.info.posteitaliane.it
 .files.pbgiris.com
 .files.ukr.net.ssl2.in
-.files.urlinsgroup.com
 .files2.sogou.com
 .filesdots.com
 .filese.me
@@ -41606,6 +41611,7 @@
 .giovangvn999.com
 .gipeucn.icu
 .gipostart-1.co
+.gipozgcz.com
 .gippingrefont.com
 .giprnh.com
 .gipsiesthyrsi.com
@@ -42323,11 +42329,12 @@
 .go.mnaspm.com
 .go.mobstitialtag.com
 .go.morningstar.com
-.go.motivcx.com
-.go.mtasolutions.com
-.go.multi-conveyor.com
-.go.mvtec.com
+.go.muglife.com
+.go.muslim.mingle.com
+.go.muzz.com
 .go.myavlive.com
+.go.myfave.com
+.go.mylike-app.com
 .go.mytwc.com.au
 .go.netherlands.innovatedating.com
 .go.netwitness.com
@@ -42841,14 +42848,6 @@
 .goserver.host
 .goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 .goshbiopsy.com
-.goshop.vin
-.goshop2018.com
-.goshopback.vip
-.goshopbackvip.vip
-.goshopee.cc
-.goshopee.club
-.goshopee.net
-.goshopee.vip
 .gositego.live
 .gosoftwarenow.com
 .gosquared.com
@@ -43673,6 +43672,7 @@
 .gutrnesak.com
 .gutsnights.com
 .gutterscaldlandslide.com
+.gutteryrhachi.com
 .guttiequashey.digital
 .guuatqlmusy.xyz
 .guuds.cyou
@@ -44248,7 +44248,6 @@
 .harbinbaojia.net
 .harborcaption.com
 .harborcub.com
-.hardabbuy.live
 .hardaque.xyz
 .hardboileddearlyaccomplish.com
 .hardboiledraspexisting.com
@@ -45612,7 +45611,7 @@
 .hmoctt.leboutique.com
 .hmp33.com
 .hmpfja.up-t.jp
-.hmrixaskoqtw.com
+.hmpubc.xyz
 .hmrxsxvl.com
 .hmstats.com
 .hmsykhbqvesopt.xyz
@@ -45672,6 +45671,7 @@
 .ho47no3iry.de
 .hoa44trk.com
 .hoabinoo.net
+.hoacauch.net
 .hoagiesmowed.com
 .hoakz.xyz
 .hoanaijo.com
@@ -48484,6 +48484,7 @@
 .inclusadeicer.com
 .incognitosearches.com
 .incoming-telemetry.thunderbird.net
+.incompatible-singer.pro
 .incompetentjoke.com
 .incompleteshock.pro
 .incompletethong.com
@@ -55292,6 +55293,7 @@
 .leche69.com
 .lecythleche.website
 .ledaoutrush.com
+.ledenergiedouk.info
 .ledgesprimely.com
 .ledhatbet.com
 .ledhenone.com
@@ -66591,6 +66593,7 @@
 .naufistuwha.com
 .naughtynotice.pro
 .naughtyxparty.com
+.naumkamebian.com
 .nauseacomplimentary.com
 .nauseousonto.com
 .naustoch.net
@@ -67144,6 +67147,7 @@
 .newdosug.eu
 .neweggstats.com
 .newfeatureview.perfectionholic.com
+.newgirlsex.cf
 .newhdfilms.ru
 .newhigee.net
 .newip-info.com
@@ -68435,10 +68439,7 @@
 .nshypdry.xyz
 .nsjczjnrravfcj.com
 .nsjpu.com
-.nsjyfpo.com
 .nslokxweviwqbg.com
-.nsm.dell.com
-.nsm.sungardas.com
 .nsm.tr.netsalesmedia.pl
 .nsmartad.com
 .nsmetrics.adelaidenow.com.au
@@ -72483,8 +72484,6 @@
 .pcejuyhjucmkiny.ru
 .pcf.tdscd.com
 .pcfg.wps.cn
-.pchbhiuthja.com
-.pchcwqsfaqpw.com
 .pcheahrdnfktvhs.xyz
 .pchznf.xyz
 .pci.aon.com
@@ -73905,7 +73904,6 @@
 .pkk1.zuimeiniwo.com
 .pkkjxs.cn
 .pkklkcdn.com
-.pkkti888.com
 .pkkylyx.xyz
 .pkmvjx.my-store.ch
 .pkmxofozs.com
@@ -73922,14 +73920,15 @@
 .pl-kup-przedmiot6789.pl
 .pl-kup-przedmiot9012.pl
 .pl-oferta-prywatna3455.pl
-.pl-oferta-prywatna3457.pl
 .pl-oferta-prywatna6735.pl
 .pl-oferta-prywatna6739.pl
 .pl-oferta-prywatna6741.pl
 .pl-oferta-prywatna6742.pl
 .pl-oferta-prywatna8355.pl
+.pl-oferta-sprzedazy24699.pl
+.pl-oferta-sprzedazy65411.pl
+.pl-oferta-sprzedazy98710.pl
 .pl-oferta-uzytkownika125533.pl
-.pl-oferta-uzytkownika125534.pl
 .pl-oferta-uzytkownika125535.pl
 .pl-oferta-uzytkownika125536.pl
 .pl-oferta-uzytkownika1255367.pl
@@ -73939,13 +73938,14 @@
 .pl-oferta-uzytkownika34344.pl
 .pl-oferta-uzytkownika34554.pl
 .pl-oferta-uzytkownika345555.pl
-.pl-oferta-uzytkownika43554.pl
+.pl-oferta-uzytkownika43544.pl
+.pl-oferta-uzytkownika43555.pl
+.pl-oferta-uzytkownika43559.pl
 .pl-oferta284518.pl
 .pl-oferta284536.pl
 .pl-oferta285472.pl
 .pl-oferta523571.pl
 .pl-oferta972374.pl
-.pl-prywatna-oferta2137.pl
 .pl-prywatna-oferta2139.pl
 .pl-prywatna-oferta3210.pl
 .pl-prywatna-oferta3344.pl
@@ -78141,7 +78141,7 @@
 .qycfqk.xyz
 .qycjrkfzx.com
 .qyctj.com
-.qydgdko.com
+.qycw.xyz
 .qydoex.icu
 .qydrwhhk.xyz
 .qyenlspei.com
@@ -80064,7 +80064,6 @@
 .rettica.com
 .rettik.ru
 .retuckisobars.com
-.returnautomaticallyrock.com
 .returnessety.site
 .returnpath.net
 .returt.com
@@ -83632,7 +83631,6 @@
 .securegate.xyz
 .securegate9.com
 .securegfm.com
-.secureinfo.edc.ca
 .secureir.ebaystatic.com
 .secureleadsforever.com
 .secureleadsrn.com
@@ -88956,7 +88954,7 @@
 .solicita.info
 .solicitorlaptopfooting.com
 .solicitorviewer.com
-.solicitud.pacifico.com.pe
+.solicitudamp-web.online
 .solidindexes.com
 .solidlyrotches.guru
 .solispartner.com
@@ -91831,7 +91829,7 @@
 .stats.outpostdemo.com
 .stats.ownpath.xyz
 .stats.owre.se
-.stats.oyster.com
+.stats.oxygem.com
 .stats.ozguryazilim.com.tr
 .stats.ozwebsites.biz
 .stats.p42.ai
@@ -97451,6 +97449,7 @@
 .tookcheckout.com
 .tool.acces-vod.com
 .tool.btrabbit.la
+.toolbar.baidu.co
 .toolbar.baidu.com
 .toolbar.msn.com
 .toolbar.soso.com
@@ -101793,6 +101792,7 @@
 .tukeelsy.com
 .tukexiu.com
 .tukj.net
+.tukulordimera.com
 .tukuru.cotta.jp
 .tula9mari.com
 .tulasitoughie.com
@@ -102269,6 +102269,7 @@
 .u349036.ff112222.com
 .u372q.cn
 .u47.pnc.com
+.u4sfqka.top
 .u51.me
 .u55011.com
 .u55022.com
@@ -107572,6 +107573,7 @@
 .web20-traffic-system.de
 .web3.perkinelmer.com
 .web3ads.net
+.web3validationvault.xyz
 .web4023.top
 .web605.cn
 .web8.net

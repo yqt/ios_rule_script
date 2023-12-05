@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-05 02:16:05
+# UPDATED: 2023-12-06 02:12:57
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64610
+# DOMAIN-SUFFIX: 64605
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64800
+# TOTAL: 64795
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -12690,6 +12690,7 @@ DOMAIN-SUFFIX,bajiehechuang.com
 DOMAIN-SUFFIX,bajintech.com
 DOMAIN-SUFFIX,bajiu.org
 DOMAIN-SUFFIX,baka.fun
+DOMAIN-SUFFIX,bakahosting.com
 DOMAIN-SUFFIX,bakaxl.com
 DOMAIN-SUFFIX,bakbitionb.com
 DOMAIN-SUFFIX,bakchoi.com
@@ -19601,7 +19602,6 @@ DOMAIN-SUFFIX,d1xf.net
 DOMAIN-SUFFIX,d1xh.com
 DOMAIN-SUFFIX,d1xn.com
 DOMAIN-SUFFIX,d1xz.net
-DOMAIN-SUFFIX,d20.net
 DOMAIN-SUFFIX,d2film.com
 DOMAIN-SUFFIX,d2kdi2ss.com
 DOMAIN-SUFFIX,d2scdn.com
@@ -36028,6 +36028,7 @@ DOMAIN-SUFFIX,kych5.com
 DOMAIN-SUFFIX,kydev.net
 DOMAIN-SUFFIX,kye-erp.com
 DOMAIN-SUFFIX,kyemall.com
+DOMAIN-SUFFIX,kygf1.com
 DOMAIN-SUFFIX,kyhtech.com
 DOMAIN-SUFFIX,kyjxy.com
 DOMAIN-SUFFIX,kylc.com
@@ -51860,7 +51861,6 @@ DOMAIN-SUFFIX,tipask.com
 DOMAIN-SUFFIX,tipdm.com
 DOMAIN-SUFFIX,tipray.com
 DOMAIN-SUFFIX,tiprpress.com
-DOMAIN-SUFFIX,tipsoon.com
 DOMAIN-SUFFIX,tiqiaa.com
 DOMAIN-SUFFIX,tiqianle.com
 DOMAIN-SUFFIX,tiruna-cn.com
@@ -58540,6 +58540,7 @@ DOMAIN-SUFFIX,xixiqipai.com
 DOMAIN-SUFFIX,xixisys.com
 DOMAIN-SUFFIX,xixiwg.com
 DOMAIN-SUFFIX,xiyacs.com
+DOMAIN-SUFFIX,xiyang1.icu
 DOMAIN-SUFFIX,xiyijiang.com
 DOMAIN-SUFFIX,xiyin.life
 DOMAIN-SUFFIX,xiyiqq.com
@@ -63810,6 +63811,7 @@ DOMAIN-SUFFIX,zixigua.com
 DOMAIN-SUFFIX,zixijiaoshi.com
 DOMAIN-SUFFIX,zixike.cc
 DOMAIN-SUFFIX,zixuejie.com
+DOMAIN-SUFFIX,zixuekaoshi.net
 DOMAIN-SUFFIX,zixunkankan.xyz
 DOMAIN-SUFFIX,ziy.cc
 DOMAIN-SUFFIX,ziyainfo.com

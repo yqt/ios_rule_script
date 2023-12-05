@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-05 02:16:02
+# UPDATED: 2023-12-06 02:12:55
 # HOST: 166
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64610
+# HOST-SUFFIX: 64605
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64832
+# TOTAL: 64827
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -12692,6 +12692,7 @@ HOST-SUFFIX,bajiehechuang.com,ChinaTest
 HOST-SUFFIX,bajintech.com,ChinaTest
 HOST-SUFFIX,bajiu.org,ChinaTest
 HOST-SUFFIX,baka.fun,ChinaTest
+HOST-SUFFIX,bakahosting.com,ChinaTest
 HOST-SUFFIX,bakaxl.com,ChinaTest
 HOST-SUFFIX,bakbitionb.com,ChinaTest
 HOST-SUFFIX,bakchoi.com,ChinaTest
@@ -19603,7 +19604,6 @@ HOST-SUFFIX,d1xf.net,ChinaTest
 HOST-SUFFIX,d1xh.com,ChinaTest
 HOST-SUFFIX,d1xn.com,ChinaTest
 HOST-SUFFIX,d1xz.net,ChinaTest
-HOST-SUFFIX,d20.net,ChinaTest
 HOST-SUFFIX,d2film.com,ChinaTest
 HOST-SUFFIX,d2kdi2ss.com,ChinaTest
 HOST-SUFFIX,d2scdn.com,ChinaTest
@@ -36030,6 +36030,7 @@ HOST-SUFFIX,kych5.com,ChinaTest
 HOST-SUFFIX,kydev.net,ChinaTest
 HOST-SUFFIX,kye-erp.com,ChinaTest
 HOST-SUFFIX,kyemall.com,ChinaTest
+HOST-SUFFIX,kygf1.com,ChinaTest
 HOST-SUFFIX,kyhtech.com,ChinaTest
 HOST-SUFFIX,kyjxy.com,ChinaTest
 HOST-SUFFIX,kylc.com,ChinaTest
@@ -51862,7 +51863,6 @@ HOST-SUFFIX,tipask.com,ChinaTest
 HOST-SUFFIX,tipdm.com,ChinaTest
 HOST-SUFFIX,tipray.com,ChinaTest
 HOST-SUFFIX,tiprpress.com,ChinaTest
-HOST-SUFFIX,tipsoon.com,ChinaTest
 HOST-SUFFIX,tiqiaa.com,ChinaTest
 HOST-SUFFIX,tiqianle.com,ChinaTest
 HOST-SUFFIX,tiruna-cn.com,ChinaTest
@@ -58542,6 +58542,7 @@ HOST-SUFFIX,xixiqipai.com,ChinaTest
 HOST-SUFFIX,xixisys.com,ChinaTest
 HOST-SUFFIX,xixiwg.com,ChinaTest
 HOST-SUFFIX,xiyacs.com,ChinaTest
+HOST-SUFFIX,xiyang1.icu,ChinaTest
 HOST-SUFFIX,xiyijiang.com,ChinaTest
 HOST-SUFFIX,xiyin.life,ChinaTest
 HOST-SUFFIX,xiyiqq.com,ChinaTest
@@ -63812,6 +63813,7 @@ HOST-SUFFIX,zixigua.com,ChinaTest
 HOST-SUFFIX,zixijiaoshi.com,ChinaTest
 HOST-SUFFIX,zixike.cc,ChinaTest
 HOST-SUFFIX,zixuejie.com,ChinaTest
+HOST-SUFFIX,zixuekaoshi.net,ChinaTest
 HOST-SUFFIX,zixunkankan.xyz,ChinaTest
 HOST-SUFFIX,ziy.cc,ChinaTest
 HOST-SUFFIX,ziyainfo.com,ChinaTest
