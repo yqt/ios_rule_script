@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-06 02:12:58
+# UPDATED: 2023-12-07 02:12:53
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64605
+# DOMAIN-SUFFIX: 64609
 # IP-CIDR: 15
 # USER-AGENT: 31
-# TOTAL: 64826
+# TOTAL: 64830
 .0-6.com
 .00.net
 .000.link
@@ -19609,6 +19609,7 @@
 .easthome.com
 .eastib.com
 .easticloud.com
+.eastjuntai.com
 .eastled.com
 .eastlending.com
 .eastmannplastics.com
@@ -28192,6 +28193,7 @@
 .hysdknb.com
 .hysec.com
 .hyseim.com
+.hysemi-ic.com
 .hyshi.net
 .hysteeltube.com
 .hyt368.com

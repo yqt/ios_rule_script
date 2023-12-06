@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-06 02:09:56
+# UPDATED: 2023-12-07 02:09:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12496
 # DOMAIN-KEYWORD: 303
-# DOMAIN-SUFFIX: 129292
+# DOMAIN-SUFFIX: 129365
 # IP-CIDR: 452
 # URL-REGEX: 303
-# TOTAL: 142846
+# TOTAL: 142919
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -1183,7 +1183,6 @@
 .2022shoupidan1024.xyz
 .2022welcome.com
 .202305300.cn
-.202306135.cn
 .2023cradep0sit.com
 .2023sb.net
 .2024114t.shop
@@ -2178,7 +2177,6 @@
 .3dns-4.adobe.com
 .3dns.adobe.com
 .3dqiang.com
-.3drm4.cfd
 .3dstats.com
 .3dwwwgame.com
 .3e090c38bd.com
@@ -15542,8 +15540,6 @@
 .app.gseagles.com
 .app.gustaygana10.fun
 .app.hailstate.com
-.app.harafunnel.com
-.app.haraloyalty.com
 .app.harasocial.com
 .app.hawaiiathletics.com
 .app.hawkeyesports.com
@@ -16151,7 +16147,6 @@
 .applogs-v2.pixelfederation.com
 .applogs.pixelfederation.com
 .applvn.com
-.apply-web.xyz
 .apply.bluetrustloans.com
 .apply.catalystfitnessflorida.com
 .apply.maxlend.com
@@ -26194,7 +26189,6 @@
 .ceincreatedaughtcha.info
 .ceiuip.icu
 .ceiyo.com
-.cekdisini.id
 .cekladod.com
 .cekornapred.org
 .celaenomash.com
@@ -44398,8 +44392,6 @@
 .epartner.es
 .epartner.ru
 .epcdko.forevernew.com.au
-.epcpbbqi.xyz
-.epctwfwy.com
 .epebuk.xyz
 .epeex.com
 .epeex.io
@@ -44733,7 +44725,6 @@
 .escatedint.work
 .escense.ru
 .escers.com
-.escharatheins.com
 .eschelbolts.com
 .escobar.pr0gramm.com
 .esconcentleu.site
@@ -44847,7 +44838,6 @@
 .estoopsi.com
 .estore.biscoind.com
 .estrack.net
-.estrasol.info
 .estream.nu
 .estream.to
 .estream.xyz
@@ -48948,9 +48938,7 @@
 .fqcqnb.dwr.com
 .fqdwrgbbkmlbh.com
 .fqeqbpacetlols.com
-.fqfclmlo.xyz
 .fqfjmojnjslr.com
-.fqjelyhrbrmyvte.com
 .fqkwn.com
 .fqla.top
 .fqmgjad.cn
@@ -51249,6 +51237,7 @@
 .getback.ch
 .getbackstory.com
 .getbeacon.io
+.getbestpolojpob.org
 .getbiggainsurvey.top
 .getblueshift.com
 .getbrowbeatgroup.com
@@ -53826,7 +53815,6 @@
 .greasypalm.com
 .greasysquare.com
 .great-spring.pro
-.great.xxxbanglavideo.com
 .greatappland.com
 .greatarcadehits.com
 .greataseset.org
@@ -56129,6 +56117,7 @@
 .hgub2polye.com
 .hgubxzfpolbf.com
 .hgusler.com
+.hgxwhpba.xyz
 .hgzqxe.hanesbrandsinc.jp
 .hh-btr.com
 .hh.jiankang.com
@@ -59100,7 +59089,6 @@
 .ijir.cn
 .ijkcmm.com
 .ijkqwopm.xyz
-.ijlnbonvfr.com
 .ijmrburud.com
 .ijnocom.ru
 .ijnuhb.top
@@ -62194,7 +62182,6 @@
 .ios.asktagapp.com
 .iosipa.b0.upaiyun.com
 .iosppk.com
-.iossdok.com
 .ioswhi.com
 .iot-business.vodafone.com
 .iot-eu-logser.realme.com
@@ -64856,6 +64843,7 @@
 .jspassport.ssl.qhimg.com
 .jspg.cc
 .jspop.xyz
+.jspqhh.xyz
 .jsqbxu.peterhahn.co.uk
 .jsqmt.qq.com
 .jsrdn.com
@@ -83024,7 +83012,6 @@
 .newdosug.eu
 .neweggstats.com
 .newfeatureview.perfectionholic.com
-.newgirlsex.cf
 .newhand.name
 .newhdfilms.ru
 .newhigee.net
@@ -83607,8 +83594,6 @@
 .niftiesrotonde.com
 .nifty-drive.pro
 .nifty-transportation.com
-.niftygatevay.com
-.niftygotevay.com
 .niftyhospital.com
 .niftyjelly.com
 .niftymaps.com
@@ -83892,6 +83877,7 @@
 .nmbtedu.com
 .nmcdn.us
 .nmcpmjreuswnzs.com
+.nmcsqihltjdnheq.com
 .nmdotj.xyz
 .nmeithybnvik.com
 .nmersju.com
@@ -85852,7 +85838,6 @@
 .ohmchoicechi.online
 .ohmpyq.xyz
 .ohmwrite.com
-.ohmwweulu.com
 .ohmy.bid
 .ohmydating.com
 .ohmygosh.info
@@ -86999,7 +86984,7 @@
 .opensdeiseal.com
 .opensdk.wlanbanlv.com
 .opensharecount.com
-.openshop.m-shop.me
+.openshop.oshp.io
 .openssp.ru
 .openstat.net
 .opentecs.com
@@ -91537,9 +91522,22 @@
 .pl-oferta-prywatna3455.pl
 .pl-oferta-prywatna6735.pl
 .pl-oferta-prywatna6739.pl
-.pl-oferta-prywatna6741.pl
 .pl-oferta-prywatna6742.pl
 .pl-oferta-prywatna8355.pl
+.pl-oferta-sprzedazy12306.pl
+.pl-oferta-sprzedazy12307.pl
+.pl-oferta-sprzedazy12308.pl
+.pl-oferta-sprzedazy12310.pl
+.pl-oferta-sprzedazy12311.pl
+.pl-oferta-sprzedazy12312.pl
+.pl-oferta-sprzedazy12313.pl
+.pl-oferta-sprzedazy12314.pl
+.pl-oferta-sprzedazy12315.pl
+.pl-oferta-sprzedazy12316.pl
+.pl-oferta-sprzedazy12317.pl
+.pl-oferta-sprzedazy12318.pl
+.pl-oferta-sprzedazy12348.pl
+.pl-oferta-sprzedazy15328.pl
 .pl-oferta-sprzedazy24699.pl
 .pl-oferta-sprzedazy65411.pl
 .pl-oferta-sprzedazy98710.pl
@@ -91551,7 +91549,6 @@
 .pl-oferta-uzytkownika1255370.pl
 .pl-oferta-uzytkownika1255374.pl
 .pl-oferta-uzytkownika34344.pl
-.pl-oferta-uzytkownika34554.pl
 .pl-oferta-uzytkownika345555.pl
 .pl-oferta-uzytkownika43544.pl
 .pl-oferta-uzytkownika43555.pl
@@ -91564,7 +91561,6 @@
 .pl-prywatna-oferta2139.pl
 .pl-prywatna-oferta3210.pl
 .pl-prywatna-oferta3344.pl
-.pl-prywatne-oferty4567.pl
 .pl-prywatne-oferty6789.pl
 .pl-prywatne-oferty7890.pl
 .pl-prywatne-ogloszenie54565.pl
@@ -99522,9 +99518,7 @@
 .rjsouj.clubd.co.jp
 .rjvfxxrsepwch.xyz
 .rjw4obbw.com
-.rjwhuxgjjm.com
 .rjwljrf.xyz
-.rjykqcrnz.com
 .rjzqtz.xyz
 .rka1.fun
 .rkajleihgyidsu.com
@@ -100608,6 +100602,7 @@
 .rtty.in
 .rtumdhdk.xyz
 .rtumwzp.icu
+.rtwdzxstpanmn.com
 .rtxlni.doclasse.com
 .rtxplatform.com
 .rtxpx-a.akamaihd.net
@@ -100886,6 +100881,7 @@
 .rvt2687sqo9o.ru
 .rvv.emol.com
 .rvvji.online
+.rvvmhp.xyz
 .rvwtpwmtnfj.com
 .rvxqnjsczubld.com
 .rvygmdlwenyl.com
@@ -110233,7 +110229,6 @@
 .solicitorlaptopfooting.com
 .solicitorviewer.com
 .solicitud.pacifico.com.pe
-.solicitudamp-web.online
 .solideaved.com
 .solidindexes.com
 .solidlyrotches.guru
@@ -119765,7 +119760,6 @@
 .tikstok.fun
 .tiktakz.xyz
 .tiktok-ads.hara.vn
-.tiktokcy1.com
 .tiku.io
 .tiledissipatelocum.com
 .tilesmuzarab.com
@@ -121135,6 +121129,7 @@
 .tpbid.com
 .tpbpiratbay.cl
 .tpbproxyone.org
+.tpbsxcsa.com
 .tpbywf.emp-shop.pl
 .tpcserve.com
 .tpdads.com
@@ -130668,6 +130663,7 @@
 .vrasxjrsl.com
 .vrbmhngqjh.com
 .vrcamdl.istaging.com
+.vrcjleonnurifjy.xyz
 .vrdxznr.xyz
 .vreephay.com
 .vrewpywootyu.com
@@ -133391,7 +133387,7 @@
 .wirjoi.meetsmore.com
 .wirratailage.com
 .wirrttnlmumsak.xyz
-.wirsilsa.net
+.wirtualneplatnosci.pl
 .wirverkaufennichts.de
 .wirwastine.digital
 .wirypaste.com
@@ -133830,9 +133826,6 @@
 .woopra-ns.com
 .woopra.com
 .woopteem.net
-.wooribank.info
-.woorivn.online
-.woosyt.portalesardegna.com
 .wootmedia.net
 .wootric-eligibility.herokuapp.com
 .wootric.com
@@ -133869,7 +133862,6 @@
 .worimu.xyz
 .worjeklmq.com
 .work-offer.com
-.work.gd
 .workableachiever.com
 .workaccount.free.bg
 .workback.net
@@ -133972,6 +133964,7 @@
 .woshiyunying.com
 .wosidnlkxq.com
 .wossaung.net
+.wotd62.cfd
 .wotto.cn
 .wotui.ltd
 .woudaufe.net
@@ -138997,7 +138990,6 @@
 .zakelijkemarkt.vattenfall.nl
 .zakladka.org.ua
 .zakupy-online24.pl
-.zakupy-prywatne24.pl
 .zalanado.fr
 .zalandon.fr
 .zalawqsahn.com
@@ -140291,6 +140283,7 @@
 .zwgege.cn
 .zwiaaop.cyou
 .zwinqi.spartoo.pt
+.zwjezmzbyerkj.top
 .zwkssb.com
 .zwlikv.cn
 .zwmvyzyrlvava.top

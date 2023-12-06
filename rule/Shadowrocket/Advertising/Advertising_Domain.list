@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-06 02:08:49
+# UPDATED: 2023-12-07 02:08:43
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16193
 # DOMAIN-KEYWORD: 116
-# DOMAIN-SUFFIX: 98740
+# DOMAIN-SUFFIX: 98806
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 115780
+# TOTAL: 115846
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -1001,7 +1001,6 @@
 .2021.dxsbb.com
 .2022welcome.com
 .202305300.cn
-.202306135.cn
 .2023cradep0sit.com
 .2023sb.net
 .2024114t.shop
@@ -1640,7 +1639,6 @@
 .3dns-4.adobe.com
 .3dns.adobe.com
 .3dqiang.com
-.3drm4.cfd
 .3dstats.com
 .3dwwwgame.com
 .3e090c38bd.com
@@ -13544,13 +13542,7 @@
 .app.gopsusports.com
 .app.gostanford.com
 .app.goto.dowjones.com
-.app.griztix.umt.edu
-.app.gseagles.com
-.app.hailstate.com
-.app.harafunnel.com
-.app.haraloyalty.com
 .app.harasocial.com
-.app.hawkeyesports.com
 .app.health.bjc.org
 .app.hirenodes.com
 .app.hokiesports.com
@@ -14106,7 +14098,6 @@
 .applogs-v2.pixelfederation.com
 .applogs.pixelfederation.com
 .applvn.com
-.apply-web.xyz
 .applyfix.tech
 .appmateforbests.com
 .appmetr.com
@@ -14592,6 +14583,7 @@
 .arwartortleer.com
 .arwfpvcpyjyoupb.xyz
 .arwhismura.com
+.arxqpexijob.com
 .aryabzerznlvn.top
 .aryacoin.io
 .aryana.io
@@ -15605,6 +15597,7 @@
 .avmws.com
 .avndrealouer.fr
 .avnmjtqu.com
+.avnyvfqiqiidu.xyz
 .avo.app
 .avoadsservices.com
 .avobeucxscwj.com
@@ -16246,6 +16239,7 @@
 .b616ca211a.com
 .b629.electronicdesign.com
 .b65415fde6.com
+.b67.xyz
 .b6750bc2a1.com
 .b6880ffb9a.com
 .b6c4.top
@@ -22343,7 +22337,6 @@
 .ceincreatedaughtcha.info
 .ceiuip.icu
 .ceiyo.com
-.cekdisini.id
 .cekladod.com
 .cekornapred.org
 .celaenomash.com
@@ -33064,6 +33057,7 @@
 .dzupi9b81okew.cloudfront.net
 .dzv1ekshu2vbs.cloudfront.net
 .dzvy7.space
+.dzwqfq.alpitour.it
 .dzxr711a4yw31.cloudfront.net
 .dzxwnews.com
 .dzypro.xyz
@@ -35738,7 +35732,6 @@
 .escatedint.work
 .escense.ru
 .escers.com
-.escharatheins.com
 .eschelbolts.com
 .esconcentleu.site
 .escortlarbul.com
@@ -35832,7 +35825,6 @@
 .estoopsi.com
 .estore.biscoind.com
 .estrack.net
-.estrasol.info
 .estream.nu
 .estream.to
 .estream.xyz
@@ -39250,9 +39242,7 @@
 .fqcqnb.dwr.com
 .fqdwrgbbkmlbh.com
 .fqeqbpacetlols.com
-.fqfclmlo.xyz
 .fqfjmojnjslr.com
-.fqjelyhrbrmyvte.com
 .fqkwn.com
 .fqla.top
 .fqmgjad.cn
@@ -40756,7 +40746,7 @@
 .gcukphxabcifwlo.com
 .gcuter.ru
 .gcuylkyvi.com
-.gcwwsv.icu
+.gcwubi.happypancake.fi
 .gcxiyx.inspireuplift.com
 .gcyabjsl.com
 .gcyzgld.com
@@ -41177,6 +41167,7 @@
 .getback.ch
 .getbackstory.com
 .getbeacon.io
+.getbestpolojpob.org
 .getbiggainsurvey.top
 .getblueshift.com
 .getbrowbeatgroup.com
@@ -45216,7 +45207,6 @@
 .highrevenuegate.com
 .highscanprotect.com
 .hightech24h.com
-.hightles.com
 .hightopnews.com
 .hightopnewstoday.com
 .hightrafficads.com
@@ -46075,7 +46065,6 @@
 .housewifecheeky.com
 .housewifehaunted.com
 .housopsi.net
-.houston-content.cresa.com
 .houston.advgo.net
 .houtanyun.com
 .houthaub.xyz
@@ -47486,7 +47475,7 @@
 .ijieo.com
 .ijinshan.com
 .ijkcmm.com
-.ijlnbonvfr.com
+.ijkqwopm.xyz
 .ijmrburud.com
 .ijnocom.ru
 .ijo5g.cn
@@ -51682,9 +51671,6 @@
 .jltdgjqgtbfyg.com
 .jltjgujdnyp.com
 .jltolz.xyz
-.jluaaqwn.com
-.jlufbcef.com
-.jlvowalle.xyz
 .jlvskg.cn
 .jlwljym.com
 .jlxmuvjltnqttj.com
@@ -67145,7 +67131,6 @@
 .newdosug.eu
 .neweggstats.com
 .newfeatureview.perfectionholic.com
-.newgirlsex.cf
 .newhdfilms.ru
 .newhigee.net
 .newip-info.com
@@ -73920,9 +73905,22 @@
 .pl-oferta-prywatna3455.pl
 .pl-oferta-prywatna6735.pl
 .pl-oferta-prywatna6739.pl
-.pl-oferta-prywatna6741.pl
 .pl-oferta-prywatna6742.pl
 .pl-oferta-prywatna8355.pl
+.pl-oferta-sprzedazy12306.pl
+.pl-oferta-sprzedazy12307.pl
+.pl-oferta-sprzedazy12308.pl
+.pl-oferta-sprzedazy12310.pl
+.pl-oferta-sprzedazy12311.pl
+.pl-oferta-sprzedazy12312.pl
+.pl-oferta-sprzedazy12313.pl
+.pl-oferta-sprzedazy12314.pl
+.pl-oferta-sprzedazy12315.pl
+.pl-oferta-sprzedazy12316.pl
+.pl-oferta-sprzedazy12317.pl
+.pl-oferta-sprzedazy12318.pl
+.pl-oferta-sprzedazy12348.pl
+.pl-oferta-sprzedazy15328.pl
 .pl-oferta-sprzedazy24699.pl
 .pl-oferta-sprzedazy65411.pl
 .pl-oferta-sprzedazy98710.pl
@@ -73934,7 +73932,6 @@
 .pl-oferta-uzytkownika1255370.pl
 .pl-oferta-uzytkownika1255374.pl
 .pl-oferta-uzytkownika34344.pl
-.pl-oferta-uzytkownika34554.pl
 .pl-oferta-uzytkownika345555.pl
 .pl-oferta-uzytkownika43544.pl
 .pl-oferta-uzytkownika43555.pl
@@ -73947,7 +73944,6 @@
 .pl-prywatna-oferta2139.pl
 .pl-prywatna-oferta3210.pl
 .pl-prywatna-oferta3344.pl
-.pl-prywatne-oferty4567.pl
 .pl-prywatne-oferty6789.pl
 .pl-prywatne-oferty7890.pl
 .pl-prywatne-ogloszenie54565.pl
@@ -76169,6 +76165,7 @@
 .psirdain.com
 .psirsoor.com
 .psirsugn.net
+.psithich.com
 .psixoahi.xyz
 .psma01.com
 .psma02.com
@@ -77130,9 +77127,9 @@
 .qads.io
 .qadserve.com
 .qagkyeqxv.xyz
-.qago.qiagen.com
-.qahxwy.goosecreekcandle.com
 .qajgarohwobh.com
+.qajigu.xyz
+.qajvfiqafqto.com
 .qajwizsifaj.com
 .qajypx.com
 .qakdki.com
@@ -77279,6 +77276,7 @@
 .qehwgbwjmjvq.xyz
 .qel-qel-fie.com
 .qelqlunebz.com
+.qemyetwxfcwhtyy.com
 .qeqaqnvwmbkyj.top
 .qerbert78.xyz
 .qerpks.rollei.de
@@ -80882,9 +80880,9 @@
 .roukoopo.net
 .roulax.io
 .roulediana.com
-.rouloawhu.com
-.roumachopa.com
+.roulette.abzorbagames.com
 .roumakie.com
+.roumucee.com
 .rounca.com
 .rouncepreyful.com
 .round-highlight.pro
@@ -81118,6 +81116,7 @@
 .rtb.com.ru
 .rtb.metrigo.com
 .rtb.mts.ru
+.rtb.pixad.com.tr
 .rtb.trade
 .rtb.videonow.ru
 .rtb.wedeo.ru
@@ -81241,8 +81240,6 @@
 .rtumdhdk.xyz
 .rtumwzp.icu
 .rtwdzxstpanmn.com
-.rtxbdugpeumpmye.xyz
-.rtxjvbqpr.com
 .rtxplatform.com
 .rtxpx-a.akamaihd.net
 .rtxrtb.com
@@ -88952,7 +88949,6 @@
 .solicita.info
 .solicitorlaptopfooting.com
 .solicitorviewer.com
-.solicitudamp-web.online
 .solidindexes.com
 .solidlyrotches.guru
 .solispartner.com
@@ -91585,7 +91581,6 @@
 .stats.hammertime.me
 .stats.handyvertrag.de
 .stats.hanmaker.com
-.stats.hannaandersson.com
 .stats.hara.vn
 .stats.harpercollins.com
 .stats.harrods.com
@@ -95905,6 +95900,7 @@
 .thathislitt.ru
 .thatincidentwad.com
 .thatmonkeybites3.com
+.thatobjective.pro
 .thatresha.com
 .thatshab.website
 .thatsjustgay.com
@@ -96635,9 +96631,7 @@
 .tikrailijorj.com
 .tiksgayowqln.com
 .tikstok.fun
-.tiktakz.xyz
 .tiktok-ads.hara.vn
-.tiktokcy1.com
 .tiku.io
 .tilanalytics.timesinternet.in
 .tiledissipatelocum.com
@@ -97834,9 +97828,6 @@
 .tpbpiratbay.cl
 .tpbproxyone.org
 .tpbsxcsa.com
-.tpbxnk.com
-.tpcenzbgtybq.com
-.tpcrfdnq.com
 .tpcserve.com
 .tpdads.com
 .tpe163.com
@@ -104576,7 +104567,6 @@
 .vbtrax.com
 .vbvpkdwucilopuw.xyz
 .vbzrkme.xyz
-.vbzsjkrnsqewy.com
 .vcaif.com
 .vcarrefour.fr
 .vcb-diglicabrnk.com
@@ -106398,6 +106388,7 @@
 .vrasxjrsl.com
 .vrbmhngqjh.com
 .vrcamdl.istaging.com
+.vrcjleonnurifjy.xyz
 .vrdxznr.xyz
 .vreephay.com
 .vrewpywootyu.com
@@ -108709,7 +108700,7 @@
 .wirjoi.meetsmore.com
 .wirratailage.com
 .wirrttnlmumsak.xyz
-.wirsilsa.net
+.wirtualneplatnosci.pl
 .wirverkaufennichts.de
 .wirwastine.digital
 .wirypaste.com
@@ -109065,9 +109056,6 @@
 .woopra-ns.com
 .woopra.com
 .woopteem.net
-.wooribank.info
-.woorivn.online
-.woosyt.portalesardegna.com
 .wootmedia.net
 .wootric.com
 .woovooza.net
@@ -109100,7 +109088,6 @@
 .worimu.xyz
 .worjeklmq.com
 .work-offer.com
-.work.gd
 .workableachiever.com
 .workaccount.free.bg
 .workback.net
@@ -109193,6 +109180,7 @@
 .woshiyunying.com
 .wosidnlkxq.com
 .wossaung.net
+.wotd62.cfd
 .wotto.cn
 .woudaufe.net
 .woujoami.com
@@ -110846,7 +110834,6 @@
 .xgogi.com
 .xgraph.net
 .xgrcfz.xyz
-.xgspzv.troyestore.com
 .xgstemmj.com
 .xguqeh.com
 .xgwhrvnxvhqgi.com
@@ -112114,6 +112101,7 @@
 .yg10x.cn
 .yg592gpmrh0q.com
 .ygblogtag.cn
+.ygcn.ltd
 .ygfgzmzo.xyz
 .ygfl2.cn
 .ygfytomneijjj.com
@@ -113200,7 +113188,6 @@
 .zakelijkemarkt.vattenfall.nl
 .zakladka.org.ua
 .zakupy-online24.pl
-.zakupy-prywatne24.pl
 .zalanado.fr
 .zalandon.fr
 .zalo-ads-240-td.zadn.vn
@@ -114197,7 +114184,7 @@
 .zwbbkjvzqbyba.top
 .zwbbkjvzqembe.top
 .zwfkxb.xyz
-.zwinqi.spartoo.pt
+.zwiaaop.cyou
 .zwjezmzbyerkj.top
 .zwkssb.com
 .zwmvyzyrlvava.top

@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-06 02:12:57
+# UPDATED: 2023-12-07 02:12:51
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64605
+# DOMAIN-SUFFIX: 64609
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64795
+# TOTAL: 64799
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -22160,6 +22160,7 @@ payload:
   - DOMAIN-SUFFIX,easthome.com
   - DOMAIN-SUFFIX,eastib.com
   - DOMAIN-SUFFIX,easticloud.com
+  - DOMAIN-SUFFIX,eastjuntai.com
   - DOMAIN-SUFFIX,eastled.com
   - DOMAIN-SUFFIX,eastlending.com
   - DOMAIN-SUFFIX,eastmannplastics.com
@@ -30321,6 +30322,7 @@ payload:
   - DOMAIN-SUFFIX,hysdknb.com
   - DOMAIN-SUFFIX,hysec.com
   - DOMAIN-SUFFIX,hyseim.com
+  - DOMAIN-SUFFIX,hysemi-ic.com
   - DOMAIN-SUFFIX,hyshi.net
   - DOMAIN-SUFFIX,hysteeltube.com
   - DOMAIN-SUFFIX,hyt368.com
