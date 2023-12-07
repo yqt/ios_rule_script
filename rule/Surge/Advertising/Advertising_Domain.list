@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-07 02:08:37
+# UPDATED: 2023-12-07 16:30:40
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
-# DOMAIN: 16193
+# DOMAIN: 16195
 # DOMAIN-KEYWORD: 116
-# DOMAIN-SUFFIX: 98806
+# DOMAIN-SUFFIX: 98853
 # IP-CIDR: 428
 # PROCESS-NAME: 5
 # URL-REGEX: 303
-# TOTAL: 115858
+# TOTAL: 115907
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -494,7 +494,8 @@
 .12.cookcai.com
 .1200555.com
 .1202liutiao.xyz
-.1205020224.rsc.cdn77.org
+.1203555.com
+.1203782659.rsc.cdn77.org
 .1205qitiao2022.xyz
 .12086.net
 .12112336.pix-cdn.org
@@ -16007,6 +16008,7 @@
 .azfitn.com
 .azg1.emalu-store.com
 .azgdgypodyulx.com
+.azhhr.cn
 .aziekg.xyz
 .azj57rjy.com
 .azjmp.com
@@ -20840,7 +20842,6 @@
 .byvlph.xyz
 .byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 .byvpezdzmpureo.com
-.byvtkhdxfjw.com
 .bywntfg.com
 .byxcbixzvjclxz.com
 .byxcbk.ipekevi.com
@@ -22007,7 +22008,6 @@
 .cdceed.de
 .cdcqee.com
 .cdctwm.com
-.cddbwlpqk.xyz
 .cdddfia.hornylocals24.com
 .cddtsecure.com
 .cdeaffjujxchf.com
@@ -35441,8 +35441,6 @@
 .epartner.es
 .epartner.ru
 .epcdko.forevernew.com.au
-.epcpbbqi.xyz
-.epctwfwy.com
 .epebuk.xyz
 .epeex.com
 .epeex.io
@@ -45004,6 +45002,7 @@
 .hfk128dfs-dsfbheuoys.xyz
 .hfk7j.top
 .hfnzhczqgdp.com
+.hforuvqrgyvbspi.xyz
 .hfqdipw.cn
 .hfresgtyytjncvvh.com
 .hfsteel.net
@@ -45059,12 +45058,7 @@
 .hgub2polye.com
 .hgubxzfpolbf.com
 .hgusler.com
-.hgx1.online
-.hgx1.site
-.hgx1.space
 .hgxwhpba.xyz
-.hgzqxe.hanesbrandsinc.jp
-.hgzxmxwzgdbud.com
 .hh.jiankang.com
 .hh6666.com
 .hh6820123.com
@@ -50042,7 +50036,6 @@
 .ios-informationplatform.wps.cn
 .ios.asktagapp.com
 .iosipa.b0.upaiyun.com
-.iossdok.com
 .ioswhi.com
 .iot-business.vodafone.com
 .iot-eu-logser.realme.com
@@ -52234,7 +52227,6 @@
 .jspassport.ssl.qhimg.com
 .jspg.cc
 .jspqhh.xyz
-.jspqms.bellevue-ferienhaus.de
 .jsqmt.qq.com
 .jsrdn.com
 .jsretra.com
@@ -60948,8 +60940,6 @@
 .master-visa-nang-hang-ca-nhan-vib.com
 .master.wap.dphub.sandai.net
 .masterbate.pro
-.mastercard-quetthetindung247.com
-.mastercodepink.com
 .masterfrowne.org
 .masteriklan.net
 .mastermilligram.com
@@ -67629,8 +67619,6 @@
 .niftiesrotonde.com
 .nifty-drive.pro
 .nifty-transportation.com
-.niftygatevay.com
-.niftygotevay.com
 .niftyhospital.com
 .niftyjelly.com
 .niftymaps.com
@@ -68795,6 +68783,7 @@
 .nzq5.u95ivu.xyz
 .nzrlx6wc.icu
 .nzrovf.xyz
+.nzrzgorm.com
 .nzuebfy.com
 .nzydzsw.com
 .nzymeedg.icu
@@ -69525,7 +69514,6 @@
 .ohmchoicechi.online
 .ohmpyq.xyz
 .ohmwrite.com
-.ohmwweulu.com
 .ohmy.bid
 .ohmydating.com
 .ohmygosh.info
@@ -70450,7 +70438,7 @@
 .openrcv.baidu.com
 .opensdeiseal.com
 .opensharecount.com
-.openshop.m-shop.me
+.openshop.oshp.io
 .openssp.ru
 .openstat.net
 .opentecs.com
@@ -71597,7 +71585,6 @@
 .p593.seattlepi.com
 .p59othersq.com
 .p5kzev.com
-.p5mcwdbu.ginzo-buy.jp
 .p6.preppypm.com
 .p63899vn.com
 .p64gk2yhba0p.com
@@ -80506,9 +80493,7 @@
 .rjr-rs.com.br
 .rjvfxxrsepwch.xyz
 .rjw4obbw.com
-.rjwhuxgjjm.com
 .rjwljrf.xyz
-.rjykqcrnz.com
 .rjzqtz.xyz
 .rkajleihgyidsu.com
 .rkalbwupipuow.xyz
@@ -81477,6 +81462,7 @@
 .rvt2687sqo9o.ru
 .rvv.emol.com
 .rvvji.online
+.rvvmhp.xyz
 .rvxqnjsczubld.com
 .rvygmdlwenyl.com
 .rvyuqfjjv.com
@@ -105578,6 +105564,7 @@
 .vioturallis.com
 .viowrel.com
 .viowyf.khaiafi.com
+.vioxx.1.p2l.info
 .vioytuituunmsr.com
 .vip-datings.life
 .vip-dien-mayxanh.com
@@ -122410,6 +122397,7 @@ log.tv.moliv.cn
 log.vdinfo.baofeng.com
 log.vdisk.cn
 log.wtlogin.qq.com
+log.zingnews.com.vn
 log1.golfrival.net
 log2.mtime.cn
 log6.reader.qq.com
@@ -130268,6 +130256,7 @@ z4yp9a.qygs08.cn
 z6vmw.top
 z7752.com
 z888.izhufu.net
+za.zingnews.com.vn
 zaattuotjbkj.com
 zabhoggkgm.com
 zadhuigxoeztzo.com

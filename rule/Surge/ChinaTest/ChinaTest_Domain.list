@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-07 02:12:49
-# DOMAIN: 166
+# UPDATED: 2023-12-07 16:36:45
+# DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64609
+# DOMAIN-SUFFIX: 64597
 # IP-CIDR: 11
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 64830
+# TOTAL: 64819
 .0-6.com
 .00.net
 .000.link
@@ -12649,7 +12649,6 @@
 .cdn-uc.cc
 .cdn-v.com
 .cdn.fun
-.cdn.jetbrains.com
 .cdn.razersynapse.com
 .cdn.samsung.com
 .cdn.shanghai.nyu.edu
@@ -42431,6 +42430,7 @@
 .pocomagnetic.com
 .pocosite.com
 .pocsuite.org
+.podfest.tech
 .podinns.com
 .podjiasu.org
 .poem88.com
@@ -47431,6 +47431,7 @@
 .shunshiidc.com
 .shunshikj.com
 .shunshunliuxue.com
+.shuntongtong.com
 .shunwang.com
 .shuo66.com
 .shuoba.org
@@ -54610,7 +54611,6 @@
 .websocket-test.com
 .websoft9.com
 .webterren.com
-.webtrncdn.com
 .webullbroker.com
 .webullzone.com
 .webuy.ai
@@ -64751,7 +64751,6 @@ beacons3.gvt2.com
 blzddist1-a.akamaihd.net
 c.admob.com
 cdn.ampproject.org
-cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.marketplaceimages.windowsphone.com
 cdp.cloud.unity3d.com
 clickserve.cc-dt.com

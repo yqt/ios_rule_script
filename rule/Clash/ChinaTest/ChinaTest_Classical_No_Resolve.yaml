@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-07 02:12:51
-# DOMAIN: 166
+# UPDATED: 2023-12-07 16:36:50
+# DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64609
+# DOMAIN-SUFFIX: 64597
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64799
+# TOTAL: 64788
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -39,7 +39,6 @@ payload:
   - DOMAIN,beacons3.gvt2.com
   - DOMAIN,c.admob.com
   - DOMAIN,cdn.ampproject.org
-  - DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
   - DOMAIN,cdn.marketplaceimages.windowsphone.com
   - DOMAIN,clickserve.cc-dt.com
   - DOMAIN,clickserve.dartsearch.net
@@ -15739,7 +15738,6 @@ payload:
   - DOMAIN-SUFFIX,cdn-uc.cc
   - DOMAIN-SUFFIX,cdn-v.com
   - DOMAIN-SUFFIX,cdn.fun
-  - DOMAIN-SUFFIX,cdn.jetbrains.com
   - DOMAIN-SUFFIX,cdn.razersynapse.com
   - DOMAIN-SUFFIX,cdn.samsung.com
   - DOMAIN-SUFFIX,cdn.shanghai.nyu.edu
@@ -43665,6 +43663,7 @@ payload:
   - DOMAIN-SUFFIX,pocomagnetic.com
   - DOMAIN-SUFFIX,pocosite.com
   - DOMAIN-SUFFIX,pocsuite.org
+  - DOMAIN-SUFFIX,podfest.tech
   - DOMAIN-SUFFIX,podinns.com
   - DOMAIN-SUFFIX,podjiasu.org
   - DOMAIN-SUFFIX,poem88.com
@@ -48426,6 +48425,7 @@ payload:
   - DOMAIN-SUFFIX,shunshiidc.com
   - DOMAIN-SUFFIX,shunshikj.com
   - DOMAIN-SUFFIX,shunshunliuxue.com
+  - DOMAIN-SUFFIX,shuntongtong.com
   - DOMAIN-SUFFIX,shunwang.com
   - DOMAIN-SUFFIX,shuo66.com
   - DOMAIN-SUFFIX,shuoba.org
@@ -55134,7 +55134,6 @@ payload:
   - DOMAIN-SUFFIX,websjcdn.com
   - DOMAIN-SUFFIX,websocket-test.com
   - DOMAIN-SUFFIX,websoft9.com
-  - DOMAIN-SUFFIX,webtrncdn.com
   - DOMAIN-SUFFIX,webullbroker.com
   - DOMAIN-SUFFIX,webullzone.com
   - DOMAIN-SUFFIX,webuy.ai

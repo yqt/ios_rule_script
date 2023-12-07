@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-07 02:13:57
-# DOMAIN: 167
+# UPDATED: 2023-12-07 16:38:29
+# DOMAIN: 168
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 66110
+# DOMAIN-SUFFIX: 66098
 # IP-ASN: 1014
 # IP-CIDR: 6053
 # IP-CIDR6: 3435
 # USER-AGENT: 69
-# TOTAL: 76861
+# TOTAL: 76850
 .0-6.com
 .00.net
 .000.link
@@ -13034,7 +13034,6 @@
 .cdn-uc.cc
 .cdn-v.com
 .cdn.fun
-.cdn.jetbrains.com
 .cdn.razersynapse.com
 .cdn.samsung.com
 .cdn.shanghai.nyu.edu
@@ -43974,7 +43973,6 @@
 .pocomagnetic.com
 .pocosite.com
 .pocsuite.org
-.podcast.xyz
 .podfest.tech
 .podinns.com
 .podjiasu.org
@@ -49261,6 +49259,7 @@
 .shunshiidc.com
 .shunshikj.com
 .shunshunliuxue.com
+.shuntongtong.com
 .shunwang.com
 .shuo66.com
 .shuoba.com
@@ -56658,7 +56657,6 @@
 .websjcdn.com
 .websocket-test.com
 .websoft9.com
-.webtrncdn.com
 .webullbroker.com
 .webullzone.com
 .webuy.ai
@@ -67180,13 +67178,7 @@ cast.uforadio.com.tw
 cbsnewshd-lh.akamaihd.net
 cdn-videos.akamaized.net
 cdn.ampproject.org
-cdn.globalsigncdn.com.cdn.cloudflare.net
-cdn.hkdtmb.com
 cdn.marketplaceimages.windowsphone.com
-cdnpull.0471tv.org.cn
-cgntv-glive.ofsdelivery.net
-channellive.leshantv.net
-chaoan.chaoantv.com
 clickserve.cc-dt.com
 client.amplifi.com
 cn.widevine.com

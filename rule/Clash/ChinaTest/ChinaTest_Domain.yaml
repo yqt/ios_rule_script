@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-07 02:12:52
-# DOMAIN: 166
+# UPDATED: 2023-12-07 16:36:50
+# DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64609
+# DOMAIN-SUFFIX: 64597
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64799
+# TOTAL: 64788
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -39,7 +39,6 @@ payload:
   - 'beacons3.gvt2.com'
   - 'c.admob.com'
   - 'cdn.ampproject.org'
-  - 'cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'cdn.marketplaceimages.windowsphone.com'
   - 'clickserve.cc-dt.com'
   - 'clickserve.dartsearch.net'
@@ -15739,7 +15738,6 @@ payload:
   - '+.cdn-uc.cc'
   - '+.cdn-v.com'
   - '+.cdn.fun'
-  - '+.cdn.jetbrains.com'
   - '+.cdn.razersynapse.com'
   - '+.cdn.samsung.com'
   - '+.cdn.shanghai.nyu.edu'
@@ -43665,6 +43663,7 @@ payload:
   - '+.pocomagnetic.com'
   - '+.pocosite.com'
   - '+.pocsuite.org'
+  - '+.podfest.tech'
   - '+.podinns.com'
   - '+.podjiasu.org'
   - '+.poem88.com'
@@ -48426,6 +48425,7 @@ payload:
   - '+.shunshiidc.com'
   - '+.shunshikj.com'
   - '+.shunshunliuxue.com'
+  - '+.shuntongtong.com'
   - '+.shunwang.com'
   - '+.shuo66.com'
   - '+.shuoba.org'
@@ -55134,7 +55134,6 @@ payload:
   - '+.websjcdn.com'
   - '+.websocket-test.com'
   - '+.websoft9.com'
-  - '+.webtrncdn.com'
   - '+.webullbroker.com'
   - '+.webullzone.com'
   - '+.webuy.ai'
