@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-07 16:36:47
+# UPDATED: 2023-12-09 02:15:34
 # HOST: 167
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64597
+# HOST-SUFFIX: 64588
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64820
+# TOTAL: 64811
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -33585,7 +33585,6 @@ HOST-SUFFIX,jiuyang.com,ChinaTest
 HOST-SUFFIX,jiuyao666.com,ChinaTest
 HOST-SUFFIX,jiuyaowangluo.com,ChinaTest
 HOST-SUFFIX,jiuyi2005.com,ChinaTest
-HOST-SUFFIX,jiuyingwangluo.com,ChinaTest
 HOST-SUFFIX,jiuyuehuyu.com,ChinaTest
 HOST-SUFFIX,jiuyuu.com,ChinaTest
 HOST-SUFFIX,jiuzhaigou-china.com,ChinaTest
@@ -34589,6 +34588,7 @@ HOST-SUFFIX,jxxyqm.com,ChinaTest
 HOST-SUFFIX,jxyrzdh.com,ChinaTest
 HOST-SUFFIX,jxysyz.com,ChinaTest
 HOST-SUFFIX,jxyuging.com,ChinaTest
+HOST-SUFFIX,jxyworld.com,ChinaTest
 HOST-SUFFIX,jxzyx.com,ChinaTest
 HOST-SUFFIX,jy0604.com,ChinaTest
 HOST-SUFFIX,jy0832.com,ChinaTest
@@ -41163,7 +41163,6 @@ HOST-SUFFIX,ncyinghuochong.net,ChinaTest
 HOST-SUFFIX,ncyunqi.com,ChinaTest
 HOST-SUFFIX,nczfgjj.com,ChinaTest
 HOST-SUFFIX,nd-ydsdfq-sdfqw.com,ChinaTest
-HOST-SUFFIX,nd090.com,ChinaTest
 HOST-SUFFIX,nd15.com,ChinaTest
 HOST-SUFFIX,nd56.com,ChinaTest
 HOST-SUFFIX,ndcimgs.com,ChinaTest
@@ -41529,7 +41528,6 @@ HOST-SUFFIX,ningxiajob.com,ChinaTest
 HOST-SUFFIX,ningxingxing.com,ChinaTest
 HOST-SUFFIX,ninjacn.com,ChinaTest
 HOST-SUFFIX,ninjadq.com,ChinaTest
-HOST-SUFFIX,ninjamustdie.com,ChinaTest
 HOST-SUFFIX,ninthpalace360.com,ChinaTest
 HOST-SUFFIX,nio.com,ChinaTest
 HOST-SUFFIX,nioapis.com,ChinaTest
@@ -46029,7 +46027,6 @@ HOST-SUFFIX,rgyun.com,ChinaTest
 HOST-SUFFIX,rgznworld.com,ChinaTest
 HOST-SUFFIX,rh98.com,ChinaTest
 HOST-SUFFIX,rhce.cc,ChinaTest
-HOST-SUFFIX,rhcqmu.com,ChinaTest
 HOST-SUFFIX,rhctwy.com,ChinaTest
 HOST-SUFFIX,rhhz.net,ChinaTest
 HOST-SUFFIX,rhkj.com,ChinaTest
@@ -54823,6 +54820,7 @@ HOST-SUFFIX,wangyeyixia.com,ChinaTest
 HOST-SUFFIX,wangyou.com,ChinaTest
 HOST-SUFFIX,wangyou2.com,ChinaTest
 HOST-SUFFIX,wangyuan.com,ChinaTest
+HOST-SUFFIX,wangyuedaojia.com,ChinaTest
 HOST-SUFFIX,wangyuwang.com,ChinaTest
 HOST-SUFFIX,wangzhan123.net,ChinaTest
 HOST-SUFFIX,wangzhan360.com,ChinaTest

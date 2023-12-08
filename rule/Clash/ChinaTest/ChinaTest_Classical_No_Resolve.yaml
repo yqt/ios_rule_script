@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-07 16:36:50
+# UPDATED: 2023-12-09 02:15:37
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64597
+# DOMAIN-SUFFIX: 64588
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64788
+# TOTAL: 64779
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -33584,7 +33584,6 @@ payload:
   - DOMAIN-SUFFIX,jiuyao666.com
   - DOMAIN-SUFFIX,jiuyaowangluo.com
   - DOMAIN-SUFFIX,jiuyi2005.com
-  - DOMAIN-SUFFIX,jiuyingwangluo.com
   - DOMAIN-SUFFIX,jiuyuehuyu.com
   - DOMAIN-SUFFIX,jiuyuu.com
   - DOMAIN-SUFFIX,jiuzhaigou-china.com
@@ -34588,6 +34587,7 @@ payload:
   - DOMAIN-SUFFIX,jxyrzdh.com
   - DOMAIN-SUFFIX,jxysyz.com
   - DOMAIN-SUFFIX,jxyuging.com
+  - DOMAIN-SUFFIX,jxyworld.com
   - DOMAIN-SUFFIX,jxzyx.com
   - DOMAIN-SUFFIX,jy0604.com
   - DOMAIN-SUFFIX,jy0832.com
@@ -41162,7 +41162,6 @@ payload:
   - DOMAIN-SUFFIX,ncyunqi.com
   - DOMAIN-SUFFIX,nczfgjj.com
   - DOMAIN-SUFFIX,nd-ydsdfq-sdfqw.com
-  - DOMAIN-SUFFIX,nd090.com
   - DOMAIN-SUFFIX,nd15.com
   - DOMAIN-SUFFIX,nd56.com
   - DOMAIN-SUFFIX,ndcimgs.com
@@ -41528,7 +41527,6 @@ payload:
   - DOMAIN-SUFFIX,ningxingxing.com
   - DOMAIN-SUFFIX,ninjacn.com
   - DOMAIN-SUFFIX,ninjadq.com
-  - DOMAIN-SUFFIX,ninjamustdie.com
   - DOMAIN-SUFFIX,ninthpalace360.com
   - DOMAIN-SUFFIX,nio.com
   - DOMAIN-SUFFIX,nioapis.com
@@ -46028,7 +46026,6 @@ payload:
   - DOMAIN-SUFFIX,rgznworld.com
   - DOMAIN-SUFFIX,rh98.com
   - DOMAIN-SUFFIX,rhce.cc
-  - DOMAIN-SUFFIX,rhcqmu.com
   - DOMAIN-SUFFIX,rhctwy.com
   - DOMAIN-SUFFIX,rhhz.net
   - DOMAIN-SUFFIX,rhkj.com
@@ -54822,6 +54819,7 @@ payload:
   - DOMAIN-SUFFIX,wangyou.com
   - DOMAIN-SUFFIX,wangyou2.com
   - DOMAIN-SUFFIX,wangyuan.com
+  - DOMAIN-SUFFIX,wangyuedaojia.com
   - DOMAIN-SUFFIX,wangyuwang.com
   - DOMAIN-SUFFIX,wangzhan123.net
   - DOMAIN-SUFFIX,wangzhan360.com

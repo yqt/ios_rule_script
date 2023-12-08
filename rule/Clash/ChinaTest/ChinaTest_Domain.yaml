@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-07 16:36:50
+# UPDATED: 2023-12-09 02:15:38
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64597
+# DOMAIN-SUFFIX: 64588
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64788
+# TOTAL: 64779
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -33584,7 +33584,6 @@ payload:
   - '+.jiuyao666.com'
   - '+.jiuyaowangluo.com'
   - '+.jiuyi2005.com'
-  - '+.jiuyingwangluo.com'
   - '+.jiuyuehuyu.com'
   - '+.jiuyuu.com'
   - '+.jiuzhaigou-china.com'
@@ -34588,6 +34587,7 @@ payload:
   - '+.jxyrzdh.com'
   - '+.jxysyz.com'
   - '+.jxyuging.com'
+  - '+.jxyworld.com'
   - '+.jxzyx.com'
   - '+.jy0604.com'
   - '+.jy0832.com'
@@ -41162,7 +41162,6 @@ payload:
   - '+.ncyunqi.com'
   - '+.nczfgjj.com'
   - '+.nd-ydsdfq-sdfqw.com'
-  - '+.nd090.com'
   - '+.nd15.com'
   - '+.nd56.com'
   - '+.ndcimgs.com'
@@ -41528,7 +41527,6 @@ payload:
   - '+.ningxingxing.com'
   - '+.ninjacn.com'
   - '+.ninjadq.com'
-  - '+.ninjamustdie.com'
   - '+.ninthpalace360.com'
   - '+.nio.com'
   - '+.nioapis.com'
@@ -46028,7 +46026,6 @@ payload:
   - '+.rgznworld.com'
   - '+.rh98.com'
   - '+.rhce.cc'
-  - '+.rhcqmu.com'
   - '+.rhctwy.com'
   - '+.rhhz.net'
   - '+.rhkj.com'
@@ -54822,6 +54819,7 @@ payload:
   - '+.wangyou.com'
   - '+.wangyou2.com'
   - '+.wangyuan.com'
+  - '+.wangyuedaojia.com'
   - '+.wangyuwang.com'
   - '+.wangzhan123.net'
   - '+.wangzhan360.com'
