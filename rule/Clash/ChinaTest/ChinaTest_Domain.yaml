@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-09 02:15:38
+# UPDATED: 2023-12-10 02:15:43
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64588
+# DOMAIN-SUFFIX: 64572
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64779
+# TOTAL: 64763
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -26463,6 +26463,7 @@ payload:
   - '+.guangwaifu.com'
   - '+.guangwangye.com'
   - '+.guangxi910.com'
+  - '+.guangxigrc.com'
   - '+.guangyinglvxing.com'
   - '+.guangyv.com'
   - '+.guangzhitui.com'
@@ -31640,7 +31641,6 @@ payload:
   - '+.ingkee.com'
   - '+.ingping.com'
   - '+.inhdd.com'
-  - '+.inhe.net'
   - '+.inhuawei.com'
   - '+.ini3e.com'
   - '+.inibiru.com'
@@ -36312,7 +36312,7 @@ payload:
   - '+.lanyusf.com'
   - '+.lanzhisky.com'
   - '+.lanzhuwh.com'
-  - '+.lanzog.com'
+  - '+.lanzouz.com'
   - '+.lanzov.com'
   - '+.lanzun.net'
   - '+.laobaigan-hs.com'
@@ -41440,7 +41440,6 @@ payload:
   - '+.ni8.com'
   - '+.ni93.com'
   - '+.nianbin.com'
-  - '+.niandai.org'
   - '+.nianhua.plus'
   - '+.niankawang.com'
   - '+.nianzhi.cc'
@@ -47941,7 +47940,6 @@ payload:
   - '+.shiciyun.com'
   - '+.shida66.com'
   - '+.shidaedu.vip'
-  - '+.shidai.tv'
   - '+.shidapx.com'
   - '+.shidastudy.com'
   - '+.shidi.org'
@@ -49850,7 +49848,6 @@ payload:
   - '+.stor-age.com'
   - '+.storage-asset.msi.com'
   - '+.storagesemicon.com'
-  - '+.store.dji.com'
   - '+.storkapp.me'
   - '+.stormorai.com'
   - '+.story520.com'
@@ -56941,10 +56938,7 @@ payload:
   - '+.www.viveport.com'
   - '+.www.volvocars.com'
   - '+.www21420.com'
-  - '+.www3.djicdn.com'
-  - '+.www4.djicdn.com'
   - '+.www48-365365.com'
-  - '+.www5.djicdn.com'
   - '+.wwwatch.in'
   - '+.wwwbuild.net'
   - '+.wwwer.net'

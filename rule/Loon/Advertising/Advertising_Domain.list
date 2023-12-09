@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-09 02:09:23
+# UPDATED: 2023-12-10 02:09:48
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16195
 # DOMAIN-KEYWORD: 116
-# DOMAIN-SUFFIX: 98982
+# DOMAIN-SUFFIX: 98933
 # IP-CIDR: 428
 # URL-REGEX: 303
-# TOTAL: 116024
+# TOTAL: 115975
 .0-000.store
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -1001,7 +1001,6 @@
 .2020mustang.com
 .2021.dxsbb.com
 .2022welcome.com
-.202305300.cn
 .2023cradep0sit.com
 .2023sb.net
 .2024114t.shop
@@ -2937,10 +2936,6 @@
 .88cncc.com
 .88cpc.com
 .88d7b6aa44fb8eb.com
-.88dgl.top
-.88dgn.top
-.88dgs.top
-.88dgx.top
 .88dml.top
 .88eg.cn
 .88eq7spm.de
@@ -3149,6 +3144,7 @@
 .93vitoo.com
 .93vitui.com
 .9403d738ec.com
+.94188.xyz
 .943d6e0643.com
 .943e401be2.com
 .94ab.com
@@ -7853,6 +7849,7 @@
 .admjmp.com
 .admo.tv
 .admon.cn
+.admon.com.vn
 .admon.pro
 .admondom.ru
 .admonitor.com
@@ -11878,9 +11875,7 @@
 .analytic.rollout.io
 .analytic.simplyhealth.co.uk
 .analytic.surfline.com
-.analytic.texas.aaa.com
 .analytic.thuanbui.me
-.analytic.underarmour.com
 .analytic.vnanet.vn
 .analytic.xingcloud.com
 .analytic20.detik.com
@@ -11948,8 +11943,6 @@
 .analytics.adam.page
 .analytics.adfreetime.com
 .analytics.adliners.de
-.analytics.admon.com.vn
-.analytics.adobe.io
 .analytics.adobe.ly
 .analytics.adonisjs.com
 .analytics.adpost.org
@@ -11967,7 +11960,6 @@
 .analytics.allovoisins.com
 .analytics.amakings.com
 .analytics.amedigital.vn
-.analytics.americanfunds.com
 .analytics.amig.com
 .analytics.andrewsmith.com.au
 .analytics.angelina-fieber.com
@@ -12092,6 +12084,7 @@
 .analytics.dev.htmedia.in
 .analytics.dev.springboardvideo.com
 .analytics.developer.riotgames.com
+.analytics.diamondstarfinancial.com.vn
 .analytics.digi8.vn
 .analytics.digitalpfizer.com
 .analytics.disney.go.com
@@ -12841,6 +12834,7 @@
 .anstrex.com
 .anstv.net
 .answerbook.com
+.answeredthec.xyz
 .answeredthechi.org
 .answerhub.com
 .answerroad.com
@@ -14742,8 +14736,6 @@
 .asia-northeast1-affiliate-pr.cloudfunctions.net
 .asia.atradius.com
 .asia.interface.com
-.asiabay.shop
-.asiabayshop.com
 .asiafriendfinder.com
 .asiamarketing.sedgwick.com
 .asian-tindung.com
@@ -15375,7 +15367,6 @@
 .aukalerim.com
 .aukana.jp
 .aukarosizox.com
-.aukcja-id746147.pl
 .aukirtoo.com
 .aukroaze.xyz
 .aukseseemyr.info
@@ -15970,7 +15961,6 @@
 .aypahalndxrxon.com
 .ayprokwbpc.com
 .ayqxx.com
-.ayra.fun
 .ayrovalcontain.com
 .ayrovalcontain.info
 .ayrtpmwuymzbbq.com
@@ -18061,7 +18051,6 @@
 .bezoardawdles.digital
 .bezoarschrysid.com
 .bezoglasa.online
-.bezpieczny-ezakup.pl
 .bezuka.xyz
 .bf-ad.net
 .bf-tools.net
@@ -23080,7 +23069,6 @@
 .chromc.com
 .chrommotor.com
 .chronicads.com
-.chronionezakupy.pl
 .chrothe.com
 .chrtds.xyz
 .chrysostrck.com
@@ -24850,7 +24838,6 @@
 .columnsremembrancesoap.com
 .colved.com
 .colvk.viki.io
-.com-confirmationaddress.xyz
 .com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
 .com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 .com-us.shop
@@ -30465,7 +30452,6 @@
 .dffrahax.com
 .dfg6.top
 .dfgbalon.com
-.dfgdfxfgdgg.xyz
 .dfghaqea.xyz
 .dfgpifa.com
 .dfgwer.com
@@ -36428,7 +36414,6 @@
 .eworfe.babyartikel.de
 .ewoutosh.com
 .ewoverth.buzz
-.ewp.live
 .ewphm.cn
 .ewpktjvfmet.com
 .ewqkrfjkqz.com
@@ -40032,7 +40017,6 @@
 .fxbcpr.xyz
 .fxc.aiquxs.com
 .fxcast.com
-.fxcfvgsec.top
 .fxdepo.com
 .fxeaobv.icu
 .fxfhjs.com
@@ -40301,7 +40285,6 @@
 .gaeebjednl.xyz
 .gaegwdkirfcgp.com
 .gaelsdaniele.website
-.gaerna.vn
 .gaesataigal.uno
 .gafdelins.com
 .gafmajosxog.com
@@ -40515,8 +40498,6 @@
 .gardeningreact.com
 .gardoult.com
 .gardourd.com
-.garenav.vn
-.gareza.vn
 .gargantuan-menu.pro
 .garglecommunicate.com
 .garglingcorny.com
@@ -41706,6 +41687,7 @@
 .gkkchmjdndovu.xyz
 .gkktjf.top
 .gkmohklyjyh.com
+.gkngokwjmykp.xyz
 .gkoutpips.com
 .gkpblxyup.xyz
 .gkpfuoyapoprvln.com
@@ -42835,7 +42817,6 @@
 .goryachie-foto.net
 .gos-kanal.ru
 .goseri-link.mysuki.io
-.goserver.host
 .goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 .goshbiopsy.com
 .gositego.live
@@ -43288,6 +43269,7 @@
 .gronsoad.com
 .grooksom.com
 .groomoub.com
+.groomtoo.com
 .groopsie.net
 .groorsoa.net
 .grooseem.net
@@ -44849,7 +44831,6 @@
 .henghost.com
 .hengshui1.com
 .henharat.ru
-.heniekmusiol.pl
 .heniypgtlw.com
 .henoticpipi.com
 .henriettaproducesdecide.com
@@ -45027,7 +45008,6 @@
 .hgbn.space
 .hgbn1.com
 .hgbnr.com
-.hgcf65edfch.buzz
 .hgcmnews.pro
 .hgdanbas.cn
 .hgdpllko.com
@@ -45938,7 +45918,6 @@
 .hostcontent.li
 .hostcontent.live
 .hostedads.realitykings.com
-.hostfree.pw
 .hostgrater.com
 .hostify.fr
 .hostiko.fr
@@ -50327,7 +50306,6 @@
 .is1-ssl.mzstatic.com
 .is686.com
 .isabelisa.com
-.isadijkroispsu.xyz
 .isaicham.com
 .isaishad.com
 .isanalyze.com
@@ -52353,6 +52331,7 @@
 .jujcjz.xyz
 .jujtcq.amnibus.com
 .jujwhjmtidgp.com
+.jukseeng.net
 .julefhgu.xyz
 .julia-liz.com
 .julidanroebuck.com
@@ -52647,7 +52626,6 @@
 .jyvith.xyz
 .jyxfvp.xyz
 .jzbvpyvhus.com
-.jzbvwqezlwyaz.top
 .jzclick.soso.com
 .jzdgn.cn
 .jzdwl4.cn
@@ -55278,7 +55256,6 @@
 .leche69.com
 .lecythleche.website
 .ledaoutrush.com
-.ledenergiedouk.info
 .ledgesprimely.com
 .ledhatbet.com
 .ledhenone.com
@@ -58218,6 +58195,7 @@
 .lsancil.top
 .lsassoc.com
 .lsawards.com
+.lsbebm.xyz
 .lsce.top
 .lsckongo.website
 .lsdm.co
@@ -59075,7 +59053,6 @@
 .machineryvegetable.com
 .machogodynamis.com
 .machosupupoid.space
-.maciejdominiak.pl
 .macjb.com
 .mack7oyes.com
 .mackeeper.com
@@ -68683,7 +68660,6 @@
 .nwhocamewi.xyz
 .nwhoxwpuj6.com
 .nwhuomqmuym.com
-.nwkhgldkgejw.xyz
 .nwmol.top
 .nwmum.com
 .nwpcptmm.xyz
@@ -69336,7 +69312,6 @@
 .ofedupub.com
 .ofeetles.pro
 .ofenop.ru
-.oferty-prywatne.pl
 .offaces-butional.com
 .offalakazaman.com
 .offarmiesupward.com
@@ -69622,6 +69597,7 @@
 .ojuhjcmhemvs.com
 .ojuhwc.xyz
 .ojvxtz.junonline.jp
+.ojwapnolwa.com
 .ojzfinlhemu.com
 .ojzghaawlf.com
 .ok-11-cai.cc
@@ -71779,7 +71755,6 @@
 .pagetvu.com
 .pageupdate.co
 .paghai.com
-.paginas.store
 .paginaseloqua.unisabana.edu.co
 .paginw.com
 .pagiwp.com
@@ -73161,7 +73136,6 @@
 .philadelphia-content.cresa.com
 .philadelphiadip.com
 .philippschoch.ch
-.phillyana.info
 .philpool.com
 .philstraffic.com
 .phimcsgxumdlf.com
@@ -73892,76 +73866,6 @@
 .pktytp.membershop.lv
 .pkudawbkcl.com
 .pkynqq.com
-.pl-bezpieczna-oferta11952.pl
-.pl-bezpieczna-oferta11955.pl
-.pl-bezpieczna-oferta11958.pl
-.pl-bezpieczna-oferta11961.pl
-.pl-bezpieczna-platnosc.pl
-.pl-bezpieczna-platnosc24.pl
-.pl-bezpieczna-platnosc2478.pl
-.pl-bezpieczna-platnosc24787.pl
-.pl-kup-przedmiot9012.pl
-.pl-oferta-prywatna3455.pl
-.pl-oferta-prywatna6735.pl
-.pl-oferta-prywatna6739.pl
-.pl-oferta-prywatna6742.pl
-.pl-oferta-prywatna8355.pl
-.pl-oferta-sprzedazy122212.pl
-.pl-oferta-sprzedazy122213.pl
-.pl-oferta-sprzedazy122221.pl
-.pl-oferta-sprzedazy122222.pl
-.pl-oferta-sprzedazy122223.pl
-.pl-oferta-sprzedazy122224.pl
-.pl-oferta-sprzedazy122225.pl
-.pl-oferta-sprzedazy122227.pl
-.pl-oferta-sprzedazy122234.pl
-.pl-oferta-sprzedazy122235.pl
-.pl-oferta-sprzedazy122256.pl
-.pl-oferta-sprzedazy122257.pl
-.pl-oferta-sprzedazy122267.pl
-.pl-oferta-sprzedazy122268.pl
-.pl-oferta-sprzedazy122278.pl
-.pl-oferta-sprzedazy122279.pl
-.pl-oferta-sprzedazy122289.pl
-.pl-oferta-sprzedazy122290.pl
-.pl-oferta-sprzedazy12306.pl
-.pl-oferta-sprzedazy12307.pl
-.pl-oferta-sprzedazy12308.pl
-.pl-oferta-sprzedazy12310.pl
-.pl-oferta-sprzedazy12312.pl
-.pl-oferta-sprzedazy12313.pl
-.pl-oferta-sprzedazy12315.pl
-.pl-oferta-sprzedazy12316.pl
-.pl-oferta-sprzedazy12317.pl
-.pl-oferta-sprzedazy12318.pl
-.pl-oferta-sprzedazy12348.pl
-.pl-oferta-sprzedazy12451.pl
-.pl-oferta-sprzedazy13458.pl
-.pl-oferta-sprzedazy15328.pl
-.pl-oferta-sprzedazy24699.pl
-.pl-oferta-sprzedazy98710.pl
-.pl-oferta-uzytkownika125533.pl
-.pl-oferta-uzytkownika125535.pl
-.pl-oferta-uzytkownika125536.pl
-.pl-oferta-uzytkownika1255367.pl
-.pl-oferta-uzytkownika1255368.pl
-.pl-oferta-uzytkownika1255370.pl
-.pl-oferta-uzytkownika1255374.pl
-.pl-oferta-uzytkownika34344.pl
-.pl-oferta-uzytkownika345555.pl
-.pl-oferta-uzytkownika43544.pl
-.pl-oferta-uzytkownika43555.pl
-.pl-oferta-uzytkownika43559.pl
-.pl-oferta284518.pl
-.pl-oferta284536.pl
-.pl-oferta523571.pl
-.pl-prywatna-oferta2139.pl
-.pl-prywatna-oferta3210.pl
-.pl-prywatna-oferta3344.pl
-.pl-prywatne-oferty6789.pl
-.pl-prywatne-oferty7890.pl
-.pl-prywatne-ogloszenie54565.pl
-.pl-prywatne-ogloszenie5585.pl
 .pl-topgal.m-shop.me
 .pl.1feed.app
 .pl.astro-akatemia.fi
@@ -75870,7 +75774,6 @@
 .promotools.biz
 .promovips.ru
 .promoviral.com
-.promowaneogloszenie.pl
 .promowebstar.com
 .promoworld.pw
 .promptsgod.com
@@ -76109,7 +76012,6 @@
 .pryrhoohs.site
 .prytheeaxonia.com
 .prytrainer.com
-.prywatnaaukcja24.pl
 .ps.3fenge.com
 .ps.ecosia.org
 .ps.map.baidu.com
@@ -76349,7 +76251,6 @@
 .ptoapouk.com
 .ptobsagn.com
 .ptochair.xyz
-.ptoftaupsift.com
 .ptoftheca.xyz
 .ptogheeb.net
 .ptoksoaksi.com
@@ -78886,7 +78787,6 @@
 .realzeit.io
 .reamhqf.xyz
 .reamsanswere.org
-.reaonq.xn--hdks770u8f0a8dvzft.net
 .reaoryhuluios.com
 .reapinject.com
 .rear9axis.com
@@ -80211,7 +80111,6 @@
 .reztrack.com
 .rezync.com
 .rf-arch.com
-.rf.gd
 .rfdfgourgoldpiec.info
 .rfeablduda.com
 .rferl.c.goolara.net
@@ -81515,9 +81414,7 @@
 .rwrnkb.lifelongcollectibles.com
 .rwtujypxp.xyz
 .rwuannaxztux.com
-.rwusvej.com
 .rwwoqcjefc.com
-.rwxgorjgvcfirtx.com
 .rwzexfzoyqf.com
 .rwzzeivpakyxql.com
 .rx616.cn
@@ -85810,8 +85707,6 @@
 .sisterncoalitical.info
 .siswensaidoh.xyz
 .siszzonelzzcy.com
-.sit-metrics.nab.com.au
-.sit-smetrics.nab.com.au
 .sitaopewter.com
 .site-azp.slgnt.eu
 .site-kaiseki-tool.com
@@ -93331,7 +93226,6 @@
 .svi.online.sberbank.ru
 .sviakavgwjg.xyz
 .svibeacon.onezapp.com
-.sviluppo.host
 .sviter2s1olenyami1.com
 .svitnews.com
 .svivqrhrh.ru
@@ -99147,7 +99041,7 @@
 .track.buyma.com
 .track.buzzerilla.com
 .track.byzon.swelen.net
-.track.cafu.com
+.track.cam4tracking.com
 .track.canva.com
 .track.capitaloneshopping.com
 .track.catalogs.com
@@ -100396,11 +100290,10 @@
 .trackingapi.kaufda.de
 .trackingapi.meinprospekt.de
 .trackingbr.zingplay.com
+.trackingca.com
+.trackingcareers.accenture.com
 .trackingclick.net
-.trackingeloqua.tec.mx
 .trackingin.zingplay.com
-.trackinginternal.hcltech.com
-.trackinginternal.ti.com
 .trackingio.com
 .trackinglabs.com
 .trackinglrus.wolterskluwer.com
@@ -102693,10 +102586,7 @@
 .ujurupa.com
 .ujvh.pandasuite.io
 .ujvilagtudat.blogspot.hu
-.ujvpma.infinitytools.com
-.ujvqrs.meandem.com
 .ujznabh.com
-.uk-business.vodafone.com
 .uk-mktg.vodafone.com
 .uk.bitcoinfreedom-appl.t500track42.com
 .uk.lucanet.com
@@ -103768,8 +103658,6 @@
 .usinesmycete.xyz
 .usingde.com
 .usingswhoring.com
-.usingyourcard.americanexpress.co.uk
-.usiphdtubj.com
 .usisedprivatedqu.com
 .usivbt.qoo10.com
 .usjbwvtqwv.com
@@ -104068,6 +103956,7 @@
 .v-t.topya.com
 .v-vay.com
 .v.adblockultimate.net
+.v.adserve.tv
 .v.angha.me
 .v.cameo.com
 .v.cdn4.life
@@ -104216,6 +104105,7 @@
 .valentinosverige.com
 .valerainingexplain.com
 .valerie.forbes.com
+.valerieavisnba.com
 .valerieurania.com
 .valetedmasaris.website
 .valeuceplangka.com
@@ -106188,75 +106078,7 @@
 .vongloai.vn
 .vongloaisieumaunhi2021vn.weebly.com
 .vongomedia.ru
-.vongquay-2021lolgarena.ml
-.vongquay-freefire.com
-.vongquay-freefire2021.com
-.vongquay-lienminh.com
-.vongquay-lienquanmobile.site
-.vongquay-pubg-vng.com
-.vongquay-pubgmobilevn-zing.com
-.vongquay-pubgmobilevn.com
-.vongquay-pubgmobilevng.com
-.vongquay-trian-pubgmobilevn.com
-.vongquay.net
-.vongquay2021.work
-.vongquay365.com
-.vongquay79.com
-.vongquay88.com
-.vongquay88.site
-.vongquaybooyah.com
-.vongquaycongnghe.ga
-.vongquaycongnghegarena.com
-.vongquayduthuong.com
-.vongquayfreefiremembership.com
-.vongquaygarena2021.com
-.vongquaygarena21.com
-.vongquaykimcuong79.com
-.vongquaykimcuongfreefire.com
-.vongquaylienminh.vn
-.vongquaylienmoba2021.com
-.vongquaylotus.xyz
-.vongquaylqm.com
-.vongquaymayman.store
-.vongquaymienphi.com
-.vongquaymienphi.net
-.vongquayngoc.com
-.vongquayroblox.com
-.vongquaysieupham-grnfreefirevietnam.club
-.vongquaysieuphamfreefirevn.club
-.vongquaysieuphamfreefirevn.com
-.vongquayskinfree.tk
-.vongquaysukienff.top
-.vongquaythuongfreefire.com
-.vongquaytrungthu.com
-.voniao.com
 .vonkol.com
-.vonocltx.club
-.vonsieuatoc.com
-.vonsieubtoc.com
-.vonsieuctoc.com
-.vonsieudtoc.com
-.vonsieuetoc.com
-.vonsieuftoc.com
-.vonsieugtoc.com
-.vonsieuhtoc.com
-.vonsieuitoc.com
-.vonsieujtoc.com
-.vonsieuktoc.com
-.vonsieultoc.com
-.vonsieumtoc.com
-.vonsieuntoc.com
-.vonsieuotoc.com
-.vonsieuptoc.com
-.vonsieuqtoc.com
-.vonsieurtoc.com
-.vonsieustoc.com
-.vonsieuttoc.com
-.vonsieuutoc.com
-.vonsieuvtoc.com
-.vonsieuxtoc.com
-.vonsieuytoc.com
-.vonsieuztoc.com
 .voob.ru
 .vooculok.com
 .voodoo-ads.io
@@ -107578,7 +107400,6 @@
 .web20-traffic-system.de
 .web3.perkinelmer.com
 .web3ads.net
-.web3validationvault.xyz
 .web4023.top
 .web605.cn
 .web8.net
@@ -108010,12 +107831,7 @@
 .welcome.item24.pl
 .welcome.patientmatters.com
 .welcome.pussysaga.com
-.welcome.qualicoliving.com
-.welcome.visitthelandmark.com
-.welcome.vodafone.com
 .welcomeargument.com
-.welcomememory.pro
-.welcomeneat.pro
 .welcometerrific.com
 .welcomingcasklive.com
 .welcomingvigour.com
@@ -111252,7 +111068,6 @@
 .xn--momovints1-o8a64b3904adea8q.weebly.com
 .xn--mtso8sj6menhyil.online
 .xn--mtsr39cnql.video
-.xn--napth-351b.vn
 .xn--oogle-wmc.com
 .xn--shopgcaoth-043e.vn
 .xn--shopmllutv-cx3e.vn
@@ -111435,7 +111250,6 @@
 .xshop3.ru
 .xsjc4smhbyjf.com
 .xskctff.com
-.xskttd5d.com
 .xsl280.com
 .xsl281.com
 .xsrs.com
@@ -112837,7 +112651,6 @@
 .ytimewornan.org
 .ytimgg.com
 .ytimm.com
-.ytjzqde.xyz
 .ytlcz.cn
 .ytmaitian.com
 .ytmaksim.cn
@@ -113192,7 +113005,6 @@
 .zakelijke-oplossingen-nld.americanexpress.nl
 .zakelijkemarkt.vattenfall.nl
 .zakladka.org.ua
-.zakupy-online24.pl
 .zalanado.fr
 .zalandon.fr
 .zalo-ads-240-td.zadn.vn
@@ -114149,6 +113961,7 @@
 .zuopp.com
 .zuowen.hydcd.com
 .zupee.cim
+.zupee.com
 .zuphaims.com
 .zuppelzockt.com
 .zuqito.uno

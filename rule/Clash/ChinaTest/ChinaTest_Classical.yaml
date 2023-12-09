@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-09 02:15:37
+# UPDATED: 2023-12-10 02:15:43
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64588
+# DOMAIN-SUFFIX: 64572
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64779
+# TOTAL: 64763
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -26463,6 +26463,7 @@ payload:
   - DOMAIN-SUFFIX,guangwaifu.com
   - DOMAIN-SUFFIX,guangwangye.com
   - DOMAIN-SUFFIX,guangxi910.com
+  - DOMAIN-SUFFIX,guangxigrc.com
   - DOMAIN-SUFFIX,guangyinglvxing.com
   - DOMAIN-SUFFIX,guangyv.com
   - DOMAIN-SUFFIX,guangzhitui.com
@@ -31640,7 +31641,6 @@ payload:
   - DOMAIN-SUFFIX,ingkee.com
   - DOMAIN-SUFFIX,ingping.com
   - DOMAIN-SUFFIX,inhdd.com
-  - DOMAIN-SUFFIX,inhe.net
   - DOMAIN-SUFFIX,inhuawei.com
   - DOMAIN-SUFFIX,ini3e.com
   - DOMAIN-SUFFIX,inibiru.com
@@ -36312,7 +36312,7 @@ payload:
   - DOMAIN-SUFFIX,lanyusf.com
   - DOMAIN-SUFFIX,lanzhisky.com
   - DOMAIN-SUFFIX,lanzhuwh.com
-  - DOMAIN-SUFFIX,lanzog.com
+  - DOMAIN-SUFFIX,lanzouz.com
   - DOMAIN-SUFFIX,lanzov.com
   - DOMAIN-SUFFIX,lanzun.net
   - DOMAIN-SUFFIX,laobaigan-hs.com
@@ -41440,7 +41440,6 @@ payload:
   - DOMAIN-SUFFIX,ni8.com
   - DOMAIN-SUFFIX,ni93.com
   - DOMAIN-SUFFIX,nianbin.com
-  - DOMAIN-SUFFIX,niandai.org
   - DOMAIN-SUFFIX,nianhua.plus
   - DOMAIN-SUFFIX,niankawang.com
   - DOMAIN-SUFFIX,nianzhi.cc
@@ -47941,7 +47940,6 @@ payload:
   - DOMAIN-SUFFIX,shiciyun.com
   - DOMAIN-SUFFIX,shida66.com
   - DOMAIN-SUFFIX,shidaedu.vip
-  - DOMAIN-SUFFIX,shidai.tv
   - DOMAIN-SUFFIX,shidapx.com
   - DOMAIN-SUFFIX,shidastudy.com
   - DOMAIN-SUFFIX,shidi.org
@@ -49850,7 +49848,6 @@ payload:
   - DOMAIN-SUFFIX,stor-age.com
   - DOMAIN-SUFFIX,storage-asset.msi.com
   - DOMAIN-SUFFIX,storagesemicon.com
-  - DOMAIN-SUFFIX,store.dji.com
   - DOMAIN-SUFFIX,storkapp.me
   - DOMAIN-SUFFIX,stormorai.com
   - DOMAIN-SUFFIX,story520.com
@@ -56941,10 +56938,7 @@ payload:
   - DOMAIN-SUFFIX,www.viveport.com
   - DOMAIN-SUFFIX,www.volvocars.com
   - DOMAIN-SUFFIX,www21420.com
-  - DOMAIN-SUFFIX,www3.djicdn.com
-  - DOMAIN-SUFFIX,www4.djicdn.com
   - DOMAIN-SUFFIX,www48-365365.com
-  - DOMAIN-SUFFIX,www5.djicdn.com
   - DOMAIN-SUFFIX,wwwatch.in
   - DOMAIN-SUFFIX,wwwbuild.net
   - DOMAIN-SUFFIX,wwwer.net
