@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-10 02:15:43
+# UPDATED: 2023-12-13 02:15:17
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64572
+# DOMAIN-SUFFIX: 64563
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64763
+# TOTAL: 64754
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -6835,6 +6835,7 @@ DOMAIN-SUFFIX,45win.com
 DOMAIN-SUFFIX,45xie.com
 DOMAIN-SUFFIX,45yx.com
 DOMAIN-SUFFIX,46412.com
+DOMAIN-SUFFIX,465676.tv
 DOMAIN-SUFFIX,4658.net
 DOMAIN-SUFFIX,46644.com
 DOMAIN-SUFFIX,46771313.com
@@ -27198,6 +27199,7 @@ DOMAIN-SUFFIX,hainandj.com
 DOMAIN-SUFFIX,hainanfp.com
 DOMAIN-SUFFIX,hainanfz.com
 DOMAIN-SUFFIX,hainanjiuzi.com
+DOMAIN-SUFFIX,hainanpc.net
 DOMAIN-SUFFIX,hainanwangdai.com
 DOMAIN-SUFFIX,hainiaowo.com
 DOMAIN-SUFFIX,hainic.com
@@ -39369,7 +39371,6 @@ DOMAIN-SUFFIX,mengxi.com
 DOMAIN-SUFFIX,mengxiangeka.com
 DOMAIN-SUFFIX,mengxintianxia.com
 DOMAIN-SUFFIX,mengyou.org
-DOMAIN-SUFFIX,mengyuanshucheng.com
 DOMAIN-SUFFIX,mengyuzhe.com
 DOMAIN-SUFFIX,mengzhou.com
 DOMAIN-SUFFIX,mengzhuangxiu.com
@@ -43961,6 +43962,7 @@ DOMAIN-SUFFIX,ptausercontent.com
 DOMAIN-SUFFIX,ptbus.com
 DOMAIN-SUFFIX,ptc-asia.com
 DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,ptcloud.info
 DOMAIN-SUFFIX,ptcxmy.com
 DOMAIN-SUFFIX,ptdsh.com
 DOMAIN-SUFFIX,ptfdc.com
@@ -47573,7 +47575,6 @@ DOMAIN-SUFFIX,shangtao.net
 DOMAIN-SUFFIX,shangtao360.com
 DOMAIN-SUFFIX,shangtianhui.com
 DOMAIN-SUFFIX,shangtongda.com
-DOMAIN-SUFFIX,shangtutuba.com
 DOMAIN-SUFFIX,shanguansoft.com
 DOMAIN-SUFFIX,shangusec.net
 DOMAIN-SUFFIX,shangwb.com
@@ -54239,6 +54240,7 @@ DOMAIN-SUFFIX,vlan9.com
 DOMAIN-SUFFIX,vland-official.com
 DOMAIN-SUFFIX,vlandgroup.com
 DOMAIN-SUFFIX,vlcms.com
+DOMAIN-SUFFIX,vleedesigntheory.site
 DOMAIN-SUFFIX,vliang.com
 DOMAIN-SUFFIX,vlightv.com
 DOMAIN-SUFFIX,vlinkage.com
@@ -55089,9 +55091,7 @@ DOMAIN-SUFFIX,web3389.com
 DOMAIN-SUFFIX,web360.pw
 DOMAIN-SUFFIX,web89.net
 DOMAIN-SUFFIX,web930.com
-DOMAIN-SUFFIX,webankapp.com
 DOMAIN-SUFFIX,webankwealth.com
-DOMAIN-SUFFIX,webankwealthcdn.net
 DOMAIN-SUFFIX,webdissector.com
 DOMAIN-SUFFIX,webdiyer.com
 DOMAIN-SUFFIX,webfalse.com
@@ -55236,6 +55236,7 @@ DOMAIN-SUFFIX,weihuijob.com
 DOMAIN-SUFFIX,weihulian.com
 DOMAIN-SUFFIX,weihuo.site
 DOMAIN-SUFFIX,weihz.net
+DOMAIN-SUFFIX,weijiexi.com
 DOMAIN-SUFFIX,weijinsuo.com
 DOMAIN-SUFFIX,weijiu.org
 DOMAIN-SUFFIX,weijiuxin.com
@@ -58908,6 +58909,7 @@ DOMAIN-SUFFIX,xpaper.net
 DOMAIN-SUFFIX,xpccdn.com
 DOMAIN-SUFFIX,xpcha.com
 DOMAIN-SUFFIX,xpdf.net
+DOMAIN-SUFFIX,xpj0791.cc
 DOMAIN-SUFFIX,xplaymobile.com
 DOMAIN-SUFFIX,xpn.cc
 DOMAIN-SUFFIX,xpsheying.com
@@ -59859,7 +59861,6 @@ DOMAIN-SUFFIX,ycool.com
 DOMAIN-SUFFIX,ycpack.net
 DOMAIN-SUFFIX,ycpai.com
 DOMAIN-SUFFIX,ycpsy.com
-DOMAIN-SUFFIX,ycqin.com
 DOMAIN-SUFFIX,ycrh.com
 DOMAIN-SUFFIX,ycrusher.com
 DOMAIN-SUFFIX,ycs120.com
