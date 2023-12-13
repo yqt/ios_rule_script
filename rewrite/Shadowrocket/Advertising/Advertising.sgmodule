@@ -1,10 +1,10 @@
 #!name=Advertising
-#!desc=最后更新时间 2023-12-07 16:41:14
+#!desc=最后更新时间 2023-12-13 14:46:04
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
-#!reject=728
+#!reject=725
 #!mitm=682
-#!total=1410
+#!total=1407
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,weibointl.api.weibo.cn,wmapi.meituan.com

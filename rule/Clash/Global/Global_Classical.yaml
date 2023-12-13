@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-11 02:12:40
+# UPDATED: 2023-12-13 14:41:53
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19288
+# DOMAIN-SUFFIX: 19329
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19600
+# TOTAL: 19641
 payload:
   - DOMAIN,a.ppy.sh
   - DOMAIN,adobeereg.com
@@ -477,11 +477,9 @@ payload:
   - DOMAIN-SUFFIX,91porn.group
   - DOMAIN-SUFFIX,91porn.party
   - DOMAIN-SUFFIX,91porn.plus
+  - DOMAIN-SUFFIX,91porn.store
   - DOMAIN-SUFFIX,91porn.work
-  - DOMAIN-SUFFIX,91pornf.com
   - DOMAIN-SUFFIX,91pornplus.com
-  - DOMAIN-SUFFIX,91pornv.com
-  - DOMAIN-SUFFIX,91pornx.com
   - DOMAIN-SUFFIX,91porny.com
   - DOMAIN-SUFFIX,91porny.store
   - DOMAIN-SUFFIX,91qk41rf.com
@@ -3989,7 +3987,6 @@ payload:
   - DOMAIN-SUFFIX,dx9527.cc
   - DOMAIN-SUFFIX,dxyav.co
   - DOMAIN-SUFFIX,dydx.exchange
-  - DOMAIN-SUFFIX,dyfl1.pw
   - DOMAIN-SUFFIX,dykycl.com
   - DOMAIN-SUFFIX,dynacw.com
   - DOMAIN-SUFFIX,dynafleetonline.com
@@ -6172,7 +6169,6 @@ payload:
   - DOMAIN-SUFFIX,hm.com
   - DOMAIN-SUFFIX,hmd.site
   - DOMAIN-SUFFIX,hmfby.com
-  - DOMAIN-SUFFIX,hmfun.top
   - DOMAIN-SUFFIX,hnalady.com
   - DOMAIN-SUFFIX,hobonichielog.com
   - DOMAIN-SUFFIX,hochi.news
@@ -6628,6 +6624,7 @@ payload:
   - DOMAIN-SUFFIX,ijavtorrent.com
   - DOMAIN-SUFFIX,ikanhm.xyz
   - DOMAIN-SUFFIX,ikanmh.xyz
+  - DOMAIN-SUFFIX,ikea.cn
   - DOMAIN-SUFFIX,ikea.com
   - DOMAIN-SUFFIX,ikea.net
   - DOMAIN-SUFFIX,ikids.com
@@ -13182,7 +13179,6 @@ payload:
   - DOMAIN-SUFFIX,xshaker.net
   - DOMAIN-SUFFIX,xshr.online
   - DOMAIN-SUFFIX,xsijishe.com
-  - DOMAIN-SUFFIX,xslist.org
   - DOMAIN-SUFFIX,xsrxpwvg.com
   - DOMAIN-SUFFIX,xstas.biz
   - DOMAIN-SUFFIX,xsvod.xyz

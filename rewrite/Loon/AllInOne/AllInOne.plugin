@@ -1,5 +1,5 @@
 #!name= AllInOne
-#!desc= 最后更新时间 2023-12-07 16:41:22
+#!desc= 最后更新时间 2023-12-13 14:46:11
 #!openUrl= https://github.com/blackmatrix7/ios_rule_script
 #!author= blackmatrix7
 #!homepage= https://github.com/blackmatrix7/ios_rule_script
@@ -9,9 +9,9 @@
 #!http-request-script= 1
 #!http-response-script= 25
 #!redirect= 8
-#!reject= 690
+#!reject= 687
 #!mitm= 726
-#!total= 1459
+#!total= 1456
 
 [Rule]
 DOMAIN,appcloud.zhihu.com,REJECT

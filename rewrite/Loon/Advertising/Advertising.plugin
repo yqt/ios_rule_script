@@ -1,12 +1,12 @@
 #!name= Advertising
-#!desc= 最后更新时间 2023-12-07 16:41:14
+#!desc= 最后更新时间 2023-12-13 14:46:04
 #!openUrl= https://github.com/blackmatrix7/ios_rule_script
 #!author= blackmatrix7
 #!homepage= https://github.com/blackmatrix7/ios_rule_script
 #!icon= https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg
-#!reject= 728
+#!reject= 725
 #!mitm= 682
-#!total= 1410
+#!total= 1407
 
 
 [Rewrite]

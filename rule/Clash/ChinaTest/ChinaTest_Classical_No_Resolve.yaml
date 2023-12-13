@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-13 02:15:17
+# UPDATED: 2023-12-13 14:42:38
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64563
+# DOMAIN-SUFFIX: 64542
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64754
+# TOTAL: 64733
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -4990,7 +4990,7 @@ payload:
   - DOMAIN-SUFFIX,16ker.com
   - DOMAIN-SUFFIX,16kxsw.com
   - DOMAIN-SUFFIX,16lao.com
-  - DOMAIN-SUFFIX,16map.com
+  - DOMAIN-SUFFIX,16manhua.com
   - DOMAIN-SUFFIX,16p.com
   - DOMAIN-SUFFIX,16pic.com
   - DOMAIN-SUFFIX,16sucai.com
@@ -26464,7 +26464,6 @@ payload:
   - DOMAIN-SUFFIX,guangwaifu.com
   - DOMAIN-SUFFIX,guangwangye.com
   - DOMAIN-SUFFIX,guangxi910.com
-  - DOMAIN-SUFFIX,guangxigrc.com
   - DOMAIN-SUFFIX,guangyinglvxing.com
   - DOMAIN-SUFFIX,guangyv.com
   - DOMAIN-SUFFIX,guangzhitui.com
@@ -32099,7 +32098,6 @@ payload:
   - DOMAIN-SUFFIX,it918.com
   - DOMAIN-SUFFIX,it985.com
   - DOMAIN-SUFFIX,it9g.com
-  - DOMAIN-SUFFIX,itab.link
   - DOMAIN-SUFFIX,itaic.org
   - DOMAIN-SUFFIX,itaiping.com
   - DOMAIN-SUFFIX,itakeeasy.com
@@ -35355,7 +35353,6 @@ payload:
   - DOMAIN-SUFFIX,kjks.net
   - DOMAIN-SUFFIX,kjkxun.com
   - DOMAIN-SUFFIX,kjmte.com
-  - DOMAIN-SUFFIX,kjnkj.club
   - DOMAIN-SUFFIX,kjr365.com
   - DOMAIN-SUFFIX,kjsng.com
   - DOMAIN-SUFFIX,kjson.com
@@ -35369,7 +35366,6 @@ payload:
   - DOMAIN-SUFFIX,kjykcdn.com
   - DOMAIN-SUFFIX,kjzxtk.com
   - DOMAIN-SUFFIX,kk169.com
-  - DOMAIN-SUFFIX,kk1885.com
   - DOMAIN-SUFFIX,kk30.com
   - DOMAIN-SUFFIX,kk39w.com
   - DOMAIN-SUFFIX,kk3g.net
@@ -59368,7 +59364,6 @@ payload:
   - DOMAIN-SUFFIX,xxrou.net
   - DOMAIN-SUFFIX,xxs8.com
   - DOMAIN-SUFFIX,xxsb.com
-  - DOMAIN-SUFFIX,xxshell.com
   - DOMAIN-SUFFIX,xxshu.com
   - DOMAIN-SUFFIX,xxskins.com
   - DOMAIN-SUFFIX,xxtaotao.com

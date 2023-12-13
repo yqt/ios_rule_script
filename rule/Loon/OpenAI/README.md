@@ -12,15 +12,17 @@ OpenAI规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-07 16:40:59
+最后更新时间：2023-12-13 14:45:52
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 2  | 
 | DOMAIN-KEYWORD | 1  | 
-| DOMAIN-SUFFIX | 20  | 
-| TOTAL | 23  | 
+| DOMAIN-SUFFIX | 23  | 
+| IP-ASN | 2  | 
+| IP-CIDR | 2  | 
+| TOTAL | 30  | 
 
 
 ## Loon 

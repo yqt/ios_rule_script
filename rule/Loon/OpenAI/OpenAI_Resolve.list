@@ -1,13 +1,13 @@
 # NAME: OpenAI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:49:21
+# UPDATED: 2023-12-13 14:45:52
 # DOMAIN: 2
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 23
-# IP-ASN: 1
+# IP-ASN: 2
 # IP-CIDR: 2
-# TOTAL: 29
+# TOTAL: 30
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
+IP-ASN,14061
 IP-ASN,20473
 IP-CIDR,24.199.123.28/32
 IP-CIDR,64.23.132.171/32
