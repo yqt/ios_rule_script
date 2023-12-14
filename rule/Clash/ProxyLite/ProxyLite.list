@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-24 10:38:46
+# UPDATED: 2023-12-14 16:57:23
 # DOMAIN: 23
 # DOMAIN-KEYWORD: 22
-# DOMAIN-SUFFIX: 837
+# DOMAIN-SUFFIX: 836
 # IP-CIDR: 89
 # IP-CIDR6: 4
-# TOTAL: 975
+# TOTAL: 974
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,api.waqi.info
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,ancsconf.org
@@ -70,7 +71,6 @@ DOMAIN-SUFFIX,anthonycalzadilla.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,apk-dl.com
@@ -131,7 +131,6 @@ DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blogsmithmedia.com
-DOMAIN-SUFFIX,blogspot.hk
 DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bloomberg.de
@@ -187,6 +186,7 @@ DOMAIN-SUFFIX,conoha.jp
 DOMAIN-SUFFIX,content.office.net
 DOMAIN-SUFFIX,coursehero.com
 DOMAIN-SUFFIX,crisp.chat
+DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,cygames.jp
@@ -275,7 +275,6 @@ DOMAIN-SUFFIX,ftimg.net
 DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,fubo.tv
 DOMAIN-SUFFIX,fzlm.net
-DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,gabia.net
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,garena.com

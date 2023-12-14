@@ -21,20 +21,20 @@
 
 ## 规则统计
 
-最后更新时间：2023-11-28 02:14:03
+最后更新时间：2023-12-14 16:57:39
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 167  | 
+| DOMAIN | 168  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 65934  | 
-| IP-ASN | 1008  | 
-| IP-CIDR | 5983  | 
-| IP-CIDR6 | 3498  | 
+| DOMAIN-SUFFIX | 66064  | 
+| IP-ASN | 1016  | 
+| IP-CIDR | 6109  | 
+| IP-CIDR6 | 3479  | 
 | PROCESS-NAME | 11  | 
 | USER-AGENT | 69  | 
-| TOTAL | 76683  | 
+| TOTAL | 76929  | 
 
 
 ## Surge 
@@ -47,11 +47,16 @@
 - ChinaMax_Domain.list，请使用DOMAIN-SET。
 
 #### 文件区别
+- ChinaMax_All.list与ChinaMax_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - ChinaMax_Resolve.list与ChinaMax.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 - ChinaMax.list与ChinaMax_No_IPv6.list的区别仅在于后者不带IPv6类型的规则，适用纯IPv4网络。
 - ChinaMax_Resolve.list与ChinaMax_No_IPv6_Resolve.list的区别仅在于后者不带IPv6类型的规则，且不带no-resolve，适用纯IPv4网络。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- ChinaMax_All.list 单独使用。
+- ChinaMax_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - ChinaMax.list、ChinaMax_Domain.list 共同使用。
 - ChinaMax_Resolve.list、ChinaMax_Domain.list 共同使用。
 - ChinaMax_No_IPv6.list、ChinaMax_Domain.list 纯IPv4网络，共同使用。
@@ -387,7 +392,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Domestic.yaml
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Douyin.yaml
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/XunLei.list
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ABC.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Iflytek.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Iqiyi.list
@@ -422,13 +426,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://rules.kr328.app/yuanfudao.yaml
 - https://rules.kr328.app/bytedance.yaml
 - https://rules.kr328.app/4399.yaml
-- https://rules.kr328.app/ccb.yaml
-- https://rules.kr328.app/letv-ads@ads.yaml
-- https://rules.kr328.app/jd-ads.yaml
-- https://rules.kr328.app/xueqiu.yaml
-- https://rules.kr328.app/icbc.yaml
-- https://rules.kr328.app/kuaishou-ads@ads.yaml
-- https://rules.kr328.app/kingsoft.yaml
 - https://rules.kr328.app/kuaishou-ads.yaml
 - https://rules.kr328.app/keep.yaml
 - https://rules.kr328.app/u17.yaml
@@ -454,9 +451,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://rules.kr328.app/bytedance-ads.yaml
 - https://rules.kr328.app/youku-ads.yaml
 - https://rules.kr328.app/huawei@cn.yaml
+- https://rules.kr328.app/dingtalk.yaml
 - https://rules.kr328.app/youku.yaml
 - https://rules.kr328.app/51job.yaml
 - https://rules.kr328.app/sina-ads.yaml
+- https://rules.kr328.app/baidu.yaml
 - https://rules.kr328.app/jd.yaml
 - https://rules.kr328.app/115.yaml
 - https://rules.kr328.app/xunlei.yaml
@@ -469,19 +468,18 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://rules.kr328.app/chinamobile.yaml
 - https://rules.kr328.app/oppo.yaml
 - https://rules.kr328.app/dedao.yaml
+- https://rules.kr328.app/bilibili.yaml
 - https://rules.kr328.app/meizu.yaml
-- https://rules.kr328.app/sohu-ads.yaml
-- https://rules.kr328.app/8btc.yaml
 - https://rules.kr328.app/acfun.yaml
 - https://rules.kr328.app/chinaunicom.yaml
+- https://rules.kr328.app/sina@ads.yaml
 - https://rules.kr328.app/cas.yaml
-- https://rules.kr328.app/letv-ads.yaml
 - https://rules.kr328.app/acfun@ads.yaml
 - https://rules.kr328.app/teambition.yaml
 - https://rules.kr328.app/netease@ads.yaml
 - https://rules.kr328.app/tencent-ads.yaml
+- https://rules.kr328.app/csdn.yaml
 - https://rules.kr328.app/tencent-ads@ads.yaml
-- https://rules.kr328.app/iflytek.yaml
 - https://rules.kr328.app/vancl.yaml
 - https://rules.kr328.app/unionpay.yaml
 - https://rules.kr328.app/eastmoney.yaml
@@ -504,11 +502,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://rules.kr328.app/hupu.yaml
 - https://rules.kr328.app/didi.yaml
 - https://rules.kr328.app/pingan.yaml
-- https://rules.kr328.app/abc.yaml
 - https://rules.kr328.app/baidu-ads.yaml
 - https://rules.kr328.app/jd@ads.yaml
 - https://rules.kr328.app/pinduoduo.yaml
-- https://rules.kr328.app/uc.yaml
 - https://rules.kr328.app/qingcloud.yaml
 - https://rules.kr328.app/tongcheng.yaml
 - https://rules.kr328.app/sf-express.yaml
