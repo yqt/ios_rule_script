@@ -21,19 +21,18 @@
 
 ## 规则统计
 
-最后更新时间：2023-11-28 02:09:54
+最后更新时间：2023-12-14 16:52:05
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| AND | 7  | 
-| DOMAIN | 12498  | 
+| AND | 1  | 
+| DOMAIN | 12443  | 
 | DOMAIN-KEYWORD | 302  | 
-| DOMAIN-SUFFIX | 128039  | 
+| DOMAIN-SUFFIX | 130394  | 
 | IP-CIDR | 452  | 
-| PROCESS-NAME | 5  | 
-| URL-REGEX | 303  | 
-| TOTAL | 141606  | 
+| URL-REGEX | 285  | 
+| TOTAL | 143877  | 
 
 
 ## Surge 
@@ -45,9 +44,14 @@
 - URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置AdvertisingTest_MITM.sgmodule，仅供参考。
 
 #### 文件区别
+- AdvertisingTest_All.list与AdvertisingTest_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - AdvertisingTest_Resolve.list与AdvertisingTest.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- AdvertisingTest_All.list 单独使用。
+- AdvertisingTest_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - AdvertisingTest.list、AdvertisingTest_Domain.list 共同使用。
 - AdvertisingTest_Resolve.list、AdvertisingTest_Domain.list 共同使用。
 

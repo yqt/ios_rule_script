@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2023-11-27 02:17:06
+desc: 最后更新时间 2023-12-14 17:00:19
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 691
-# mitm: 726
+# reject: 688
+# mitm: 727
 # force-http-engine-hosts: 6
-# total: 1462
+# total: 1460
 
 
 
@@ -96,7 +96,6 @@ http:
     - ^https:\/\/qapi\.huolala\.cn\/home_new_user - reject
     - ^https:\/\/res\.hongyibo\.com\.cn\/os\/gs\/resapi\/activity - reject
     - ^https:\/\/res\.kfc\.com\.cn\/CRM\/kfcad\/custom_v2\/wxapp - reject
-    - ^https:\/\/res\.pizzahut\.com\.cn\/CRM - reject
     - ^https:\/\/router-app-api\.jdcloud\.com\/v\d\/board\/routerAppSplash - reject
     - ^https:\/\/s\.jiediankeji\.com\/adv - reject
     - ^https:\/\/smarket\.dian\.so - reject
@@ -619,9 +618,6 @@ http:
     - ^https?:\/\/shop-api\.retail\.mi\.com\/mtop\/navi\/skywheel\/mishop\/splash - reject
     - ^https?:\/\/shopapi\.io\.mi\.com\/mtop\/mf\/resource\/homePage\/pageConfig - reject
     - ^https?:\/\/shopic\.sf-express\.com\/crm\/mobile\/common\/flashscreen - reject
-    - ^https?:\/\/slapi.oray.net/client/ad - reject
-    - ^https?:\/\/slapi\.oray\.net\/adver - reject
-    - ^https?:\/\/slapi\.oray\.net\/client\/ad - reject
     - ^https?:\/\/smkmp\.96225\.com\/smkcenter\/ad/ - reject
     - ^https?:\/\/smusic\.app\.wechat\.com\/commonCgi\/advertisement\/get_orint_egg$ - reject
     - ^https?:\/\/sns\.amap\.com\/ws\/msgbox\/pull? - reject
@@ -652,6 +648,7 @@ http:
     - ^https?:\/\/t1\.market\.xiaomi\.com\/thumbnail\/webp\/w1170q100\/ - reject
     - ^https?:\/\/tagit\.hyhuo\.com\/recover\/list - reject
     - ^https?:\/\/tcmobileapi\.17usoft\.com\/appindexnew\/index\/getappindexconfig - reject
+    - ^https?:\/\/td\.cgmcare\.cn\/api\/ad - reject
     - ^https?:\/\/tel\.mangaapi\.manhuaren\.com\/(v2\/public\/getStartUpMessage|v1\/public\/getStartPageAds) - reject
     - ^https?:\/\/tel\.mangaapi\.manhuaren\.com\/v2\/ad\/getMultiAdsStrategy - reject
     - ^https?:\/\/thor\.weidian\.com\/ares\/home\.splash\/ - reject
@@ -953,6 +950,7 @@ http:
     - "*.weibo.cn"
     - "*.weilai555.com"
     - "*.wtzw.com"
+    - "*.yuanfudao.com"
     - "*.yuxueyuan.cn"
     - "*.zhangle.com"
     - "*api.oray.net"
@@ -1493,6 +1491,7 @@ http:
     - "tagit.hyhuo.com"
     - "tan.ipnas.ltd"
     - "tcmobileapi.17usoft.com"
+    - "td.cgmcare.cn"
     - "tel.mangaapi.manhuaren.com"
     - "tft-app.cdtft.cn"
     - "thor.weidian.com"
@@ -1628,7 +1627,6 @@ http:
     - "wxproj.seeyouyima.com"
     - "wxs-weixin.sd.zhumanggroup.com"
     - "xcx.xianbaow.com"
-    - "xyst.yuanfudao.com"
     - "xyz.cnki.net"
     - "y.gtimg.cn"
     - "yanxuan.nosdn.127.net"

@@ -21,20 +21,29 @@ AdGuard DNS Filter 规则！！
 
 ## 规则统计
 
-最后更新时间：2023-11-24 10:39:13
+最后更新时间：2023-12-14 16:57:59
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 3  | 
-| DOMAIN-SUFFIX | 57514  | 
-| TOTAL | 57517  | 
+| DOMAIN-SUFFIX | 56951  | 
+| TOTAL | 56954  | 
 
 
 ## Surge 
 
 #### 使用说明
 - AdGuardSDNSFilter_Domain.list，请使用DOMAIN-SET。
+
+#### 文件区别
+- AdGuardSDNSFilter_All.list与AdGuardSDNSFilter_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
+
+#### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- AdGuardSDNSFilter_All.list 单独使用。
+- AdGuardSDNSFilter_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 
 #### 规则链接
 ## 子规则/排除规则

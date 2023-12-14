@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2023-11-25 02:13:16
+最后更新时间：2023-12-14 16:55:58
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -70,6 +70,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://rules.kr328.app/sina.yaml
 - https://rules.kr328.app/sina-ads@ads.yaml
 - https://rules.kr328.app/sina-ads.yaml
+- https://rules.kr328.app/sina@ads.yaml
 - https://ruleset.isagood.day/sina.conf
 
 

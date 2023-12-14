@@ -1,9 +1,9 @@
 # NAME: AdGuardSDNSFilterDirect
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-24 10:39:17
-# HOST: 118
-# TOTAL: 118
+# UPDATED: 2023-12-14 16:58:05
+# HOST: 120
+# TOTAL: 120
 HOST,5471782.fls.doubleclick.net,AdGuardSDNSFilterDirect
 HOST,79423.analytics.edgekey.net,AdGuardSDNSFilterDirect
 HOST,a.adwolf.ru,AdGuardSDNSFilterDirect
@@ -47,6 +47,7 @@ HOST,clickattr.wayup.com,AdGuardSDNSFilterDirect
 HOST,cloud.notification-naviextras.com,AdGuardSDNSFilterDirect
 HOST,cm-beacon.nakanohito.jp,AdGuardSDNSFilterDirect
 HOST,cm-widget.nakanohito.jp,AdGuardSDNSFilterDirect
+HOST,cmp.inmobi.com,AdGuardSDNSFilterDirect
 HOST,crm-cdn.peek-cloppenburg.com,AdGuardSDNSFilterDirect
 HOST,cs.silverpop.com,AdGuardSDNSFilterDirect
 HOST,cutcaptcha.com,AdGuardSDNSFilterDirect
@@ -105,6 +106,7 @@ HOST,px.a8.net,AdGuardSDNSFilterDirect
 HOST,radiofrance.targetspot.com,AdGuardSDNSFilterDirect
 HOST,redir.tradedoubler.com,AdGuardSDNSFilterDirect
 HOST,redirect.appmetrica.yandex.com,AdGuardSDNSFilterDirect
+HOST,refer.discover.com,AdGuardSDNSFilterDirect
 HOST,remembering.ca,AdGuardSDNSFilterDirect
 HOST,sponsor.nitropay.com,AdGuardSDNSFilterDirect
 HOST,stash.roistat.com,AdGuardSDNSFilterDirect
