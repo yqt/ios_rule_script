@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-14 16:57:23
+# UPDATED: 2023-12-15 02:13:41
 # HOST: 23
 # HOST-KEYWORD: 22
-# HOST-SUFFIX: 836
+# HOST-SUFFIX: 842
 # IP-CIDR: 89
 # IP6-CIDR: 4
 # USER-AGENT: 7
-# TOTAL: 981
+# TOTAL: 987
 HOST,addons.mozilla.org,ProxyLite
 HOST,amp-api.podcasts.apple.com,ProxyLite
 HOST,api.waqi.info,ProxyLite
