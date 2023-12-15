@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-15 02:10:21
+# UPDATED: 2023-12-16 02:11:11
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12443
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 130282
+# DOMAIN-SUFFIX: 130321
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 143765
+# TOTAL: 143804
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -3705,6 +3705,7 @@
 .88d7b6aa44fb8eb.com
 .88dgl.top
 .88dgn.top
+.88dgx.top
 .88dml.top
 .88eg.cn
 .88eq7spm.de
@@ -9657,7 +9658,6 @@
 .ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 .ads-api.kidsnote.com
 .ads-api.playfun.vn
-.ads-api.production.nebula-drupal.stuff.co.nz
 .ads-api.stuff.co.nz
 .ads-api.twitter.com
 .ads-au.onelouder.com
@@ -21443,6 +21443,7 @@
 .birdmedia.com
 .birdnavy.com
 .birgga.top
+.birglucy.xyz
 .birlerskababs.com
 .biroads.com
 .birqmiowxfh.com
@@ -28782,6 +28783,7 @@
 .cnetdirectintl.com
 .cnetwidget.creativemark.co.uk
 .cnfanglei.com
+.cnfccdxhggrz.com
 .cngcpy.com
 .cnglish.site
 .cnhbxx.com
@@ -47929,6 +47931,7 @@
 .fkwc.sfr.fr
 .fkwkzlb.com
 .fkxlsc.fenix-store.com
+.fkyhqtfiopfit.com
 .fl.5.p2l.info
 .fl.dumpiesgoschen.com
 .fl01.ct2.comclick.com
@@ -91938,8 +91941,6 @@
 .pll.pearlinsurance.com
 .pllah.com
 .plmhezvbcjcywo.com
-.plmwsl.com
-.plnrkgc.xyz
 .plnshao.xyz
 .plntxgh.com
 .plo.pearlinsurance.com
@@ -93166,7 +93167,6 @@
 .presence.teams.live.com
 .presentationathletefoundation.com
 .presentationbishop.com
-.presentbedroom.com
 .presentimentcongruousactively.com
 .presentlymumblespin.com
 .presentlypacifyforests.com
@@ -99300,7 +99300,6 @@
 .rigryvusfyu.xyz
 .rihosaphe.com
 .rijmfqzckx.com
-.rik11.fun
 .rikehemanwho.com
 .rikmomo.co
 .rikmomo.me
@@ -117865,7 +117864,6 @@
 .tbm09.com
 .tbmgyz.centerparcs.de
 .tbplcam.com
-.tbppfktchj.com
 .tbradshedm.org
 .tbs.qq.com
 .tbs1.xyz
@@ -130008,7 +130006,6 @@
 .vjkmmog.cn
 .vjksa.com
 .vjnxpj.xyz
-.vjpgm.space
 .vjrpnv.xyz
 .vjsohgd.com
 .vjtskjg.com
@@ -133263,7 +133260,6 @@
 .wirjoi.meetsmore.com
 .wirratailage.com
 .wirrttnlmumsak.xyz
-.wirsilsa.net
 .wirverkaufennichts.de
 .wirwastine.digital
 .wirypaste.com
@@ -137345,6 +137341,7 @@
 .ybswii.swarovski.com
 .ybsyyh.com
 .ybtianxi.com
+.ybuduzpe.com
 .ybujfcuqya.com
 .ybwcvhcnulrgbvy.com
 .ybx.yahoo.co.jp
@@ -139251,6 +139248,7 @@
 .zfgn.hyxsoft.com
 .zfgyvoarqreba.com
 .zfhlsg.repassa.com.br
+.zfhuzyw.com
 .zfjiu.com
 .zfkjrm.xyz
 .zfkmw.com

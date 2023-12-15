@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-15 02:09:23
+# UPDATED: 2023-12-16 02:09:58
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16212
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97441
+# DOMAIN-SUFFIX: 97479
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 114481
+# TOTAL: 114519
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -2123,7 +2123,6 @@
 .5c8ac0803b.com
 .5ca59a669a.com
 .5caa478343.com
-.5cbbdb4434.com
 .5cf8606941.com
 .5d2d04464c.com
 .5d4170700c.com
@@ -5935,7 +5934,6 @@
 .acmexxx.com
 .acmsg.online
 .acnenomor.com
-.acnkdrklbuwhr.com
 .acnwxjhfby.com
 .acocpcvm.com
 .acodes.b2b.cn
@@ -8144,7 +8142,6 @@
 .ads-adv.top
 .ads-api.kidsnote.com
 .ads-api.playfun.vn
-.ads-api.production.nebula-drupal.stuff.co.nz
 .ads-api.stuff.co.nz
 .ads-backend.chaincliq.com
 .ads-bidder-api.twitter.com
@@ -14134,6 +14131,7 @@
 .apyecom.com
 .apyoth.com
 .apyrenealiyos.digital
+.apytbfdzy.com
 .apytrc.com
 .apyuelang.com
 .aq360.club
@@ -42554,11 +42552,7 @@
 .gp.jstv.com
 .gp.zaiyunli.cn
 .gparted.fr
-.gpay-mpos-ruttientindung.com
-.gpay247-mp0s-quetthetindung.com
 .gpcrn.com
-.gpiljd.thetiebar.com
-.gpiyhj.leopalace21.com
 .gpiyzwt.com
 .gplinks.in
 .gplxgovn.vn
@@ -50794,7 +50788,6 @@
 .jfknowifcewd.com
 .jfltzz.riu.com
 .jfm4.pop.baofeng.net
-.jfmbkffcxg.com
 .jfmpafthtwuo.com
 .jfnkjr.xyz
 .jfnnzq.quelle.de
@@ -68787,6 +68780,7 @@
 .ofseedotom.com
 .ofslakotha.com
 .oftenparttimebeen.com
+.oftheappyri.org
 .oftheseveryh.org
 .oftheseveryh.xyz
 .ofthinkfutile.com
@@ -71863,7 +71857,7 @@
 .pdxithwqtijfkp.com
 .pdxor02.com
 .pdygfdtghcyh.com
-.pdzutf.sftworks.jp
+.pe.5.p2l.info
 .pe.txbe.at
 .pe5a.top
 .pe8.com
@@ -74377,7 +74371,6 @@
 .pqomnfbg.com
 .pqrm9.com
 .pqrtd9hhtu9x.info
-.pqsymknliiwzlr.com
 .pqulqqpmx.com
 .pqwtrq.xyz
 .pqxbcydpv.xyz
@@ -74589,7 +74582,6 @@
 .presentationathletefoundation.com
 .presentationbishop.com
 .presentationtracking.netflix.com
-.presentbedroom.com
 .presentimentcongruousactively.com
 .presentlymumblespin.com
 .presentlypacifyforests.com
@@ -81872,7 +81864,6 @@
 .sbonjqsxicqfo.xyz
 .sbpb1.chuiyue.com
 .sbpb1.qulishi.com
-.sbpzeq.lululemon.com.au
 .sbrakepads.com
 .sbrands.lookfantastic.com
 .sbroiughttohi.xyz
@@ -83542,9 +83533,7 @@
 .sguac.com
 .sgunqfpjtxfndtt.com
 .sgvdqykfjuk.com
-.sgw-analytics.panasonic.com
 .sgwsqcyhxkb.com
-.sgxcoin.net
 .sgxkm.com
 .sgzhg.pornlovo.co
 .sgzs999.com
@@ -91932,6 +91921,7 @@
 .successorwindscreeninstruct.com
 .suchasricew.info
 .suchbasementdarn.com
+.suchcesusar.org
 .suchmaschinen-ranking-hits.de
 .sucior.ru
 .suckdude.com
@@ -102586,6 +102576,7 @@
 .usinesmycete.xyz
 .usingde.com
 .usingswhoring.com
+.usiphdtubj.com
 .usisedprivatedqu.com
 .usivbt.qoo10.com
 .usjbwvtqwv.com
@@ -102789,6 +102780,7 @@
 .uvsea.cn
 .uvsvlisbartwq.com
 .uvtuiks.com
+.uvwelvnydoy.com
 .uvwtmppnbqgzha.com
 .uvxclrl.com
 .uvzomxvbpbgo.com
@@ -107433,7 +107425,6 @@
 .wirjoi.meetsmore.com
 .wirratailage.com
 .wirrttnlmumsak.xyz
-.wirsilsa.net
 .wirverkaufennichts.de
 .wirwastine.digital
 .wirypaste.com
@@ -108369,16 +108360,7 @@
 .wwrpfevyca.com
 .wwu.jjill.com
 .wwunnmshmv.xyz
-.wwv.jjill.com
 .wwvqxqmcvfxwqq.com
-.www-102.aig.com
-.www-103.aig.com
-.www-103.chartisinsurance.com
-.www-104.aig.com
-.www-106.aig.com
-.www-108.aig.com
-.www-109.aig.com
-.www-110.aig.com
 .www-171.aig.com
 .www-172.aig.com
 .www-61677.com
