@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-15 02:12:42
+# UPDATED: 2023-12-17 02:12:27
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19332
+# DOMAIN-SUFFIX: 19354
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19644
+# TOTAL: 19666
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -476,9 +476,11 @@ DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,91porn.group
 DOMAIN-SUFFIX,91porn.party
 DOMAIN-SUFFIX,91porn.plus
-DOMAIN-SUFFIX,91porn.store
 DOMAIN-SUFFIX,91porn.work
+DOMAIN-SUFFIX,91pornf.com
 DOMAIN-SUFFIX,91pornplus.com
+DOMAIN-SUFFIX,91pornv.com
+DOMAIN-SUFFIX,91pornx.com
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,91porny.store
 DOMAIN-SUFFIX,91qk41rf.com
@@ -749,7 +751,6 @@ DOMAIN-SUFFIX,ahtops.com
 DOMAIN-SUFFIX,ahtranny.com
 DOMAIN-SUFFIX,ahvideosexe.com
 DOMAIN-SUFFIX,ahxxx.club
-DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
 DOMAIN-SUFFIX,aibaobei.me
 DOMAIN-SUFFIX,aicoin.com
@@ -7426,7 +7427,6 @@ DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,kouwobb.com
 DOMAIN-SUFFIX,kphimsex.net
 DOMAIN-SUFFIX,kpht85.com
-DOMAIN-SUFFIX,kpptoto.info
 DOMAIN-SUFFIX,krakenjs.com
 DOMAIN-SUFFIX,krhentai.com
 DOMAIN-SUFFIX,kristenbjorn.com
@@ -11310,7 +11310,6 @@ DOMAIN-SUFFIX,sonypicturesstudios.com
 DOMAIN-SUFFIX,sonypicturestelevision.com
 DOMAIN-SUFFIX,sonypicturestelevisiongames.com
 DOMAIN-SUFFIX,soolakhi.com
-DOMAIN-SUFFIX,soooyinfor.lol
 DOMAIN-SUFFIX,soporn.com
 DOMAIN-SUFFIX,sora6.com
 DOMAIN-SUFFIX,sorairi.info
@@ -13178,11 +13177,13 @@ DOMAIN-SUFFIX,xsela.cc
 DOMAIN-SUFFIX,xshaker.net
 DOMAIN-SUFFIX,xshr.online
 DOMAIN-SUFFIX,xsijishe.com
+DOMAIN-SUFFIX,xslist.org
 DOMAIN-SUFFIX,xsrxpwvg.com
 DOMAIN-SUFFIX,xstas.biz
 DOMAIN-SUFFIX,xsvod.xyz
 DOMAIN-SUFFIX,xsz-av.com
 DOMAIN-SUFFIX,xtegvk.xyz
+DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,xtubebdsm.com
 DOMAIN-SUFFIX,xtubezoo.com
 DOMAIN-SUFFIX,xu97.vip

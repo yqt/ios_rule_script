@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-15 02:13:01
+# UPDATED: 2023-12-17 02:12:46
 # HOST: 520
 # HOST-KEYWORD: 37
-# HOST-SUFFIX: 19619
+# HOST-SUFFIX: 19641
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 20338
+# TOTAL: 20360
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
@@ -799,9 +799,11 @@ HOST-SUFFIX,91porn.best,Global
 HOST-SUFFIX,91porn.group,Global
 HOST-SUFFIX,91porn.party,Global
 HOST-SUFFIX,91porn.plus,Global
-HOST-SUFFIX,91porn.store,Global
 HOST-SUFFIX,91porn.work,Global
+HOST-SUFFIX,91pornf.com,Global
 HOST-SUFFIX,91pornplus.com,Global
+HOST-SUFFIX,91pornv.com,Global
+HOST-SUFFIX,91pornx.com,Global
 HOST-SUFFIX,91porny.com,Global
 HOST-SUFFIX,91porny.store,Global
 HOST-SUFFIX,91qk41rf.com,Global
@@ -1070,7 +1072,6 @@ HOST-SUFFIX,ahtops.com,Global
 HOST-SUFFIX,ahtranny.com,Global
 HOST-SUFFIX,ahvideosexe.com,Global
 HOST-SUFFIX,ahxxx.club,Global
-HOST-SUFFIX,ai7995.site,Global
 HOST-SUFFIX,ai91porn.cc,Global
 HOST-SUFFIX,aibaobei.me,Global
 HOST-SUFFIX,aicoin.com,Global
@@ -7672,7 +7673,6 @@ HOST-SUFFIX,kotlinlang.org,Global
 HOST-SUFFIX,kouwobb.com,Global
 HOST-SUFFIX,kphimsex.net,Global
 HOST-SUFFIX,kpht85.com,Global
-HOST-SUFFIX,kpptoto.info,Global
 HOST-SUFFIX,krakenjs.com,Global
 HOST-SUFFIX,krhentai.com,Global
 HOST-SUFFIX,kristenbjorn.com,Global
@@ -11528,7 +11528,6 @@ HOST-SUFFIX,sonypicturesstudios.com,Global
 HOST-SUFFIX,sonypicturestelevision.com,Global
 HOST-SUFFIX,sonypicturestelevisiongames.com,Global
 HOST-SUFFIX,soolakhi.com,Global
-HOST-SUFFIX,soooyinfor.lol,Global
 HOST-SUFFIX,soporn.com,Global
 HOST-SUFFIX,sora6.com,Global
 HOST-SUFFIX,sorairi.info,Global
@@ -13361,11 +13360,13 @@ HOST-SUFFIX,xsela.cc,Global
 HOST-SUFFIX,xshaker.net,Global
 HOST-SUFFIX,xshr.online,Global
 HOST-SUFFIX,xsijishe.com,Global
+HOST-SUFFIX,xslist.org,Global
 HOST-SUFFIX,xsrxpwvg.com,Global
 HOST-SUFFIX,xstas.biz,Global
 HOST-SUFFIX,xsvod.xyz,Global
 HOST-SUFFIX,xsz-av.com,Global
 HOST-SUFFIX,xtegvk.xyz,Global
+HOST-SUFFIX,xtracloud.cn,Global
 HOST-SUFFIX,xtubebdsm.com,Global
 HOST-SUFFIX,xtubezoo.com,Global
 HOST-SUFFIX,xu97.vip,Global

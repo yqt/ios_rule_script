@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-16 02:09:58
+# UPDATED: 2023-12-17 02:08:33
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16212
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97479
+# DOMAIN-SUFFIX: 97542
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 114519
+# TOTAL: 114582
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -2864,6 +2864,7 @@
 .88d7b6aa44fb8eb.com
 .88dgl.top
 .88dgn.top
+.88dgx.top
 .88dml.top
 .88eg.cn
 .88eq7spm.de
@@ -5964,6 +5965,7 @@
 .acquisition.cbre.com.au
 .acquisition.klm.com
 .acquisitionsneezeswell.com
+.acquitfigreside.com
 .acrabakasaka.com
 .acrepantherrecite.com
 .acrevenene.com
@@ -11586,8 +11588,7 @@
 .amjoltiktor.com
 .amjtizfeqwz.com
 .amkbpcc.com
-.amlumineona.com
-.amlvbzvvnjejn.top
+.amltaqap.com
 .ammankeyan.com
 .ammannests.com
 .ammits.com
@@ -18294,6 +18295,7 @@
 .birdmedia.com
 .birdnavy.com
 .birgga.top
+.birglucy.xyz
 .biroads.com
 .birqmiowxfh.com
 .birter.com
@@ -20599,7 +20601,6 @@
 .bygliscortor.com
 .byhz.xyz
 .byildmkzjyjx.com
-.byjpsr.bobags.com.br
 .byjykj.xyz
 .bykwtf.victoriassecret.ae
 .byluvdiscor.com
@@ -24610,8 +24611,6 @@
 .colorfulafterthought.com
 .colorfulnotebooks.com
 .colorinmeasure.com
-.colors.chamoji.com
-.colorschemeas.com
 .colorsoflife.online
 .colossal-bear.pro
 .colossal.jp
@@ -26329,7 +26328,6 @@
 .creative.live.missav.com
 .creative.live.tktube.com
 .creative.live7mm.tv
-.creative.mnaspm.com
 .creative.myavlive.com
 .creative.sphdigital.com
 .creative.strip.chat
@@ -33149,7 +33147,6 @@
 .eaica.xyz
 .eaintrolled.info
 .eajpryc.com
-.eajqezprowiuy.com
 .eakelandorders.org
 .ealdi.xyz
 .ealeo.com
@@ -33607,8 +33604,6 @@
 .edgar2al2larngpoer.com
 .edgbas.com
 .edgdiihijhgcggjhacg.ru
-.edge-mobile-static.azureedge.net.iberostar.com
-.edge.adobedc.net
 .edge.ads.twitch.tv
 .edge.atmtd.com
 .edge.bnmla.com
@@ -38066,10 +38061,8 @@
 .fkugzbngtla.com
 .fkupm8697t19.eyevolution.de
 .fkwc.sfr.fr
-.fkwkzlb.com
-.fkxlsc.fenix-store.com
 .fkyhqtfiopfit.com
-.fkyujept.com
+.fl.5.p2l.info
 .fl01.ct2.comclick.com
 .fl5dpe.oui.sncf
 .fla4n6ne7r8ydcohcojnnor.com
@@ -41065,7 +41058,6 @@
 .ghatwalplunker.live
 .ghbdsbfd.com
 .ghdlry.greetz.nl
-.ghejrcvslombjse.com
 .ghentmidweek.com
 .gheraosonger.com
 .ghethe.com
@@ -41923,7 +41915,6 @@
 .go.mge.com
 .go.milestek.com
 .go.mindfi.co
-.go.mnaspm.com
 .go.mobstitialtag.com
 .go.morningstar.com
 .go.muglife.com
@@ -50074,7 +50065,6 @@
 .iu6t.consobaby.it
 .iubenda.com
 .iuc1.online
-.iuc1.space
 .iuclpbgxyfddk.xyz
 .iudgoufuvzjf.com
 .iugbjkqwc.xyz
@@ -50161,7 +50151,6 @@
 .iwhoosty.com
 .iwistracks.com
 .iwjerwaxjblelve.com
-.iwkeoxtaoi.com
 .iwl2d7pa4yx1.www.logology.co
 .iwlnpw.claudiepierlot.com
 .iwoiclbfxkxgd.com
@@ -51727,7 +51716,6 @@
 .jssdk.pulse.schibsted.com
 .jssearch.net
 .jssiiamvbuqqkb.com
-.jssufsqeisye.com
 .jssumei.cn
 .jstatic.org
 .jstclphsy.com
@@ -76477,6 +76465,7 @@
 .qdrmui.com
 .qdsfzz.cn
 .qdtjjxr.xyz
+.qdxzpcytii.com
 .qdyazc.com
 .qdzyspjx.com
 .qe0ckm024b.com
@@ -79568,6 +79557,7 @@
 .rigorousoxidenovelty.com
 .rigrunfudz.com
 .rigryvusfyu.xyz
+.rijmfqzckx.com
 .rikehemanwho.com
 .rikmomo.co
 .rikmomo.me
@@ -79714,6 +79704,7 @@
 .rlaa.xyz
 .rlcdn.com
 .rldfgcehgh.com
+.rldwideorgani.org
 .rle.ru
 .rlets.com
 .rlfqwlstxhq.xyz
@@ -94022,11 +94013,7 @@
 .tbjfw.com
 .tbli.ir
 .tbm09.com
-.tbmgyz.centerparcs.de
-.tbmwkwbdcryfhb.xyz
-.tbppfktchj.com
 .tbradshedm.org
-.tbsjkaorxwuchyb.com
 .tbskip.taobao.com
 .tbtqjbgrelc.xyz
 .tbudz.co.in
@@ -98751,7 +98738,6 @@
 .tracking.finanzen.net
 .tracking.fkk24.de
 .tracking.flowofwork.adp.com
-.tracking.flukecal.com
 .tracking.fortnite.com
 .tracking.foxnews.com
 .tracking.fr.adp.com
@@ -104645,7 +104631,6 @@
 .vjjgpt.diamond.jp
 .vjksa.com
 .vjnxpj.xyz
-.vjpgm.space
 .vjrpnv.xyz
 .vjsohgd.com
 .vjtskjg.com
@@ -110580,6 +110565,7 @@
 .ybrex.cn
 .ybs2ffs7v.com
 .ybtianxi.com
+.ybuduzpe.com
 .ybujfcuqya.com
 .ybwcvhcnulrgbvy.com
 .ybx.yahoo.co.jp
@@ -110840,6 +110826,7 @@
 .yidu.cc
 .yidu.cn
 .yidulive.net
+.yidxqbmfkbp.com
 .yiejvik.com
 .yield-op-idsync.live.streamtheworld.com
 .yieldads.com
@@ -111024,7 +111011,6 @@
 .yldr.io
 .ylesmn.com
 .ylgewqoohskzmx.com
-.ylgvlvbc.xyz
 .ylhhrjy.com
 .ylih6ftygq7.com
 .yljiaoluo.com
@@ -111481,6 +111467,7 @@
 .ytgzz.com
 .ythingy.com
 .ythjhk.com
+.ytihp.com
 .ytimewornan.org
 .ytimgg.com
 .ytimm.com
@@ -112524,6 +112511,7 @@
 .zminer.zaloapp.com
 .zmjagawa.com
 .zmkma.com
+.zml-apm-prd.dbv4.noncd.db.de
 .zmlfk.com
 .zmlled.cn
 .zmmrpv.peterglenn.com
