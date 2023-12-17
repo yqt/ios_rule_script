@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-17 02:13:10
+# UPDATED: 2023-12-18 02:13:17
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64551
+# DOMAIN-SUFFIX: 64573
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64742
+# TOTAL: 64764
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -6836,7 +6836,6 @@ payload:
   - '+.45xie.com'
   - '+.45yx.com'
   - '+.46412.com'
-  - '+.465676.tv'
   - '+.4658.net'
   - '+.46644.com'
   - '+.46771313.com'
@@ -26697,6 +26696,7 @@ payload:
   - '+.guyut.com'
   - '+.guzaosf.com'
   - '+.guzhifengds.com'
+  - '+.guzhihun.com'
   - '+.guzhilin.com'
   - '+.guziyy.com'
   - '+.gvacdn.com'
@@ -32442,6 +32442,7 @@ payload:
   - '+.iyunshu.com'
   - '+.iyunv.com'
   - '+.iyunzk.com'
+  - '+.iyxjord.work'
   - '+.iyxku.com'
   - '+.iyyin.com'
   - '+.iyz168.com'
@@ -44097,7 +44098,6 @@ payload:
   - '+.pyddd.com'
   - '+.pyer.site'
   - '+.pyhead.com'
-  - '+.pyjia.com'
   - '+.pyjsh.com'
   - '+.pyker.com'
   - '+.pylist.com'
@@ -53244,7 +53244,6 @@ payload:
   - '+.udows.com'
   - '+.udpis.com'
   - '+.udpwork.com'
-  - '+.udream.com'
   - '+.udrig.com'
   - '+.udsdown.xyz'
   - '+.udxd.com'
@@ -54237,7 +54236,6 @@ payload:
   - '+.vland-official.com'
   - '+.vlandgroup.com'
   - '+.vlcms.com'
-  - '+.vleedesigntheory.site'
   - '+.vliang.com'
   - '+.vlightv.com'
   - '+.vlinkage.com'
@@ -63185,7 +63183,6 @@ payload:
   - '+.zhinengdayi.com'
   - '+.zhinengxia.com'
   - '+.zhinet.com'
-  - '+.zhinianboke.com'
   - '+.zhiniceshi.com'
   - '+.zhinikefu.com'
   - '+.zhiniu8.com'

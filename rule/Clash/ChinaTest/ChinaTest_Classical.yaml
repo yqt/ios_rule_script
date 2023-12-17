@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-17 02:13:10
+# UPDATED: 2023-12-18 02:13:17
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64551
+# DOMAIN-SUFFIX: 64573
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64742
+# TOTAL: 64764
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -6836,7 +6836,6 @@ payload:
   - DOMAIN-SUFFIX,45xie.com
   - DOMAIN-SUFFIX,45yx.com
   - DOMAIN-SUFFIX,46412.com
-  - DOMAIN-SUFFIX,465676.tv
   - DOMAIN-SUFFIX,4658.net
   - DOMAIN-SUFFIX,46644.com
   - DOMAIN-SUFFIX,46771313.com
@@ -26697,6 +26696,7 @@ payload:
   - DOMAIN-SUFFIX,guyut.com
   - DOMAIN-SUFFIX,guzaosf.com
   - DOMAIN-SUFFIX,guzhifengds.com
+  - DOMAIN-SUFFIX,guzhihun.com
   - DOMAIN-SUFFIX,guzhilin.com
   - DOMAIN-SUFFIX,guziyy.com
   - DOMAIN-SUFFIX,gvacdn.com
@@ -32442,6 +32442,7 @@ payload:
   - DOMAIN-SUFFIX,iyunshu.com
   - DOMAIN-SUFFIX,iyunv.com
   - DOMAIN-SUFFIX,iyunzk.com
+  - DOMAIN-SUFFIX,iyxjord.work
   - DOMAIN-SUFFIX,iyxku.com
   - DOMAIN-SUFFIX,iyyin.com
   - DOMAIN-SUFFIX,iyz168.com
@@ -44097,7 +44098,6 @@ payload:
   - DOMAIN-SUFFIX,pyddd.com
   - DOMAIN-SUFFIX,pyer.site
   - DOMAIN-SUFFIX,pyhead.com
-  - DOMAIN-SUFFIX,pyjia.com
   - DOMAIN-SUFFIX,pyjsh.com
   - DOMAIN-SUFFIX,pyker.com
   - DOMAIN-SUFFIX,pylist.com
@@ -53244,7 +53244,6 @@ payload:
   - DOMAIN-SUFFIX,udows.com
   - DOMAIN-SUFFIX,udpis.com
   - DOMAIN-SUFFIX,udpwork.com
-  - DOMAIN-SUFFIX,udream.com
   - DOMAIN-SUFFIX,udrig.com
   - DOMAIN-SUFFIX,udsdown.xyz
   - DOMAIN-SUFFIX,udxd.com
@@ -54237,7 +54236,6 @@ payload:
   - DOMAIN-SUFFIX,vland-official.com
   - DOMAIN-SUFFIX,vlandgroup.com
   - DOMAIN-SUFFIX,vlcms.com
-  - DOMAIN-SUFFIX,vleedesigntheory.site
   - DOMAIN-SUFFIX,vliang.com
   - DOMAIN-SUFFIX,vlightv.com
   - DOMAIN-SUFFIX,vlinkage.com
@@ -63185,7 +63183,6 @@ payload:
   - DOMAIN-SUFFIX,zhinengdayi.com
   - DOMAIN-SUFFIX,zhinengxia.com
   - DOMAIN-SUFFIX,zhinet.com
-  - DOMAIN-SUFFIX,zhinianboke.com
   - DOMAIN-SUFFIX,zhiniceshi.com
   - DOMAIN-SUFFIX,zhinikefu.com
   - DOMAIN-SUFFIX,zhiniu8.com

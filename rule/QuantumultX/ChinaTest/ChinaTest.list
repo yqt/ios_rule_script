@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-17 02:13:06
+# UPDATED: 2023-12-18 02:13:14
 # HOST: 167
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64551
+# HOST-SUFFIX: 64573
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64774
+# TOTAL: 64796
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -6837,7 +6837,6 @@ HOST-SUFFIX,45win.com,ChinaTest
 HOST-SUFFIX,45xie.com,ChinaTest
 HOST-SUFFIX,45yx.com,ChinaTest
 HOST-SUFFIX,46412.com,ChinaTest
-HOST-SUFFIX,465676.tv,ChinaTest
 HOST-SUFFIX,4658.net,ChinaTest
 HOST-SUFFIX,46644.com,ChinaTest
 HOST-SUFFIX,46771313.com,ChinaTest
@@ -26698,6 +26697,7 @@ HOST-SUFFIX,guyungame.com,ChinaTest
 HOST-SUFFIX,guyut.com,ChinaTest
 HOST-SUFFIX,guzaosf.com,ChinaTest
 HOST-SUFFIX,guzhifengds.com,ChinaTest
+HOST-SUFFIX,guzhihun.com,ChinaTest
 HOST-SUFFIX,guzhilin.com,ChinaTest
 HOST-SUFFIX,guziyy.com,ChinaTest
 HOST-SUFFIX,gvacdn.com,ChinaTest
@@ -32443,6 +32443,7 @@ HOST-SUFFIX,iyunmai.com,ChinaTest
 HOST-SUFFIX,iyunshu.com,ChinaTest
 HOST-SUFFIX,iyunv.com,ChinaTest
 HOST-SUFFIX,iyunzk.com,ChinaTest
+HOST-SUFFIX,iyxjord.work,ChinaTest
 HOST-SUFFIX,iyxku.com,ChinaTest
 HOST-SUFFIX,iyyin.com,ChinaTest
 HOST-SUFFIX,iyz168.com,ChinaTest
@@ -44098,7 +44099,6 @@ HOST-SUFFIX,pychina.org,ChinaTest
 HOST-SUFFIX,pyddd.com,ChinaTest
 HOST-SUFFIX,pyer.site,ChinaTest
 HOST-SUFFIX,pyhead.com,ChinaTest
-HOST-SUFFIX,pyjia.com,ChinaTest
 HOST-SUFFIX,pyjsh.com,ChinaTest
 HOST-SUFFIX,pyker.com,ChinaTest
 HOST-SUFFIX,pylist.com,ChinaTest
@@ -53245,7 +53245,6 @@ HOST-SUFFIX,udonmai.com,ChinaTest
 HOST-SUFFIX,udows.com,ChinaTest
 HOST-SUFFIX,udpis.com,ChinaTest
 HOST-SUFFIX,udpwork.com,ChinaTest
-HOST-SUFFIX,udream.com,ChinaTest
 HOST-SUFFIX,udrig.com,ChinaTest
 HOST-SUFFIX,udsdown.xyz,ChinaTest
 HOST-SUFFIX,udxd.com,ChinaTest
@@ -54238,7 +54237,6 @@ HOST-SUFFIX,vlan9.com,ChinaTest
 HOST-SUFFIX,vland-official.com,ChinaTest
 HOST-SUFFIX,vlandgroup.com,ChinaTest
 HOST-SUFFIX,vlcms.com,ChinaTest
-HOST-SUFFIX,vleedesigntheory.site,ChinaTest
 HOST-SUFFIX,vliang.com,ChinaTest
 HOST-SUFFIX,vlightv.com,ChinaTest
 HOST-SUFFIX,vlinkage.com,ChinaTest
@@ -63186,7 +63184,6 @@ HOST-SUFFIX,zhimoe.com,ChinaTest
 HOST-SUFFIX,zhinengdayi.com,ChinaTest
 HOST-SUFFIX,zhinengxia.com,ChinaTest
 HOST-SUFFIX,zhinet.com,ChinaTest
-HOST-SUFFIX,zhinianboke.com,ChinaTest
 HOST-SUFFIX,zhiniceshi.com,ChinaTest
 HOST-SUFFIX,zhinikefu.com,ChinaTest
 HOST-SUFFIX,zhiniu8.com,ChinaTest
