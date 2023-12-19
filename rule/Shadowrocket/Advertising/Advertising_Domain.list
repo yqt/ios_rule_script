@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-19 02:09:10
+# UPDATED: 2023-12-20 02:08:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16230
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 96721
+# DOMAIN-SUFFIX: 96779
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 113779
+# TOTAL: 113837
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -5267,6 +5267,7 @@
 .abackframe.com
 .abacksoda.com
 .abakus.freenet.de
+.abamatoyer.com
 .abandonedaction.com
 .abandonrecommendationwars.com
 .abange.com
@@ -11408,7 +11409,6 @@
 .alvares.esportsheaven.com
 .alvenda.com
 .alwaysc.com
-.alwayscare.starmountlife.com
 .alwayspainfully.com
 .alwaysxup.com
 .alwhichhereal.com
@@ -20073,7 +20073,6 @@
 .budapest1873.net
 .buddedpetrie.space
 .buddhamoduli.com
-.buddhicantilog.guru
 .buddlekroner.com
 .budibu.saksfifthavenue.com
 .budroups.xyz
@@ -26952,7 +26951,6 @@
 .cwgshkz.cn
 .cwi.re
 .cwipbkyqhloajc.com
-.cwixbvnnndpe.xyz
 .cwj2h.cn
 .cwknqqsjgboycim.xyz
 .cwkuefvuipe.com
@@ -27082,7 +27080,6 @@
 .cyto-biotherapy.com
 .cytock.com
 .cyyhkeknmbe.com
-.cyyjhkhgt.com
 .cyylove.com
 .cz-anag.m-shop.me
 .cz-babynabytek.m-shop.me
@@ -29007,7 +29004,6 @@
 .datingtopgirls.com
 .datingvr.ru
 .datlelrzvge.com
-.datoporn.com
 .datouniao.com
 .dattoswitches.com
 .datum.appfleet.com
@@ -45558,7 +45554,6 @@
 .hrnhmral.com
 .hrnpiyimmgdfjn.xyz
 .hrogrpee.de
-.hrotonafk.xyz
 .hrrlyfdnxlzxe.com
 .hrscompetepickles.com
 .hrscouchoutbreak.com
@@ -52482,8 +52477,6 @@
 .kgelugaz.com
 .kgeshe.site
 .kgfjrb711.com
-.kggikf.icu
-.kghgmn.top
 .kglqjacmqmns.com
 .kgmobilestat.kugou.com
 .kgmobilestatbak.kugou.com
@@ -54263,7 +54256,6 @@
 .lcwfabt2.com
 .lcwfabt3.com
 .lcwoewvvmhj.com
-.lcwogxmmukoe.com
 .lcyt.info
 .lczk.cn
 .ld.kuaigames.com
@@ -54506,7 +54498,6 @@
 .leeleo.top
 .leelynx.fr
 .leesecobourg.com
-.leesymvlvck.xyz
 .leetaipt.net
 .leethalo.net
 .leetmedia.com
@@ -57282,6 +57273,7 @@
 .lpaizureik.com
 .lpaoz.com
 .lpaqjnfmxftqfx.com
+.lpausaiverbene.com
 .lpawakkabpho.com
 .lpbhnv.nbcbayarea.com
 .lpbhnv.nbcchicago.com
@@ -60030,6 +60022,7 @@
 .markswebcams.com
 .marktest.pt
 .marktworks.com
+.markxa.xyz
 .marlpitbucku.com
 .maropost.com
 .marormesole.com
@@ -61011,6 +61004,7 @@
 .meghis.com
 .megmobpoi.club
 .megnotch.xyz
+.megogo.1ru.tv
 .megoszthato.blogspot.hu
 .megpacokjce.bid
 .megrezvans.guru
@@ -62632,7 +62626,6 @@
 .mgid.com
 .mgixgn.wittchen.com
 .mgjgqztw.com
-.mgjnmfhyis.xyz
 .mgldzcls.com
 .mglsk.com
 .mglvqian.com
@@ -63448,7 +63441,6 @@
 .mnevjhg.com
 .mng-ads.com
 .mnhjk.com
-.mnhjkl.com
 .mnhknds.com
 .mnhncf.cn
 .mniumlapsers.com
@@ -64827,6 +64819,7 @@
 .mvng.cn
 .mvo.g45td.xyz
 .mvonline.com
+.mvpqrydt.xyz
 .mvqlsrakwp.com
 .mvqycoenp.com
 .mvspjwd.com
@@ -67345,7 +67338,6 @@
 .npehvrjmf.com
 .npjhdunxxfhwgtv.com
 .npkzqlhtecxx.com
-.nplden.legionathletics.com
 .nplxa.com
 .npmeingm7.shop
 .npmpecd.com
@@ -69523,7 +69515,6 @@
 .opsonew3org.sg
 .opsoomet.net
 .opstag.com
-.opsywljvakvjrm.com
 .opszt.com
 .opt-intelligence.com
 .opt8.co
@@ -76470,7 +76461,6 @@
 .qqdflf.lpga.or.jp
 .qqdwz.com
 .qqeuq1cmoooq.accuretawealth.com
-.qqfelxqmhoc.com
 .qqgfubewassi.com
 .qqhuhu.com
 .qqiat.com
@@ -78126,8 +78116,6 @@
 .registrovalledesantiago.com
 .registrovillaslapiedad.com
 .regizm.com
-.reglazetentie.com
-.reglienquan.online
 .reglowsupbar.com
 .regmacimbia.com
 .regmdr.pref.ims.dialog-direct.com
@@ -100757,7 +100745,6 @@
 .ubsjyqfek.com
 .ubt-sin.tripcdn.com
 .ubt.berlingskemedia.net
-.ubt.tracking.shopee.ph
 .ubthyoitrr.com
 .ubuntu-fr.fr
 .ubuwwswnceqmjtg.xyz
@@ -101161,6 +101148,7 @@
 .ulmpyqgfqkffe.com
 .ulmujev.com
 .ulnawoyyzbljc.ru
+.ulnhlnsw.com
 .ulnidkdlaxclpo.com
 .uloadeeksurvey.space
 .uloaludu.xyz
@@ -101524,7 +101512,6 @@
 .unjointbobbed.com
 .unjs.jfcdns.com
 .unkemptsodio.digital
-.unkeptspahees.com
 .unkinpigsty.com
 .unkistwilily.digital
 .unknowncrate.com
@@ -104891,7 +104878,6 @@
 .vwonwkaqvq-a.global.ssl.fastly.net
 .vwqohlgfneusxy.com
 .vwrgru.happymail.co.jp
-.vwsgmf.icu
 .vwswilfrveqzw.com
 .vwtjvd.xyz
 .vwtqjotm.com
@@ -109748,7 +109734,6 @@
 .xvorpqz.cn
 .xvpqmcgf.com
 .xvpqrydt.xyz
-.xvqmcqcdv.com
 .xvrvgod.xyz
 .xvtpvc.cn
 .xvuslink.com
