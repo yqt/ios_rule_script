@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-22 02:11:02
+# UPDATED: 2023-12-23 02:10:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12432
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 130852
+# DOMAIN-SUFFIX: 130916
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 144324
+# TOTAL: 144388
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -823,6 +823,7 @@
 .1847ff24f9.com
 .184c4i95p.de
 .186078.com
+.18788fdb24.com
 .188aaa.us
 .188affiliates.com
 .188api.com
@@ -15015,7 +15016,6 @@
 .api.newsfeed.intl.miui.com
 .api.ngamgaixinh.art
 .api.ning.com
-.api.nobeta.com.br
 .api.nylas.com
 .api.oneaudience.com
 .api.open.uc.cn
@@ -18518,6 +18518,7 @@
 .azwucq.locservice.fr
 .azxcuqzzozi.com
 .azxdkucizr.com
+.azxhlzxmrqc.com
 .azxhnt.uniformadvantage.com
 .azxorqjkafa.com
 .azxsd.pro
@@ -23577,7 +23578,6 @@
 .btwtssrnntidgb.com
 .btwuegndru.com
 .btwwiwmhfhh.com
-.btwwzqdx.xyz
 .btxdbuaxn.com
 .btxliveprice.kceyazilim.com
 .btxxxnav.com
@@ -45951,6 +45951,7 @@
 .ezdgmtsaeu.com
 .ezdownloadpro.info
 .ezec.co.uk
+.ezeqcy.xyz
 .ezeraf.com
 .ezexfzek.com
 .ezf48.xyz
@@ -51537,6 +51538,7 @@
 .ghosttty.cn
 .ghp.adp.ca
 .ghrain.com
+.ghreha.top
 .ghrnbw.avocadostore.de
 .ghsheukwasana.info
 .ghsnhjk.cn
@@ -57788,6 +57790,7 @@
 .hurtfulplunge.com
 .hurtgrape.com
 .hurtteeth.com
+.huryds.top
 .husbandnights.com
 .huselomboy.website
 .husezo.uno
@@ -70525,6 +70528,7 @@
 .lmorsb.highstreettv.com
 .lmp3.org
 .lmqowtvu.com
+.lmrhhn.xyz
 .lmtnfl.xyz
 .lmx7.com
 .lmxzlb.xyz
@@ -79487,8 +79491,6 @@
 .mnhknds.com
 .mnhncf.cn
 .mniumlapsers.com
-.mnjhrleahonkq.com
-.mnjxvtknnlai.com
 .mnkan.com
 .mnlgsjh.cn
 .mnnmnn.com
@@ -83810,7 +83812,6 @@
 .nmiodk.promiflash.de
 .nmkghh.com
 .nmkgs.cn
-.nmkhvtnypwykfh.xyz
 .nmkli.com
 .nmlfev.icu
 .nmmdzq.cn
@@ -83893,6 +83894,7 @@
 .noazauro.net
 .nobbutaaru.com
 .noberlmall.com
+.nobeta.com.br
 .nobilitybefore.com
 .nobiol.com
 .noble55.com
@@ -89468,6 +89470,7 @@
 .patarinmangers.top
 .patchedcyamoid.com
 .patchindedtrk.com
+.patencydaimiel.com
 .patenssabzi.com
 .patgsrv.com
 .path-follower.com
@@ -91849,6 +91852,7 @@
 .pll.pearlinsurance.com
 .pllah.com
 .plmhezvbcjcywo.com
+.plmwsl.com
 .plnrkgc.xyz
 .plnshao.xyz
 .plntxgh.com
@@ -96489,6 +96493,7 @@
 .qxycdoexyj.com
 .qxyu.top
 .qxzadv.hilightbrands-kodak.co.kr
+.qxzlmzt.xyz
 .qyajwjyjnavzq.top
 .qybjkr.mlynoliwski.pl
 .qycfqk.xyz
@@ -97984,6 +97989,7 @@
 .registrovalledesantiago.com
 .registrovillaslapiedad.com
 .regizm.com
+.reglazetentie.com
 .reglowsupbar.com
 .regmacimbia.com
 .regmdr.pref.ims.dialog-direct.com
@@ -120303,6 +120309,7 @@
 .toad.ettiennevorster.co.za
 .toads.osdn.com
 .toadtexture.com
+.toaduroo.xyz
 .toaglaun.xyz
 .toaioi.lol
 .toaioi.xyz
@@ -127992,10 +127999,7 @@
 .uxxsiyokw.com
 .uxyrl.cn
 .uy.mawseednoblest.com
-.uyban.club
 .uycxhgrp.xyz
-.uydzfldt.xyz
-.uyeaoofppwrhz.com
 .uyfpmhmqh.xyz
 .uygckiy.cn
 .uyivht.robertgraham.us
@@ -133457,6 +133461,7 @@
 .wofan.net
 .woffxxx.com
 .wofqzuwtkxw.com
+.wofri.uihdlx.xyz
 .wofulsensism.com
 .wogaa.sg
 .wogglehydrae.com
@@ -136446,7 +136451,6 @@
 .xoemvfgjhpwea.com
 .xogepg.com
 .xogogowebcams.com
-.xogtrmjz.xyz
 .xohnodzbfjjqje.com
 .xoimmmhfha.com
 .xojepxhvvan.com

@@ -1,5 +1,5 @@
 #!name=AllInOne
-#!desc=最后更新时间 2023-12-22 02:20:30
+#!desc=最后更新时间 2023-12-23 02:19:38
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 #!domain=5
@@ -7,9 +7,9 @@
 #!http-request-script=1
 #!http-response-script=25
 #!redirect=8
-#!reject=689
+#!reject=690
 #!mitm=728
-#!total=1460
+#!total=1461
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,weibointl.api.weibo.cn,wmapi.meituan.com

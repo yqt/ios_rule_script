@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-21 02:15:03
+# UPDATED: 2023-12-23 02:14:49
 # DOMAIN: 167
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64575
+# DOMAIN-SUFFIX: 64527
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64766
+# TOTAL: 64718
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -5860,7 +5860,6 @@ payload:
   - '+.2853x.com'
   - '+.2858999.com'
   - '+.285u.com'
-  - '+.288288dy.com'
   - '+.288idc.com'
   - '+.2898.com'
   - '+.28beiduo.com'
@@ -7871,7 +7870,6 @@ payload:
   - '+.5567.me'
   - '+.556z.com'
   - '+.557.net'
-  - '+.5580981.cc'
   - '+.5581014.cc'
   - '+.5588.tv'
   - '+.55935.vip'
@@ -8081,7 +8079,6 @@ payload:
   - '+.595818.com'
   - '+.595led.com'
   - '+.595tuchuang.com'
-  - '+.595tz286.cc'
   - '+.595tz440.cc'
   - '+.596fc.com'
   - '+.597.com'
@@ -9359,7 +9356,6 @@ payload:
   - '+.88zha.com'
   - '+.8910.io'
   - '+.89178.com'
-  - '+.89243599.vip'
   - '+.89303.com'
   - '+.8961zx.com'
   - '+.897263tqs.com'
@@ -11585,7 +11581,6 @@ payload:
   - '+.ansiding.com'
   - '+.ansky.com'
   - '+.ansteelgroup.com'
-  - '+.ant-cloud.net'
   - '+.ant78.com'
   - '+.anta.com'
   - '+.antaifans.com'
@@ -11617,7 +11612,6 @@ payload:
   - '+.anweishi.com'
   - '+.anweizhi.com'
   - '+.anwen.cc'
-  - '+.anwfm.com'
   - '+.anxiangkeji.net'
   - '+.anxiaoer.com'
   - '+.anxin.com'
@@ -12690,7 +12684,6 @@ payload:
   - '+.bajintech.com'
   - '+.bajiu.org'
   - '+.baka.fun'
-  - '+.bakahosting.com'
   - '+.bakaxl.com'
   - '+.bakbitionb.com'
   - '+.bakchoi.com'
@@ -26566,6 +26559,7 @@ payload:
   - '+.gulu.tv'
   - '+.gulu001.com'
   - '+.gulugj.com'
+  - '+.gululu.com'
   - '+.gulutea.com'
   - '+.gumang.com'
   - '+.gumaor.com'
@@ -29013,6 +29007,7 @@ payload:
   - '+.hongbeicn.com'
   - '+.hongbizi.org'
   - '+.hongbowang.net'
+  - '+.hongcesys.com'
   - '+.hongdaym.com'
   - '+.hongdezk.com'
   - '+.hongdi.icu'
@@ -29398,7 +29393,6 @@ payload:
   - '+.hsyyf.me'
   - '+.hszhizhen.net'
   - '+.hszk.org'
-  - '+.hszq8.com'
   - '+.hszsb.org'
   - '+.hszsfz.com'
   - '+.hsztbzx.com'
@@ -36095,7 +36089,6 @@ payload:
   - '+.ladiyoga.com'
   - '+.ladjzs.com'
   - '+.lady177.com'
-  - '+.lady98.com'
   - '+.ladybirdedu.com'
   - '+.ladydaily.com'
   - '+.ladymetro.com'
@@ -37650,7 +37643,6 @@ payload:
   - '+.llzg.com'
   - '+.llzw888.com'
   - '+.lm335.com'
-  - '+.lm7979.com'
   - '+.lm9999.com'
   - '+.lmacc.com'
   - '+.lmanmo.com'
@@ -39323,6 +39315,7 @@ payload:
   - '+.meldingcloud.com'
   - '+.melodyhome.com'
   - '+.melove.net'
+  - '+.memblaze.com'
   - '+.memewan.com'
   - '+.memeyin.com'
   - '+.memeyule.com'
@@ -44479,7 +44472,6 @@ payload:
   - '+.qianxunclub.com'
   - '+.qianyan.biz'
   - '+.qianyan001.com'
-  - '+.qianyanapp.com'
   - '+.qianyuangx.com'
   - '+.qianyue999.com'
   - '+.qianyuewenhua.xyz'
@@ -46528,7 +46520,6 @@ payload:
   - '+.rxjiasu.com'
   - '+.rxjt.co'
   - '+.rxn30.app'
-  - '+.rxohsn.xyz'
   - '+.rxshc.com'
   - '+.rxys.com'
   - '+.ry.rs'
@@ -49935,7 +49926,6 @@ payload:
   - '+.sudaizhijia.com'
   - '+.sudaoa.com'
   - '+.suddenfix.com'
-  - '+.sudidc.com'
   - '+.sudoinfotech.com'
   - '+.sudu-67ph.com'
   - '+.sudu-72ub.com'
@@ -55231,7 +55221,6 @@ payload:
   - '+.weihulian.com'
   - '+.weihuo.site'
   - '+.weihz.net'
-  - '+.weijiexi.com'
   - '+.weijinsuo.com'
   - '+.weijiu.org'
   - '+.weijiuxin.com'
@@ -56182,6 +56171,7 @@ payload:
   - '+.wksc.com'
   - '+.wkshipark.com'
   - '+.wkt41.app'
+  - '+.wkyaoye.com'
   - '+.wkzf.com'
   - '+.wkzk.com'
   - '+.wkzuche.com'
@@ -60425,7 +60415,6 @@ payload:
   - '+.yinheyuedu.com'
   - '+.yinhu.com'
   - '+.yini.org'
-  - '+.yinji.org'
   - '+.yinjietd.com'
   - '+.yinka.co'
   - '+.yinker.com'

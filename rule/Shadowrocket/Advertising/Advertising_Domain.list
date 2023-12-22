@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-22 02:09:45
+# UPDATED: 2023-12-23 02:09:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16229
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97046
+# DOMAIN-SUFFIX: 97121
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 114103
+# TOTAL: 114178
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -13011,7 +13011,6 @@
 .api.newad.ifeng.com
 .api.newbelden.com
 .api.newsfeed.intl.miui.com
-.api.nobeta.com.br
 .api.open.uc.cn
 .api.ozui.vn
 .api.pingstart.com
@@ -14886,6 +14885,7 @@
 .atelesmusters.website
 .atelovesinothic.info
 .atemda.com
+.atemoyaderider.com
 .atentherel.org
 .aterhouse.info
 .aterhouseoyop.com
@@ -20046,7 +20046,6 @@
 .btwasinlovewit.xyz
 .btwtssrnntidgb.com
 .btwwiwmhfhh.com
-.btwwzqdx.xyz
 .btxdbuaxn.com
 .btxxxnav.com
 .btyou.com
@@ -20574,6 +20573,7 @@
 .bzdntl.xyz
 .bzgmcqqfxd.com
 .bzlwe.com
+.bznizrhd.xyz
 .bzqxze.remixshop.com
 .bzrpvk.com
 .bzshzx.com
@@ -26948,6 +26948,7 @@
 .cvtfyyflrrkjsam.xyz
 .cvtk01.gmo-agree.com
 .cvtr.io
+.cvuduufdewm.com
 .cvuvoljuqlkeuc.com
 .cvyimypsjxca.com
 .cvzvun.vidaxl.de
@@ -37506,6 +37507,7 @@
 .fgttbz.xyz
 .fguhyg.cn
 .fgukchz.icu
+.fgwerg.top
 .fgxfnkiojgs.com
 .fgzba.com
 .fgzkuuvuligrj.com
@@ -38711,16 +38713,6 @@
 .fperefo.ru
 .fpgedsewst.com
 .fpghll.rossmann.hu
-.fphbwyonnk.com
-.fphjeyqs.com
-.fpida.amphi.jp
-.fpida.bodybook.jp
-.fpida.cw-x.jp
-.fpida.successwalk.jp
-.fpida.une-nana-cool.com
-.fpida.w-wing.jp
-.fpida.wacoalholdings.jp
-.fpida.yue-japan.com
 .fpiljsxrchc.com
 .fpjs.io
 .fpjscdn.net
@@ -41153,7 +41145,6 @@
 .gkfehrdhbm.com
 .gkiho.xyz
 .gkjmev3.com
-.gkkchmjdndovu.xyz
 .gkktjf.top
 .gkmohklyjyh.com
 .gkoutpips.com
@@ -45871,9 +45862,7 @@
 .hurtfulden.com
 .hurtgrape.com
 .hurtteeth.com
-.huryds.top
 .husbandnights.com
-.husbandsonly.co.uk
 .huselomboy.website
 .husezo.uno
 .husfly.com
@@ -53300,6 +53289,7 @@
 .ks.5.p2l.info
 .ks.walkq.com
 .ks67.com
+.ksandtheirclean.org
 .ksccqu.xyz
 .kscmqmrlrepwim.com
 .ksdarprt.reseguiden.se
@@ -53625,6 +53615,7 @@
 .kzeww.com
 .kzjkexn.cn
 .kzkmmbrrzn.com
+.kznizrhd.xyz
 .kzprugp.xyz
 .kzsfip3v.cfd
 .kzsha.com
@@ -57296,7 +57287,6 @@
 .lpocne.top
 .lpoint.fr
 .lporirxe.com
-.lppexpgt.com
 .lppgjf.xyz
 .lpqhkj.cn
 .lpravybegqv.com
@@ -66903,7 +66893,6 @@
 .nmiodk.promiflash.de
 .nmkghh.com
 .nmkgs.cn
-.nmkhvtnypwykfh.xyz
 .nmkli.com
 .nmlfev.icu
 .nmmdzq.cn
@@ -66950,6 +66939,7 @@
 .nnqwe.xyz
 .nnrbyty.xyz
 .nnsi4p.xhamster.com
+.nnthewdnez.com
 .nntsdp.xyz
 .nnvkh.com
 .nnvoia.closetworld.com
@@ -66975,6 +66965,7 @@
 .noazauro.net
 .nobbutaaru.com
 .noberlmall.com
+.nobeta.com.br
 .nobilitybefore.com
 .noble55.com
 .noblefun.net
@@ -71173,7 +71164,6 @@
 .patariatoolman.com
 .patarinmangers.top
 .patchedcyamoid.com
-.patefysouari.com
 .patencydaimiel.com
 .patenssabzi.com
 .patgsrv.com
@@ -78108,6 +78098,7 @@
 .registrovalledesantiago.com
 .registrovillaslapiedad.com
 .regizm.com
+.reglazetentie.com
 .reglowsupbar.com
 .regmacimbia.com
 .regmdr.pref.ims.dialog-direct.com
@@ -79301,6 +79292,7 @@
 .rlcdn.com
 .rldfgcehgh.com
 .rldwideorgani.org
+.rldwideorganizat.org
 .rle.ru
 .rlets.com
 .rlfqwlstxhq.xyz
@@ -95692,6 +95684,7 @@
 .toabaise.net
 .toabuck.xyz
 .toads.osdn.com
+.toaduroo.xyz
 .toaglaun.xyz
 .toaioi.lol
 .toaioi.xyz
@@ -100193,6 +100186,7 @@
 .tumri.net
 .tumultmarten.com
 .tumultuserscheek.com
+.tundrapinjane.com
 .tune-up.site
 .tune.sckmediatv.com
 .tunedecided.com
@@ -100552,6 +100546,7 @@
 .tzgurwizule3.app.cardahealth.com
 .tzgygfy.com
 .tzmhqll.cn
+.tznizrhd.xyz
 .tzovkp.aboutyou.at
 .tzrlfzwyicvj.com
 .tzugumojfm.com
@@ -102392,6 +102387,7 @@
 .uzljra.ru
 .uzmanreklam.com
 .uzmdfi.com
+.uznizrhd.xyz
 .uzoamtee.xyz
 .uzotarak.com
 .uzouptel.xyz
@@ -105470,6 +105466,7 @@
 .wbdds.allocine.fr
 .wbdds.com
 .wbdx.fr
+.wbekwxsup.com
 .wbfhivtydh.com
 .wbgwuftclaya.com
 .wbidder.online
@@ -108985,6 +108982,7 @@
 .xexyc.com
 .xeynozl.icu
 .xfahjal.com
+.xfbeobsutqtndp.com
 .xfcpdigfsx.xyz
 .xfguylptuqw.com
 .xfhgstxcytiu.com
@@ -109476,7 +109474,6 @@
 .xoemvfgjhpwea.com
 .xogepg.com
 .xogogowebcams.com
-.xogtrmjz.xyz
 .xohnodzbfjjqje.com
 .xoimmmhfha.com
 .xojepxhvvan.com
@@ -109888,6 +109885,7 @@
 .xzhwxfgc.cn
 .xzjqlg.marella.com
 .xzlurd.xyz
+.xznizrhd.xyz
 .xznqolfzwdwini.com
 .xznrtl.xyz
 .xznykf.org
