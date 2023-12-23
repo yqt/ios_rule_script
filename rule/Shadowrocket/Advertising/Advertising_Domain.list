@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-23 02:09:21
+# UPDATED: 2023-12-24 02:09:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16229
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97121
+# DOMAIN-SUFFIX: 97188
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 114178
+# TOTAL: 114245
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -268,6 +268,7 @@
 .0xxd.com
 .0yzabcd.com
 .0z5jn.cn
+.1-1ads.com
 .1-cl0ud.com
 .1-creative-1.com
 .1.01fy.cn
@@ -393,6 +394,7 @@
 .1035218900.rsc.cdn77.org
 .103bees.com
 .104231.dtiblog.com
+.1052982219.rsc.cdn77.org
 .105app.com
 .106c6423c3.com
 .107iwh.cn
@@ -665,6 +667,7 @@
 .1847ff24f9.com
 .184c4i95p.de
 .186078.com
+.18788fdb24.com
 .188aaa.us
 .188affiliates.com
 .188api.com
@@ -10004,7 +10007,6 @@
 .aercxy.com
 .aerialmistaken.com
 .aerjnuloxlth.com
-.aerlwjxcrcolcpy.com
 .aerobiabassing.com
 .aerontre.com
 .aeroplaneversion.com
@@ -11176,7 +11178,6 @@
 .all-ti-cod.com
 .all.rising.com.cn
 .all2cnjuh34jb.com
-.all4spy.com
 .allabc.com
 .allactualjournal.com
 .allactualstories.com
@@ -12838,6 +12839,7 @@
 .aojgggbwish.xyz
 .aojhzj.watch.co.uk
 .aojqjblt.xyz
+.aokkwzg.cn
 .aol.spb.su
 .aol32.cn
 .aolsvc.snowqueen.ru
@@ -15073,6 +15075,7 @@
 .aubergearise.com
 .aubergeswots.com
 .auboaksa.com
+.auboalro.xyz
 .aubsehog.net
 .auburn9819.com
 .aucaikse.com
@@ -15834,6 +15837,7 @@
 .azvozac.ru
 .azwkjjkmbqavv.top
 .azxdkucizr.com
+.azxhlzxmrqc.com
 .azxsd.pro
 .azyyyeyeqeaav.top
 .azyyyeyeqeazj.top
@@ -18429,7 +18433,6 @@
 .bkembwdgujzp.com
 .bkepmwuqui.com
 .bkhblj.xyz
-.bkhhijbvyq.com
 .bkicoegecxjv.com
 .bkjhqkohal.com
 .bkjlf58.com
@@ -20557,8 +20560,6 @@
 .byvpezdzmpureo.com
 .bywntfg.com
 .byxcbixzvjclxz.com
-.byxcbk.ipekevi.com
-.byxsmjqvjvmhxpy.xyz
 .byyanmaor.com
 .byzgoso.ru
 .byzkrjamkqbal.top
@@ -22003,8 +22004,6 @@
 .cdwbjlmpyqtv.com
 .cdwehdnnprdntse.com
 .cdwmpt.com
-.cdwmtt.com
-.cdwyjuchsqvwa.xyz
 .cdxjt.mobi
 .cdxyb.cn
 .cdyqc.com
@@ -36382,6 +36381,7 @@
 .ezcgojaamg.com
 .ezdgmtsaeu.com
 .ezec.co.uk
+.ezeqcy.xyz
 .ezeraf.com
 .ezexfzek.com
 .ezf48.xyz
@@ -40920,7 +40920,6 @@
 .ghp.adp.ca
 .ghrain.com
 .ghreha.top
-.ghrzlu.skechers.com.tr
 .ghsheukwasana.info
 .ghsnhjk.cn
 .ghtry.amateurswild.com
@@ -44434,6 +44433,7 @@
 .hgubxzfpolbf.com
 .hgusler.com
 .hgx1.online
+.hgx1.site
 .hgxwhpba.xyz
 .hh.jiankang.com
 .hh6666.com
@@ -45862,6 +45862,7 @@
 .hurtfulden.com
 .hurtgrape.com
 .hurtteeth.com
+.huryds.top
 .husbandnights.com
 .huselomboy.website
 .husezo.uno
@@ -53569,6 +53570,7 @@
 .kybelefwrkmtt.xyz
 .kybzkiw.xyz
 .kychajuza.com
+.kycxhgrp.xyz
 .kyefakwa.com
 .kygftx.xyz
 .kyikdee.cn
@@ -56299,6 +56301,7 @@
 .lmorsb.highstreettv.com
 .lmp3.org
 .lmqowtvu.com
+.lmrhhn.xyz
 .lmtnfl.xyz
 .lmx7.com
 .lmxzlb.xyz
@@ -56790,7 +56793,6 @@
 .loggychops.paulsmith.site
 .logicanalytics.io
 .logicdate.com
-.logicdripping.com
 .logicorganized.com
 .logicsfort.com
 .logilyavie.digital
@@ -63426,8 +63428,6 @@
 .mnhknds.com
 .mnhncf.cn
 .mniumlapsers.com
-.mnjhrleahonkq.com
-.mnjxvtknnlai.com
 .mnkan.com
 .mnnmnn.com
 .mnnuhtvnubdg.xyz
@@ -64968,7 +64968,6 @@
 .mycounter.com.ua
 .mycounter.ua
 .mycpm.ru
-.mycrackfree.com
 .mycxhgrp.xyz
 .mydailynewz.com
 .mydas.mobi
@@ -68271,8 +68270,6 @@
 .odin.mic.com
 .odinkod.ru
 .odipjwipwwyus.xyz
-.odkfzmwfkjgzag.com
-.odkvrg.pedrodelhierro.com
 .odlyccugg.com
 .odnaknopka.ru
 .odnaturedfe.org
@@ -70219,6 +70216,7 @@
 .ovkamwvdof.com
 .ovoadv.com
 .ovoordie.xyz
+.ovplnxsq.com
 .ovqds.com
 .ovsdnhpigmtd.xyz
 .ovsiicni.com
@@ -70347,6 +70345,7 @@
 .oylg7.com
 .oylyaz.mrkoll.se
 .oyopersed.info
+.oyoperseduca.com
 .oyotii.sportokay.com
 .oysterexhalereview.com
 .oyugspe.cn
@@ -73156,6 +73155,7 @@
 .pllah.com
 .plmhezvbcjcywo.com
 .plmkolp.m.58xs.tw
+.plmwsl.com
 .plnrkgc.xyz
 .plnshao.xyz
 .plntxgh.com
@@ -73317,6 +73317,7 @@
 .poacauceecoz.com
 .poacawhe.net
 .poachfirewoodboast.com
+.poanouwy.net
 .poaptoug.net
 .poapustu.net
 .poaships.com
@@ -76386,6 +76387,7 @@
 .qoiusky.com
 .qoiw1xw.cn
 .qokesjxpbds.com
+.qokira.uno
 .qomate.xyz
 .qomtolfpbno.com
 .qomuchorindownlo.xyz
@@ -77514,6 +77516,7 @@
 .rdtuijian.com
 .rdtylx.cn
 .rdufuxr.icu
+.rdwmct.com
 .rdwrtu.cn
 .rdx.autohome.com.cn
 .rdxfdpmmco.com
@@ -102353,10 +102356,7 @@
 .uxwnqppdma.com
 .uxxsiyokw.com
 .uxyrl.cn
-.uyban.club
 .uycxhgrp.xyz
-.uydzfldt.xyz
-.uyeaoofppwrhz.com
 .uyfpmhmqh.xyz
 .uygckiy.cn
 .uyivht.robertgraham.us
@@ -104782,6 +104782,7 @@
 .vujriahqyleveh.com
 .vujzkkz.cn
 .vukhhjzd.com
+.vukpwyvge.com
 .vulcan-bit.com
 .vulgarmilletappear.com
 .vulguspyemic.com
@@ -107212,6 +107213,7 @@
 .woejh.com
 .wofan.net
 .wofqzuwtkxw.com
+.wofri.uihdlx.xyz
 .wofulsensism.com
 .wogglehydrae.com
 .wohong5.com
@@ -107893,7 +107895,6 @@
 .www-stats.unipi.it
 .www-x-videos.com
 .www.0202.com.tw
-.www.1-1ads.com
 .www.1120.com.tw
 .www.1hkfq6598i.com
 .www.31d.net
@@ -108635,6 +108636,7 @@
 .wyiegt.icu
 .wyjaxvuejinse.com
 .wyjbvoz.xyz
+.wyjkqvtgwmjqb.xyz
 .wymzwy.cn
 .wynather.com
 .wynnsbrot.com
@@ -110580,7 +110582,6 @@
 .yndxstat.ru
 .yneaimn.com
 .yneationsliee.xyz
-.ynemmp.goertz.de
 .ynfsiosdt.com
 .ynfxxbp.xyz
 .ynfzxh.com
@@ -112071,6 +112072,7 @@
 .zoloft.4.p2l.info
 .zombieslayer.kano.link
 .zombiharshen.top
+.zomcz.cyou
 .zona.pl
 .zona.plus
 .zona1.at.ua

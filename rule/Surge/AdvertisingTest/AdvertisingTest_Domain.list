@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-23 02:10:36
+# UPDATED: 2023-12-24 02:10:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12432
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 130916
+# DOMAIN-SUFFIX: 130990
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 144388
+# TOTAL: 144462
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -353,6 +353,7 @@
 .0xxd.com
 .0yzabcd.com
 .0z5jn.cn
+.1-1ads.com
 .1-cl0ud.com
 .1-creative-1.com
 .1.01fy.cn
@@ -495,6 +496,7 @@
 .104231.dtiblog.com
 .104madrid.trekkww.space
 .104melbourne.trekkww.space
+.1052982219.rsc.cdn77.org
 .105app.com
 .105vancouver.trekkww.space
 .105virginia.trekkww.space
@@ -7685,6 +7687,7 @@
 .ad.api.yyapi.net
 .ad.apl164.me
 .ad.apl298.me
+.ad.apl302.me
 .ad.apps.fm
 .ad.aquamediadirect.com
 .ad.atown.jp
@@ -11748,7 +11751,6 @@
 .aercxy.com
 .aerialmistaken.com
 .aerjnuloxlth.com
-.aerlwjxcrcolcpy.com
 .aerobiabassing.com
 .aerontre.com
 .aeroplaneversion.com
@@ -13521,7 +13523,6 @@
 .all.cnzz.com.danuoyi.tbcache.com
 .all.rising.com.cn
 .all2cnjuh34jb.com
-.all4spy.com
 .allabc.com
 .allactualjournal.com
 .allactualstories.com
@@ -21699,7 +21700,6 @@
 .bkembwdgujzp.com
 .bkepmwuqui.com
 .bkhblj.xyz
-.bkhhijbvyq.com
 .bkicoegecxjv.com
 .bkisss.com
 .bkjhqkohal.com
@@ -26090,8 +26090,6 @@
 .cdwehdnnprdntse.com
 .cdweikebaba.xin
 .cdwmpt.com
-.cdwmtt.com
-.cdwyjuchsqvwa.xyz
 .cdxjt.mobi
 .cdxyb.cn
 .cdyqc.com
@@ -29427,7 +29425,6 @@
 .commandwalk.com
 .commanslabdpp.carte-gr.total.fr
 .commanslabdspace.carte-gr.total.fr
-.commarevelation.com
 .commastick.com
 .commax.fr
 .commdata.v.qq.com
@@ -31135,6 +31132,7 @@
 .cpcmart.com
 .cpcstdploqqh.com
 .cpcv.cc
+.cpddgcr.xyz
 .cpddwyuyd.com
 .cpdronhu.xyz
 .cpdsrv.de
@@ -56023,6 +56021,7 @@
 .hgubxzfpolbf.com
 .hgusler.com
 .hgx1.online
+.hgx1.site
 .hgxwhpba.xyz
 .hgzqxe.hanesbrandsinc.jp
 .hh-btr.com
@@ -57398,6 +57397,7 @@
 .hsfbpp.xyz
 .hsgdyq.com
 .hshmbx.xyz
+.hsi2i.fun
 .hsiaik.com
 .hsili.ltd
 .hskj.net
@@ -62206,7 +62206,6 @@
 .iprotrk.com
 .iproute66.com
 .iprpe.cn
-.iprpldsefjq.com
 .ipryes.top
 .ipservice.163.com
 .ipsite.ir
@@ -63572,6 +63571,7 @@
 .jgdtnxkapkso.com
 .jgevncmrhewpf.xyz
 .jgfcgqivdpd.com
+.jgfwbpquillzpw.com
 .jggvkisg.com
 .jghcy.com
 .jghjhtz.com
@@ -65126,6 +65126,7 @@
 .jxnrfx.com
 .jxoaza.yourmystar.jp
 .jxpjlb.xyz
+.jxpqjztcprvvb.com
 .jxqfu.cn
 .jxsgxzx.com
 .jxsmzz.mytrauringstore.de
@@ -65855,6 +65856,7 @@
 .kf.qingwk.com
 .kf3msfm.com
 .kfand.com
+.kfareputfeab.org
 .kfckcu.xyz
 .kfd3sm2c.com
 .kfdg22.com
@@ -71113,7 +71115,6 @@
 .logic.anzuinfra.com
 .logicalmodelvisible.com
 .logicdate.com
-.logicdripping.com
 .logicorganized.com
 .logicsfort.com
 .logilyavie.digital
@@ -81511,7 +81512,6 @@
 .mycounter.com.ua
 .mycounter.ua
 .mycpm.ru
-.mycrackfree.com
 .mycxhgrp.xyz
 .mydailynewz.com
 .mydas.mobi
@@ -83766,6 +83766,7 @@
 .nlgzhd.yoox.com
 .nlink.com.br
 .nljjem.honeys-onlineshop.com
+.nlkli.com
 .nlmmut.magneticme.com
 .nlmrjnew.oss-cn-shanghai.aliyuncs.com
 .nlmthxjgjhg.com
@@ -90231,7 +90232,6 @@
 .perrabritsed.ru
 .perrege.ru
 .perryvolleyball.com
-.persecutionmachinery.com
 .perseducatiuca.com
 .persesgnetum.com
 .perseverancekaleidoscopefinance.com
@@ -92050,7 +92050,6 @@
 .poae2klya.icu
 .poalauza.net
 .poanouwy.net
-.poaptapuwhu.com
 .poaptoug.net
 .poapustu.net
 .poaships.com
@@ -95685,7 +95684,6 @@
 .qjsknpxwlesvou.com
 .qjueu.com
 .qjukphe.com
-.qjurou.laredoute.com
 .qjvtofw.com
 .qjwglnuwqvr.com
 .qjxiyt.respect-shoes.ru
@@ -95725,6 +95723,7 @@
 .ql.uzuzuz.com
 .qlaot.com
 .qlbpwe.waterstand.jp
+.qlcbeg.xyz
 .qldua.cn
 .qlfqkjluvz.com
 .qliiom.xyz
@@ -95829,6 +95828,7 @@
 .qoiusky.com
 .qoiw1xw.cn
 .qokesjxpbds.com
+.qokira.uno
 .qomate.xyz
 .qomdf.top
 .qomtolfpbno.com
@@ -96384,6 +96384,7 @@
 .quwwa.top
 .quxiangkeji.cn
 .quxsiraqxla.com
+.quxuejhcaz.com
 .quyaoya.com
 .quydautuvingroup.com
 .quydoi-tiente247.weebly.com
@@ -97252,6 +97253,7 @@
 .rdufuxr.icu
 .rdvinfidele.club
 .rdvxxx.crushj.com
+.rdwmct.com
 .rdwrtu.cn
 .rdx.autohome.com.cn
 .rdx.javmotion.com
@@ -115991,6 +115993,7 @@
 .syjkscy.cn
 .sykc.madeindesign.ch
 .sykfmgu.com
+.sykojkqjygahl.com
 .sykty.com
 .syllableliking.com
 .sylvatealonely.com
@@ -118194,6 +118197,7 @@
 .tejwsqrso.xyz
 .tekaners.com
 .tekdtr.shoecarnival.com
+.tekmhvbb.xyz
 .teknologia.co
 .teksishe.net
 .tel-tel-fie.com
@@ -125675,7 +125679,6 @@
 .twshopeee.top
 .twstat.lifenewsjr.com
 .twtad.com
-.twtdkzg.com
 .twtfdd.xyz
 .twtmle.com
 .twuafbj.cn
@@ -129929,6 +129932,7 @@
 .vkonrakte.com
 .vkosaqcacra.com
 .vkscdg.solocruceros.com
+.vksegjhestouij.com
 .vksiqx.supportplus.com
 .vktztp.xyz
 .vkuay.com
@@ -134296,7 +134300,6 @@
 .www-stats.unipi.it
 .www-tb7c.pr0gramm.com
 .www-x-videos.com
-.www.1-1ads.com
 .www.1120.com.tw
 .www.1hkfq6598i.com
 .www.31d.net
@@ -136460,6 +136463,7 @@
 .xoliter.com
 .xonedart-2.live
 .xonyxdpnelhzi.com
+.xoojqxh.icu
 .xoomer.alice.it
 .xoor.ru
 .xopew.cyou
