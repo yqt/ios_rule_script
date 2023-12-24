@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-24 02:10:49
+# UPDATED: 2023-12-25 02:11:11
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12432
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 130990
+# DOMAIN-SUFFIX: 131049
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 144461
+# TOTAL: 144520
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -16689,6 +16689,7 @@
 .artlessdevote.com
 .artneesrparkete.info
 .artonsbewasand.com
+.artoukfarepu.org
 .artpainting.indonesiya.com
 .artpever.com
 .artreconnect.com
@@ -18194,6 +18195,7 @@
 .awugxvrmsdalpx.com
 .awutohkhu.com
 .awvnhoa.com
+.awvqfalackho.com
 .awwvbwym.xyz
 .awxczujifw.com
 .awxoddnhl.xyz
@@ -20087,7 +20089,6 @@
 .bdros.com
 .bdrzxp.xyz
 .bds.hainan.net
-.bds.snssdk.com
 .bdsahkln.xyz
 .bdsm-fantaisie.fr
 .bdstatic.eastmoney.com
@@ -32408,6 +32409,7 @@
 .cxad.cn
 .cxaerp.com
 .cxafxdkmusqxsa.xyz
+.cxapio.xyz
 .cxasci.sprzedajemy.pl
 .cxb4.cn
 .cxbge.xyz
@@ -40662,6 +40664,7 @@
 .dshapv.xyz
 .dshrx.com
 .dsie7h4lo9wxu.cloudfront.net
+.dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
 .dsjcfw.com
 .dsjre.com
 .dsjyjj.cn
@@ -50650,9 +50653,7 @@
 .gdtzdr.pandacraft.fr
 .gdugga.com
 .gdunt.com
-.gdviettelpay.weebly.com
 .gdwfhelbww.com
-.gdwqrnjpjlt.com
 .gdxxb.com
 .gdyjs.com
 .gdyn.cnn.com
@@ -54563,6 +54564,7 @@
 .gz5931-llm0.cn
 .gz7pz.com
 .gzads.com
+.gzakxmzydpkwr.com
 .gzcl999.cn
 .gzcl999.com
 .gzcxtuxgqjrhz.com
@@ -58690,6 +58692,7 @@
 .ieiukkwfqhwuvwy.com
 .iejsk.com
 .ieju.zgtwpscw.cn
+.ielgag.top
 .iemiq.com
 .iemwbu.cn
 .iendoo.com
@@ -59055,7 +59058,6 @@
 .ikunselt.com
 .ikvcxz.cn
 .ikwiwnnofgpzq.com
-.ikwzrix.com
 .ikxxgkpymja.com
 .ikyobwrswacki.xyz
 .il8r.com
@@ -63839,7 +63841,6 @@
 .jissingirgoa.com
 .jistaumt.com
 .jisucn.com
-.jitanvlw.com
 .jitigkvqf.com
 .jittery-period.pro
 .jitteryhire.pro
@@ -63959,7 +63960,6 @@
 .jklbilitukyd.xyz
 .jklhs7u.com
 .jklpy.com
-.jkls.life
 .jkmxy.com
 .jknarp.kakaku.com
 .jknjyfabc.com
@@ -64859,6 +64859,7 @@
 .jujtcq.amnibus.com
 .jujwhjmtidgp.com
 .jukseeng.net
+.julbhzbwhcivj.com
 .julefhgu.xyz
 .julia-liz.com
 .julidanroebuck.com
@@ -65616,6 +65617,7 @@
 .kdpnmlygyagyx.com
 .kdqika.xyz
 .kdqoehj.top
+.kdsahkln.xyz
 .kdsk32lfa.xyz
 .kdsnw.today
 .kdvewlabjokfoc.com
@@ -71852,6 +71854,7 @@
 .lrqpyhn.icu
 .lrqvmaverkabb.top
 .lrqvmaverkarj.top
+.lrqvmaverkjzw.top
 .lrrjgo.comfortlab.co.kr
 .lrslovakia.wolterskluwer.com
 .lrswl.com
@@ -76592,7 +76595,6 @@
 .mekiroki.com
 .mekiroki.org
 .mekmhvbb.xyz
-.meksicie.net
 .mekstolande.com
 .meladonicum.com
 .melahorgani.com
@@ -81186,6 +81188,7 @@
 .mvqycoenp.com
 .mvspjwd.com
 .mvtracker.com
+.mvubzqaowhhgii.com
 .mvujvxc.com
 .mvusq.xyz
 .mw.cinuralytic.com
@@ -82406,6 +82409,7 @@
 .ncernedas.one
 .ncesprin.buzz
 .nceteventuryrem.com
+.ncevipdjsuoln.com
 .ncgqmzm.cn
 .ncgvowqfolon.com
 .nch-software.info
@@ -89772,6 +89776,7 @@
 .pcf.tdscd.com
 .pcfg.wps.cn
 .pcgamer-gb.pcgamer.com
+.pchcwqsfaqpw.com
 .pcheahrdnfktvhs.xyz
 .pchznf.xyz
 .pci.aon.com
@@ -135600,6 +135605,7 @@
 .xdowl0adxd0wnloadx.com
 .xdrig.com
 .xdrzdh.cn
+.xdsahkln.xyz
 .xdsblm.ullapopken.de
 .xdserv.com
 .xdunv.com
@@ -136775,7 +136781,6 @@
 .xuwkbiovxsjnjy.com
 .xuxiaoran.xyz
 .xuyanlong1.cn
-.xuymgm.hostgator.mx
 .xuzeez.com
 .xvaeqgtbnunpkff.com
 .xvantage.ingrammicro.com
@@ -137758,6 +137763,7 @@
 .yktj.yzz.cn
 .ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 .ykujch.icu
+.ykxafzdu.xyz
 .ykxwn.com
 .yl.calumetjowing.com
 .yl04z4v.cn
@@ -138353,6 +138359,7 @@
 .yuanxiang19.fun
 .yuanyanglw.com
 .yucefa.cn
+.yuduoljvxsilvq.com
 .yue78.online
 .yueba94.com
 .yuebog.xyz

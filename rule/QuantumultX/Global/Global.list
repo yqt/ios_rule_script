@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-21 02:14:34
+# UPDATED: 2023-12-25 02:15:20
 # HOST: 520
 # HOST-KEYWORD: 37
-# HOST-SUFFIX: 19821
+# HOST-SUFFIX: 19889
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 20540
+# TOTAL: 20608
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
@@ -2805,6 +2805,7 @@ HOST-SUFFIX,bootstrapcdn.com,Global
 HOST-SUFFIX,bootyliciousmag.com,Global
 HOST-SUFFIX,bootysource.com,Global
 HOST-SUFFIX,boqimod.com,Global
+HOST-SUFFIX,boqitube.cc,Global
 HOST-SUFFIX,borderlessprepaid.com,Global
 HOST-SUFFIX,boringcompany.com,Global
 HOST-SUFFIX,borwap.com,Global
@@ -7573,9 +7574,7 @@ HOST-SUFFIX,kastatic.org,Global
 HOST-SUFFIX,katestube.com,Global
 HOST-SUFFIX,kavkazr.com,Global
 HOST-SUFFIX,kbdxlesx.xyz,Global
-HOST-SUFFIX,kc3000.shop,Global
 HOST-SUFFIX,kdfuli.com,Global
-HOST-SUFFIX,kdy202312.shop,Global
 HOST-SUFFIX,keaiav.com,Global
 HOST-SUFFIX,kechtube.com,Global
 HOST-SUFFIX,keepmovingwithmovefree.com,Global
@@ -8387,6 +8386,7 @@ HOST-SUFFIX,mimi-zhibo.com,Global
 HOST-SUFFIX,mimi2022.link,Global
 HOST-SUFFIX,mimi22.top,Global
 HOST-SUFFIX,mimi222.top,Global
+HOST-SUFFIX,mimizy-go.buzz,Global
 HOST-SUFFIX,minbrowser.org,Global
 HOST-SUFFIX,mindgeek.com,Global
 HOST-SUFFIX,mindmeld.com,Global
@@ -10546,7 +10546,6 @@ HOST-SUFFIX,qattdh.top,Global
 HOST-SUFFIX,qattdh1.cc,Global
 HOST-SUFFIX,qattdh2.cc,Global
 HOST-SUFFIX,qattdh6.top,Global
-HOST-SUFFIX,qbmengmei6.mom,Global
 HOST-SUFFIX,qckprn.com,Global
 HOST-SUFFIX,qcmod.xyz,Global
 HOST-SUFFIX,qctconnect.com,Global
@@ -12834,6 +12833,7 @@ HOST-SUFFIX,walmart-content.com,Global
 HOST-SUFFIX,walmart.com,Global
 HOST-SUFFIX,walmart.pharmacy,Global
 HOST-SUFFIX,walmartimages.com,Global
+HOST-SUFFIX,wandan-dh.buzz,Global
 HOST-SUFFIX,wanduww.buzz,Global
 HOST-SUFFIX,wankgames.com,Global
 HOST-SUFFIX,wankizer.com,Global
@@ -13211,6 +13211,7 @@ HOST-SUFFIX,xhamsterlive.com,Global
 HOST-SUFFIX,xhcdn.com,Global
 HOST-SUFFIX,xhot.pro,Global
 HOST-SUFFIX,xiangrikui-app.com,Global
+HOST-SUFFIX,xianir.xyz,Global
 HOST-SUFFIX,xiaofu.me,Global
 HOST-SUFFIX,xiaogirls.com,Global
 HOST-SUFFIX,xiaoshuobb.life,Global
