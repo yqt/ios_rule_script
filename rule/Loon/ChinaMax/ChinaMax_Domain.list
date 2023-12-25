@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-24 02:16:13
+# UPDATED: 2023-12-26 02:16:46
 # DOMAIN: 168
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 66044
+# DOMAIN-SUFFIX: 66040
 # IP-ASN: 1022
 # IP-CIDR: 6117
 # IP-CIDR6: 3484
 # USER-AGENT: 69
-# TOTAL: 76917
+# TOTAL: 76913
 .0-6.com
 .00.net
 .000.link
@@ -55772,7 +55772,6 @@
 .volcdns.com
 .volcdns.pub
 .volceapi.com
-.volceapplog.com
 .volcecr.com
 .volcecw.com
 .volcenginapi.com

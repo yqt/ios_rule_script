@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-25 02:11:11
+# UPDATED: 2023-12-26 02:11:02
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12432
+# DOMAIN: 12450
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 131049
+# DOMAIN-SUFFIX: 131076
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 144520
+# TOTAL: 144565
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -2955,7 +2955,6 @@
 .605296.com
 .60608787.com
 .6061de8597.com
-.6068372.huckleberry-labs.com
 .6068a17eed25.com
 .606943792a.com
 .606w.cn
@@ -19269,7 +19268,6 @@
 .bankneyminist.xyz
 .bankportal.net
 .banks.adpinfo.com
-.banlamaartikoce.ml
 .banlisgv.fun
 .banlv.baidu.com
 .banmamedia.com
@@ -21616,7 +21614,6 @@
 .bjaiibzmget.com
 .bjakku.com
 .bjappzvz.xyz
-.bjaxmaydcnal.xyz
 .bjbjrlnakwvz.top
 .bjbrsfh.cn
 .bjbrtc.com
@@ -25049,6 +25046,7 @@
 .caolvch.com
 .caomeixz7.xyz
 .caonme.xyz
+.caoqebfaqnswc.com
 .caoys1998.xyz
 .caozhixiong.cn
 .cap-cap-pop.com
@@ -31706,7 +31704,6 @@
 .crxnegluvjquvlp.xyz
 .cry2h.cn
 .cryartarm.online
-.cryingforanythi.com
 .cryjun.com
 .cryo.socialblade.com
 .cryonickru.com
@@ -32424,6 +32421,7 @@
 .cxgicdcfou.com
 .cxgnymgd.xyz
 .cxgwsu.xyz
+.cxhqpbwmyfskzt.com
 .cxiebfdqydf.com
 .cxiwn.xyz
 .cxjrsb.com
@@ -32582,7 +32580,6 @@
 .czechose.com
 .czedgingtenges.com
 .czexrhl.cn
-.czfpgkujv.com
 .czfyaemtweo.com
 .czgjhotel.com
 .czglcxlh.com
@@ -46890,6 +46887,7 @@
 .fed21ff011.com
 .federalcertainty.com
 .fedex-rescheduel-date.com
+.fedex-rescheduel-delivery-date.com
 .fedgroceryrebate.com
 .fedlee.com
 .fedlugk.cn
@@ -49245,7 +49243,6 @@
 .frizingbarnful.com
 .frizzerfoehns.digital
 .frjxdv.cn
-.frkvlntwbyayt.com
 .frkyeaoowaurvqt.com
 .frmpbwotg.com
 .frnafinance.fr
@@ -50091,6 +50088,7 @@
 .gagy.fr
 .gagysn.floward.com
 .gahifc.trendhim.cz
+.gahonnlsh.com
 .gahvy6ww.icu
 .gaiaherbs.fr
 .gaibakur.net
@@ -86839,7 +86837,6 @@
 .open.homey.app
 .open.howbout.app
 .open.isnssdk.com
-.open.kidu.com
 .open.kwaizt.com
 .open.majelan.com
 .open.melomm.com
@@ -87972,7 +87969,6 @@
 .owwqacrfi.com
 .owxanjxlxtfbjw.com
 .owyame.xyz
-.owzmdz.glamira.co.uk
 .ox-bio.com
 .ox-d.hbr.org
 .ox-d.hulkshare.com
@@ -95394,6 +95390,7 @@
 .qdiut.com
 .qdiwbhjpo.com
 .qdkwaz.laredoute.fr
+.qdlbdpsctalt.com
 .qdlesuneeqoglp.com
 .qdmil.com
 .qdnxys.cotswoldco.com
@@ -120133,6 +120130,7 @@
 .tlfurd.xyz
 .tlhlpcb.xyz
 .tlivgsvwkaysva.xyz
+.tllfouwvkqza.com
 .tlm.adp.ca
 .tlootas.org
 .tlp5.mimale.com
@@ -139758,7 +139756,6 @@
 .zorbikala.com
 .zorkabiz.ru
 .zorlsbln.cyou
-.zorosrv.com
 .zortaudi.xyz
 .zortinah.com
 .zosteraclumsy.website
@@ -141588,6 +141585,7 @@ app.perfectgirls.net
 app.pho8.com
 apparede.com
 appgasstation.com
+applog-perf.uc.cn
 applog.lc.quark.cn
 apportium.com
 appsha5.space
