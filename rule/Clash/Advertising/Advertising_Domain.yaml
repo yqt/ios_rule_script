@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-26 02:09:35
+# UPDATED: 2023-12-27 02:08:44
 # DOMAIN: 16258
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97271
+# DOMAIN-SUFFIX: 97300
 # IP-CIDR: 428
-# TOTAL: 114072
+# TOTAL: 114101
 payload:
   - '03.lzzncm.com'
   - '04.lzzncm.com'
@@ -27583,7 +27583,6 @@ payload:
   - '+.bjaarvfcgk.com'
   - '+.bjakku.com'
   - '+.bjappzvz.xyz'
-  - '+.bjaxmaydcnal.xyz'
   - '+.bjbjrlnakwvz.top'
   - '+.bjcass.com'
   - '+.bjcpjab.cn'
@@ -29622,6 +29621,7 @@ payload:
   - '+.caoliuzx.tk'
   - '+.caomeixz7.xyz'
   - '+.caonme.xyz'
+  - '+.caoqebfaqnswc.com'
   - '+.caoys1998.xyz'
   - '+.caozhixiong.cn'
   - '+.cap-cap-pop.com'
@@ -33204,6 +33204,7 @@ payload:
   - '+.crxekxjpiktykjb.com'
   - '+.crxnegluvjquvlp.xyz'
   - '+.cry2h.cn'
+  - '+.cryjun.com'
   - '+.cryonickru.com'
   - '+.cryorganichash.com'
   - '+.crypto-coins.com'
@@ -33529,6 +33530,7 @@ payload:
   - '+.cxgicdcfou.com'
   - '+.cxgnymgd.xyz'
   - '+.cxgwsu.xyz'
+  - '+.cxhqpbwmyfskzt.com'
   - '+.cxiebfdqydf.com'
   - '+.cxjrsb.com'
   - '+.cxkhadk.com'
@@ -33604,7 +33606,6 @@ payload:
   - '+.czechose.com'
   - '+.czedgingtenges.com'
   - '+.czexrhl.cn'
-  - '+.czfpgkujv.com'
   - '+.czfyaemtweo.com'
   - '+.czglcxlh.com'
   - '+.czh5aa.xyz'
@@ -36674,6 +36675,7 @@ payload:
   - '+.dombnrs.com'
   - '+.dombocostomy.website'
   - '+.domccktop.com'
+  - '+.domcwlxin.360doc.cn'
   - '+.domdex.com'
   - '+.domdog.io'
   - '+.domeclosureassert.com'
@@ -44300,6 +44302,7 @@ payload:
   - '+.grupkxfhi.com'
   - '+.gruponn.com'
   - '+.grussreenter.com'
+  - '+.gruvirxita.com'
   - '+.gruwalom.xyz'
   - '+.grvmedia.com'
   - '+.grwp3.com'
@@ -45989,6 +45992,7 @@ payload:
   - '+.hongteng.xyz'
   - '+.hongze.info'
   - '+.honolulu.app.ur.gcion.com'
+  - '+.honorablehalt.com'
   - '+.honorarybreakclank.com'
   - '+.honourcunninglowest.com'
   - '+.honoursdashed.com'
@@ -58552,6 +58556,7 @@ payload:
   - '+.nhfalufsl.com'
   - '+.nhjkm.com'
   - '+.nhjnkis.com'
+  - '+.nhjsuchlliioi.com'
   - '+.nhn.dk'
   - '+.nhopaepzrh.com'
   - '+.nhotewi.ru'
@@ -58666,7 +58671,6 @@ payload:
   - '+.nimpool.io'
   - '+.nimrute.com'
   - '+.ninanceenab.com'
-  - '+.ninancukanking.info'
   - '+.ninaning.com'
   - '+.ninavyg.ru'
   - '+.nindscity.com'
@@ -60962,6 +60966,7 @@ payload:
   - '+.osptjkslmy.com'
   - '+.osqa.com'
   - '+.osqa.net'
+  - '+.osqbfakufafv.com'
   - '+.osrhdsoeqhos.com'
   - '+.osrones.ru'
   - '+.osrrltw.cn'
@@ -65931,6 +65936,7 @@ payload:
   - '+.qslbahy.top'
   - '+.qslkthj.com'
   - '+.qsmsmahlrhop.com'
+  - '+.qsorirgzqw.com'
   - '+.qsoxiekkfjl.com'
   - '+.qsstats.com'
   - '+.qtbb6.com'
@@ -76185,7 +76191,6 @@ payload:
   - '+.tlhlpcb.xyz'
   - '+.tlivgsvwkaysva.xyz'
   - '+.tllfouwvkqza.com'
-  - '+.tlolaxalxdk.com'
   - '+.tlootas.org'
   - '+.tlprbzoi.com'
   - '+.tlprlf.xyz'
@@ -79996,6 +80001,7 @@ payload:
   - '+.vampedcortine.com'
   - '+.vampersmutuary.com'
   - '+.vampersogmic.com'
+  - '+.vampersyacal.com'
   - '+.vamsoupowoa.com'
   - '+.van-city-sign-on.com'
   - '+.vanbenthem.org'

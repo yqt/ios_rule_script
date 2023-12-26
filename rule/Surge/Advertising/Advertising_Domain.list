@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-26 02:09:27
+# UPDATED: 2023-12-27 02:08:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 16258
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97271
+# DOMAIN-SUFFIX: 97300
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 114358
+# TOTAL: 114387
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -2229,7 +2229,6 @@
 .605296.com
 .60608787.com
 .6061de8597.com
-.6068372.huckleberry-labs.com
 .6068a17eed25.com
 .606943792a.com
 .606w.cn
@@ -18380,7 +18379,6 @@
 .bjaarvfcgk.com
 .bjakku.com
 .bjappzvz.xyz
-.bjaxmaydcnal.xyz
 .bjbjrlnakwvz.top
 .bjbrtc.com
 .bjcass.com
@@ -21239,6 +21237,7 @@
 .caolvch.com
 .caomeixz7.xyz
 .caonme.xyz
+.caoqebfaqnswc.com
 .caoys1998.xyz
 .caozhixiong.cn
 .cap-cap-pop.com
@@ -26464,7 +26463,6 @@
 .crxnegluvjquvlp.xyz
 .cry2h.cn
 .cryartarm.online
-.cryingforanythi.com
 .cryjun.com
 .cryo.socialblade.com
 .cryonickru.com
@@ -27005,6 +27003,7 @@
 .cxgicdcfou.com
 .cxgnymgd.xyz
 .cxgwsu.xyz
+.cxhqpbwmyfskzt.com
 .cxiebfdqydf.com
 .cxjrsb.com
 .cxkhadk.com
@@ -27134,7 +27133,6 @@
 .czechose.com
 .czedgingtenges.com
 .czexrhl.cn
-.czfpgkujv.com
 .czfyaemtweo.com
 .czglcxlh.com
 .czh5aa.xyz
@@ -31467,6 +31465,7 @@
 .dombnrs.com
 .dombocostomy.website
 .domccktop.com
+.domcwlxin.360doc.cn
 .domdex.com
 .domdog.io
 .domeclosureassert.com
@@ -42802,6 +42801,7 @@
 .grupkxfhi.com
 .gruponn.com
 .grussreenter.com
+.gruvirxita.com
 .gruwalom.xyz
 .grvmedia.com
 .grwp3.com
@@ -53526,7 +53526,6 @@
 .kwp79i.cn
 .kwqelx.com
 .kwqgprdmmwxyhb.com
-.kwqpix.ravenna.gr
 .kwsjy9.oui.sncf
 .kwtgntyu.xyz
 .kwtnhdrmbx.com
@@ -66579,6 +66578,7 @@
 .nhfalufsl.com
 .nhjkm.com
 .nhjnkis.com
+.nhjsuchlliioi.com
 .nhn.dk
 .nhnazx.outdoorlook.co.uk
 .nhopaepzrh.com
@@ -66724,7 +66724,6 @@
 .nimpool.io
 .nimrute.com
 .ninanceenab.com
-.ninancukanking.info
 .ninaning.com
 .ninavyg.ru
 .nindscity.com
@@ -69814,6 +69813,7 @@
 .osptjkslmy.com
 .osqa.com
 .osqa.net
+.osqbfakufafv.com
 .osrhdsoeqhos.com
 .osrones.ru
 .osrrltw.cn
@@ -76535,6 +76535,7 @@
 .qslkthj.com
 .qsmdeyz.cn
 .qsmsmahlrhop.com
+.qsorirgzqw.com
 .qsove.com
 .qsoxiekkfjl.com
 .qss-client.qq.com
@@ -95559,8 +95560,6 @@
 .tlhlpcb.xyz
 .tlivgsvwkaysva.xyz
 .tllfouwvkqza.com
-.tlm.adp.ca
-.tlolaxalxdk.com
 .tlootas.org
 .tlp5.mimale.com
 .tlprbzoi.com
@@ -102619,6 +102618,7 @@
 .vampedcortine.com
 .vampersmutuary.com
 .vampersogmic.com
+.vampersyacal.com
 .vamsoupowoa.com
 .van-city-sign-on.com
 .vanbenthem.org
