@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-27 02:09:54
+# UPDATED: 2023-12-28 02:10:19
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12451
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 130886
+# DOMAIN-SUFFIX: 130955
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 144376
+# TOTAL: 144445
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -13780,6 +13780,7 @@
 .altabold1.com
 .altairaquilae.top
 .altalex.wolterskluwer.com
+.altarhackees.digital
 .altastat.com
 .altavista.ovh
 .altcoin.care
@@ -19008,6 +19009,7 @@
 .bahatoken.site
 .bahisciler.co
 .bahmemohod.com
+.bahswl.com
 .bahutuophian.com
 .bai.luyouwang.com
 .bai128.xyz
@@ -36971,7 +36973,6 @@
 .dbojetp.cn
 .dbooksbysecon.com
 .dbpbyh.americanas.com.br
-.dbplygoi.com
 .dbpxivi.xyz
 .dbqlghadltookjo.xyz
 .dbregistration.cuteftp.com
@@ -45286,6 +45287,7 @@
 .events2.www.edenfantasys.com
 .eventsapi.grocerkey.com
 .eventsbands.com
+.eventsink.api.redbee.live
 .eventsproxy.gargantuan.futureplc.com
 .eventstream.dodopizza.com
 .eventtracker.elitedaily.com
@@ -47970,6 +47972,7 @@
 .flixgvid.flix360.io
 .flixprice.com
 .flixsyndication.net
+.flixtrial.com
 .fljgsht.ru
 .flmed0.tranquilpinnacle.com
 .flmfcox.com
@@ -49605,6 +49608,7 @@
 .futursalumnes.uic.es
 .fuuze.net
 .fuvbbjl.xyz
+.fuvmtqiwhaffnc.com
 .fuwn782kk.alphaporno.com
 .fuwosi.cn
 .fuxin-tech.com
@@ -56726,6 +56730,7 @@
 .homevi4.tintuc-vi-vn.xyz
 .homevi5.tintuc-vi-vn.xyz
 .homewares.org
+.homeycommemorate.com
 .homierceston.top
 .homify.com.mx
 .hommetendance.fr
@@ -62521,6 +62526,7 @@
 .iu9g.top
 .iubenda.com
 .iuc1.online
+.iuc1.space
 .iuclpbgxyfddk.xyz
 .iudgoufuvzjf.com
 .iuerxw.xyz
@@ -63784,8 +63790,6 @@
 .jkanime.net.iberostar.com
 .jkasn.com
 .jkbdpp.xyz
-.jkbewmezjawqj.top
-.jkckmuiajldj.com
 .jkcontrols.co.uk
 .jkdzimao.com
 .jke1.jianke.com
@@ -65451,6 +65455,7 @@
 .kdvewlabjokfoc.com
 .kdvmnn.com
 .kdwuiulga.com
+.kdxhsaaealyadm.com
 .kdzbg.xyz
 .ke4x.xyz
 .keajs.com
@@ -66521,7 +66526,6 @@
 .kopsil.com
 .kopsooli.com
 .kopterka.ru
-.kopun.tuk-tuk.help
 .koqsxdpx.xyz
 .koraboe.com
 .koradu.com
@@ -80923,6 +80927,7 @@
 .muxingkj.com
 .muybjar.cn
 .muycpg.xyz
+.muyihh.top
 .muyoozrkkyr.com
 .muyviajero.com
 .muyxmmz.cn
@@ -82239,6 +82244,7 @@
 .ncyx.ltd
 .nczjy.com
 .nczxuga.com
+.nd.5.p2l.info
 .nd.nasdaqtech.nasdaq.com
 .nd59w.cn
 .nda3456.com
@@ -86507,8 +86513,6 @@
 .oopukrecku.com
 .ooqwc.xyz
 .oorbfdycj.com
-.oordeevum.com
-.oordoughy.com
 .ooredi.com
 .oorlsblk.cyou
 .oortelre.net
@@ -87163,7 +87167,6 @@
 .osspwamuhn.com
 .ossrhydonr.com
 .ossshucklean.com
-.ossswannaa.com
 .ossyfirecpo.com
 .ostalgie.fr
 .ostazvtx.com
@@ -90144,7 +90147,6 @@
 .pgdmon.com
 .pgdt.gtimg.cn
 .pgdt.gtimg.com
-.pgdyfaphfgouq.com
 .pgerrismp.com
 .pgg.huabojnxdd.com
 .pgght17.com
@@ -90183,6 +90185,7 @@
 .pgtabxxmb.com
 .pguf.top
 .pgusgyzdfpj.ru
+.pgwcrtobrdjx.com
 .ph-ad01.focalink.com
 .ph-ad02.focalink.com
 .ph-ad03.focalink.com
@@ -100403,6 +100406,7 @@
 .rwated.com
 .rwefsw55.com
 .rwfnpayyn.xyz
+.rwhgpxvoqfvv.com
 .rwhxz.space
 .rwjfs.com
 .rwjqdbimphvg.com
@@ -120511,6 +120515,7 @@
 .toyota.lol
 .toysrestrictcue.com
 .tozoruaon.com
+.tozuoi.xyz
 .tozwrqnq.xyz
 .tp.ackermann.ch
 .tp.ambria.de
@@ -130204,7 +130209,6 @@
 .vungle.com
 .vungle.com.edgekey.net
 .vungqwclop.xyz
-.vuolobnhqb.com
 .vuphoubs.com
 .vupload.duowan.com
 .vupowe.xyz
@@ -132006,7 +132010,6 @@
 .wfndponfd.com
 .wfnetwork.com
 .wfnpay.com
-.wfpjeul.cn
 .wfqgfaa.cn
 .wfthumty.pm
 .wfuwlkgm.com
@@ -133417,7 +133420,6 @@
 .wqmobile.com
 .wqnggnse.fun
 .wqnwdjjc.xyz
-.wqorxfp.com
 .wqprtyg.cn
 .wqqsa.puzihua.com
 .wqsph.net
@@ -134709,6 +134711,7 @@
 .wx001.online
 .wx16999.com
 .wxa79ef55c1a84e284.wx.ckjr001.com
+.wxaqazawxhjiz.com
 .wxaw.tiantongmaoyi.com
 .wxbanking.com
 .wxbdfm.com
@@ -134999,7 +135002,6 @@
 .xaguturkuufyq.com
 .xaguwy.thomas-muenz.ru
 .xahhhptqa.top
-.xajnaptmri.com
 .xajqhrrrnxmy.com
 .xakfdicg.com
 .xakhogiovanga92.com
@@ -136023,6 +136025,7 @@
 .xopew.cyou
 .xopf.lhy1.xyz
 .xopxptn.cn
+.xoq.pmubrasil.com.br
 .xoqsxdpx.xyz
 .xoredi.com
 .xorlsblw.cyou

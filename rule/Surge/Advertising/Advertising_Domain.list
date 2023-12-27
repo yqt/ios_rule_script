@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-27 02:08:37
+# UPDATED: 2023-12-28 02:09:00
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 16258
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97300
+# DOMAIN-SUFFIX: 97347
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 114387
+# TOTAL: 114434
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -114,6 +114,7 @@
 .053h94.com
 .0551huayanbdf.com
 .0551zgz.com
+.055g.com
 .0571hy.com
 .0571yy.com
 .05826.online
@@ -11384,7 +11385,6 @@
 .alt-r.my.com
 .altabold1.com
 .altairaquilae.top
-.altalex.wolterskluwer.com
 .altarhackees.digital
 .altastat.com
 .altavista.ovh
@@ -17678,7 +17678,6 @@
 .besthitsnow.com
 .besti.ga
 .bestialvehemence.com
-.bestinfo.bluetrustloans.com
 .bestladymeet.life
 .bestloans.tips
 .bestmmo2018.com
@@ -28623,6 +28622,7 @@
 .dashingsweater.com
 .dasistnews.net
 .daskm.com
+.daslethv.com
 .dasperdolus.com
 .daspic.top
 .dasterx.ru
@@ -34594,6 +34594,7 @@
 .emshx.cn
 .emsservice.de
 .emu.ilovemp3.top
+.emukentsiwo.org
 .emumuendaku.info
 .emway.ir
 .emwkzebpuo.com
@@ -45135,6 +45136,7 @@
 .homevi4.tintuc-vi-vn.xyz
 .homevi5.tintuc-vi-vn.xyz
 .homewares.org
+.homeycommemorate.com
 .homierceston.top
 .hommetendance.fr
 .hommmaq.com
@@ -45566,7 +45568,6 @@
 .hsb-canada.com
 .hsbkr.com
 .hscnpk86.shop
-.hscq8.cyou
 .hscta.net
 .hsdaknd.com
 .hsdn.org
@@ -49356,6 +49357,7 @@
 .ios.asktagapp.com
 .ios.video.mpush.qq.com
 .iosipa.b0.upaiyun.com
+.iossdok.com
 .ioswhi.com
 .iot-business.vodafone.com
 .iot-eu-logser.realme.com
@@ -52583,7 +52585,6 @@
 .kihudevo.pro
 .kihwmtvzvi.com
 .kiiepofl.xyz
-.kiisvpby.xyz
 .kijkxx.com
 .kikbqkhghh.xyz
 .kiki.rireetchansons.fr
@@ -56180,6 +56181,7 @@
 .lkdhlp.xyz
 .lkdvvxvtsq6o.com
 .lkdybkwi.xyz
+.lkenflknkd.com
 .lkf1.m.sanhao3.com
 .lkhmkmhlqst.xyz
 .lkidke.com
@@ -56210,6 +56212,7 @@
 .lkqyqwk.xyz
 .lkrv.top
 .lksbnrs.com
+.lkuygf.top
 .lkvkgk.levis.com.tr
 .lkyrxsfsust.com
 .lkzlambkzljee.top
@@ -60242,9 +60245,11 @@
 .maxtraffic.com
 .maxtrafixx.tech
 .maxtrust.ru
+.maxucc77.top
 .maxun066.top
 .maxun103.top
 .maxun118.top
+.maxunn55.top
 .maxwebsearch.com
 .maxwellsery.com
 .maxwino.ru
@@ -68619,6 +68624,7 @@
 .ok.4wank.net
 .ok.5.p2l.info
 .ok.faptor.com
+.ok.starwank.com
 .ok365.com
 .ok9ydq.ru
 .okaks.com
@@ -69287,8 +69293,6 @@
 .ooqbml.tac-school.co.jp
 .ooqwc.xyz
 .oorbfdycj.com
-.oordeevum.com
-.oordoughy.com
 .ooredi.com
 .oortelre.net
 .oorwithabitofst.info
@@ -71652,7 +71656,6 @@
 .peoric.com
 .pep929.mom
 .pepapigg.xyz
-.pepbuhcnfxd.com
 .pepepush.net
 .pepipo.com
 .pepnsnq.cn
@@ -71906,7 +71909,6 @@
 .pgdmon.com
 .pgdt.gtimg.cn
 .pgdt.gtimg.com
-.pgdyfaphfgouq.com
 .pgerrismp.com
 .pgght17.com
 .pghub.io
@@ -71940,7 +71942,6 @@
 .pguf.top
 .pgusgyzdfpj.ru
 .pgwcrtobrdjx.com
-.pgwlzodsll.com
 .ph-ad01.focalink.com
 .ph-ad02.focalink.com
 .ph-ad03.focalink.com
@@ -79273,6 +79274,7 @@
 .rjjtf.biz
 .rjjynf.showcase-tv.com
 .rjk1.com
+.rjlfolk.xyz
 .rjr-rs.com.br
 .rjvfxxrsepwch.xyz
 .rjw4obbw.com
@@ -80234,7 +80236,6 @@
 .rwdito.carsguide.com.au
 .rwefsw55.com
 .rwfnpayyn.xyz
-.rwftzx.xyz
 .rwhgpxvoqfvv.com
 .rwhxz.space
 .rwjfs.com
@@ -96178,6 +96179,7 @@
 .toyosbullpen.com
 .toysrestrictcue.com
 .tozoruaon.com
+.tozuoi.xyz
 .tozwrqnq.xyz
 .tp.ackermann.ch
 .tp.ambria.de
@@ -101211,9 +101213,6 @@
 .umbretalen.com
 .umcbbt.com
 .umcsghecmszp.com
-.umdlbn.globetrotter.de
-.umdpva.gakumado.mynavi.jp
-.umebella.com
 .umedadelempanyi.info
 .umekana.ru
 .umentrandings.xyz
@@ -109155,6 +109154,7 @@
 .xihashuale.com
 .xihawan8.com
 .xihuashuale.com
+.xiiepofl.xyz
 .xijgedjgg5f55.com
 .xiji.de
 .xilbalar.com
@@ -112253,6 +112253,7 @@
 .ztyqrwinqpvque.com
 .ztyumn.ifeng.com
 .zu08e.cn
+.zu2.top
 .zubivu.com
 .zubojcnubadk.com
 .zuche321.com
