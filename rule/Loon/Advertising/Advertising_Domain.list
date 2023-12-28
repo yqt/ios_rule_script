@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-28 02:09:04
+# UPDATED: 2023-12-29 02:08:34
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16258
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97347
+# DOMAIN-SUFFIX: 97429
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 114433
+# TOTAL: 114515
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -437,6 +437,7 @@
 .1136999.com
 .11370090.net
 .113aa22d76.com
+.1143895874.rsc.cdn77.org
 .1144017219.rsc.cdn77.org
 .114com.cc
 .114la.com
@@ -600,6 +601,7 @@
 .15gifts.com
 .15tianqi.com
 .16-merchant-s.com
+.1603463731.rsc.cdn77.org
 .16134024.artcollection.io
 .161779.publy.co
 .1632j6.cn
@@ -874,6 +876,7 @@
 .1rxntv.io
 .1s1r7hr1k.de
 .1s8pj.cn
+.1sk27.fun
 .1sputnik.ru
 .1sqfobn52.de
 .1starwarstx1.com
@@ -11624,6 +11627,10 @@
 .ams900.goo.ne.jp
 .amshirethfne.xyz
 .amshroomishan.com
+.amsterdam.xhamster.com
+.amsterdam.xhamster.desi
+.amsterdam.xhamster2.com
+.amsterdam.xhamster3.com
 .amtracking01.com
 .amtropiusr.com
 .amuckafternoon.com
@@ -29107,7 +29114,6 @@
 .dbojetp.cn
 .dbooksbysecon.com
 .dbpbyh.americanas.com.br
-.dbplygoi.com
 .dbpxivi.xyz
 .dbqlghadltookjo.xyz
 .dbregistration.cuteftp.com
@@ -35189,6 +35195,7 @@
 .erkaseriilan.com.tr
 .erkeincepts.website
 .erkhxw.com
+.erlfhw.glamira.com.au
 .erling.online
 .erlirscid.com
 .erlpbwy.cn
@@ -35861,6 +35868,7 @@
 .events2.www.edenfantasys.com
 .eventsapi.grocerkey.com
 .eventsbands.com
+.eventsink.api.redbee.live
 .eventsproxy.gargantuan.futureplc.com
 .eventstream.dodopizza.com
 .eventtracker.elitedaily.com
@@ -39454,6 +39462,7 @@
 .futuristicframe.com
 .fuuze.net
 .fuvbbjl.xyz
+.fuvmtqiwhaffnc.com
 .fuwosi.cn
 .fuxin-tech.com
 .fuxunb.com
@@ -44439,6 +44448,7 @@
 .hgusler.com
 .hgx1.online
 .hgx1.site
+.hgx1.space
 .hgxwhpba.xyz
 .hh.jiankang.com
 .hh6666.com
@@ -49858,6 +49868,7 @@
 .iu6t.consobaby.it
 .iubenda.com
 .iuc1.online
+.iuc1.space
 .iuclpbgxyfddk.xyz
 .iudgoufuvzjf.com
 .iugbjkqwc.xyz
@@ -50880,8 +50891,6 @@
 .jkanime.net.iberostar.com
 .jkasn.com
 .jkbdpp.xyz
-.jkbewmezjawqj.top
-.jkckmuiajldj.com
 .jkcontrols.co.uk
 .jkdzimao.com
 .jke1.jianke.com
@@ -51208,6 +51217,7 @@
 .joyorators.website
 .joyourself.com
 .joyous-concentrate.pro
+.joyous-storage.pro
 .joyouscreedweasel.com
 .joyoussurprise.com
 .joyrodethyme.digital
@@ -51823,7 +51833,6 @@
 .jxculb.com
 .jxdown.com
 .jxdptu.jouete-online.com
-.jxeumx.hanaunni.com
 .jxeyhgw.cn
 .jxfxsw.com
 .jxhcyc.com
@@ -52239,6 +52248,7 @@
 .kdsk32lfa.xyz
 .kdvmnn.com
 .kdwuiulga.com
+.kdxhsaaealyadm.com
 .kdzbg.xyz
 .ke4x.xyz
 .keajs.com
@@ -58336,6 +58346,7 @@
 .magiphone.cn
 .magiq.com
 .magistratehumorousjeep.com
+.magmasudaller.com
 .magna.ru
 .magnetairport.com
 .magnetbay.eu
@@ -63022,6 +63033,7 @@
 .mirnauk.ru
 .mirongotrof.ru
 .mirror.smi.fm
+.mirtacku.xyz
 .mirtesen.ru
 .mirthbail.com
 .mirthnonpar.com
@@ -64776,6 +64788,7 @@
 .muwmedia.com
 .muxingkj.com
 .muycpg.xyz
+.muyihh.top
 .muyoozrkkyr.com
 .muyviajero.com
 .muyxmmz.cn
@@ -65818,7 +65831,7 @@
 .ncyksuw.xyz
 .ncylegiatede.info
 .nczxuga.com
-.nd.nasdaqtech.nasdaq.com
+.nd.5.p2l.info
 .nd59w.cn
 .nda3456.com
 .ndandinter.hair
@@ -66968,6 +66981,7 @@
 .noamiagainst.pro
 .noamiscience.pro
 .noanawie.com
+.noanrzfdt.com
 .noapai.name
 .noapsamoo.com
 .noaptauw.com
@@ -69832,7 +69846,6 @@
 .osspwamuhn.com
 .ossrhydonr.com
 .ossshucklean.com
-.ossswannaa.com
 .ossyfirecpo.com
 .ostalgie.fr
 .ostazvtx.com
@@ -70861,6 +70874,7 @@
 .panther.goguardian.com
 .pantherads.com
 .pantsurplus.com
+.panuelobriard.com
 .panwenjun.top
 .panyarspan.com
 .panyh123456.cn
@@ -96038,6 +96052,7 @@
 .topvids.online
 .topvids.org
 .topvids.space
+.toqsxdpx.xyz
 .toquetbircher.com
 .torattatachan.com
 .torbit.com
@@ -104800,7 +104815,6 @@
 .vungle.cn
 .vungle.com
 .vungqwclop.xyz
-.vuolobnhqb.com
 .vuphoubs.com
 .vupload.duowan.com
 .vupulse.com
@@ -106384,7 +106398,6 @@
 .wfndponfd.com
 .wfnetwork.com
 .wfnpay.com
-.wfpjeul.cn
 .wfqgfaa.cn
 .wfthumty.pm
 .wfuwlkgm.com
@@ -107514,6 +107527,7 @@
 .wqjbldnnceroue.com
 .wqmgqm.xyz
 .wqmobile.com
+.wqnwdjjc.xyz
 .wqqsa.puzihua.com
 .wqsph.net
 .wqudcv.finnishdesignshop.com
@@ -108807,7 +108821,6 @@
 .xaguturkuufyq.com
 .xaguwy.thomas-muenz.ru
 .xahhhptqa.top
-.xajnaptmri.com
 .xajqhrrrnxmy.com
 .xakfdicg.com
 .xakhogiovanga92.com
@@ -109052,6 +109065,7 @@
 .xhi8.xyz
 .xhiit0n.xyz
 .xhit.com
+.xhivjkfghj.com
 .xhlzokzxoxykxf.com
 .xhmnbvn.com
 .xhmrv.com

@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-28 02:10:19
+# UPDATED: 2023-12-29 02:09:48
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12451
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 130955
+# DOMAIN-SUFFIX: 131036
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 144445
+# TOTAL: 144526
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -564,6 +564,7 @@
 .1138555.com
 .113aa22d76.com
 .113vod-adaptive.akamaized.net
+.1143895874.rsc.cdn77.org
 .1144017219.rsc.cdn77.org
 .114com.cc
 .114la.com
@@ -747,6 +748,7 @@
 .15h3na0.xyz
 .15tianqi.com
 .16-merchant-s.com
+.1603463731.rsc.cdn77.org
 .16134024.artcollection.io
 .161779.publy.co
 .1632j6.cn
@@ -14082,6 +14084,10 @@
 .amsfi.com
 .amshirethfne.xyz
 .amshroomishan.com
+.amsterdam.xhamster.com
+.amsterdam.xhamster.desi
+.amsterdam.xhamster2.com
+.amsterdam.xhamster3.com
 .amsthr.com
 .amsvplhvxipufkp.xyz
 .amsvts.com
@@ -27628,7 +27634,6 @@
 .click-da-click.com
 .click-eu-v4.globlemath.com
 .click-eu.plarimoplus.com
-.click-ext.anxa.com
 .click-performance.assets.rndtech.de
 .click-plus.net
 .click-rtb2-apac.newchallenges-dsp.com
@@ -32489,6 +32494,7 @@
 .cylinderlongcheng.com
 .cylindermonastery.com
 .cylindrical-pollution.pro
+.cylsszrrfbkgjf.com
 .cymqhqxuchas.com
 .cyneburg-yam.com
 .cynicalspireheroism.com
@@ -48799,6 +48805,7 @@
 .fqcqnb.dwr.com
 .fqdwrgbbkmlbh.com
 .fqeqbpacetlols.com
+.fqfclmlo.xyz
 .fqfjmojnjslr.com
 .fqkwn.com
 .fqla.top
@@ -49132,7 +49139,6 @@
 .frictiontypicalsecure.com
 .fridayarched.com
 .fridaylazy.com
-.fridaypatnod.com
 .fridgejakepreposition.com
 .fridgestretched.com
 .friend17.net
@@ -51395,6 +51401,7 @@
 .ggsfq.com
 .ggsfq.xyz
 .ggskt.com
+.ggsnyc.xyz
 .ggtewaf.cn
 .ggtg8.com
 .ggtp-1255424916.cos.ap-chengdu.myqcloud.com
@@ -55917,6 +55924,7 @@
 .hgusler.com
 .hgx1.online
 .hgx1.site
+.hgx1.space
 .hgxwhpba.xyz
 .hh-btr.com
 .hh.jiankang.com
@@ -56541,7 +56549,6 @@
 .hmyuokltxplqwfa.com
 .hn-button.herokuapp.com
 .hn1l.online
-.hn1l.site
 .hnasd.com
 .hnbhrt.xyz
 .hnbutton.appspot.com
@@ -64205,6 +64212,7 @@
 .joyorators.website
 .joyourself.com
 .joyous-concentrate.pro
+.joyous-storage.pro
 .joyouscreedweasel.com
 .joyoussurprise.com
 .joyrodethyme.digital
@@ -64989,6 +64997,7 @@
 .jyarkinhechershedt.xyz
 .jybaekajjmroq.top
 .jybnuw.mudah.my
+.jydydmctzxcea.com
 .jyfght.cn
 .jyfirjqojg.xyz
 .jygiizv.icu
@@ -66115,6 +66124,7 @@
 .kkmacsqsbf.info
 .kkmbbvz.xyz
 .kkmsa.top
+.kkosiso.com
 .kkpgv.kankan.com
 .kkpgv2.kankan.com
 .kkpgv2.xunlei.com
@@ -67623,7 +67633,6 @@
 .lashou1000.com
 .lasopabowl158.weebly.com
 .lasosignament.com
-.lasqnpjwuaoiqr.xyz
 .lassampy.com
 .lassistslegisten.com
 .lassistslegisten.info
@@ -72007,6 +72016,7 @@
 .lvjtiaa.xyz
 .lvkuaizi.com
 .lvkwz.com
+.lvlmhyjzdan.com
 .lvnlrmn.xyz
 .lvnmzhhod.com
 .lvnnqdgxdlhj.com
@@ -73223,7 +73233,6 @@
 .magistratehumorousjeep.com
 .magmafurnace.top
 .magmasudaller.com
-.magmbb.com
 .magna.ru
 .magnetairport.com
 .magnetbay.eu
@@ -78293,7 +78302,6 @@
 .mfjiaoyu.cn
 .mfjpwroy.com
 .mfk-cpm.com
-.mflybplr.xyz
 .mflztgubvfo.com
 .mfm.video.qq.com
 .mfmkpjkivpbvr.com
@@ -79205,7 +79213,6 @@
 .mmmkwhktalcvvpg.com
 .mmmutajbpalv.com
 .mmmyhkl.cn
-.mmmytckae.com
 .mmn811.top
 .mmnetwork.mobi
 .mmoddkdn.com
@@ -80740,7 +80747,6 @@
 .mudflised.com
 .mudmonster.org
 .mudperipherd.club
-.mudsishaiboo.com
 .mudwortlithog.website
 .mueid.xyz
 .muer.cdn-baidu.fs-sywh.com
@@ -88421,6 +88427,7 @@
 .pantherads.com
 .pantoumcashoos.com
 .pantsurplus.com
+.panuelobriard.com
 .panwenjun.top
 .panyarspan.com
 .panyh123456.cn
@@ -95122,7 +95129,6 @@
 .qdmil.com
 .qdnxys.cotswoldco.com
 .qdobrvkddmlgyi.com
-.qdogpcfgejgc.com
 .qdotzfy.com
 .qdp.qidian.com
 .qdprapwflpvxpyl.com
@@ -96490,7 +96496,6 @@
 .ragita.uno
 .raglassofrum.cc
 .raglogripsa.com
-.ragoassidsie.com
 .ragsbxhchr.xyz
 .rahltiqhosud.com
 .rahxfus.com
@@ -98118,6 +98123,7 @@
 .represented.cn
 .representrollerpurposely.com
 .reprintforensicjesus.com
+.reprintvariousecho.com
 .reproasetttrk.com
 .reprocautious.com
 .reproductiontape.com
@@ -98709,6 +98715,7 @@
 .rg.canesbilker.com
 .rgbvgxfcp.xyz
 .rgbvncnqzlvwr.com
+.rgcxmzrmcvbxem.com
 .rgdhct.cn
 .rgecga.piary.jp
 .rgentssep.xyz
@@ -100164,6 +100171,7 @@
 .ruddywash.com
 .rudemembership.pro
 .rudemend.com
+.rudenx.xyz
 .rudimentarydelay.com
 .rudimentarynuisancesynchronize.com
 .rudzz.com
@@ -100783,6 +100791,7 @@
 .s.zlink4.com
 .s.zzcdn.me
 .s0-2mdn-net.l.google.com
+.s019.com
 .s02.bestsecret.com
 .s06th.cn
 .s0cool.net
@@ -129519,6 +129528,7 @@
 .vjkmmog.cn
 .vjksa.com
 .vjnxpj.xyz
+.vjpgm.space
 .vjrpnv.xyz
 .vjsohgd.com
 .vjtskjg.com
@@ -139038,6 +139048,7 @@
 .zkdkvnzsdxge.info
 .zkdmdf.xyz
 .zkfborg.cn
+.zkfojr.xyz
 .zkmhhr1fr79z.dictionary.basabali.org
 .zkqfrti.cn
 .zkqhqv.sizeofficial.it
