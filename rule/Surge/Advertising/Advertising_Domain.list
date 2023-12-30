@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-30 02:08:43
+# UPDATED: 2023-12-31 02:10:09
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 16258
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97487
+# DOMAIN-SUFFIX: 97518
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 114574
+# TOTAL: 114605
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -396,6 +396,7 @@
 .1035218900.rsc.cdn77.org
 .103bees.com
 .104231.dtiblog.com
+.1044195567.rsc.cdn77.org
 .1052982219.rsc.cdn77.org
 .105app.com
 .106c6423c3.com
@@ -672,6 +673,7 @@
 .184c4i95p.de
 .186078.com
 .18788fdb24.com
+.1885212191.rsc.cdn77.org
 .188aaa.us
 .188affiliates.com
 .188api.com
@@ -8708,6 +8710,7 @@
 .ads.premiumnetwork.net
 .ads.pressdemo.com
 .ads.pricescan.com
+.ads.primissima.it
 .ads.printscr.com
 .ads.prisacom.com
 .ads.pro-market.net.edgesuite.net
@@ -9086,6 +9089,7 @@
 .adschill.com
 .adscholar.com
 .adschoom.com
+.adscience.nl
 .adscienceltd.com
 .adsclick.qq.com
 .adsclick.yx.js.cn
@@ -11185,6 +11189,7 @@
 .all-ti-cod.com
 .all.rising.com.cn
 .all2cnjuh34jb.com
+.all4spy.com
 .allabc.com
 .allactualjournal.com
 .allactualstories.com
@@ -15830,6 +15835,7 @@
 .azorbe.com
 .azpresearch.club
 .azq.zozo.jp
+.azqqloborwwba.top
 .azraelzvro.com
 .azscgj.penningtons.com
 .azsin.ru
@@ -18684,6 +18690,7 @@
 .blowflysempre.uno
 .blowlanternradical.com
 .bloxplay.com
+.blthwbe.xyz
 .blu5fdclr.com
 .blubberobsessionsound.com
 .blubberspoiled.com
@@ -20031,6 +20038,7 @@
 .btn.rtl2.de
 .btnativedirect.com
 .btncdn.com
+.btnwxhjv.xyz
 .btodsjr.com
 .btonzfjleinuax.com
 .btpnative.com
@@ -28216,6 +28224,7 @@
 .d77777777.com
 .d7af79628f.com
 .d7c01d241b.com
+.d7c6491da0.com
 .d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 .d7dza8s7j2am6.cloudfront.net
 .d7dzf.xyz
@@ -41178,6 +41187,7 @@
 .gladiatorbugs.com
 .gladiol9us10.com
 .gladlycreator.com
+.gladthereis.org
 .glaidsurteeg.com
 .glaimtug.com
 .glaingoo.xyz
@@ -42867,7 +42877,6 @@
 .gssprt.jp
 .gssxb.com
 .gstat.bitauto.com
-.gstaticx.com
 .gstats.cn
 .gstralpolita.info
 .gsupplyair.carte-gr.total.fr
@@ -44987,6 +44996,7 @@
 .hmyjoj.5-fifth.com
 .hmyuokltxplqwfa.com
 .hn1l.online
+.hn1l.site
 .hnasd.com
 .hncadh.com
 .hncsdayu.com
@@ -45019,6 +45029,7 @@
 .hntymg.com
 .hnvtuftqshbkhui.xyz
 .hnwjlhg.cn
+.hnxhksg.com
 .hnxxjn.com
 .hnxxt.net
 .hnyiche3.com
@@ -46690,8 +46701,6 @@
 .igloohq.com
 .igmcsvrgxpebh.xyz
 .ignamentswit.com
-.ignchq.kentaku.co.jp
-.ignite.liftigniter.com
 .igniterads.com
 .ignitesvaurien.com
 .ignitioncasino.fr
@@ -53348,6 +53357,7 @@
 .ktlrhudvlsu.com
 .ktlrqfxcskympvu.xyz
 .ktmayxvea.com
+.ktnwxhjv.xyz
 .ktobedirectu.xyz
 .ktoloto.com
 .ktrackdata.com
@@ -58344,6 +58354,7 @@
 .magiq.com
 .magistratehumorousjeep.com
 .magmasudaller.com
+.magmbb.com
 .magna.ru
 .magnetairport.com
 .magnetbay.eu
@@ -58724,10 +58735,6 @@
 .marie-gerardmer.fr
 .marimedia.com
 .marinalculter.com
-.marine.xhamster.com
-.marine.xhamster.desi
-.marine.xhamster2.com
-.marine.xhamster3.com
 .marinegruffexpecting.com
 .marineingredientinevitably.com
 .marinescence.fr
@@ -66395,6 +66402,7 @@
 .newsignites.com
 .newsinform.net
 .newsiqra.com
+.newsletter-link.com
 .newsletter.bcautoencheres.fr
 .newsletter.davey.com
 .newsletter.sst-apac.test.cjmadobe.com
@@ -66935,7 +66943,6 @@
 .nnitejdvebpqa.com
 .nnivvr.zimmo.be
 .nnjisvdxaoet.com
-.nnkkxb.nuts.com
 .nnkqkvqk.com
 .nnmtjmkae.xyz
 .nnn.ru
@@ -68499,6 +68506,7 @@
 .ogury.com
 .ogury.io
 .ogwmubfnjbzyo.com
+.ogxstqna.xyz
 .oh.5.p2l.info
 .ohaijoub.com
 .ohayoo.io
@@ -70853,6 +70861,7 @@
 .panoramicplane.com
 .panoramio.com
 .panoz.xyz
+.panpant.xyz
 .pansymerbaby.com
 .pantafives.com
 .pantatec.ae
@@ -72758,7 +72767,6 @@
 .pjxna.xyz
 .pjy55d.com
 .pjyvgdpvjp.com
-.pjzgggywd.com
 .pjzmbhf.cn
 .pk1u.melanielyne.com
 .pk840.com
@@ -75175,7 +75183,6 @@
 .ptochair.xyz
 .ptoftheca.xyz
 .ptogheeb.net
-.ptoksoaksi.com
 .ptompeer.net
 .ptonauls.net
 .ptongouh.net
@@ -79887,38 +79894,8 @@
 .rtb.trade
 .rtb.videonow.ru
 .rtb.wedeo.ru
-.rtb1.adscience.nl
-.rtb10.adscience.nl
-.rtb11.adscience.nl
-.rtb12.adscience.nl
 .rtb123.com
-.rtb13.adscience.nl
-.rtb14.adscience.nl
-.rtb15.adscience.nl
-.rtb16.adscience.nl
-.rtb17.adscience.nl
-.rtb18.adscience.nl
-.rtb19.adscience.nl
 .rtb1bid.com
-.rtb2.adscience.nl
-.rtb20.adscience.nl
-.rtb21.adscience.nl
-.rtb22.adscience.nl
-.rtb23.adscience.nl
-.rtb24.adscience.nl
-.rtb25.adscience.nl
-.rtb26.adscience.nl
-.rtb27.adscience.nl
-.rtb28.adscience.nl
-.rtb29.adscience.nl
-.rtb3.adscience.nl
-.rtb30.adscience.nl
-.rtb4.adscience.nl
-.rtb5.adscience.nl
-.rtb6.adscience.nl
-.rtb7.adscience.nl
-.rtb8.adscience.nl
-.rtb9.adscience.nl
 .rtbadzesto.com
 .rtbanalytics.com
 .rtbasia.com
@@ -84872,6 +84849,7 @@
 .slivz.com
 .sljkj.com
 .slkdfg.com
+.slkdnlkfnskl.com
 .sllate.fr
 .sllo.top
 .slm.dantri.com.vn
@@ -94289,7 +94267,6 @@
 .text6film.com
 .textad.net
 .textad.traficdublu.ro
-.textads.biz
 .textbookmudbutterfly.com
 .textbrokr.fr
 .textklicks.de
@@ -98224,7 +98201,6 @@
 .tracking.ehrintelligence.com
 .tracking.eloq.soa.org
 .tracking.email-mandrill.pushd.com
-.tracking.emilyclarkconsulting.com
 .tracking.emoneyadvisor.com
 .tracking.emsmobile.de
 .tracking.engagedigitalmedia.com
@@ -100553,6 +100529,7 @@
 .tz-dsp.com
 .tz.1688988.com
 .tz284.com
+.tzaho.com
 .tzaristdiploma.com
 .tzbtw.com
 .tzegilo.com
@@ -102183,9 +102160,7 @@
 .ut.iggroup.com
 .ut.upmc.com
 .ut1-capitole.fr
-.ut13r.online
 .ut13r.site
-.ut13r.space
 .ut1capitole.fr
 .utairway.com
 .utaitlastwebe.com
@@ -104226,6 +104201,7 @@
 .vlitag.com
 .vlive.qqvideo.tc.qq.com
 .vljjtj.xyz
+.vlkkwxncamnq.com
 .vlnk.me
 .vlogerads.com
 .vlogexpert.com
@@ -105526,7 +105502,6 @@
 .wcadlvruvrq.xyz
 .wcail.com
 .wcaos.com
-.wcbghap63.shop
 .wcbxugtfk.com
 .wccprfxgbes.com
 .wcctteslcmulgmu.com
@@ -107929,7 +107904,6 @@
 .www.adpowerzone.com
 .www.adquest3d.com
 .www.adrianwaldock.plus.com
-.www.adscience.nl
 .www.adservtech.com
 .www.adsnet.se
 .www.adspics.com
@@ -108930,6 +108904,7 @@
 .xdcngimejo.com
 .xdcqcyp.com
 .xdcs-collector.ximalaya.com
+.xder1.fun
 .xdezxlbnpo.com
 .xdfdqce.xyz
 .xdgeph.ru
@@ -109578,6 +109553,7 @@
 .xqtcur.kirklands.com
 .xqupwc.emp.at
 .xqwiremesh.com
+.xqzwtvjkjj.com
 .xr-tds.com
 .xr8wv50k1daj.com
 .xrain.net
@@ -109639,7 +109615,6 @@
 .xtjpdfr.cn
 .xtlvjnyd.com
 .xtneqpole.xyz
-.xtnlfgpnml.com
 .xtnwxhjv.xyz
 .xtpez.xyz
 .xtpwfb.xyz
@@ -109729,6 +109704,7 @@
 .xuyanlong1.cn
 .xuzeez.com
 .xvaeqgtbnunpkff.com
+.xvantage.ingrammicro.com
 .xvbnrh.xyz
 .xvbtdwdelhhxe.com
 .xvderylqps.xyz
@@ -110653,6 +110629,7 @@
 .yok.la
 .yokebao.com
 .yokeeroud.com
+.yolkhandledwheels.com
 .yollamedia.com
 .yolo.philipbjorge.com
 .yololike.space

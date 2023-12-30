@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-15 02:13:02
+# UPDATED: 2023-12-31 02:15:56
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 29
-# DOMAIN-SUFFIX: 5892
+# DOMAIN-SUFFIX: 5897
 # IP-CIDR: 97
 # USER-AGENT: 9
-# TOTAL: 6038
+# TOTAL: 6043
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -1262,6 +1262,7 @@
 .discuss.com.hk
 .discuss4u.com
 .dish.com
+.disk.yandex.ru
 .disp.cc
 .disq.us
 .disqus.com
