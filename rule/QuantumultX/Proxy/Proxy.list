@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-31 02:15:57
+# UPDATED: 2024-01-01 02:13:20
 # HOST: 17
 # HOST-KEYWORD: 29
-# HOST-SUFFIX: 6342
+# HOST-SUFFIX: 6352
 # IP-CIDR: 94
 # IP6-CIDR: 3
 # USER-AGENT: 9
-# TOTAL: 6494
+# TOTAL: 6504
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
@@ -5145,6 +5145,7 @@ HOST-SUFFIX,telegram-cdn.org,Proxy
 HOST-SUFFIX,telegram.dog,Proxy
 HOST-SUFFIX,telegram.me,Proxy
 HOST-SUFFIX,telegram.org,Proxy
+HOST-SUFFIX,telegram.space,Proxy
 HOST-SUFFIX,telegramdownload.com,Proxy
 HOST-SUFFIX,telegraph.co.uk,Proxy
 HOST-SUFFIX,telesco.pe,Proxy

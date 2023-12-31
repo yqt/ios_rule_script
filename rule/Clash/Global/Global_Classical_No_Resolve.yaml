@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-31 02:15:30
+# UPDATED: 2024-01-01 02:12:58
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19603
+# DOMAIN-SUFFIX: 19704
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19915
+# TOTAL: 20016
 payload:
   - DOMAIN,a.ppy.sh
   - DOMAIN,adobeereg.com
@@ -184,6 +184,7 @@ payload:
   - DOMAIN-SUFFIX,10c10qoo.one
   - DOMAIN-SUFFIX,10xfotolia.com
   - DOMAIN-SUFFIX,110xnxx.com
+  - DOMAIN-SUFFIX,1111mod-tube.buzz
   - DOMAIN-SUFFIX,1111mode.xyz
   - DOMAIN-SUFFIX,1111modpo.info
   - DOMAIN-SUFFIX,112263.com
@@ -788,6 +789,8 @@ payload:
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,aixingge2.cc
+  - DOMAIN-SUFFIX,aizyk.buzz
+  - DOMAIN-SUFFIX,aizyk.xyz
   - DOMAIN-SUFFIX,ajplus.net
   - DOMAIN-SUFFIX,ajsjx.com
   - DOMAIN-SUFFIX,ajtalk.com
@@ -3143,6 +3146,19 @@ payload:
   - DOMAIN-SUFFIX,cmhalq.com
   - DOMAIN-SUFFIX,cmpaas.com
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
+  - DOMAIN-SUFFIX,cnbc.com
+  - DOMAIN-SUFFIX,cnbcfm.com
+  - DOMAIN-SUFFIX,cncrivals.com
+  - DOMAIN-SUFFIX,cnix-gov-cn.com
+  - DOMAIN-SUFFIX,cnnamador.com
+  - DOMAIN-SUFFIX,cnnarabic.com
+  - DOMAIN-SUFFIX,cnnikebrand.com
+  - DOMAIN-SUFFIX,cnnlabs.com
+  - DOMAIN-SUFFIX,cnnmoney.com
+  - DOMAIN-SUFFIX,cnnmoneystream.com
+  - DOMAIN-SUFFIX,cnnpolitics.com
+  - DOMAIN-SUFFIX,cnshopin.com
+  - DOMAIN-SUFFIX,cnzjp.xyz
   - DOMAIN-SUFFIX,cobatt.com
   - DOMAIN-SUFFIX,cobrasearch.com
   - DOMAIN-SUFFIX,cochranelibrary.com
@@ -6172,6 +6188,7 @@ payload:
   - DOMAIN-SUFFIX,hm.com
   - DOMAIN-SUFFIX,hmd.site
   - DOMAIN-SUFFIX,hmfby.com
+  - DOMAIN-SUFFIX,hmfun.top
   - DOMAIN-SUFFIX,hnalady.com
   - DOMAIN-SUFFIX,hobonichielog.com
   - DOMAIN-SUFFIX,hochi.news
@@ -6438,6 +6455,7 @@ payload:
   - DOMAIN-SUFFIX,huati.cc
   - DOMAIN-SUFFIX,huaxin-lls.xyz
   - DOMAIN-SUFFIX,huaxin80.com
+  - DOMAIN-SUFFIX,huaxinvip.top
   - DOMAIN-SUFFIX,hubblephone.com
   - DOMAIN-SUFFIX,huffpostarabi.com
   - DOMAIN-SUFFIX,huffpostbrasil.com
@@ -7164,6 +7182,7 @@ payload:
   - DOMAIN-SUFFIX,jayspov.net
   - DOMAIN-SUFFIX,jb22.lol
   - DOMAIN-SUFFIX,jbe-platform.com
+  - DOMAIN-SUFFIX,jburl.top
   - DOMAIN-SUFFIX,jdav-css.shop
   - DOMAIN-SUFFIX,jdavsp.com
   - DOMAIN-SUFFIX,jdavsp.info
@@ -7193,6 +7212,7 @@ payload:
   - DOMAIN-SUFFIX,jfrog.org
   - DOMAIN-SUFFIX,jgg18.xyz
   - DOMAIN-SUFFIX,jhxl.org
+  - DOMAIN-SUFFIX,jhzyw.xyz
   - DOMAIN-SUFFIX,jiaochuanba25.buzz
   - DOMAIN-SUFFIX,jiaochuanba26.buzz
   - DOMAIN-SUFFIX,jiayoulu.com
@@ -7244,6 +7264,7 @@ payload:
   - DOMAIN-SUFFIX,joiasmr.com
   - DOMAIN-SUFFIX,joinmaidez.com
   - DOMAIN-SUFFIX,joinside.org
+  - DOMAIN-SUFFIX,jokerlu-go.buzz
   - DOMAIN-SUFFIX,jokerlu.world
   - DOMAIN-SUFFIX,jokerlu1.cc
   - DOMAIN-SUFFIX,jokerlu1.info
@@ -7329,7 +7350,9 @@ payload:
   - DOMAIN-SUFFIX,katestube.com
   - DOMAIN-SUFFIX,kavkazr.com
   - DOMAIN-SUFFIX,kbdxlesx.xyz
+  - DOMAIN-SUFFIX,kc3000.shop
   - DOMAIN-SUFFIX,kdfuli.com
+  - DOMAIN-SUFFIX,kdy202312.shop
   - DOMAIN-SUFFIX,keaiav.com
   - DOMAIN-SUFFIX,kechtube.com
   - DOMAIN-SUFFIX,keepmovingwithmovefree.com
@@ -7424,6 +7447,7 @@ payload:
   - DOMAIN-SUFFIX,kouwobb.com
   - DOMAIN-SUFFIX,kphimsex.net
   - DOMAIN-SUFFIX,kpht85.com
+  - DOMAIN-SUFFIX,kpptoto.info
   - DOMAIN-SUFFIX,krakenjs.com
   - DOMAIN-SUFFIX,krhentai.com
   - DOMAIN-SUFFIX,kristenbjorn.com
@@ -7434,6 +7458,7 @@ payload:
   - DOMAIN-SUFFIX,ksescortclub.com
   - DOMAIN-SUFFIX,ksyp10.com
   - DOMAIN-SUFFIX,ktvu.com
+  - DOMAIN-SUFFIX,ku77.xyz
   - DOMAIN-SUFFIX,kuaimao-app.com
   - DOMAIN-SUFFIX,kuaipa.net
   - DOMAIN-SUFFIX,kuanrenxs.com
@@ -7972,6 +7997,7 @@ payload:
   - DOMAIN-SUFFIX,mdnyalp.dev
   - DOMAIN-SUFFIX,mdpi.com
   - DOMAIN-SUFFIX,mdpj-mov.shop
+  - DOMAIN-SUFFIX,mdpjoin.buzz
   - DOMAIN-SUFFIX,me-gay.com
   - DOMAIN-SUFFIX,meadjohnson.com
   - DOMAIN-SUFFIX,meadjohnson.net
@@ -9073,7 +9099,6 @@ payload:
   - DOMAIN-SUFFIX,ntdtv-dc.com
   - DOMAIN-SUFFIX,ntdtv.com
   - DOMAIN-SUFFIX,ntdvn.com
-  - DOMAIN-SUFFIX,ntp.ripe.net
   - DOMAIN-SUFFIX,ntten-mg.buzz
   - DOMAIN-SUFFIX,nu-bay.com
   - DOMAIN-SUFFIX,nu36.vip
@@ -10327,6 +10352,7 @@ payload:
   - DOMAIN-SUFFIX,qattdh1.cc
   - DOMAIN-SUFFIX,qattdh2.cc
   - DOMAIN-SUFFIX,qattdh6.top
+  - DOMAIN-SUFFIX,qbmengmei6.mom
   - DOMAIN-SUFFIX,qckprn.com
   - DOMAIN-SUFFIX,qcmod.xyz
   - DOMAIN-SUFFIX,qctconnect.com
@@ -13036,6 +13062,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoyaoge.xyz
   - DOMAIN-SUFFIX,xie56.xyz
   - DOMAIN-SUFFIX,xin21.xyz
+  - DOMAIN-SUFFIX,xinaia-av.buzz
   - DOMAIN-SUFFIX,xindelu.com
   - DOMAIN-SUFFIX,xinfhw.com
   - DOMAIN-SUFFIX,xing66.life

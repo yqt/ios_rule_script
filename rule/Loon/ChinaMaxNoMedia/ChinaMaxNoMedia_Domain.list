@@ -1,15 +1,15 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-31 02:19:42
+# UPDATED: 2024-01-01 02:16:14
 # DOMAIN: 164
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 65684
-# IP-ASN: 1026
+# DOMAIN-SUFFIX: 65558
+# IP-ASN: 1027
 # IP-CIDR: 6121
 # IP-CIDR6: 3494
 # USER-AGENT: 69
-# TOTAL: 76569
+# TOTAL: 76444
 .0-6.com
 .00.net
 .000.link
@@ -4379,7 +4379,6 @@
 .54jkw.com
 .54job.com
 .54lol.com
-.54maimai.com
 .54md.com
 .54op.com
 .54pictu.com
@@ -4413,7 +4412,6 @@
 .556z.com
 .557.net
 .5577.com
-.5581014.cc
 .5588.tv
 .55935.vip
 .5599.com
@@ -4444,7 +4442,6 @@
 .560.im
 .56015.com
 .5611.com
-.5611501.cc
 .5611535.cc
 .561218.com
 .56135.com
@@ -7861,7 +7858,8 @@
 .alianhome.com
 .aliapp-inc.com
 .aliapp.com
-.aliappcdn.com
+.aliav8.com
+.aliav9.com
 .aliavv.com
 .alibaba-inc.com
 .alibaba.com
@@ -8311,6 +8309,7 @@
 .anweishi.com
 .anweizhi.com
 .anwen.cc
+.anwfm.com
 .anxia.com
 .anxiangkeji.net
 .anxiaoer.com
@@ -8716,7 +8715,6 @@
 .arfans.com
 .arhieason.com
 .arhoo.com
-.ariaideh.com
 .ariesmob.com
 .arinchina.com
 .arisastar.com
@@ -21330,7 +21328,6 @@
 .fangguanjg.com
 .fanghuafu.com
 .fanghuihui.com
-.fanging.com
 .fangjia.com
 .fangjiadp.com
 .fangkeduo.net
@@ -21919,6 +21916,7 @@
 .fh86.com
 .fhd001.com
 .fhdjh.com
+.fhhgj.com
 .fhldns.com
 .fhldns.net
 .fhlun.com
@@ -22213,6 +22211,7 @@
 .flysheep6.com
 .flytcloud.com
 .flytexpress.com
+.flyxg.com
 .flyzyblog.net
 .flzc.com
 .flzhan.com
@@ -26931,7 +26930,6 @@
 .hgmai.com
 .hgnc.net
 .hgobox.com
-.hguduo.com
 .hgyjs.com
 .hgyx.cc
 .hgzdq.com
@@ -31338,7 +31336,6 @@
 .iyunv.com
 .iyunxiao.com
 .iyunzk.com
-.iyxjord.work
 .iyxku.com
 .iyyin.com
 .iyz168.com
@@ -44824,7 +44821,6 @@
 .qingruanit.net
 .qingshou.online
 .qingshow.net
-.qingshuo.com
 .qingsong123.com
 .qingsongchou.com
 .qingsonngxx.com
@@ -46082,7 +46078,6 @@
 .redisfans.com
 .redisguide.com
 .redisinaction.com
-.redmagic.com
 .rednetdns.com
 .redocn.com
 .redoop.com
@@ -46653,7 +46648,6 @@
 .ruanmou.net
 .ruantiku.com
 .ruanwen.la
-.ruanwenhui.com
 .ruanwenkezhan.com
 .ruanwenlala.com
 .ruanyuan.net
@@ -48955,7 +48949,6 @@
 .shuzibao.com
 .shuzixiaoyuan.com
 .shuzixindong.com
-.shwcsh.com
 .shwdbjgs.com
 .shwebspace.com
 .shweiya.com
@@ -53672,7 +53665,6 @@
 .tuimotuimo.com
 .tuipeanut.com
 .tuipear.com
-.tuipink.com
 .tuiplay.com
 .tuirabbit.com
 .tuirice.com
@@ -54149,6 +54141,7 @@
 .ucdchina.com
 .ucdok.com
 .ucdrs.net
+.ucfpay.com
 .ucgslb.com
 .ucgslb.info
 .ucgslb.net
@@ -55619,6 +55612,7 @@
 .vvv.io
 .vvvcd.com
 .vvvdj.com
+.vvvvzv.com
 .vvzero.com
 .vwanjia.com
 .vwhulian.com
@@ -57394,7 +57388,6 @@
 .wksc.com
 .wkshipark.com
 .wkt41.app
-.wkyaoye.com
 .wkzf.com
 .wkzk.com
 .wkzuche.com
@@ -58592,7 +58585,6 @@
 .xbpro.vip
 .xbptc.com
 .xbpz9.com
-.xbqgyy.com
 .xbrl-cn.org
 .xbrother.com
 .xbuwrp.sbs
@@ -59172,6 +59164,7 @@
 .xiaoleimob.com
 .xiaoliangkou.com
 .xiaoliebian.com
+.xiaoligushihui.com
 .xiaolin.in
 .xiaolincoding.com
 .xiaolinsi.com
@@ -60223,9 +60216,8 @@
 .xmzylh.com
 .xn--2krw29cdqai43k.com
 .xn--2quq3tovao9rkkh379a.com
-.xn--2qux23cs4e63q.com
-.xn--4n0arfvg.com
 .xn--4qr912ma.com
+.xn--5usq45ab9cq10aihcp50d.com
 .xn--7hv285el2dtof.com
 .xn--7qvz7xssa.com
 .xn--9qrw67b3udl12b.ren
@@ -60246,6 +60238,7 @@
 .xn--nyqx2gbsm8u0b.com
 .xn--pbt1sj69ag8b.com
 .xn--q20av2y36ac54a.com
+.xn--ruqx2ez8em6ez9pv4l.com
 .xn--s4t325g.com
 .xn--uisx71c0r1a.com
 .xn--w9qr0k.com
@@ -63891,8 +63884,6 @@
 .yyyncp.com
 .yyyy.games
 .yyyyy.run
-.yyzf.com
-.yyzf.vip
 .yyzsoft.com
 .yyzw.com
 .yyzyytj.com
@@ -64985,6 +64976,7 @@
 .zhishiu.com
 .zhishiv.com
 .zhishiwu.com
+.zhishizhan.net
 .zhishuedu.com
 .zhishutang.com
 .zhishuyun.com
