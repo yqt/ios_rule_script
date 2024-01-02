@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-02 02:09:11
+# UPDATED: 2024-01-03 02:09:43
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 16254
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97660
+# DOMAIN-SUFFIX: 97700
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 114743
+# TOTAL: 114783
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -5916,6 +5916,7 @@
 .achuphaube.com
 .achurt.com
 .achyrepeatitchy.com
+.acidicgrip.com
 .acidicstraw.com
 .acidpigs.com
 .acinicmislaid.com
@@ -16171,6 +16172,7 @@
 .badgeboat.com
 .badgegirdle.com
 .badgerchance.com
+.badgevolcano.com
 .badgreenssucceed.com
 .badjocks.com
 .badlymaggot.com
@@ -17856,6 +17858,7 @@
 .bfgtfxd.com
 .bfgvqx.com
 .bfjk360.com
+.bflybplr.xyz
 .bfmio.com
 .bfogxatnxkkmlc.com
 .bfoleyinteractive.com
@@ -21858,6 +21861,7 @@
 .cdn.komentary.aol.com
 .cdn.lodeo.io
 .cdn.logrocket.com
+.cdn.malokacha.club
 .cdn.manga9.co
 .cdn.mediatradecraft.com
 .cdn.mingmingtehui.com
@@ -24685,6 +24689,7 @@
 .companiedoml.site
 .company-target.com
 .company.site
+.companyparcel.com
 .comparativevegetables.com
 .compare.easyviaggio.com
 .compare.easyviajar.com
@@ -24803,6 +24808,7 @@
 .concreteprotectedwiggle.com
 .concurrencepride.com
 .concussionpollutioncrummy.com
+.condemnedcomb.com
 .condensedmassagefoul.com
 .conditionchange.com
 .conditioncrush.com
@@ -34053,6 +34059,7 @@
 .elecur.com
 .eleeghod.xyz
 .elegant-feedback.com
+.elegantboulevard.com
 .elegantkhamsin.life
 .elegiachalo.website
 .elemea.xyz
@@ -35659,6 +35666,7 @@
 .evadavdsp.pro
 .evaff.com
 .evaluateend.com
+.evaluatestream.com
 .evaluationacutegrandpa.com
 .evandr.online
 .evanescentedge.com
@@ -38765,6 +38773,7 @@
 .fqla.top
 .fqmgjad.cn
 .fqnyvwyplel.com
+.fqpxjydyj.com
 .fqpxzr.xyz
 .fqsecure.com
 .fqskuzqwpgu.com
@@ -48761,7 +48770,6 @@
 .inmespritr.com
 .inminuner.com
 .inmuzp.popsockets.com
-.inn.charleycreekinn.com
 .innatecomb.com
 .inncreasukedrev.info
 .inneonan.com
@@ -50908,6 +50916,7 @@
 .jkthlsrdhni.com
 .jktopia.com
 .jkttvpoxmk.com
+.jkwxaryiaoof.com
 .jkxvvv.xyz
 .jkyybewqmnll.top
 .jkzakzjwyolbl.top
@@ -51185,6 +51194,7 @@
 .jotrening.com
 .jotskuffieh.website
 .jouaboe.com
+.joukidles.life
 .joupteni.xyz
 .journalforum.org
 .journera.com
@@ -52099,6 +52109,7 @@
 .kappalinks.com
 .kaprazatos.club
 .kaprila.com
+.kaputquill.com
 .kaqhfijxlkbfa.xyz
 .kaqpnobbjzdwi.com
 .kaquansc.com
@@ -52380,6 +52391,7 @@
 .ketgetoexukpr.info
 .ketheappyrin.com
 .ketiverdisof.com
+.ketlpsmt.com
 .ketogenopsins.uno
 .ketoo.com
 .ketquaxosotoancau.org
@@ -62574,6 +62586,7 @@
 .mfio.cf
 .mfjpwroy.com
 .mfk-cpm.com
+.mflybplr.xyz
 .mflztgubvfo.com
 .mfm.video.qq.com
 .mfneepajrqn.com
@@ -75055,8 +75068,6 @@
 .psucmulr.net
 .psuftoum.com
 .psugkfqmys.com
-.psumainy.xyz
-.psungaum.com
 .psuphuns.net
 .psurdoak.com
 .psurigrabi.com
@@ -76212,6 +76223,7 @@
 .qienews.cn
 .qifake.com
 .qifwbpoo.com
+.qifxwiruhrr.com
 .qifyeldy.top
 .qigemm.com
 .qihaoqu.com
@@ -88218,6 +88230,7 @@
 .spatikona.com
 .spatterjointposition.com
 .spattermerge.com
+.spbxgjcupg.com
 .spcode.baidu.cn
 .spcode.baidu.com
 .spd-spenden.de
@@ -91473,6 +91486,10 @@
 .sucior.ru
 .suckdude.com
 .suclj.xyz
+.sucmetrics.hypovereinsbank.de
+.sucmetrics.unicredit.de
+.sucmetrics.unicredit.it
+.sucmetrics.unicreditgroup.eu
 .sucocesisfulylyde.info
 .sucodb.com
 .sucter.com
@@ -94297,6 +94314,7 @@
 .tfi6678.com
 .tfiph.com
 .tfla.xyz
+.tflybplr.xyz
 .tfmgqdj.com
 .tfmkdrcjpcdf.xyz
 .tfncnhd8p95c.com
@@ -103876,7 +103894,6 @@
 .violentlyradiussuffix.com
 .violetlovelines.com
 .violetreading.com
-.violinboot.com
 .violindealtcynical.com
 .violondeaf.guru
 .vionertelssat.pro
