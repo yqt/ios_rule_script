@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-03 02:11:02
+# UPDATED: 2024-01-04 02:10:52
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12451
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 131755
+# DOMAIN-SUFFIX: 131809
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 145246
+# TOTAL: 145300
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -12740,6 +12740,7 @@
 .ahedrankslowwe.xyz
 .aheightbaaing.website
 .ahemsoku.net
+.ahernssa.com
 .ahfucvgugitokyn.com
 .ahfy.me
 .ahfzzc.konfio.mx
@@ -13384,6 +13385,7 @@
 .alert.mac-notification.com
 .alert1dhlshipment.info
 .alertafterthought.com
+.alertarithmetic.com
 .alertfaucet.com
 .alertlogsemployer.com
 .alertme.news
@@ -40091,8 +40093,6 @@
 .dotcounter.douyucdn.cn
 .dotcounter.douyutv.com
 .dotercouther.uno
-.doteshelloed.website
-.dotgxcnq.com
 .dothaish.net
 .dothbognib.com
 .dotjs.com
@@ -55042,6 +55042,7 @@
 .hare.felix-schmid.de
 .hare.startupbootcamp.com.au
 .haree.cn
+.harelipwelshes.digital
 .haresmodus.com
 .harfuzawmk.com
 .harhtwb.com
@@ -65841,6 +65842,7 @@
 .kgelugaz.com
 .kgeshe.site
 .kgfjrb711.com
+.kggikf.icu
 .kglqjacmqmns.com
 .kgmobilestat.kugou.com
 .kgmobilestatbak.kugou.com
@@ -68641,7 +68643,6 @@
 .lezntf.heydudeshoesusa.com
 .lezpress.fr
 .leztc.com
-.lf.hagweedtoytown.com
 .lfcepgb.cn
 .lfd-media.ru
 .lfdydk.com
@@ -79437,6 +79438,7 @@
 .mnetads.com
 .mnevjhg.com
 .mnfhxszj.xyz
+.mnfse.cn
 .mng-ads.com
 .mnhjk.com
 .mnhknds.com
@@ -83357,6 +83359,7 @@
 .nharghiooudi.xyz
 .nhatnamgroups.com
 .nhatubo.com
+.nhcdn.cn
 .nheappyrincen.info
 .nheappyrincenev.info
 .nhfalufsl.com
@@ -83765,6 +83768,7 @@
 .nmqbg.com
 .nmqdnykj.com
 .nmqwdmtwjleb.com
+.nmrjnqiwocfyi.com
 .nmrlx.cn
 .nmrodam.com
 .nmssdbgmf.xyz
@@ -84397,6 +84401,7 @@
 .nsg.symantec.com
 .nshes.ru
 .nshio.com
+.nshypdry.xyz
 .nsjpu.com
 .nsjyfpo.com
 .nslokxweviwqbg.com
@@ -84451,6 +84456,7 @@
 .nta1vb6cdlrl.com
 .ntalker.com
 .ntanaerc.cyou
+.ntcqmdif.com
 .ntdtv.com
 .ntdtv.org
 .ntdvjlvau.com
@@ -84970,6 +84976,7 @@
 .oardilin.com
 .oardjnay.com
 .oaredtroth.com
+.oargaung.com
 .oarsmenmytilid.uno
 .oarsmorsel.com
 .oarsouss.net
@@ -91953,10 +91960,7 @@
 .pnvbfxwbeg.com
 .pnvnpy.scullyandscully.com
 .pnxs.com
-.pnxtsauba.com
-.pny.net.penny.de
 .pnyjzdtirvufft.com
-.pnymwcnihpyvpun.com
 .pnzhpb.xyz
 .po.funshion.com
 .po.lepidjounces.com
@@ -120170,6 +120174,7 @@
 .toadtexture.com
 .toaduroo.xyz
 .toaglaun.xyz
+.toaglegi.com
 .toaioi.lol
 .toaioi.xyz
 .toajephu.com
@@ -126326,7 +126331,6 @@
 .ukayhvbyrk.com
 .ukaytg.cortefiel.com
 .ukbbjtfp.xyz
-.ukbcjxvaejpfdxx.com
 .ukcomparends.pro
 .ukdliketobepa.monster
 .ukectivetrai.one
@@ -126701,7 +126705,6 @@
 .unflamewandoo.com
 .unfolded-economics.com
 .unforgivablegrowl.com
-.unfymctyuuuynis.com
 .ungillhenbane.com
 .unglazeclassic.com
 .ungloomnisnas.com
@@ -128614,7 +128617,6 @@
 .veritrol.com
 .verizon-branch.locationlabs.com
 .verizon.asapp.com
-.vernementsec.info
 .verneukorgia.com
 .verninchange.com
 .vernondesigninghelmet.com
@@ -131117,7 +131119,6 @@
 .watchahv.com
 .watchcpm.com
 .watchercupboard.com
-.watchespounceinvolving.com
 .watchesthereupon.com
 .watchestwenties.com
 .watchexcellent.pics
@@ -135807,6 +135808,7 @@
 .xk3b.top
 .xkanf.com
 .xkarma.net
+.xkbbjtfp.xyz
 .xkbgqducppuan.xyz
 .xkbinj.xyz
 .xkbydybnle.com
