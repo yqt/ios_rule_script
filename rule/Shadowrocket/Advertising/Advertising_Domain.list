@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-06 02:09:10
+# UPDATED: 2024-01-07 02:09:24
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 16269
+# DOMAIN: 16268
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 97978
+# DOMAIN-SUFFIX: 98029
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 115075
+# TOTAL: 115125
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -454,6 +454,7 @@
 .1187531871.rsc.cdn77.org
 .1188.com
 .118ex.cn
+.1193176784.rsc.cdn77.org
 .11959579.fun.joyrun.com
 .119cgpt.com
 .11a581bbb5038e.com
@@ -660,6 +661,7 @@
 .18-plus.net
 .1800cnt.com
 .18052925.im.intermiles.com
+.1805629149.rsc.cdn77.org
 .180hits.de
 .180searchassistant.com
 .18113407f3.com
@@ -7065,7 +7067,6 @@
 .adcolo.com
 .adcolony.com
 .adcome.cn
-.adcomplete.com
 .adcomplete.ru
 .adconfer.com
 .adconfigproxy.azurewebsites.net
@@ -10307,6 +10308,7 @@
 .afgr9.com
 .afgtrwd1.com
 .afgwciwbjxcsfro.com
+.afgwsgl.com
 .afgzipohma.com
 .afhjxb.flaconi.de
 .afhleads.keurig.ca
@@ -13098,6 +13100,7 @@
 .apmebf.com
 .apmengxin.com
 .apnmedia.ask.com
+.apnpr.com
 .apns.ios.ijinshan.com
 .apnttuttej.com
 .apocarpdogdom.com
@@ -15450,6 +15453,7 @@
 .avulsedcherty.com
 .avupdrojsytrnej.xyz
 .avuthoumse.com
+.avvfjhg.xyz
 .avwdyjwtnpc.com
 .avwgzujkit.com
 .avwincall.info
@@ -16816,6 +16820,7 @@
 .bawickie.com
 .bawlerhanoi.website
 .bax.xiawu.com
+.baxbyfn.cn
 .baxf.m.shuhuangge.org
 .baxofalis.com
 .baxotjdtesah.com
@@ -16923,6 +16928,7 @@
 .bbwzzwremrrmr.top
 .bbwzzwremrvkl.top
 .bbyavrykjopnnx.xyz
+.bbyfsfo.cn
 .bbyjgkkdihiyxy.com
 .bc-click.net
 .bc-news.net
@@ -19369,10 +19375,7 @@
 .bptracking.com
 .bptssoahsfoz.com
 .bpu.samsungelectronics.com
-.bpwwsusgb.com
-.bpxcqxonbmn.com
 .bpyerxzn.xyz
-.bpztsxx.com
 .bqacmp.vidaxl.no
 .bqadfytoqbyhdxs.xyz
 .bqcxgbm.cn
@@ -28014,6 +28017,7 @@
 .d3da127b69.com
 .d3dpet1g0ty5ed.cloudfront.net
 .d3dq1nh1l1pzqy.cloudfront.net
+.d3e54v103j8qbb.cloudfront.net
 .d3ec0pbimicc4r.cloudfront.net
 .d3efeah7vk80fy.cloudfront.net
 .d3ej838ds58re9.cloudfront.net
@@ -37480,7 +37484,6 @@
 .ffrmwn.musinsa.com
 .ffrxlhuwvyldpk.com
 .ffrywcxaewmpp.com
-.ffsewzk.com
 .fft.delovoemesto.ru
 .fftagtden.com
 .ffuodj.lanebryant.com
@@ -39490,7 +39493,6 @@
 .fv99.com
 .fvaweb.it
 .fvbaffiliate.com
-.fvc.alcatel-lucent.com
 .fvcdduqg.com
 .fvcwqkkqmuv.com
 .fvebixpgtxm.com
@@ -45553,6 +45555,7 @@
 .hrgpdiuf.com
 .hrhufhhay.com
 .hriahotcake.com
+.hrkplkgjs.com
 .hrnecek.com
 .hrngmf.com
 .hrnhmral.com
@@ -46797,8 +46800,6 @@
 .ijajgnqelnn.xyz
 .ijatsapphiresanda.com
 .ijbgqlf.com
-.ijchefkkmlrqx.xyz
-.ijdprmdriueyq.com
 .ijebtcgu.com
 .ijeetsie.com
 .ijgbuj.xyz
@@ -51048,7 +51049,6 @@
 .jochenanabata.guru
 .jocmeedran.com
 .jodhpurrarish.digital
-.jodilhsitybnv.com
 .jodroacm.com
 .jody0sora.com
 .joereisp.xyz
@@ -52824,7 +52824,6 @@
 .kkosiso.com
 .kkpgv.kankan.com
 .kkpgv2.kankan.com
-.kksapygupdp.com
 .kksjoa.com
 .kktly.cn
 .kktxgytr.com
@@ -53278,6 +53277,7 @@
 .kremarkedone.com
 .kreud.com
 .krful.com
+.krgukepers.org
 .krilor.com
 .krisydark.com
 .kriteriatika.ru
@@ -56323,6 +56323,7 @@
 .lmqowtvu.com
 .lmrhhn.xyz
 .lmtnfl.xyz
+.lmvrjajerrbwv.top
 .lmx7.com
 .lmxzlb.xyz
 .lmysqwll.com
@@ -57321,6 +57322,7 @@
 .lptrak.com
 .lpx.qantas.com
 .lpxmall.com
+.lpzhlqrrcvpnzj.com
 .lpzpyf.personalizedplanet.com
 .lpzxed.superesportes.com.br
 .lpzxed.uai.com.br
@@ -63443,6 +63445,7 @@
 .mnfse.cn
 .mng-ads.com
 .mnhjk.com
+.mnhjkl.com
 .mnhknds.com
 .mnhncf.cn
 .mniumlapsers.com
@@ -68297,6 +68300,7 @@
 .odin.mic.com
 .odinkod.ru
 .odipjwipwwyus.xyz
+.odkfzmwfkjgzag.com
 .odlyccugg.com
 .odnaknopka.ru
 .odnaturedfe.org
@@ -74068,7 +74072,6 @@
 .prdmjzogryvhhz.com
 .prdredir.com
 .prdwebcollector.ruetracking.com
-.prdyilhhwqh.com
 .pre-employmentservices.adp.com
 .pre.glotgrx.com
 .pre4sentre8dhf.com
@@ -78065,7 +78068,6 @@
 .reftagger.com
 .refugedcuber.com
 .refulgecomsat.com
-.refund-int3rac.com
 .refundsreisner.life
 .refunevent.com
 .refunsiy.net
@@ -81875,16 +81877,7 @@
 .sd.securitasdirect.fr
 .sd0053.shop
 .sd01you.com
-.sd062.com
-.sd092.com
-.sd230.com
 .sd2ua.icu
-.sd3053.shop
-.sd4034.shop
-.sd5069.shop
-.sd5487.com
-.sd5675.com
-.sd8015.xyz
 .sda.seesaa.jp
 .sda.seksohub.com
 .sda.tamdiem247.com
@@ -92402,6 +92395,7 @@
 .szapp22.cc
 .szb.aiyole.com
 .szbnnqyqn.com
+.szbpf.cn
 .szbxm.cn
 .szcmcs.com
 .szddst.com
@@ -92422,9 +92416,7 @@
 .szkdst.com
 .szlipubod.com
 .szltwl.com
-.szmdp.cn
 .szmkr.cn
-.szmmb.cn
 .szmpc.cn
 .szmt05.cn
 .szmt11.cn
@@ -96277,6 +96269,7 @@
 .tpvuxt.xyz
 .tpx.tesseradigital.com
 .tpydhykibbz.com
+.tpyerxzn.xyz
 .tpyxplkcap.top
 .tpzatf.xyz
 .tpzzdrxnp.com
@@ -104403,15 +104396,7 @@
 .vntkm.com
 .vntsm.com
 .vntsm.io
-.vnvay.top
-.vnvbqpqjgsy.com
-.vnvietcombank.cc
-.vnvietcombanks.cc
-.vnvietjet.com
-.vnvqoihbwgjqpa.com
 .vnvyhj.xyz
-.vnwish.shop
-.vnwrlhgvczf.com
 .vnzwxk.e-bebek.com
 .voacheph.xyz
 .voadeezu.net
@@ -109545,8 +109530,6 @@
 .xpwlctfk.xyz
 .xpx7heciz9.com
 .xpyerxzn.xyz
-.xpygen.unger-fashion.com
-.xpyjyhny.xyz
 .xpynqq.com
 .xq1.net
 .xq12.com

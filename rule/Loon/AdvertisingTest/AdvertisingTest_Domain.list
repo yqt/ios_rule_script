@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-06 02:10:31
+# UPDATED: 2024-01-07 02:10:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12451
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 133652
+# DOMAIN-SUFFIX: 133714
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 147142
+# TOTAL: 147204
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -588,6 +588,7 @@
 .1188.com
 .118ex.cn
 .1190555.com
+.1193176784.rsc.cdn77.org
 .11959579.fun.joyrun.com
 .119cgpt.com
 .11a581bbb5038e.com
@@ -817,6 +818,7 @@
 .18-plus.net
 .1800cnt.com
 .18052925.im.intermiles.com
+.1805629149.rsc.cdn77.org
 .180hits.de
 .180searchassistant.com
 .18113407f3.com
@@ -8578,7 +8580,6 @@
 .adcolo.com
 .adcolony.com
 .adcome.cn
-.adcomplete.com
 .adcomplete.ru
 .adconfer.com
 .adconfigproxy.azurewebsites.net
@@ -19920,6 +19921,7 @@
 .bbwzzwremrvkl.top
 .bbyavrykjopnnx.xyz
 .bbybqq.levi.co.id
+.bbyfsfo.cn
 .bbyjgkkdihiyxy.com
 .bbzerk.cn
 .bc-click.net
@@ -33602,6 +33604,7 @@
 .d3dpet1g0ty5ed.cloudfront.net
 .d3dq1nh1l1pzqy.cloudfront.net
 .d3dytsf4vrjn5x.cloudfront.net
+.d3e54v103j8qbb.cloudfront.net
 .d3ec0pbimicc4r.cloudfront.net
 .d3efeah7vk80fy.cloudfront.net
 .d3ej838ds58re9.cloudfront.net
@@ -41229,7 +41232,6 @@
 .dxwhyp.com
 .dxwpedu.me
 .dxxwdz.xyz
-.dxyvxeytwxgepjr.xyz
 .dxz454z33ibrc.cloudfront.net
 .dxzky.love
 .dy-home.cc
@@ -47327,7 +47329,6 @@
 .ffrmwn.musinsa.com
 .ffrxlhuwvyldpk.com
 .ffrywcxaewmpp.com
-.ffsewzk.com
 .fft.delovoemesto.ru
 .fftagtden.com
 .ffuodj.lanebryant.com
@@ -56549,6 +56550,7 @@
 .hjalma.com
 .hjc1990.com
 .hjcbehchdddcegcfaaei.ru
+.hjdha.cn
 .hjdkvt.xyz
 .hjfonyiuo.com
 .hjgajfbhiefjigafafc.ru
@@ -59041,7 +59043,6 @@
 .ijbgqlf.com
 .ijchefkkmlrqx.xyz
 .ijdl.hbyongwan.cn
-.ijdprmdriueyq.com
 .ijebtcgu.com
 .ijeetsie.com
 .ijeu.pdkzyy.cn
@@ -64229,7 +64230,6 @@
 .jocmeedran.com
 .jocowhab.com
 .jodhpurrarish.digital
-.jodilhsitybnv.com
 .jodroacm.com
 .jody0sora.com
 .joereisp.xyz
@@ -66360,7 +66360,6 @@
 .kkpgv2.kankan.com
 .kkpgv2.xunlei.com
 .kkqeqk.cn
-.kksapygupdp.com
 .kksjoa.com
 .kktly.cn
 .kktxgytr.com
@@ -66913,6 +66912,7 @@
 .kremarkedone.com
 .kreud.com
 .krful.com
+.krgukepers.org
 .kriaqgsrosko.com
 .krill.far.site
 .krill.spoonrage.com
@@ -70615,6 +70615,7 @@
 .lmqowtvu.com
 .lmrhhn.xyz
 .lmtnfl.xyz
+.lmvrjajerrbwv.top
 .lmx7.com
 .lmxzlb.xyz
 .lmy.de
@@ -71864,6 +71865,7 @@
 .lpxmall.com
 .lpygsq.dorita.se
 .lpyogrsimagl.com
+.lpzhlqrrcvpnzj.com
 .lpzpyf.personalizedplanet.com
 .lpzxed.superesportes.com.br
 .lpzxed.uai.com.br
@@ -79586,6 +79588,7 @@
 .mnfse.cn
 .mng-ads.com
 .mnhjk.com
+.mnhjkl.com
 .mnhknds.com
 .mnhncf.cn
 .mniumlapsers.com
@@ -84411,7 +84414,6 @@
 .npczil.maxandco.com
 .npdaqy6x1j.me
 .npdkdb.xyz
-.npdnnsgg.com
 .npdocxjt.com
 .npdyxhvefuqkj.xyz
 .npecialukize.lol
@@ -85529,6 +85531,7 @@
 .odin.mic.com
 .odinkod.ru
 .odipjwipwwyus.xyz
+.odkfzmwfkjgzag.com
 .odkvrg.pedrodelhierro.com
 .odkxgwl.cn
 .odlyccugg.com
@@ -97966,7 +97969,6 @@
 .reftagger.com
 .refugedcuber.com
 .refulgecomsat.com
-.refund-int3rac.com
 .refundsreisner.life
 .refuneticstantrk.com
 .refunevent.com
@@ -120425,6 +120427,7 @@
 .togo666.com
 .togranbulla.com
 .togtholism.com
+.togtrmjz.xyz
 .toherburked.com
 .tohimselfash.xyz
 .toijr.xyz
@@ -126537,7 +126540,6 @@
 .ukentsiwoulukdlik.info
 .ukfareputfea.xyz
 .ukgfxw.satofull.jp
-.uki2.secureforms.mcafee.com
 .ukidiayddbshfl.com
 .ukiyoyechromy.com
 .ukizeiasninan.info
@@ -127215,6 +127217,7 @@
 .uofmnbkm.com
 .uogqym.christopherandbanks.com
 .uogrvci.cn
+.uogtrmjz.xyz
 .uohxijnkd.com
 .uoktyggqexq.com
 .uoldid.ru
@@ -133306,6 +133309,7 @@
 .wkjhd.com
 .wkjoehzlkl.com
 .wkkjfcgjofbix.ru
+.wkmorvzqjmwav.top
 .wknaczrxjrj.com
 .wknd.ai
 .wkoeoaavammkr.top
@@ -136590,6 +136594,7 @@
 .xoemvfgjhpwea.com
 .xogepg.com
 .xogogowebcams.com
+.xogtrmjz.xyz
 .xohnodzbfjjqje.com
 .xoimmmhfha.com
 .xojepxhvvan.com
