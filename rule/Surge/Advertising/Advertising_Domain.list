@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-07 02:09:15
+# UPDATED: 2024-01-08 02:08:23
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 16268
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 98029
+# DOMAIN-SUFFIX: 98066
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 115126
+# TOTAL: 115163
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -10327,6 +10327,7 @@
 .afj.cc
 .afj0.com
 .afjlb.com
+.afkwa.com
 .afl-static-cdn.newbiz-prod.stroeerws.de
 .aflsj.com
 .afm01.com
@@ -28018,7 +28019,6 @@
 .d3da127b69.com
 .d3dpet1g0ty5ed.cloudfront.net
 .d3dq1nh1l1pzqy.cloudfront.net
-.d3e54v103j8qbb.cloudfront.net
 .d3ec0pbimicc4r.cloudfront.net
 .d3efeah7vk80fy.cloudfront.net
 .d3ej838ds58re9.cloudfront.net
@@ -30250,6 +30250,7 @@
 .dhxrxn.xyz
 .dhxyzx.cn
 .dhyallache.space
+.dhyanaquintes.digital
 .di-capt.com
 .di.fotos-fuers-leben.ch
 .di.ifolor.at
@@ -31966,6 +31967,7 @@
 .dreampics.pro
 .dreamrecord.cn
 .dreamsaukn.org
+.dreamsofcryingf.com
 .dreamsoppressive.com
 .dreamteaser.ru
 .dreamvids.pro
@@ -32100,6 +32102,7 @@
 .dryerpreliminarymainly.com
 .dryerslegatos.com
 .dryinfestinsight.com
+.drylotsimbil.website
 .drystervernile.life
 .dryzapsol.com
 .drzgtli.com
@@ -32242,7 +32245,6 @@
 .dtprofit.com
 .dtq9oy2ckjhxu.cloudfront.net
 .dtqbqmzzbeck.com
-.dtr-onsite-feed.datarize.ai
 .dtrcw.cc
 .dtrk.slimcdn.com
 .dtscdn.com
@@ -32567,7 +32569,6 @@
 .dxwhyp.com
 .dxwpedu.me
 .dxxwdz.xyz
-.dxyvxeytwxgepjr.xyz
 .dxz454z33ibrc.cloudfront.net
 .dy.zsstoics.com
 .dy2xcjk8s1dbz.cloudfront.net
@@ -44842,6 +44843,7 @@
 .hjalma.com
 .hjc1990.com
 .hjcbehchdddcegcfaaei.ru
+.hjdha.cn
 .hjdkvt.xyz
 .hjfonyiuo.com
 .hjgajfbhiefjigafafc.ru
@@ -49879,7 +49881,6 @@
 .iulftx.com
 .iulianus-mon.com
 .iumboa.xyz
-.iumtussthtygoib.com
 .iunnrqcmup.com
 .iuodgmcfaa.com
 .iuou.myadobe.cn
@@ -54123,6 +54124,7 @@
 .laughbuckle.com
 .laughcloth.com
 .laughdrum.com
+.laughedaffront.com
 .laughteroccasionallywarp.com
 .lauglaph.net
 .laugoust.com
@@ -63465,7 +63467,6 @@
 .mntzr11.net
 .mntzrlt.net
 .mnutan.fr
-.mnvgvhksif.com
 .mnvxdkd.xyz
 .mnwan.com
 .mnwjgegruq.com
@@ -67342,7 +67343,6 @@
 .npczil.maxandco.com
 .npdaqy6x1j.me
 .npdkdb.xyz
-.npdnnsgg.com
 .npdocxjt.com
 .npdyxhvefuqkj.xyz
 .npehvrjmf.com
@@ -71911,9 +71911,6 @@
 .pfgipxikznmvy.com
 .pfhj89w.com
 .pfiuyt.com
-.pfjfjid.xyz
-.pfjrusskan.com
-.pfjtgxc.cn
 .pflexads.com
 .pfltjr.essentialnutrition.com.br
 .pflvyqvpiwdnl.com
@@ -80005,6 +80002,7 @@
 .rtxplatform.com
 .rtxpx-a.akamaihd.net
 .rtxrtb.com
+.rtyufo.com
 .rtyznd.com
 .rtzblzfgzqw.com
 .ru-novocti.com
@@ -92424,6 +92422,7 @@
 .szmtd.cn
 .szmty.cn
 .szn0ehq.icu
+.szpbg.cn
 .szqifu.com
 .szqxvo.com
 .szrk3.com
@@ -95748,6 +95747,7 @@
 .togo666.com
 .togranbulla.com
 .togtholism.com
+.togtrmjz.xyz
 .toherburked.com
 .tohimselfash.xyz
 .toiletallowingrepair.com
@@ -101647,6 +101647,7 @@
 .uodoo.com
 .uoflkjdc.com
 .uofmnbkm.com
+.uogtrmjz.xyz
 .uohxijnkd.com
 .uoktyggqexq.com
 .uoldid.ru
@@ -107027,7 +107028,6 @@
 .wkjhd.com
 .wkjoehzlkl.com
 .wkkjfcgjofbix.ru
-.wkktnbxxum.xyz
 .wkmorvzqjmwav.top
 .wknaczrxjrj.com
 .wknd.ai
@@ -109461,6 +109461,7 @@
 .xoemvfgjhpwea.com
 .xogepg.com
 .xogogowebcams.com
+.xogtrmjz.xyz
 .xohnodzbfjjqje.com
 .xoimmmhfha.com
 .xojepxhvvan.com

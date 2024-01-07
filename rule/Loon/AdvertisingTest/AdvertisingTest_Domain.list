@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-07 02:10:36
+# UPDATED: 2024-01-08 02:09:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12451
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 133714
+# DOMAIN-SUFFIX: 133737
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 147204
+# TOTAL: 147227
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -8087,7 +8087,6 @@
 .ad.thisav.com
 .ad.thsi.cn
 .ad.topwar.ru
-.ad.toutiao.com
 .ad.tpmn.co.kr
 .ad.trackrdtck.com
 .ad.tranquiltideshub.com
@@ -10619,6 +10618,7 @@
 .ads.zamunda.se
 .ads.zascdn.me
 .ads.zdn.vn
+.ads.zunia.vn
 .ads.zynga.com
 .ads01.com
 .ads01.focalink.com
@@ -14744,6 +14744,7 @@
 .aohuwj.com
 .aoi21.cn
 .aoihaizo.xyz
+.aojeet.icu
 .aojgggbwish.xyz
 .aojhzj.watch.co.uk
 .aojqjblt.xyz
@@ -23836,7 +23837,6 @@
 .bunth.net
 .buochxuvhmewc.com
 .buoizbtl.xyz
-.buontien247.fun
 .buoyant-force.pro
 .buoyant-quote.pro
 .buoyantmanufacturer.pro
@@ -31823,6 +31823,7 @@
 .cryptosplash.care
 .cryptotab.net
 .cryptotax.efscle.com
+.cryptotrials.care
 .cryptown.netlify.com
 .crystal-ad.ge
 .crystal-blocker.com
@@ -32896,6 +32897,7 @@
 .d1af033869koo7.cloudfront.net
 .d1af165twk0zgn.cloudfront.net
 .d1aiciyg0qwvvr.cloudfront.net
+.d1ap9gbbf77h85.cloudfront.net
 .d1appgm50chwbg.cloudfront.net
 .d1aqvw7cn4ydzo.cloudfront.net
 .d1aukpqf83rqhe.cloudfront.net
@@ -33604,7 +33606,6 @@
 .d3dpet1g0ty5ed.cloudfront.net
 .d3dq1nh1l1pzqy.cloudfront.net
 .d3dytsf4vrjn5x.cloudfront.net
-.d3e54v103j8qbb.cloudfront.net
 .d3ec0pbimicc4r.cloudfront.net
 .d3efeah7vk80fy.cloudfront.net
 .d3ej838ds58re9.cloudfront.net
@@ -40528,6 +40529,7 @@
 .dreampics.pro
 .dreamrecord.cn
 .dreamsaukn.org
+.dreamsofcryingf.com
 .dreamsoppressive.com
 .dreamteaser.ru
 .dreamvids.pro
@@ -40673,6 +40675,7 @@
 .dryerpreliminarymainly.com
 .dryerslegatos.com
 .dryinfestinsight.com
+.drylotsimbil.website
 .drystervernile.life
 .dryum.ru
 .dryzapsol.com
@@ -47911,7 +47914,6 @@
 .fjemeg.drim.es
 .fjgcai.zlavomat.sk
 .fjhanmei.com
-.fjhfruuhmgnrt.com
 .fjhrq.xyz
 .fjighz.armaniexchange.com
 .fjikgr.dennmart.com
@@ -67914,6 +67916,7 @@
 .laughbuckle.com
 .laughcloth.com
 .laughdrum.com
+.laughedaffront.com
 .laughteroccasionallywarp.com
 .lauglaph.net
 .laugoust.com
@@ -100449,8 +100452,6 @@
 .rtxpx-a.akamaihd.net
 .rtxrtb.com
 .rtycgmz.cn
-.rtyfdsaaan.com
-.rtylsixqrhqmou.com
 .rtyufo.com
 .rtyvaluation.shop
 .rtyznd.com
@@ -106504,6 +106505,7 @@
 .smartoffer.site
 .smartology.co
 .smartpicrotation.com
+.smartpixel.auditorius.ru
 .smartracker.net
 .smartredirect.de
 .smartselling.cz
@@ -116263,7 +116265,6 @@
 .szmsao.com
 .szmt05.cn
 .szmt11.cn
-.szmtd.cn
 .szmty.cn
 .szmxwjm.com
 .szn0ehq.icu
@@ -127962,6 +127963,7 @@
 .uulvtpbx.com
 .uunak.cn
 .uunczm.lescon.com.tr
+.uuoizbtl.xyz
 .uuopp.com
 .uurykr.pizzahut.com.mx
 .uus52.com
@@ -136893,6 +136895,7 @@
 .xunsilu.com
 .xunyangdianzi4.cn
 .xunyibaike.com
+.xuoizbtl.xyz
 .xuosvih.com
 .xuqarnasvru.com
 .xuqatkswi.com
