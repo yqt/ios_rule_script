@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 02:12:04
-# DOMAIN: 159
+# UPDATED: 2024-01-08 15:59:37
+# DOMAIN: 157
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19702
+# DOMAIN-SUFFIX: 19315
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 20015
+# TOTAL: 19626
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -1495,25 +1495,6 @@ DOMAIN-SUFFIX,avriri.top
 DOMAIN-SUFFIX,avseesee.com
 DOMAIN-SUFFIX,avsforum.com
 DOMAIN-SUFFIX,avstar.me
-DOMAIN-SUFFIX,avstar01.me
-DOMAIN-SUFFIX,avstar02.me
-DOMAIN-SUFFIX,avstar03.me
-DOMAIN-SUFFIX,avstar04.com
-DOMAIN-SUFFIX,avstar04.me
-DOMAIN-SUFFIX,avstar05.me
-DOMAIN-SUFFIX,avstar06.me
-DOMAIN-SUFFIX,avstar07.com
-DOMAIN-SUFFIX,avstar07.me
-DOMAIN-SUFFIX,avstar09.com
-DOMAIN-SUFFIX,avstar09.me
-DOMAIN-SUFFIX,avstar1.com
-DOMAIN-SUFFIX,avstar2.com
-DOMAIN-SUFFIX,avstar3.com
-DOMAIN-SUFFIX,avstar4.com
-DOMAIN-SUFFIX,avstar5.com
-DOMAIN-SUFFIX,avstar6.com
-DOMAIN-SUFFIX,avstar8.com
-DOMAIN-SUFFIX,avstar9.com
 DOMAIN-SUFFIX,avwong.com
 DOMAIN-SUFFIX,avwto.com
 DOMAIN-SUFFIX,avxde.org
@@ -1523,8 +1504,6 @@ DOMAIN-SUFFIX,aweencore.com
 DOMAIN-SUFFIX,awetv.com
 DOMAIN-SUFFIX,awflapp.top
 DOMAIN-SUFFIX,awjq.cc
-DOMAIN-SUFFIX,aws-border.cn
-DOMAIN-SUFFIX,aws-icp-domain-manager.cn
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,awsautopilot.com
 DOMAIN-SUFFIX,awsautoscaling.com
@@ -2125,9 +2104,6 @@ DOMAIN-SUFFIX,bigtopsites.com
 DOMAIN-SUFFIX,biguz.net
 DOMAIN-SUFFIX,biitii.com
 DOMAIN-SUFFIX,bijukujo.club
-DOMAIN-SUFFIX,bikaa.xyz
-DOMAIN-SUFFIX,bikac.xyz
-DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,bili2.cc
 DOMAIN-SUFFIX,bili888.com
 DOMAIN-SUFFIX,bili999.com
@@ -3145,19 +3121,6 @@ DOMAIN-SUFFIX,clzz2.xyz
 DOMAIN-SUFFIX,cmhalq.com
 DOMAIN-SUFFIX,cmpaas.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
-DOMAIN-SUFFIX,cnbc.com
-DOMAIN-SUFFIX,cnbcfm.com
-DOMAIN-SUFFIX,cncrivals.com
-DOMAIN-SUFFIX,cnix-gov-cn.com
-DOMAIN-SUFFIX,cnnamador.com
-DOMAIN-SUFFIX,cnnarabic.com
-DOMAIN-SUFFIX,cnnikebrand.com
-DOMAIN-SUFFIX,cnnlabs.com
-DOMAIN-SUFFIX,cnnmoney.com
-DOMAIN-SUFFIX,cnnmoneystream.com
-DOMAIN-SUFFIX,cnnpolitics.com
-DOMAIN-SUFFIX,cnshopin.com
-DOMAIN-SUFFIX,cnzjp.xyz
 DOMAIN-SUFFIX,cobatt.com
 DOMAIN-SUFFIX,cobrasearch.com
 DOMAIN-SUFFIX,cochranelibrary.com
@@ -4911,7 +4874,6 @@ DOMAIN-SUFFIX,ffmpeg.org
 DOMAIN-SUFFIX,ffotolia.com
 DOMAIN-SUFFIX,ffprofile.com
 DOMAIN-SUFFIX,fgacebook.com
-DOMAIN-SUFFIX,fgmtv.org
 DOMAIN-SUFFIX,fi11.com
 DOMAIN-SUFFIX,fi11av1.com
 DOMAIN-SUFFIX,fi11tv1.com
@@ -6643,7 +6605,6 @@ DOMAIN-SUFFIX,ijavhd.com
 DOMAIN-SUFFIX,ijavtorrent.com
 DOMAIN-SUFFIX,ikanhm.xyz
 DOMAIN-SUFFIX,ikanmh.xyz
-DOMAIN-SUFFIX,ikea.cn
 DOMAIN-SUFFIX,ikea.com
 DOMAIN-SUFFIX,ikea.net
 DOMAIN-SUFFIX,ikids.com
@@ -7871,7 +7832,6 @@ DOMAIN-SUFFIX,mangahentai.me
 DOMAIN-SUFFIX,mangahome.com
 DOMAIN-SUFFIX,mangoporn.net
 DOMAIN-SUFFIX,mangotporn.com
-DOMAIN-SUFFIX,manhuabika.com
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,manhub.com
 DOMAIN-SUFFIX,manhunt.net
@@ -7889,7 +7849,6 @@ DOMAIN-SUFFIX,manurefetish.com
 DOMAIN-SUFFIX,manytoon.com
 DOMAIN-SUFFIX,manyvids.com
 DOMAIN-SUFFIX,maomi-shipin.com
-DOMAIN-SUFFIX,mapbox.cn
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,maple.finance
 DOMAIN-SUFFIX,mariadb.org
@@ -8299,7 +8258,6 @@ DOMAIN-SUFFIX,mmscdh.one
 DOMAIN-SUFFIX,mmtongdao.xyz
 DOMAIN-SUFFIX,mmtv.life
 DOMAIN-SUFFIX,mmwxl27.top
-DOMAIN-SUFFIX,mncmsidlab1.cn
 DOMAIN-SUFFIX,moapi.site
 DOMAIN-SUFFIX,moapi1.club
 DOMAIN-SUFFIX,moapi1.online
@@ -8509,7 +8467,6 @@ DOMAIN-SUFFIX,msropendata.com
 DOMAIN-SUFFIX,msturing.org
 DOMAIN-SUFFIX,msudalosti.com
 DOMAIN-SUFFIX,msunlimitedcloudsummit.com
-DOMAIN-SUFFIX,mszdld.cn
 DOMAIN-SUFFIX,mt0011.site
 DOMAIN-SUFFIX,mtao.fun
 DOMAIN-SUFFIX,mtt.org
@@ -9151,7 +9108,6 @@ DOMAIN-SUFFIX,nugettest.org
 DOMAIN-SUFFIX,nuita.net
 DOMAIN-SUFFIX,nukemanga.com
 DOMAIN-SUFFIX,nuki-dokoro.com
-DOMAIN-SUFFIX,nunuyy.cc
 DOMAIN-SUFFIX,nurofen.com
 DOMAIN-SUFFIX,nurofen.net
 DOMAIN-SUFFIX,nurofengel.com
@@ -9628,7 +9584,6 @@ DOMAIN-SUFFIX,payserve.com
 DOMAIN-SUFFIX,paysitesreviews.net
 DOMAIN-SUFFIX,payypal.com
 DOMAIN-SUFFIX,pbabes.com
-DOMAIN-SUFFIX,pbiwebcontent.cn
 DOMAIN-SUFFIX,pbjar1205.pro
 DOMAIN-SUFFIX,pc.com
 DOMAIN-SUFFIX,pccw.com
@@ -9707,10 +9662,6 @@ DOMAIN-SUFFIX,physicalexam.info
 DOMAIN-SUFFIX,physiology.org
 DOMAIN-SUFFIX,piapro.net
 DOMAIN-SUFFIX,picacg2022.com
-DOMAIN-SUFFIX,picacgp.com
-DOMAIN-SUFFIX,picacgy.com
-DOMAIN-SUFFIX,picacn.xyz
-DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,picasa.com
 DOMAIN-SUFFIX,picasaweb.net
 DOMAIN-SUFFIX,picasaweb.org
@@ -12824,7 +12775,6 @@ DOMAIN-SUFFIX,wiisports.com
 DOMAIN-SUFFIX,wiisportsresort.com
 DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
-DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,wikia.nocookie.net
 DOMAIN-SUFFIX,wikia.org
 DOMAIN-SUFFIX,wikidot.com
@@ -13108,7 +13058,6 @@ DOMAIN-SUFFIX,xn--90wwvt03e.com
 DOMAIN-SUFFIX,xn--9kr7l.com
 DOMAIN-SUFFIX,xn--9trs65b.com
 DOMAIN-SUFFIX,xn--av-o44ep1d.com
-DOMAIN-SUFFIX,xn--bnq297cix3a.cn
 DOMAIN-SUFFIX,xn--cck4d8b3009a.com
 DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
@@ -13209,7 +13158,6 @@ DOMAIN-SUFFIX,xstas.biz
 DOMAIN-SUFFIX,xsvod.xyz
 DOMAIN-SUFFIX,xsz-av.com
 DOMAIN-SUFFIX,xtegvk.xyz
-DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,xtubebdsm.com
 DOMAIN-SUFFIX,xtubezoo.com
 DOMAIN-SUFFIX,xu97.vip
@@ -13566,7 +13514,6 @@ DOMAIN-SUFFIX,yusercontent.com
 DOMAIN-SUFFIX,yusjb.com
 DOMAIN-SUFFIX,ywbclx.top
 DOMAIN-SUFFIX,ywoos.com
-DOMAIN-SUFFIX,yximg.cn
 DOMAIN-SUFFIX,yy7y.com
 DOMAIN-SUFFIX,yy8y.com
 DOMAIN-SUFFIX,yyfb.cyou

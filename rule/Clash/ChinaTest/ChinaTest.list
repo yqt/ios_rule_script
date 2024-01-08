@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 02:12:45
-# DOMAIN: 167
+# UPDATED: 2024-01-08 16:00:14
+# DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64297
+# DOMAIN-SUFFIX: 64285
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64488
+# TOTAL: 64420
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -5915,7 +5915,6 @@ DOMAIN-SUFFIX,2fz1.com
 DOMAIN-SUFFIX,2fzb.com
 DOMAIN-SUFFIX,2gdt.com
 DOMAIN-SUFFIX,2gei.com
-DOMAIN-SUFFIX,2google.com
 DOMAIN-SUFFIX,2haohr.com
 DOMAIN-SUFFIX,2heng.xin
 DOMAIN-SUFFIX,2hua.com
@@ -17948,6 +17947,7 @@ DOMAIN-SUFFIX,cnbanbao.com
 DOMAIN-SUFFIX,cnbang.net
 DOMAIN-SUFFIX,cnbaowen.net
 DOMAIN-SUFFIX,cnbct.org
+DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,cnbidding.com
 DOMAIN-SUFFIX,cnbigcloud.com
 DOMAIN-SUFFIX,cnbiocell.com
@@ -36008,6 +36008,7 @@ DOMAIN-SUFFIX,kydev.net
 DOMAIN-SUFFIX,kye-erp.com
 DOMAIN-SUFFIX,kyemall.com
 DOMAIN-SUFFIX,kygf1.com
+DOMAIN-SUFFIX,kygf3.com
 DOMAIN-SUFFIX,kyhtech.com
 DOMAIN-SUFFIX,kyjxy.com
 DOMAIN-SUFFIX,kylc.com

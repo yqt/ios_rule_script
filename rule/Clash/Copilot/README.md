@@ -12,25 +12,23 @@ Copilot规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:56:53
+最后更新时间：2024-01-08 16:03:01
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 12  | 
+| DOMAIN | 5  | 
 | DOMAIN-SUFFIX | 2  | 
-| TOTAL | 14  | 
+| TOTAL | 7  | 
 
 
 ## Clash 
 
 #### 使用说明
 - Copilot.yaml，请使用 behavior: "classical"。
-- Copilot_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Copilot.yaml 单独使用。
-- Copilot_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

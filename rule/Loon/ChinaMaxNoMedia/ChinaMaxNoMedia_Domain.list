@@ -1,15 +1,15 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 02:15:03
-# DOMAIN: 164
-# DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 65475
+# UPDATED: 2024-01-08 16:02:44
+# DOMAIN: 543
+# DOMAIN-KEYWORD: 12
+# DOMAIN-SUFFIX: 66313
 # IP-ASN: 1027
-# IP-CIDR: 6126
-# IP-CIDR6: 3569
+# IP-CIDR: 6975
+# IP-CIDR6: 3590
 # USER-AGENT: 69
-# TOTAL: 76441
+# TOTAL: 78529
 .0-6.com
 .00.net
 .000.link
@@ -2309,7 +2309,6 @@
 .2fzb.com
 .2gdt.com
 .2gei.com
-.2google.com
 .2haohr.com
 .2heng.xin
 .2hua.com
@@ -7172,6 +7171,7 @@
 .adplusx.com
 .adportion.com
 .adqkmob.com
+.ads.wteam.xyz
 .ads4f6gf46.com
 .adsage.com
 .adsame.com
@@ -7837,6 +7837,7 @@
 .alexyan.cc
 .algorithmart.com
 .ali-api-test.net
+.ali-expo.com
 .ali-gtm-01.net
 .ali-gtm-pressure.com
 .ali-health.com
@@ -7849,6 +7850,7 @@
 .alianhome.com
 .aliapp-inc.com
 .aliapp.com
+.aliappcdn.com
 .aliav8.com
 .aliav9.com
 .aliavv.com
@@ -7952,6 +7954,11 @@
 .aliqiche.com
 .aliresearch-internal.com
 .aliresearch.com
+.alirtc.com
+.alisealing-pre.com
+.alisealing-sit.com
+.alisealing-uat.com
+.alisealing.com
 .alisoft.com
 .alisports.com
 .alitchina.com
@@ -8003,6 +8010,7 @@
 .allhistory.com
 .alliancebrh.com
 .allianz360.com
+.allinbots.com
 .allinfinance.com
 .allinpay.com
 .allinpayhb.com
@@ -9051,6 +9059,25 @@
 .avq360.com
 .avrvi.com
 .avrw.com
+.avstar01.me
+.avstar02.me
+.avstar03.me
+.avstar04.com
+.avstar04.me
+.avstar05.me
+.avstar06.me
+.avstar07.com
+.avstar07.me
+.avstar09.com
+.avstar09.me
+.avstar1.com
+.avstar2.com
+.avstar3.com
+.avstar4.com
+.avstar5.com
+.avstar6.com
+.avstar8.com
+.avstar9.com
 .avtechcn.com
 .avtt830.com
 .avyeld.com
@@ -10438,6 +10465,9 @@
 .bijienetworks.com
 .bijirim.com
 .bijixia.net
+.bikaa.xyz
+.bikac.xyz
+.bikaios.xyz
 .bikecool.com
 .bikehome.net
 .biketo.com
@@ -15012,6 +15042,7 @@
 .cloudhefei.com
 .cloudhengshui.com
 .cloudhin.com
+.cloudhost.link
 .cloudhosts.xyz
 .cloudhua.com
 .cloudhuaihua.com
@@ -17090,6 +17121,7 @@
 .d1xh.com
 .d1xn.com
 .d1xz.net
+.d22a.com
 .d2film.com
 .d2kdi2ss.com
 .d2scdn.com
@@ -17718,7 +17750,6 @@
 .ddimg.mobi
 .ddimg.net
 .dding.net
-.dding121.com
 .ddiqbh.com
 .ddjjzz.com
 .ddjk.com
@@ -20735,6 +20766,7 @@
 .ergengtech.com
 .ergengtv.com
 .ergouzi.fun
+.ergvx.com
 .erichfund.com
 .erji.com
 .erji.net
@@ -22148,6 +22180,7 @@
 .fle078.com
 .flexifont.com
 .fleyun.com
+.flhimalayandn.com
 .flidc.net
 .fliggy.com
 .fliggy.hk
@@ -23401,7 +23434,6 @@
 .geeku.net
 .geekwom.com
 .geekxue.com
-.geekzhao.me
 .geely-motors.com
 .geely-test.com
 .geely.com
@@ -23544,6 +23576,7 @@
 .gfdj99665.com
 .gfdns.net
 .gfdsa.net
+.gfdwsx.com
 .gfedu.com
 .gffirm.com
 .gffwq.com
@@ -25262,7 +25295,6 @@
 .gydongli.com
 .gyersf.com
 .gyguohua.com
-.gyhapp.com
 .gyhimalayanul.com
 .gyhj.org
 .gyip.net
@@ -27799,7 +27831,6 @@
 .hpc.cloud
 .hpccake.com
 .hpearx.com
-.hpelpdl.com
 .hpkrcm.cfd
 .hpoi.net
 .hpool.online
@@ -29178,6 +29209,7 @@
 .i-xoron.com
 .i.dell.com
 .i.ipinyou.com
+.i.snssdk.com
 .i0349.com
 .i0746.com
 .i075.com
@@ -30082,6 +30114,7 @@
 .ikaoguo.com
 .ikaolaa.com
 .ikaros.run
+.ikb.vc
 .ikcd.net
 .ikcest.org
 .ikcrm.com
@@ -30265,6 +30298,7 @@
 .imgcdc.com
 .imgcdn2.com
 .imgchr.com
+.imgcook.com
 .imgeek.org
 .imgets.com
 .imgii.com
@@ -31158,6 +31192,8 @@
 .iufida.com
 .iuhtg8.com
 .iuinns.com
+.iujkm.com
+.iuktb.com
 .iuni.com
 .iunus.com
 .iuoooo.com
@@ -31760,6 +31796,7 @@
 .jfshare.com
 .jfstatic.com
 .jftianshancn.com
+.jfuwu.com
 .jfwypay.com
 .jfydgame.com
 .jfyf.cc
@@ -35323,6 +35360,7 @@
 .kye-erp.com
 .kyemall.com
 .kygf1.com
+.kygf3.com
 .kyhtech.com
 .kyjxy.com
 .kylc.com
@@ -38281,6 +38319,7 @@
 .manhua166.com
 .manhua365.com
 .manhua456.com
+.manhuabika.com
 .manhuacheng.com
 .manhuadaohang.com
 .manhuagou.com
@@ -43289,6 +43328,10 @@
 .pic21.com
 .pic3733.com
 .pic720.com
+.picacgp.com
+.picacgy.com
+.picacn.xyz
+.picacomic.xyz
 .picatown.com
 .picbling.com
 .picc.com
@@ -46191,6 +46234,7 @@
 .replays.net
 .reptilesworld.com
 .reqgvheo.com
+.rergdfh.com
 .resheji.com
 .resistor.today
 .resowolf.com
@@ -46505,7 +46549,6 @@
 .rosefinchfund.com
 .rosesandgold.fun
 .rosinson.com
-.rosnas.com
 .rosoyp.com
 .rossoarts.com
 .rossoarts.net
@@ -50379,6 +50422,7 @@
 .staticfile.org
 .statickksmg.com
 .statics.cc
+.staticssl.image-gmkt.com
 .stats.ipinyou.com
 .staycu.com
 .stbieshu.com
@@ -51674,6 +51718,7 @@
 .taohui.pub
 .taohuichang.com
 .taohuren.com
+.taoibao.net
 .taojianghu.com
 .taojiji.com
 .taojin6.com
@@ -51901,6 +51946,7 @@
 .tdamtrade.com
 .tdatamaster.com
 .tdchats.us
+.tdd.la
 .tdfcw.com
 .tdgod.com
 .tdict.com
@@ -54211,6 +54257,7 @@
 .ueren.com
 .uestcedu.com
 .uestcliuxue.com
+.uetianshanyp.com
 .ueuz.com
 .uewaf.com
 .uf-crm.com
@@ -54312,7 +54359,6 @@
 .ujiuye.com
 .ujmjk.com
 .ujnfdfv.com
-.ujxs.com
 .uk-edu.com
 .uk-odc.samsungapps.com
 .uk86.com
@@ -54680,6 +54726,7 @@
 .uuaa.net
 .uucl.vip
 .uucqrdmk.com
+.uueasy.com
 .uuecs.com
 .uufa2017.com
 .uufund.com
@@ -54942,7 +54989,6 @@
 .vcredit.com
 .vcsint.com
 .vctianshanvs.com
-.vcxpe.com
 .vdaye.com
 .vdiagnostic.com
 .vdian.com
@@ -55069,7 +55115,6 @@
 .vgooo.com
 .vgoyun.com
 .vgtime.com
-.vgunxpkt.com
 .vgyuhu.com
 .vhaey.com
 .vhall.com
@@ -56002,6 +56047,7 @@
 .wantwords.net
 .wantwu.com
 .wanwan4399.com
+.wanwang.com
 .wanwang.space
 .wanwanol.com
 .wanweipc.com
@@ -57137,6 +57183,7 @@
 .wifizj.com
 .wiitrans.com
 .wiiyi.com
+.wikawika.xyz
 .wiki8.com
 .wikielife.com
 .wikiimgs.com
@@ -57719,6 +57766,7 @@
 .wowoyou.net
 .wowqu.cc
 .wowsai.com
+.wowtb.com
 .woxian.com
 .woxiaoyun.com
 .woxihuan.com
@@ -58209,7 +58257,6 @@
 .www.tzoo-img.com
 .www.vive.com
 .www.viveport.com
-.www.volvocars.com
 .www21420.com
 .www48-365365.com
 .wwwatch.in
@@ -60330,7 +60377,6 @@
 .xrkapp.com
 .xrkcdn.com
 .xrkmonitor.com
-.xrnkh.com
 .xrqorv.com
 .xrso.com
 .xrunda.com
@@ -66208,7 +66254,6 @@
 .ztedu8.com
 .ztehotel.com
 .ztehotel.net
-.ztemall.com
 .ztemap.com
 .ztems.com
 .ztestin.com
@@ -66733,7 +66778,13 @@ cast.uforadio.com.tw
 cbsnewshd-lh.akamaihd.net
 cdn-videos.akamaized.net
 cdn.ampproject.org
+cdn.gdlive.gdmain.com
+cdn.hkdtmb.com
 cdn.marketplaceimages.windowsphone.com
+cdnpull.0471tv.org.cn
+cgntv-glive.ofsdelivery.net
+channellive.leshantv.net
+chaoan.chaoantv.com
 clickserve.cc-dt.com
 client.amplifi.com
 cn.widevine.com
@@ -66741,6 +66792,7 @@ cnpull.sccnfb.com
 crl.pki.goog
 ctt.rgd.com.cn
 czlive.czgd.tv
+d2e1asnsl7br7b.cloudfront.net
 d9af5a60.edmonst.net
 dartsearch-cn.net
 devpgclive.cmc.dyrmt.com
@@ -66772,6 +66824,7 @@ fvsln5ps.live.sxmty.com
 gayotv.net
 gcpnode.com
 ggpagerl.live.sxmty.com
+global.prd.cdn.globalsign.com
 gogalaxy.gog-statics.com
 gonglchuangl.net
 gongyichuangyi.net
@@ -66831,6 +66884,7 @@ lbzb.yd-data.com
 live-350k.streamingfast.net
 live-cdn.gxxw.com
 live-echotv.cdnvideo.ru
+live-hls-web-aje.getaj.net
 live-stream.lsxrmtzx.com
 live.0359tv.com
 live.0793.tv
@@ -66840,6 +66894,7 @@ live.bcrmtzx.com
 live.bhtv.cc
 live.btgdt.com
 live.china-latv.com
+live.cooltv.top
 live.czmarathon.net
 live.cztv.cc
 live.daningtv.com
@@ -66878,12 +66933,15 @@ live.sfrmt.com
 live.shaoxing.com.cn
 live.sichuanmianning.com
 live.sjsgdzx.com
+live.sjsrm.com
 live.spccmc.com
 live.streamingfast.net
 live.todaydunhuang.com
+live.tongdaotv.com
 live.tvbaoji.com
 live.txcmapp.com
 live.ugratv.cdnvideo.ru
+live.v1.mk
 live.wanyuannews.com
 live.wxjy.com.cn
 live.yichuntv.com
@@ -66963,6 +67021,7 @@ necgokr2-724.acs.wecandeo.com
 nettvpro.live
 newvod.ahbbtv.com
 nhkw-zh-hlscomp.akamaized.net
+nhkwlive-ojp.akamaized.net
 nhkwlive-xjp.akamaized.net
 nis.stream.publicradio.org
 njzb.scnj.tv
@@ -66974,6 +67033,7 @@ opencourse.pku.edu.cn
 origin-a.akamaihd.ne
 origin-a.akamaihd.net
 ott-live.olympicchannel.com
+outlook.office365.com
 palive.patv123.com
 pdlive.lyuncloud.com
 pili-live-hdl.hsyapp.sobeylingyun.com
@@ -67071,6 +67131,7 @@ settings.xn--9trs65b.com
 sj.smarttaixing.com
 slive.ytn.co.kr
 sms.imagetasks.com
+smtp.office365.com
 snlive.scsntv.com
 sobeylingyun02pull.sobeylive.com
 sohucao.duapp.com
