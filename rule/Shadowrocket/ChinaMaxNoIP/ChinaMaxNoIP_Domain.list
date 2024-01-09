@@ -1,12 +1,12 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 16:02:19
+# UPDATED: 2024-01-10 03:05:04
 # DOMAIN: 547
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 66413
+# DOMAIN-SUFFIX: 66411
 # USER-AGENT: 69
-# TOTAL: 67043
+# TOTAL: 67041
 .0-6.com
 .00.net
 .000.link
@@ -17128,7 +17128,6 @@
 .czyxba.com
 .czzsw.com
 .czzy-edu.com
-.czzy88.com
 .d-controls.com
 .d-ctrip.com
 .d-heaven.com
@@ -63185,6 +63184,7 @@
 .yte1.com
 .yteng.net
 .ytesting.com
+.ytfuzhen.com
 .ytghnb.com
 .ythouse.com
 .ytiku.com

@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 16:00:12
+# UPDATED: 2024-01-10 03:02:54
 # HOST: 111
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 64285
+# HOST-SUFFIX: 64283
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 64452
+# TOTAL: 64450
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -19562,7 +19562,6 @@ HOST-SUFFIX,czxy.com,ChinaTest
 HOST-SUFFIX,czyxba.com,ChinaTest
 HOST-SUFFIX,czzsw.com,ChinaTest
 HOST-SUFFIX,czzy-edu.com,ChinaTest
-HOST-SUFFIX,czzy88.com,ChinaTest
 HOST-SUFFIX,d-controls.com,ChinaTest
 HOST-SUFFIX,d-ctrip.com,ChinaTest
 HOST-SUFFIX,d-heaven.com,ChinaTest
@@ -61424,6 +61423,7 @@ HOST-SUFFIX,ytdcloud.com,ChinaTest
 HOST-SUFFIX,yte1.com,ChinaTest
 HOST-SUFFIX,yteng.net,ChinaTest
 HOST-SUFFIX,ytesting.com,ChinaTest
+HOST-SUFFIX,ytfuzhen.com,ChinaTest
 HOST-SUFFIX,ytghnb.com,ChinaTest
 HOST-SUFFIX,ythouse.com,ChinaTest
 HOST-SUFFIX,ytiku.com,ChinaTest

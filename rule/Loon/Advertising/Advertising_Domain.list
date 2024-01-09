@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 15:55:36
+# UPDATED: 2024-01-10 02:57:23
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 18099
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 98182
+# DOMAIN-SUFFIX: 98216
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 117109
+# TOTAL: 117143
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -20062,6 +20062,7 @@
 .btwasinlovewit.xyz
 .btwtssrnntidgb.com
 .btwwiwmhfhh.com
+.btwwzqdx.xyz
 .btxdbuaxn.com
 .btxxxnav.com
 .btyou.com
@@ -20811,6 +20812,7 @@
 .c43a3cd8f99413891.com
 .c44wergiu87heghoconutdx.com
 .c473f6ab10.com
+.c4c9.pandasuite.io
 .c4d4.cn
 .c4dv.copinesdevoyage.com
 .c4frc.info
@@ -25888,6 +25890,7 @@
 .countypuddleillusion.com
 .countz.com
 .coup7cold.com
+.coupbezzant.com
 .couphait.net
 .coupleairplane.com
 .couplestupidity.com
@@ -38272,6 +38275,7 @@
 .fnrbulqws.com
 .fnrrm2fn1njl1.com
 .fns212.com
+.fntphihy.com
 .fnx2n3rqbuw7.com
 .fnxkntusnd.com
 .fnxmyx.cn
@@ -43644,6 +43648,7 @@
 .hapticswasher.com
 .hapyak.com
 .hapying.com
+.harassinganticipation.com
 .harassinglateral.com
 .harayun.com
 .harbinbaojia.net
@@ -45159,6 +45164,7 @@
 .homierceston.top
 .hommetendance.fr
 .hommmaq.com
+.homncjrgbref.com
 .hompouka.com
 .homrus.net
 .honapply.vn
@@ -51915,6 +51921,7 @@
 .jzeapwlruols.com
 .jzixypd.icu
 .jzkapp.com
+.jzleekzkrwjll.top
 .jzlso.xyz
 .jzm81.com
 .jzntxs.com
@@ -54312,6 +54319,7 @@
 .ldpiecesonth.xyz
 .ldqtdd.peing.net
 .ldrenandthe.org
+.ldrsvmkajnzx.com
 .lds.lenovomm.com
 .lds.zui.com
 .ldserv01.adtech.fr
@@ -63306,6 +63314,7 @@
 .mlog.m1905.cn
 .mlog.search.xiaomi.net
 .mlpeqwkruffs.com
+.mlrrvusoiebaox.com
 .mlsat04.de
 .mlsend.com
 .mlsjh.com
@@ -64579,7 +64588,6 @@
 .mtvnlatservices.com
 .mtwdmk9ic.com
 .mtwwzqdx.xyz
-.mtx.lastminute.com.au
 .mtxsk.com
 .mtypitea.net
 .mtzenhigqg.com
@@ -72440,6 +72448,7 @@
 .ping.dozuki.com
 .ping.fastsimon.com
 .ping.getadblock.com
+.ping.hashnode.com
 .ping.hedlund.xyz
 .ping.hungama.com
 .ping.instantsearchplus.com
@@ -83053,6 +83062,7 @@
 .sgeth7.icu
 .sgeth9.icu
 .sgeujrpxuqyzqd.com
+.sgfdfikdguqdkv.com
 .sgfsdvc.com
 .sgftrrs.com
 .sgg.southcn.com
@@ -92397,6 +92407,7 @@
 .szmpc.cn
 .szmt05.cn
 .szmt11.cn
+.szmtd.cn
 .szmty.cn
 .szn0ehq.icu
 .szpbg.cn
@@ -92636,7 +92647,6 @@
 .t.kelkoogroup.net
 .t.krannertcenter.com
 .t.kstatesports.com
-.t.ksuowls.com
 .t.la-croix.com
 .t.lastcast.fm
 .t.leady.com
@@ -94809,6 +94819,7 @@
 .thoughtlessknot.com
 .thoughtmetric.io
 .thouhoom.xyz
+.thoupsuk.net
 .thousandfalteralbeit.com
 .thousandfixedlyyawn.com
 .thousicefall.top
@@ -112078,7 +112089,6 @@
 .zozoter.ru
 .zp0737.com
 .zp22938576.com
-.zpbiqrovnozhn.com
 .zpcfnzjq.com
 .zpcode11.com
 .zpe.klre.18183.com
