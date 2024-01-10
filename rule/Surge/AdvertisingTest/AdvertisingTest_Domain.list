@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-10 02:58:44
+# UPDATED: 2024-01-11 02:58:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12456
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 134285
+# DOMAIN-SUFFIX: 134344
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 147781
+# TOTAL: 147840
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -1170,6 +1170,7 @@
 .2022shoupidan1024.xyz
 .2022welcome.com
 .2023cradep0sit.com
+.2023sb.net
 .202illinoise.trekkww.space
 .202m.com
 .2036369798.com
@@ -22908,6 +22909,7 @@
 .bpts.8111216.cn
 .bptssoahsfoz.com
 .bpu.samsungelectronics.com
+.bpwwsusgb.com
 .bpyerxzn.xyz
 .bqacmp.vidaxl.no
 .bqadfytoqbyhdxs.xyz
@@ -24276,6 +24278,7 @@
 .bykwtf.victoriassecret.ae
 .byluvdiscor.com
 .bym03.cn
+.bymahuxv.xyz
 .bymnyzbkylaaw.top
 .bymnyzbkylvkv.top
 .bymqpoppwnlflc.com
@@ -39782,8 +39785,6 @@
 .dnews.fiat.it
 .dnf06i4y06g13.cloudfront.net
 .dnfeu.com
-.dnfnpff.xyz
-.dnfqqucdsdb.com
 .dnfs24.com
 .dngpzy.bfmtv.com
 .dngpzy.zone-turf.fr
@@ -49376,7 +49377,6 @@
 .frightenedpotato.com
 .frightening-crack.pro
 .frightening-lesson.pro
-.frighteningship.com
 .frightysever.org
 .frilly-number.pro
 .fringesdurocs.com
@@ -56104,6 +56104,7 @@
 .hfajdjhicjcchhbeaeh.ru
 .hfc195b.com
 .hfd.bridgetowermedia.com
+.hfeoveukrn.info
 .hffdjxnyxckf.xyz
 .hffxc.com
 .hfggttxptxwdmb.com
@@ -56694,6 +56695,7 @@
 .hkjjfpkghxec.xyz
 .hkjmjxttwaxmui.com
 .hkkeafj.cn
+.hkl4h1trk.com
 .hkljed.xyz
 .hklst.top
 .hkmqp.com
@@ -65241,7 +65243,6 @@
 .jweoe.xyz
 .jweqtiikcx.com
 .jwfesuk.cn
-.jwfobgoeobehy.com
 .jwg365.cn
 .jwghphm.cn
 .jwgihca.cn
@@ -65377,6 +65378,7 @@
 .jyzmsy.com.cn
 .jz8b.top
 .jzbvpyvhus.com
+.jzbvwqezlwyaz.top
 .jzclick.soso.com
 .jzdgn.cn
 .jzdn.talk-hk.cn
@@ -76824,6 +76826,7 @@
 .mekiroki.com
 .mekiroki.org
 .mekmhvbb.xyz
+.meksicie.net
 .mekstolande.com
 .meladonicum.com
 .melahorgani.com
@@ -79733,6 +79736,7 @@
 .mmxpj.top
 .mmz3.beinsports.com
 .mn.mn.co.cu
+.mn1180.top
 .mn1nm.com
 .mn230126pb.com
 .mn586.com
@@ -81039,6 +81043,7 @@
 .msuik.cn
 .msujd.cn
 .msvkfwth.xyz
+.msxoux.icu
 .msypr.com
 .msz3.destinia.cn
 .mt-business.vodafone.com
@@ -82810,6 +82815,7 @@
 .necessarywax.com
 .nechupsu.com
 .neck6bake.com
+.neckloveham.live
 .necmah.com
 .necmdow.cn
 .nectardoodled.com
@@ -85159,6 +85165,7 @@
 .nzhfk.com
 .nzikpan.com
 .nzixhx.com
+.nzlrfdv.xyz
 .nzme-ads.co.nz
 .nzmkzl.mytheresa.com
 .nzporf.xyz
@@ -116494,6 +116501,7 @@
 .szltwl.com
 .szmdp.cn
 .szmkr.cn
+.szmmb.cn
 .szmpc.cn
 .szmsao.com
 .szmt05.cn
@@ -119376,6 +119384,7 @@
 .thewscozier.uno
 .thewulsair.com
 .theyenglory.guru
+.theythourbonusgain.life
 .theyunm.com
 .thgebtibfyry.com
 .thhesw.tre.it
@@ -120426,6 +120435,7 @@
 .tldw.me
 .tle.ru
 .tleboywhowa.com
+.tlfurd.xyz
 .tlhlpcb.xyz
 .tlivgsvwkaysva.xyz
 .tllfouwvkqza.com
@@ -131805,7 +131815,6 @@
 .wcjup.com
 .wcknxoy.cn
 .wclsylk.cn
-.wcltbpbnlf.com
 .wcmcs.net
 .wcnmd.top
 .wcnndaazbwmane.com
@@ -139343,6 +139352,7 @@
 .zeookuv.xyz
 .zeotap.com
 .zepazupi.com
+.zephyrlabyrinth.com
 .zephyronearc.com
 .zepihoju.xyz
 .zepozipo.com
@@ -139706,8 +139716,6 @@
 .zimingdh.com
 .zimpolo.com
 .zincdatawipe.com
-.zingmp3.pro
-.zingshop.net
 .zinipx.xyz
 .zinlar.pw
 .zinmnubj1cfr.com
