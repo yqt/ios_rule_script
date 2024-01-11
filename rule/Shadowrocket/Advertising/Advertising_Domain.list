@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-11 02:57:33
+# UPDATED: 2024-01-12 02:57:02
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 18099
+# DOMAIN: 18098
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 98276
+# DOMAIN-SUFFIX: 98334
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 117203
+# TOTAL: 117260
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -774,6 +774,7 @@
 .1f7eece503.com
 .1f7wwaex9rbh.com
 .1f87527dc9.com
+.1f98dc1262.com
 .1fd92n6t8.de
 .1fluxx-strean.com
 .1freecounter.com
@@ -961,7 +962,6 @@
 .2022welcome.com
 .2023cradep0sit.com
 .2023sb.net
-.2024114t.shop
 .202m.com
 .2036369798.com
 .203710.com
@@ -14133,6 +14133,7 @@
 .aqpvglv.cn
 .aqqgli3vle.bid
 .aqqlwcuqtskbz.com
+.aqrokdw.cn
 .aqtracker.com
 .aquagoat.xyz
 .aquank.com
@@ -15523,6 +15524,7 @@
 .awfulresolvedraised.com
 .awfzfs.kwantum.nl
 .awgfargnrw.xyz
+.awhajdorzawd.com
 .awhileirrelevant.com
 .awhootoa.net
 .awhoufob.com
@@ -19376,6 +19378,7 @@
 .bptracking.com
 .bptssoahsfoz.com
 .bpu.samsungelectronics.com
+.bpwwsusgb.com
 .bpyerxzn.xyz
 .bqacmp.vidaxl.no
 .bqadfytoqbyhdxs.xyz
@@ -20541,6 +20544,7 @@
 .bykwtf.victoriassecret.ae
 .byluvdiscor.com
 .bym03.cn
+.bymahuxv.xyz
 .bymnyzbkylaaw.top
 .bymnyzbkylvkv.top
 .bymqpoppwnlflc.com
@@ -39076,7 +39080,6 @@
 .frightenedpotato.com
 .frightening-crack.pro
 .frightening-lesson.pro
-.frighteningship.com
 .frightysever.org
 .frilly-number.pro
 .fringesdurocs.com
@@ -51806,7 +51809,6 @@
 .jweoe.xyz
 .jweqtiikcx.com
 .jwfesuk.cn
-.jwfobgoeobehy.com
 .jwg365.cn
 .jwhfn.cn
 .jwiyr.com
@@ -51914,6 +51916,7 @@
 .jyvith.xyz
 .jyxfvp.xyz
 .jzbvpyvhus.com
+.jzbvwqezlwyaz.top
 .jzclick.soso.com
 .jzdgn.cn
 .jzdwl4.cn
@@ -61053,6 +61056,7 @@
 .mekiroki.com
 .mekiroki.org
 .mekmhvbb.xyz
+.meksicie.net
 .mekstolande.com
 .melahorgani.com
 .melancholygreedyhonour.com
@@ -64488,6 +64492,7 @@
 .msuik.cn
 .msujd.cn
 .msvkfwth.xyz
+.msxoux.icu
 .msypr.com
 .msz3.destinia.cn
 .mt-business.vodafone.com
@@ -65905,6 +65910,7 @@
 .necessarywax.com
 .nechupsu.com
 .neck6bake.com
+.neckloveham.live
 .necmah.com
 .nectardoodled.com
 .nectarineple.com
@@ -82142,7 +82148,6 @@
 .secure-accept-e-transfer-interac.info
 .secure-anzgo.arrow.com
 .secure-e.healthiq.com
-.secure-eugo.arrow.com
 .secure-fidosolutions.com
 .secure-stat.canal-plus.com
 .secure-stats.pingdom.com
@@ -92390,6 +92395,7 @@
 .szltwl.com
 .szmdp.cn
 .szmkr.cn
+.szmmb.cn
 .szmpc.cn
 .szmt05.cn
 .szmt11.cn
@@ -94665,6 +94671,7 @@
 .thewscozier.uno
 .thewulsair.com
 .theyenglory.guru
+.theythourbonusgain.life
 .theyunm.com
 .thgebtibfyry.com
 .thialfi.net.anwalt.de
@@ -95523,6 +95530,7 @@
 .tldw.me
 .tle.ru
 .tleboywhowa.com
+.tlfurd.xyz
 .tlhlpcb.xyz
 .tlivgsvwkaysva.xyz
 .tllfouwvkqza.com
@@ -95750,6 +95758,7 @@
 .tollfreeforwarding.com
 .tollibolli.com
 .tollyeric.com
+.tolrock.com
 .toluatebrazee.com
 .toluenehoedown.com
 .toluenemoody.guru
@@ -100470,6 +100479,7 @@
 .tylll.com
 .tylocintriones.com
 .tylosischewer.com
+.tymahuxv.xyz
 .tymsyx.com
 .tynt.com
 .typablecyclide.com
@@ -105482,7 +105492,6 @@
 .wcjiaclw.com
 .wcjup.com
 .wclsylk.cn
-.wcltbpbnlf.com
 .wcmcs.net
 .wcnmd.top
 .wcnndaazbwmane.com
@@ -111536,6 +111545,7 @@
 .zeookuv.xyz
 .zeotap.com
 .zepazupi.com
+.zephyrlabyrinth.com
 .zephyronearc.com
 .zepozipo.com
 .zer1ads.com
@@ -111820,8 +111830,6 @@
 .zimingdh.com
 .zimpolo.com
 .zincdatawipe.com
-.zingmp3.pro
-.zingshop.net
 .zinipx.xyz
 .zinlar.pw
 .zinovila.com
