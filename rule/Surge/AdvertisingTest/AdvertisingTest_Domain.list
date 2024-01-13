@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-13 02:58:16
+# UPDATED: 2024-01-14 02:58:14
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12453
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 138507
+# DOMAIN-SUFFIX: 138569
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 152000
+# TOTAL: 152062
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -825,7 +825,6 @@
 .18052925.im.intermiles.com
 .1805629149.rsc.cdn77.org
 .180hits.de
-.180searchassistant.com
 .18113407f3.com
 .1818bobo.com
 .181lm.net
@@ -8616,6 +8615,7 @@
 .adcolo.com
 .adcolony.com
 .adcome.cn
+.adcomplete.com
 .adcomplete.ru
 .adconfer.com
 .adconfigproxy.azurewebsites.net
@@ -10406,7 +10406,6 @@
 .ads.premiumnetwork.net
 .ads.pressdemo.com
 .ads.pricescan.com
-.ads.primissima.it
 .ads.printscr.com
 .ads.prisacom.com
 .ads.privacy.qq.com
@@ -14794,6 +14793,7 @@
 .aod-image.baidu.com
 .aod.echovisuals.com
 .aod4.societegenerale.fr
+.aodainusinh-cuoinam20233.weebly.com
 .aodaisieuvietnhi2022.weebly.com
 .aodepuo.cn
 .aodongjiaosu.com
@@ -21628,6 +21628,7 @@
 .biskerando.com
 .bisko.mall.tv
 .bisleyserrano.com
+.bisnagaunction.top
 .bisnumnyer.com
 .bison.equals.community
 .bison.joshhanley.com.au
@@ -21810,7 +21811,6 @@
 .bjqug.xyz
 .bjqwllp.cn
 .bjrfnps4efhldfj.ru
-.bjrgsjxb.xyz
 .bjrspnbf.xyz
 .bjs.9669.cn
 .bjs.faxingzhan.com
@@ -27542,6 +27542,7 @@
 .cjnktmhcukfdcq.xyz
 .cjnxs.com
 .cjohpsc.cn
+.cjpczyi.cn
 .cjqncwfxrfrwbdd.com
 .cjqyqyluexk.com
 .cjroq.bealge.sogou.com
@@ -32416,6 +32417,7 @@
 .customfingerprints.bablosoft.com
 .customstat.video.51togic.com
 .cutcurrent.com
+.cute-cursor.com
 .cuteasiangirl.net
 .cutecalculator.com
 .cutechin.com
@@ -32785,6 +32787,7 @@
 .cztanchao.com
 .czujjs.crownandcaliber.com
 .czvdlp.hgregoire.com
+.czvdyzt.com
 .czx5eyk0exbhwp43ya.biz
 .czxiangyue.com
 .czxjx.cn
@@ -34087,7 +34090,6 @@
 .dadspms.com
 .dadspmz.com
 .dadw11.com
-.dadw22.com
 .dadw55.com
 .dadwu.cn
 .dadzidmisbmja.com
@@ -34333,6 +34335,7 @@
 .dantasg.com
 .dantbritingd.club
 .dante2007.com
+.dantri.live
 .danun.cn
 .danv01ao0kdr2.cloudfront.net
 .danzhallfes.com
@@ -38639,6 +38642,7 @@
 .dibjaahejdaeejhhaacd.ru
 .diboji.class101.net
 .dibsemey.com
+.dich-vu-kvip-vpbank.com
 .dich-vu-online-vpbank.com
 .dich-vu-the-ai-vpbank.com
 .dich-vu-the-ez-vpbank.com
@@ -38649,7 +38653,13 @@
 .dichvu-chuyentien24h.000webhostapp.com
 .dichvu-dien-mayxanh.com
 .dichvuchuyentien-ind.weebly.com
+.dichvucong-gov.com
+.dichvucong.agov.net
+.dichvucong.dancuquocgia.net
 .dichvucong.hgov.cc
+.dichvucong.hgov.net
+.dichvucong.kgov.net
+.dichvucong.lgov.net
 .dichvucong.tgovn.cc
 .dichvucong.vgovn.net
 .dichvucongbaohiemxahoi.com
@@ -46375,6 +46385,7 @@
 .facebook-drm-server3.com
 .facebook-repto1040s2.ahlamountada.com
 .facebook.c0m.ltd
+.facebook92288.blogspot.com
 .facebookinbox-omni-onapp.haravan.com
 .facebookj.fr
 .facebookk.life
@@ -57726,7 +57737,6 @@
 .hstbufg.cn
 .hstpnetwork.com
 .hstrck.com
-.hsumeaevly.com
 .hsusd.com
 .hsux.com
 .hsvrww.plain-me.com
@@ -58948,6 +58958,7 @@
 .iduq.com
 .idvd.su
 .idvdtxixmmaiyv.xyz
+.idvideo238544.blogspot.com
 .idvideo678.blogspot.com
 .idwithblaockbrok.xyz
 .idwrx.com
@@ -59166,6 +59177,7 @@
 .iguran.com
 .igusoft.com
 .igvuw.com
+.igxmoaulj.com
 .igxqyi.iese.edu
 .igylwxvxgsuvcs.xyz
 .igyrmknlpr.xyz
@@ -63587,6 +63599,7 @@
 .jciwztfj.com
 .jcjzikj.xyz
 .jckdusa.cn
+.jcluhz.xyz
 .jcm.jd.com
 .jcmheg.wacoal-america.com
 .jcmonitor.xcar.com.cn
@@ -64627,7 +64640,6 @@
 .joopaish.com
 .jooptibi.net
 .joorekbelyvjw.top
-.jootizud.net
 .joowkijejv.com
 .jopd.ru
 .joplopr.cn
@@ -66610,9 +66622,7 @@
 .kjotkqyzxe.com
 .kjpojl.sementa.com
 .kjqlmeaykennr.top
-.kjrlulmt.com
 .kjrspnbf.xyz
-.kjsckwjvdxju.xyz
 .kjsqbbjhrfn.com
 .kjsvvnzcto.com
 .kju369.cn
@@ -67583,6 +67593,7 @@
 .kxvxonkymcnm.com
 .kxwhiogrswx.com
 .kxxfdwt.cn
+.ky.5.p2l.info
 .kyad88.com
 .kybelefwrkmtt.xyz
 .kybzkiw.xyz
@@ -72191,7 +72202,6 @@
 .lqglqq.com
 .lqjinx.xyz
 .lqmohun.com
-.lqmrxmavv.com
 .lqmvvsgusod.com
 .lqnggnsl.fun
 .lqopyc.beermachines.ru
@@ -82438,7 +82448,9 @@
 .naneducate.com
 .nanesbewail.com
 .nang-cap-online-vpbank.com
+.nang-han-muc-ido-vpbank.com
 .nang-han-muc-vip-vpbank.com
+.nang-hang-tin-dung-ca-nhan.com
 .nanghanmuc-thetindung.com
 .nanghanmuc-tindungvn.com
 .nanghanmuc-vp.online
@@ -84923,6 +84935,7 @@
 .nshio.com
 .nshypdry.xyz
 .nsikar.ackermann.ch
+.nsjczjnrravfcj.com
 .nsjpu.com
 .nsjyfpo.com
 .nslokxweviwqbg.com
@@ -85923,7 +85936,6 @@
 .odoursguard.website
 .odovydyp.xyz
 .odpfujlimjuk.com
-.odrgacvbl.com
 .odrmaztzeaj.com
 .odtoxup.ru
 .odtrtadl.com
@@ -99951,6 +99963,7 @@
 .rmpad.imtt.qq.com
 .rmqz.xyz
 .rmraos.com
+.rmrtgsheui.com
 .rmt.plus
 .rmtag.com
 .rmw.jdburl.com
@@ -104431,6 +104444,7 @@
 .serving-sys.com
 .serving-sys.com.edgekey.net
 .serving-system.com
+.serving.incrementxplay.com
 .servingcdn.net
 .servinghandy.com
 .servingserved.com
@@ -127180,6 +127194,7 @@
 .ujnkn.com
 .ujooshog.com
 .ujq1.destinia.is
+.ujrspnbf.xyz
 .ujscdn.com
 .ujtketerrehepren.xyz
 .ujurupa.com
@@ -130483,6 +130498,7 @@
 .vimpatace.digital
 .vimvio.ru
 .vinacombank.com
+.vinaconex.org
 .vinalsmuffish.com
 .vincomonevip.net
 .vinculastags.store
@@ -130995,6 +131011,7 @@
 .vn.jaygeepigs.com
 .vn11268shp.com
 .vn119shop.com
+.vn168d.com
 .vn22647shp.com
 .vn268.com
 .vn277shop.com
