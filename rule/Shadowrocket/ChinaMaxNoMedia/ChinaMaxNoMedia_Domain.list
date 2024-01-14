@@ -1,14 +1,14 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-13 03:04:16
+# UPDATED: 2024-01-15 03:04:57
 # DOMAIN: 543
 # DOMAIN-KEYWORD: 12
-# DOMAIN-SUFFIX: 66596
+# DOMAIN-SUFFIX: 66573
 # IP-ASN: 1005
-# IP-CIDR: 10431
+# IP-CIDR: 10442
 # USER-AGENT: 69
-# TOTAL: 78656
+# TOTAL: 78644
 .0-6.com
 .00.net
 .000.link
@@ -4372,6 +4372,7 @@
 .54jkw.com
 .54job.com
 .54lol.com
+.54maimai.com
 .54md.com
 .54op.com
 .54pictu.com
@@ -7835,6 +7836,7 @@
 .aletui.com
 .alexhaohao.com
 .alexyan.cc
+.alfeng.com
 .algorithmart.com
 .ali-api-test.net
 .ali-expo.com
@@ -17788,7 +17790,6 @@
 .dduwork.com
 .ddweilai.com
 .ddwhm.com
-.ddwzh.com
 .ddxq.mobi
 .ddxstxt8.com
 .ddyqh.com
@@ -18250,7 +18251,6 @@
 .dianxin.net
 .dianxinnews.com
 .dianxinos.com
-.dianyikongjie.com
 .dianyingjie.com
 .dianyingshow.com
 .dianyingwenxue.com
@@ -65016,7 +65016,6 @@
 .zhishengbang.com
 .zhishi.com
 .zhishi.tech
-.zhishibo.com
 .zhishif.com
 .zhishifanli.com
 .zhishifenzi.com

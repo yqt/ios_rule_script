@@ -1,16 +1,16 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-14 03:03:12
+# UPDATED: 2024-01-15 03:03:39
 # DOMAIN: 548
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 67010
+# DOMAIN-SUFFIX: 66987
 # IP-ASN: 1005
 # IP-CIDR: 6981
-# IP-CIDR6: 3450
+# IP-CIDR6: 3461
 # PROCESS-NAME: 12
 # USER-AGENT: 69
-# TOTAL: 79089
+# TOTAL: 79077
 .0-6.com
 .00.net
 .000.link
@@ -4376,6 +4376,7 @@
 .54jkw.com
 .54job.com
 .54lol.com
+.54maimai.com
 .54md.com
 .54op.com
 .54pictu.com
@@ -7854,6 +7855,7 @@
 .aletui.com
 .alexhaohao.com
 .alexyan.cc
+.alfeng.com
 .algorithmart.com
 .ali-api-test.net
 .ali-expo.com
@@ -18073,7 +18075,6 @@
 .dduwork.com
 .ddweilai.com
 .ddwhm.com
-.ddwzh.com
 .ddxq.mobi
 .ddxstxt8.com
 .ddyqh.com
@@ -18535,7 +18536,6 @@
 .dianxin.net
 .dianxinnews.com
 .dianxinos.com
-.dianyikongjie.com
 .dianyingjie.com
 .dianyingshow.com
 .dianyingwenxue.com
@@ -65423,7 +65423,6 @@
 .zhishengbang.com
 .zhishi.com
 .zhishi.tech
-.zhishibo.com
 .zhishif.com
 .zhishifanli.com
 .zhishifenzi.com

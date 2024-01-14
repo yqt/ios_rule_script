@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-14 02:57:01
+# UPDATED: 2024-01-15 02:57:14
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 18064
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 102552
+# DOMAIN-SUFFIX: 102602
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 121444
+# TOTAL: 121494
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -439,6 +439,7 @@
 .111g.yiqig.cn
 .111ol.com
 .111supjavcom.xyz
+.113-bca.online
 .1133.cc
 .1136999.com
 .11370090.net
@@ -12870,6 +12871,7 @@
 .aobde.com
 .aod.echovisuals.com
 .aod4.societegenerale.fr
+.aodainusinh-cuoinam20233.weebly.com
 .aodaisieuvietnhi2022.weebly.com
 .aodongjiaosu.com
 .aofppecbmordq.com
@@ -18284,8 +18286,6 @@
 .bisko.mall.tv
 .bisleyserrano.com
 .bisnagaunction.top
-.bisnumnyer.com
-.bissailre.com
 .bissonbunging.com
 .bissonprevoid.website
 .bistigaleod.life
@@ -18436,7 +18436,6 @@
 .bjqnpe.i-office1.net
 .bjqug.xyz
 .bjrfnps4efhldfj.ru
-.bjrgsjxb.xyz
 .bjrspnbf.xyz
 .bjs.9669.cn
 .bjs.faxingzhan.com
@@ -23065,6 +23064,7 @@
 .cjmooter.xcache.kinxcdn.com
 .cjndvoglik.xyz
 .cjohpsc.cn
+.cjpczyi.cn
 .cjqncwfxrfrwbdd.com
 .cjroq.bealge.sogou.com
 .cjsdtj.com
@@ -28389,7 +28389,6 @@
 .dadspms.com
 .dadspmz.com
 .dadw11.com
-.dadw22.com
 .dadw55.com
 .dadwu.cn
 .dadzidmisbmja.com
@@ -28587,6 +28586,7 @@
 .dantasg.com
 .dantbritingd.club
 .dante2007.com
+.dantri.live
 .danun.cn
 .danv01ao0kdr2.cloudfront.net
 .danzhallfes.com
@@ -30375,6 +30375,7 @@
 .dibjaahejdaeejhhaacd.ru
 .diboji.class101.net
 .dibsemey.com
+.dich-vu-kvip-vpbank.com
 .dich-vu-online-vpbank.com
 .dich-vu-the-ai-vpbank.com
 .dich-vu-the-ez-vpbank.com
@@ -30385,7 +30386,13 @@
 .dichvu-chuyentien24h.000webhostapp.com
 .dichvu-dien-mayxanh.com
 .dichvuchuyentien-ind.weebly.com
+.dichvucong-gov.com
+.dichvucong.agov.net
+.dichvucong.dancuquocgia.net
 .dichvucong.hgov.cc
+.dichvucong.hgov.net
+.dichvucong.kgov.net
+.dichvucong.lgov.net
 .dichvucong.tgovn.cc
 .dichvucong.vgovn.net
 .dichvucongbaohiemxahoi.com
@@ -36621,6 +36628,7 @@
 .facebook-drm-server3.com
 .facebook-repto1040s2.ahlamountada.com
 .facebook.c0m.ltd
+.facebook92288.blogspot.com
 .facebookinbox-omni-onapp.haravan.com
 .facebookj.fr
 .facebookk.life
@@ -45729,10 +45737,8 @@
 .hstbrt.xyz
 .hstpnetwork.com
 .hstrck.com
-.hsumeaevly.com
 .hsusd.com
-.hsxqhu.valostore.fi
-.hsyaoyutmz.com
+.hsvrww.plain-me.com
 .ht-srl.com
 .ht.www.sogou.com
 .ht55.cn
@@ -46687,6 +46693,7 @@
 .idting.com
 .idvd.su
 .idvdtxixmmaiyv.xyz
+.idvideo238544.blogspot.com
 .idvideo678.blogspot.com
 .idwithblaockbrok.xyz
 .idwrx.com
@@ -46844,7 +46851,6 @@
 .igusoft.com
 .igvuw.com
 .igxmoaulj.com
-.igxqyi.iese.edu
 .igylwxvxgsuvcs.xyz
 .igyrmknlpr.xyz
 .ih.newegg.com
@@ -51293,7 +51299,6 @@
 .joopaish.com
 .jooptibi.net
 .joorekbelyvjw.top
-.jootizud.net
 .joowkijejv.com
 .jopd.ru
 .joplopr.cn
@@ -52920,9 +52925,7 @@
 .kjos.vo.llnwd.net
 .kjotkqyzxe.com
 .kjqlmeaykennr.top
-.kjrlulmt.com
 .kjrspnbf.xyz
-.kjsckwjvdxju.xyz
 .kjsvvnzcto.com
 .kjuftmdofmsrhq.com
 .kjugr.xyz
@@ -53718,6 +53721,7 @@
 .kxvxonkymcnm.com
 .kxwhiogrswx.com
 .kxxfdwt.cn
+.ky.5.p2l.info
 .kyad88.com
 .kybelefwrkmtt.xyz
 .kybzkiw.xyz
@@ -65578,7 +65582,9 @@
 .naneducate.com
 .nanesbewail.com
 .nang-cap-online-vpbank.com
+.nang-han-muc-ido-vpbank.com
 .nang-han-muc-vip-vpbank.com
+.nang-hang-tin-dung-ca-nhan.com
 .nanghanmuc-thetindung.com
 .nanghanmuc-tindungvn.com
 .nanghanmuc-vp.online
@@ -67694,6 +67700,7 @@
 .nshes.ru
 .nshio.com
 .nshypdry.xyz
+.nsjczjnrravfcj.com
 .nsjpu.com
 .nsjyfpo.com
 .nslokxweviwqbg.com
@@ -68545,6 +68552,7 @@
 .odoscope.com
 .odouanmhndwipg.com
 .odoursguard.website
+.odpfujlimjuk.com
 .odtoxup.ru
 .odtrtadl.com
 .odwpjjevssepja.com
@@ -68724,6 +68732,7 @@
 .ogeesuropod.digital
 .ogercron.com
 .ogeri.ru
+.ogetherefwukoul.info
 .ogghpaoxwv.com
 .oggifinogi.com
 .oghqvffmnt.com
@@ -87827,14 +87836,6 @@
 .sodiumcupboard.com
 .sodiumrampcubic.com
 .sodj88.com
-.sodo02.com
-.sodo100.com
-.sodo12.com
-.sodo13.com
-.sodo15.com
-.sodo3839.com
-.sodo66.com
-.sodo668.net
 .sodoit.com
 .sodreekrukiy.com
 .sofa.bankofamerica.com
@@ -87885,7 +87886,6 @@
 .sohu999.com
 .sohulink.cc
 .soiasjgtd.top
-.soicauviet.com
 .soicos.com
 .soidog.fr
 .soil5hear.com
@@ -89005,7 +89005,6 @@
 .srtb.msn.com
 .srtlyye.com
 .srtrak.com
-.sruk.srglobal.com
 .srumifuroqkuoi.com
 .sruzefwboxu.com
 .srv.dynamicyield.com
@@ -101394,6 +101393,7 @@
 .uersfa.com
 .uerzyr.cn
 .uestat.video.qiyi.com
+.ueumdkc.cn
 .ueuodgnrhb.com
 .uezbshzpdcbb.info
 .ufaexpert.com
@@ -104371,6 +104371,7 @@
 .vimpatace.digital
 .vimvio.ru
 .vinacombank.com
+.vinaconex.org
 .vincomonevip.net
 .vinculastags.store
 .vindicosuite.com
@@ -104815,6 +104816,7 @@
 .vn.grab-credit4u.com
 .vn11268shp.com
 .vn119shop.com
+.vn168d.com
 .vn22647shp.com
 .vn268.com
 .vn277shop.com

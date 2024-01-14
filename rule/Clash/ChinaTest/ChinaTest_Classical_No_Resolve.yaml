@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-13 03:01:57
+# UPDATED: 2024-01-15 03:02:26
 # DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64554
+# DOMAIN-SUFFIX: 64530
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64689
+# TOTAL: 64665
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -7830,6 +7830,7 @@ payload:
   - DOMAIN-SUFFIX,54job.com
   - DOMAIN-SUFFIX,54kefu.net
   - DOMAIN-SUFFIX,54lol.com
+  - DOMAIN-SUFFIX,54maimai.com
   - DOMAIN-SUFFIX,54md.com
   - DOMAIN-SUFFIX,54op.com
   - DOMAIN-SUFFIX,54pictu.com
@@ -11148,6 +11149,7 @@ payload:
   - DOMAIN-SUFFIX,aletui.com
   - DOMAIN-SUFFIX,alexhaohao.com
   - DOMAIN-SUFFIX,alexyan.cc
+  - DOMAIN-SUFFIX,alfeng.com
   - DOMAIN-SUFFIX,algorithmart.com
   - DOMAIN-SUFFIX,ali-api-test.net
   - DOMAIN-SUFFIX,ali-gtm-01.net
@@ -20207,7 +20209,6 @@ payload:
   - DOMAIN-SUFFIX,dduwork.com
   - DOMAIN-SUFFIX,ddweilai.com
   - DOMAIN-SUFFIX,ddwhm.com
-  - DOMAIN-SUFFIX,ddwzh.com
   - DOMAIN-SUFFIX,ddxq.mobi
   - DOMAIN-SUFFIX,ddxstxt8.com
   - DOMAIN-SUFFIX,ddyqh.com
@@ -20648,7 +20649,6 @@ payload:
   - DOMAIN-SUFFIX,dianxin.net
   - DOMAIN-SUFFIX,dianxinnews.com
   - DOMAIN-SUFFIX,dianxinos.com
-  - DOMAIN-SUFFIX,dianyikongjie.com
   - DOMAIN-SUFFIX,dianyingjie.com
   - DOMAIN-SUFFIX,dianyingshow.com
   - DOMAIN-SUFFIX,dianyingwenxue.com
@@ -54698,7 +54698,6 @@ payload:
   - DOMAIN-SUFFIX,wanfangtech.com
   - DOMAIN-SUFFIX,wanfangtech.net
   - DOMAIN-SUFFIX,wanfantian.com
-  - DOMAIN-SUFFIX,wanfucc.com
   - DOMAIN-SUFFIX,wanfuqianqiu.com
   - DOMAIN-SUFFIX,wang
   - DOMAIN-SUFFIX,wang-li.com
@@ -63199,7 +63198,6 @@ payload:
   - DOMAIN-SUFFIX,zhishengbang.com
   - DOMAIN-SUFFIX,zhishi.com
   - DOMAIN-SUFFIX,zhishi.tech
-  - DOMAIN-SUFFIX,zhishibo.com
   - DOMAIN-SUFFIX,zhishifenzi.com
   - DOMAIN-SUFFIX,zhishilin.com
   - DOMAIN-SUFFIX,zhishisoft.com

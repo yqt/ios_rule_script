@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-14 02:58:14
+# UPDATED: 2024-01-15 02:58:29
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12453
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 138569
+# DOMAIN-SUFFIX: 138605
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 152062
+# TOTAL: 152098
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -571,6 +571,7 @@
 .113vod-adaptive.akamaized.net
 .1143895874.rsc.cdn77.org
 .1144017219.rsc.cdn77.org
+.1145191861.rsc.cdn77.org
 .114com.cc
 .114la.com
 .114lm.com
@@ -24274,6 +24275,7 @@
 .bxumze.providencejournal.com
 .bxumze.vvdailypress.com
 .bxumze.wickedlocal.com
+.bxvirhgaq.com
 .bxwmfozavo.com
 .bxxiklwst.xyz
 .bxxvmjrpegqy.com
@@ -24752,6 +24754,7 @@
 .c9l.xyz
 .c9p7at3pctmprvb5ecq66vvd.ml
 .c9qh3.website
+.c9ql2.com
 .c9r05q.com
 .c9tt3jj.top
 .c9xv.xyz
@@ -31323,7 +31326,6 @@
 .cped7.xyz
 .cperformmedia-a.akamaihd.net
 .cpfclassifieds.com
-.cpffkbpq.xyz
 .cpfwffke.com
 .cpgo.avatacar.com
 .cpgo.xyz
@@ -34336,6 +34338,7 @@
 .dantbritingd.club
 .dante2007.com
 .dantri.live
+.dantrii.info
 .danun.cn
 .danv01ao0kdr2.cloudfront.net
 .danzhallfes.com
@@ -63763,7 +63766,6 @@
 .jehobsee.com
 .jeidd.xyz
 .jeivreeultvgt.com
-.jejlkzmfvnj.com
 .jekmmlwnyznww.top
 .jekmmlwnyzyjr.top
 .jekson44.ru
@@ -64354,6 +64356,7 @@
 .jltdgjqgtbfyg.com
 .jltjgujdnyp.com
 .jltolz.xyz
+.jlufbcef.com
 .jlvskg.cn
 .jlwljym.com
 .jlxmuvjltnqttj.com
@@ -64479,6 +64482,7 @@
 .jobhobfir.club
 .joblessdrum.com
 .joblouder.com
+.jobmkewrymmvb.top
 .jobs.mobilemarketingreads.com
 .jobs.sciencecareers.org
 .jobs.smpgn.co
@@ -88039,7 +88043,6 @@
 .otwwtutujwa.com
 .otx23nu6rzon.prep.toppers.com
 .otxlhpm.xyz
-.otydtuebaluf.xyz
 .ou.shutterfly.com
 .ou15r.cn
 .ou188.com
@@ -90863,8 +90866,6 @@
 .pfiuyt.com
 .pfja.top
 .pfjfj45.xyz
-.pfjfjid.xyz
-.pfjrusskan.com
 .pfjtgxc.cn
 .pflexads.com
 .pflhnpu.cn
@@ -92547,6 +92548,7 @@
 .pnvbfxwbeg.com
 .pnvnpy.scullyandscully.com
 .pnxs.com
+.pnxtsauba.com
 .pny.net.penny.de
 .pnyjzdtirvufft.com
 .pnzhpb.xyz
@@ -110518,14 +110520,6 @@
 .sodiumcupboard.com
 .sodiumrampcubic.com
 .sodj88.com
-.sodo02.com
-.sodo100.com
-.sodo12.com
-.sodo13.com
-.sodo15.com
-.sodo3839.com
-.sodo66.com
-.sodo668.net
 .sodoit.com
 .soejzg.efe.com.pe
 .sofa.bankofamerica.com
@@ -110586,7 +110580,6 @@
 .sohu999.com
 .sohulink.cc
 .soiasjgtd.top
-.soicauviet.com
 .soicos.com
 .soidog.fr
 .soil5hear.com
@@ -134396,6 +134389,7 @@
 .wlt-jupiter.de
 .wltsgqnblq.com
 .wlwtcr.toptoon.com
+.wlyxhdffvgz.com
 .wlzlrlp.xyz
 .wm-panel.com
 .wm.20150.net
@@ -140457,6 +140451,7 @@
 .zihuiguochao.top
 .ziig.com.cn
 .zijaipse.com
+.zikpwr.com
 .zikraist.net
 .zikroarg.com
 .zilchesmoated.com
