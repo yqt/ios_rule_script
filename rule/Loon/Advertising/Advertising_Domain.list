@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-16 02:09:12
+# UPDATED: 2024-01-17 02:08:54
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 18062
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 102681
+# DOMAIN-SUFFIX: 102747
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 121571
+# TOTAL: 121637
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -226,6 +226,7 @@
 .0emn.com
 .0f461325bf56c3e1b9.com
 .0fb.co
+.0fb.ltd
 .0fc32b5283.com
 .0fc7ac6ea7.com
 .0fd4e46de3.com
@@ -407,6 +408,7 @@
 .1080872514.rsc.cdn77.org
 .1082580998.rsc.cdn77.org
 .1090pjopm.de
+.10945-2.s.cdn15.com
 .10945-5.s.cdn15.com
 .1097834592.rsc.cdn77.org
 .109c957fb6.com
@@ -576,6 +578,7 @@
 .1437953666.rsc.cdn77.org
 .143nchrtl3.com
 .144.dragonparking.com
+.1460689281.rsc.cdn77.org
 .146na.cn
 .147ad.com
 .148dfe140d0f3d5e.com
@@ -616,6 +619,8 @@
 .1603463731.rsc.cdn77.org
 .16134024.artcollection.io
 .161779.publy.co
+.1628131f39dcef7bcgcc.2xmzazd.cn
+.1628131f39dcef7bcgg.2qpqwkx.cn
 .1632j6.cn
 .163ren.com
 .166br.com
@@ -14027,7 +14032,6 @@
 .apps5.oingo.com
 .appsanalytics.appideas.it
 .appscriptduck.com
-.appscriptshark.com
 .appsdt.com
 .appserver-ap.com
 .appserver-cp.com
@@ -14355,6 +14359,7 @@
 .arphzc.woodica.pl
 .arpromiserinte.site
 .arpxs.com
+.arqsafhutlam.com
 .arquilavaan.com
 .arqznlwzkkaev.top
 .arqznlwzkkjla.top
@@ -14654,8 +14659,6 @@
 .asnortsalol.website
 .aso1.net
 .asoawhum.com
-.asoewk.jaanuu.com
-.asoexspxuuwgf.com
 .asopn.com
 .asosettoourma.info
 .asoulrox.com
@@ -18264,6 +18267,7 @@
 .biq.keefung-zs.com
 .birchdynamicunicorn.com
 .bird-getabid.net
+.birdeyedigenea.com
 .birdmedia.com
 .birdnavy.com
 .birgga.top
@@ -18271,6 +18275,7 @@
 .biroads.com
 .birqmiowxfh.com
 .birter.com
+.birth-control.1.p2l.info
 .birthdaybelief.com
 .birthdayforester.com
 .birthdiscipline.com
@@ -19711,7 +19716,6 @@
 .briareddollier.com
 .briarsbarrer.guru
 .bribrieslabon.com
-.brice-test.nawar.io
 .brick.xhamster.com
 .brick.xhamster.desi
 .brick.xhamster2.com
@@ -29232,7 +29236,6 @@
 .dcai7bdiz5toz.cloudfront.net
 .dcaij.com
 .dcapps.disney.go.com
-.dcayljcvr.com
 .dcbbwymp1bhlf.cloudfront.net
 .dcbpm.suning.cn
 .dcclaa.bunte.de
@@ -35041,6 +35044,7 @@
 .eooslfyhziubo.com
 .eopad.cyou
 .eopleshouldt.info
+.eoqctcsvskqlz.com
 .eoredi.com
 .eorganizatio.com
 .eosads.com
@@ -36809,8 +36813,8 @@
 .famousquarter.com
 .famousremainedshaft.com
 .fampfage.com
-.famularshun.com
 .famulustaille.space
+.famvir.1.p2l.info
 .famwillems.nl
 .fan-yong.com
 .fan.info.heat.com
@@ -43196,7 +43200,6 @@
 .guuatqlmusy.xyz
 .guuds.cyou
 .guuewhkwtrvab.com
-.guvnsusr.com
 .guvsxiex.xyz
 .guwait.com
 .guwuym.barneys.co.jp
@@ -46046,6 +46049,7 @@
 .hvikgqco.com
 .hvkwmvpxvjo.xyz
 .hvlitr.xyz
+.hvmsmoiejaqb.com
 .hvooyieoei.com
 .hvpard.xyz
 .hvrhgt.the-sun.com
@@ -50459,6 +50463,7 @@
 .jbtfmis.xyz
 .jbtul.com
 .jbugk.com
+.jbwiujl.com
 .jbyy010.com
 .jbzmwqmqwokkq.top
 .jc1.dayfund.cn
@@ -52516,6 +52521,7 @@
 .keryt.jnservo.com
 .kesevitamus.com
 .kesmatic.com
+.kesseolluck.com
 .ketaoke.com
 .ketaquoted.com
 .ketban.online
@@ -52651,6 +52657,7 @@
 .khanjeeyapness.website
 .khatexcepeded.info
 .khayatarai.com
+.khcn-han-muc-tin-dung-ca-nhan.com
 .khcn-tindung-vp.com
 .khekwufgwbl.com
 .khermesi.ru
@@ -54589,6 +54596,7 @@
 .leadinfo.net
 .leading-fishing.pro
 .leadingedgecash.com
+.leadingindication.pro
 .leadingservicesintimate.com
 .leadintel.io
 .leadintelligence.co.uk
@@ -57528,7 +57536,6 @@
 .lps.qantas.com
 .lpsgc.cn
 .lpsxssm.com
-.lptest.email-mobiledx.cjm.adobe.com
 .lptiljy.com
 .lptrak.com
 .lpx.qantas.com
@@ -67939,7 +67946,7 @@
 .nvshuyun.com
 .nvswnur.cn
 .nvudvvaecq.com
-.nvvmslfqowhkkv.com
+.nvuwpi.jelmoli-shop.ch
 .nvwanyyds.com
 .nvwlm.com
 .nvxcvyfedg.com
@@ -88462,6 +88469,7 @@
 .sp3.baidu.com
 .sp3.cndm.com
 .sp315693vn.com
+.sp8668vn.com
 .sp96878.com
 .sp9hb5jy81iw.ru
 .spa-tracker.spapi.io
@@ -93960,6 +93968,7 @@
 .tbjfw.com
 .tbli.ir
 .tbm09.com
+.tbppfktchj.com
 .tbradshedm.org
 .tbskip.taobao.com
 .tbtqjbgrelc.xyz
@@ -96051,6 +96060,7 @@
 .tlhlpcb.xyz
 .tlivgsvwkaysva.xyz
 .tllfouwvkqza.com
+.tlolaxalxdk.com
 .tlootas.org
 .tlp5.mimale.com
 .tlprbzoi.com
@@ -102672,6 +102682,7 @@
 .ut.iggroup.com
 .ut.upmc.com
 .ut1-capitole.fr
+.ut13r.online
 .ut13r.site
 .ut1capitole.fr
 .utairway.com
@@ -103416,6 +103427,7 @@
 .vbtrax.com
 .vbvpkdwucilopuw.xyz
 .vbzrkme.xyz
+.vbzsjkrnsqewy.com
 .vcaif.com
 .vcarrefour.fr
 .vcb-diglicabrnk.com
@@ -103846,6 +103858,7 @@
 .vib8-vay.com
 .vib84.com
 .vibber.download
+.vibcskh.com
 .vibeaconstr.onezapp.com
 .vibmhetkcedookx.com
 .viboom.com
@@ -105948,6 +105961,7 @@
 .watchahv.com
 .watchcpm.com
 .watchercupboard.com
+.watchespounceinvolving.com
 .watchesthereupon.com
 .watchestwenties.com
 .watchexcellent.pics
@@ -109174,6 +109188,7 @@
 .wwww.649649.com
 .wwwwndings.click
 .wwwww.asia
+.wwxnbsvwultw.com
 .wwxufo.com
 .wwxxww.ru
 .wx.paigu.com
@@ -112866,9 +112881,7 @@
 .zteikg.com
 .zteollhhyaqez.com
 .ztevents.zaloapp.com
-.ztfjtn.liujo.com
 .ztfzizpkjrmhbc.com
-.ztgblo.vidaxl.lt
 .ztidu.com
 .ztnibpbkl.com
 .ztqdkzn.cn
