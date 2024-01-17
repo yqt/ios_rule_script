@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-17 02:13:37
+# UPDATED: 2024-01-18 03:04:41
 # DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64537
+# DOMAIN-SUFFIX: 64567
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64672
+# TOTAL: 64702
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -11105,6 +11105,7 @@ payload:
   - '+.ak1ak1.com'
   - '+.ak47ids.com'
   - '+.akaifa.com'
+  - '+.akashadata.com'
   - '+.akaxin.com'
   - '+.akbe.com'
   - '+.akbkgame.com'
@@ -21613,6 +21614,7 @@ payload:
   - '+.dtidc.com'
   - '+.dtime.com'
   - '+.dtlty.com'
+  - '+.dtmao.cc'
   - '+.dtmuban.com'
   - '+.dtrcb.com'
   - '+.dts007.com'
@@ -22349,6 +22351,7 @@ payload:
   - '+.ecydm.com'
   - '+.ecyj.net'
   - '+.ecyti.com'
+  - '+.ecyzm.com'
   - '+.ed2kers.com'
   - '+.ed2kk.com'
   - '+.eda-china.com'
@@ -48188,7 +48191,6 @@ payload:
   - '+.shouzan365.com'
   - '+.shouzhang.com'
   - '+.shouzhangapp.com'
-  - '+.shouzhou365.com'
   - '+.shouzhuanzhidao.com'
   - '+.shovesoft.com'
   - '+.show160.com'
@@ -54699,6 +54701,7 @@ payload:
   - '+.wanfangtech.com'
   - '+.wanfangtech.net'
   - '+.wanfantian.com'
+  - '+.wanfucc.com'
   - '+.wanfuqianqiu.com'
   - '+.wang'
   - '+.wang-li.com'
@@ -55072,6 +55075,7 @@ payload:
   - '+.web360.pw'
   - '+.web89.net'
   - '+.web930.com'
+  - '+.webankapp.com'
   - '+.webankwealth.com'
   - '+.webdissector.com'
   - '+.webdiyer.com'
@@ -62184,6 +62188,8 @@ payload:
   - '+.yyyncp.com'
   - '+.yyyy.games'
   - '+.yyyyy.run'
+  - '+.yyzf.com'
+  - '+.yyzf.vip'
   - '+.yyzsoft.com'
   - '+.yyzw.com'
   - '+.yyzyytj.com'
@@ -63934,6 +63940,7 @@ payload:
   - '+.zjptcc.com'
   - '+.zjpubservice.com'
   - '+.zjqbj.com'
+  - '+.zjqichuang.com'
   - '+.zjrc.com'
   - '+.zjrc.net'
   - '+.zjrcu.com'

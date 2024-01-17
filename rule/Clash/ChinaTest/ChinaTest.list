@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-17 02:13:37
+# UPDATED: 2024-01-18 03:04:41
 # DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64537
+# DOMAIN-SUFFIX: 64567
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64672
+# TOTAL: 64702
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -11104,6 +11104,7 @@ DOMAIN-SUFFIX,ak0.tw
 DOMAIN-SUFFIX,ak1ak1.com
 DOMAIN-SUFFIX,ak47ids.com
 DOMAIN-SUFFIX,akaifa.com
+DOMAIN-SUFFIX,akashadata.com
 DOMAIN-SUFFIX,akaxin.com
 DOMAIN-SUFFIX,akbe.com
 DOMAIN-SUFFIX,akbkgame.com
@@ -21612,6 +21613,7 @@ DOMAIN-SUFFIX,dtfcw.com
 DOMAIN-SUFFIX,dtidc.com
 DOMAIN-SUFFIX,dtime.com
 DOMAIN-SUFFIX,dtlty.com
+DOMAIN-SUFFIX,dtmao.cc
 DOMAIN-SUFFIX,dtmuban.com
 DOMAIN-SUFFIX,dtrcb.com
 DOMAIN-SUFFIX,dts007.com
@@ -22348,6 +22350,7 @@ DOMAIN-SUFFIX,ecwan77.net
 DOMAIN-SUFFIX,ecydm.com
 DOMAIN-SUFFIX,ecyj.net
 DOMAIN-SUFFIX,ecyti.com
+DOMAIN-SUFFIX,ecyzm.com
 DOMAIN-SUFFIX,ed2kers.com
 DOMAIN-SUFFIX,ed2kk.com
 DOMAIN-SUFFIX,eda-china.com
@@ -48187,7 +48190,6 @@ DOMAIN-SUFFIX,shouyouzhijia.net
 DOMAIN-SUFFIX,shouzan365.com
 DOMAIN-SUFFIX,shouzhang.com
 DOMAIN-SUFFIX,shouzhangapp.com
-DOMAIN-SUFFIX,shouzhou365.com
 DOMAIN-SUFFIX,shouzhuanzhidao.com
 DOMAIN-SUFFIX,shovesoft.com
 DOMAIN-SUFFIX,show160.com
@@ -54698,6 +54700,7 @@ DOMAIN-SUFFIX,wanfangs.com
 DOMAIN-SUFFIX,wanfangtech.com
 DOMAIN-SUFFIX,wanfangtech.net
 DOMAIN-SUFFIX,wanfantian.com
+DOMAIN-SUFFIX,wanfucc.com
 DOMAIN-SUFFIX,wanfuqianqiu.com
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,wang-li.com
@@ -55071,6 +55074,7 @@ DOMAIN-SUFFIX,web3389.com
 DOMAIN-SUFFIX,web360.pw
 DOMAIN-SUFFIX,web89.net
 DOMAIN-SUFFIX,web930.com
+DOMAIN-SUFFIX,webankapp.com
 DOMAIN-SUFFIX,webankwealth.com
 DOMAIN-SUFFIX,webdissector.com
 DOMAIN-SUFFIX,webdiyer.com
@@ -62183,6 +62187,8 @@ DOMAIN-SUFFIX,yyyeee.com
 DOMAIN-SUFFIX,yyyncp.com
 DOMAIN-SUFFIX,yyyy.games
 DOMAIN-SUFFIX,yyyyy.run
+DOMAIN-SUFFIX,yyzf.com
+DOMAIN-SUFFIX,yyzf.vip
 DOMAIN-SUFFIX,yyzsoft.com
 DOMAIN-SUFFIX,yyzw.com
 DOMAIN-SUFFIX,yyzyytj.com
@@ -63933,6 +63939,7 @@ DOMAIN-SUFFIX,zjpost.com
 DOMAIN-SUFFIX,zjptcc.com
 DOMAIN-SUFFIX,zjpubservice.com
 DOMAIN-SUFFIX,zjqbj.com
+DOMAIN-SUFFIX,zjqichuang.com
 DOMAIN-SUFFIX,zjrc.com
 DOMAIN-SUFFIX,zjrc.net
 DOMAIN-SUFFIX,zjrcu.com

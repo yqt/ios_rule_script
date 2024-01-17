@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-17 02:10:13
+# UPDATED: 2024-01-18 02:59:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12453
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 139037
+# DOMAIN-SUFFIX: 139107
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 152529
+# TOTAL: 152599
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -765,14 +765,13 @@
 .1603463731.rsc.cdn77.org
 .16134024.artcollection.io
 .161779.publy.co
-.1628131f39dcef7bcgcc.2xmzazd.cn
-.1628131f39dcef7bcgg.2qpqwkx.cn
 .1632j6.cn
 .163ren.com
 .1647871863.rsc.cdn77.org
 .1657705582.rsc.cdn77.org
 .16577716.com
 .1659d63dc0.com
+.1665637157.rsc.cdn77.org
 .166br.com
 .166f.com
 .1675450967.rsc.cdn77.org
@@ -1607,6 +1606,7 @@
 .2pwja.cn
 .2qgsjjy90x.com
 .2qj7mq3w4uxe.com
+.2qpqwkx.cn
 .2quality.de
 .2r3485.cn
 .2r45.cn
@@ -4549,7 +4549,6 @@
 .a.lwinl.com
 .a.lz13.cn
 .a.m.shuhuangge.org
-.a.ma3ion.com
 .a.market.xiaomi.com
 .a.maxxhotel.com
 .a.medtronic.com
@@ -13195,6 +13194,7 @@
 .ajflwavi.com
 .ajfnee.com
 .ajgcathntguuut.com
+.ajghca.xyz
 .ajgkdt.eazy.de
 .ajhdf.com
 .ajhgruraqvoweo.xyz
@@ -13283,7 +13283,6 @@
 .akilifox.com
 .akininducepredator.com
 .akinrevenueexcited.com
-.akjasjanwhif.com
 .akjdbjkcbacj.com
 .akk1556.com
 .akkieh.yumeyakata.com
@@ -16540,6 +16539,7 @@
 .aqwihyjpglzdr.com
 .aqwsms.xyz
 .aqwvwn.cultfurniture.com
+.aqxhcplhbqc.com
 .aqylmil.cn
 .ar-x.site
 .ar.allrun.fr
@@ -26628,7 +26628,6 @@
 .cgvhtvj.cn
 .cgwebmetrics.capgroup.com
 .cgxxmy.com
-.cgyhsyvm.xyz
 .cgyqybeqthaeb.com
 .cgz0213.com
 .ch-hr12333.com
@@ -39902,6 +39901,7 @@
 .dnews.fiat.it
 .dnf06i4y06g13.cloudfront.net
 .dnfeu.com
+.dnfnpff.xyz
 .dnfs24.com
 .dngpzy.bfmtv.com
 .dngpzy.zone-turf.fr
@@ -47525,6 +47525,7 @@
 .ffrmwn.musinsa.com
 .ffrxlhuwvyldpk.com
 .ffrywcxaewmpp.com
+.ffsewzk.com
 .fft.delovoemesto.ru
 .fftagtden.com
 .ffunms.123ink.ca
@@ -49990,6 +49991,7 @@
 .fuuze.net
 .fuvbbjl.xyz
 .fuvmtqiwhaffnc.com
+.fuwkpghpln.com
 .fuwn782kk.alphaporno.com
 .fuwosi.cn
 .fuxin-tech.com
@@ -56984,6 +56986,7 @@
 .hlserve.com
 .hlsjel.engelvoelkers.com
 .hlstlyy.com
+.hltkl.fun
 .hltqsbl.cn
 .hlunlean.com
 .hlviet84.com
@@ -57692,6 +57695,7 @@
 .hqhjjha.org
 .hqhwiwcahavywie.com
 .hqiwnj.clarins.pt
+.hqjstd.xyz
 .hqjuww.kolesa-darom.ru
 .hqmetrics.sony.com
 .hqmwuvdf.xyz
@@ -63204,7 +63208,6 @@
 .iwevxujxzdpb.com
 .iwfxgkixsoma.com
 .iwgfdj.iko-yo.net
-.iwhejirurage.com
 .iwhlzcevugtqy.com
 .iwhngteekjixo.com
 .iwhoosty.com
@@ -64403,6 +64406,7 @@
 .jklbilitukyd.xyz
 .jklhs7u.com
 .jklpy.com
+.jkls.life
 .jkmxy.com
 .jknarp.kakaku.com
 .jknjyfabc.com
@@ -67305,6 +67309,7 @@
 .kqoelg.ultrafootball.com
 .kqpdnmkkvuu.com
 .kqqzyjmwqweze.top
+.kqrcijq.com
 .kqscrl.bonprix.nl
 .kqskqi.xyz
 .kqubxdb.cn
@@ -67640,6 +67645,7 @@
 .kvtlll.top
 .kvtllnttauq.com
 .kvtnnn.top
+.kvxxkbmby.com
 .kw3y5otoeuniv7e9rsi.com
 .kwadakesd.cyou
 .kwalnc.vans.co.kr
@@ -74375,7 +74381,6 @@
 .maoyumao.net
 .map.rockwellautomation.com
 .mapakrogngi.com
-.mapamnni.com
 .mapaupotting.com
 .mapbovdpdy.com
 .mapekony.com
@@ -79108,7 +79113,6 @@
 .mfoevvy.com
 .mfsr.lenovomm.com
 .mfthkdj.com
-.mfuginehls.com
 .mfwlis.xyz
 .mfwmud.winelivery.com
 .mfypxtfqngxw.com
@@ -88700,7 +88704,6 @@
 .oyoperseduca.com
 .oyotii.sportokay.com
 .oyotqp.icu
-.oypucuqsuwabnxy.com
 .oyqjp.cn
 .oyssqe.easyvoyage.com
 .oysterexhalereview.com
@@ -97536,6 +97539,7 @@
 .ramusiauk.digital
 .ramusiproxied.com
 .ran2.top
+.ranchsatin.com
 .rancidstrait.com
 .rancorousnoncommittalsomewhat.com
 .rand.com.ru
@@ -101660,7 +101664,6 @@
 .s.lexusfinancial.com
 .s.linkw2e.com
 .s.linkw2g.com
-.s.ma3ion.com
 .s.maipubao.cn
 .s.mannes.tech
 .s.maxrozen.com
@@ -104543,7 +104546,6 @@
 .server.iad.liveperson.net
 .server.idreams.pl
 .server.japanbyrivercruise.com
-.server.m.pp.cn
 .server.mch3.com
 .server.olliehorn.com
 .server.zmedia.vn
@@ -104637,7 +104639,6 @@
 .serving-sys.com
 .serving-sys.com.edgekey.net
 .serving-system.com
-.serving.incrementxplay.com
 .servingcdn.net
 .servinghandy.com
 .servingserved.com
@@ -110421,6 +110422,7 @@
 .smugmuseumframe.com
 .smugturner.com
 .smutstone.com
+.smuxmalamw.com
 .smv.to
 .smvip8.cn
 .smwvlc.intermixonline.com
@@ -115714,6 +115716,7 @@
 .su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 .su9orw.cn
 .suachuadienmayxanh.com.vn
+.sualgvoi.com
 .suativinguyenkim.com
 .sub.adzgame.com
 .sub.booksdream-mypage.com
@@ -133706,6 +133709,7 @@
 .wfndponfd.com
 .wfnetwork.com
 .wfnpay.com
+.wfpjeul.cn
 .wfqgfaa.cn
 .wfthumty.pm
 .wfuwlkgm.com
@@ -136545,6 +136549,7 @@
 .wzngisye.xyz
 .wzogiwfapo.com
 .wzojibovpm.com
+.wzor.web-serf.info
 .wzpwxe.4lapy.ru
 .wzqbte.xyz
 .wzrdbwf.cn
@@ -136857,6 +136862,7 @@
 .xddfsp.com
 .xdeqhxqu.com
 .xder1.fun
+.xder1.online
 .xdezxlbnpo.com
 .xdfdqce.xyz
 .xdfgxy.savethechildren.it
@@ -136871,7 +136877,6 @@
 .xdlunion.com
 .xdmanage.com
 .xdmicjkveqlgllp.com
-.xdohrleybrd.com
 .xdowl0adxd0wnloadx.com
 .xdrig.com
 .xdrzdh.cn
@@ -139867,6 +139872,7 @@
 .yxkhpk.com
 .yxmspx.com
 .yxpoprve.com
+.yxptcrss.xyz
 .yxrxsov.xyz
 .yxsnf.cn
 .yxswtummev.info
