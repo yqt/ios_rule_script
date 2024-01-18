@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-18 02:58:10
+# UPDATED: 2024-01-19 02:09:30
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 18062
+# DOMAIN: 18064
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 102801
+# DOMAIN-SUFFIX: 102849
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 121691
+# TOTAL: 121741
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -622,6 +622,7 @@
 .161779.publy.co
 .1632j6.cn
 .163ren.com
+.1665637157.rsc.cdn77.org
 .166br.com
 .166f.com
 .1675450967.rsc.cdn77.org
@@ -10891,7 +10892,6 @@
 .ajfkwwpo.xyz
 .ajfnee.com
 .ajghca.xyz
-.ajgkdt.eazy.de
 .ajhdf.com
 .ajialive.com
 .ajiez.com
@@ -31331,6 +31331,7 @@
 .dnews.alfaromeo.it
 .dnf06i4y06g13.cloudfront.net
 .dnfeu.com
+.dnfnpff.xyz
 .dnfs24.com
 .dngpzy.bfmtv.com
 .dngpzy.zone-turf.fr
@@ -37077,7 +37078,6 @@
 .fbgdc.com
 .fbgwruetfgbhp.com
 .fbieq.com
-.fbkzqnyyga.com
 .fbmedia-bls.com
 .fbmedia-ckl.com
 .fbmedia-dhs.com
@@ -37451,6 +37451,7 @@
 .fetchlink.net
 .fethungi.com
 .fetinhapinhedt.com
+.feuageepitoke.com
 .feudistchub.uno
 .feuingcrche.com
 .fewcupboard.com
@@ -38739,7 +38740,6 @@
 .foxpush.io
 .foxpush.net
 .foxqck.com
-.foxtinfo.foxt.com
 .foxx.to
 .foxypp.com
 .foysswr.cn
@@ -45081,6 +45081,7 @@
 .hlserve.com
 .hlsjel.engelvoelkers.com
 .hlstlyy.com
+.hltkl.fun
 .hltqsbl.cn
 .hlunlean.com
 .hlviet84.com
@@ -45656,7 +45657,6 @@
 .hqgkmj.marine-deals.co.nz
 .hqhwiwcahavywie.com
 .hqjstd.xyz
-.hqjuww.kolesa-darom.ru
 .hqmwuvdf.xyz
 .hqpass.com
 .hqpgfxt.com
@@ -51052,6 +51052,7 @@
 .jklbilitukyd.xyz
 .jklhs7u.com
 .jklpy.com
+.jkls.life
 .jkmxy.com
 .jknarp.kakaku.com
 .jknmthwd.xyz
@@ -60668,6 +60669,7 @@
 .mctqu.com
 .mcupdate.gstarcad.com
 .mcurrentlyse.shop
+.mcurrentlysea.info
 .mcvwjzj.com
 .mcxmke.com
 .mcycity.com
@@ -60907,6 +60909,7 @@
 .mebeptxj.com
 .mebohjhh.xyz
 .meborangot.ru
+.mec.hilton.com
 .mec9k.com
 .mecash.ru
 .meccahoo.com
@@ -70633,6 +70636,7 @@
 .oyopersed.info
 .oyoperseduca.com
 .oyotii.sportokay.com
+.oyotqp.icu
 .oysterexhalereview.com
 .oyugspe.cn
 .oyvyxj.cn
@@ -105443,6 +105447,7 @@
 .vvcashpop.com
 .vvcufx.colombo.com.br
 .vvdzucs.cn
+.vvehvch.com
 .vvfrdcuxrergrjy.com
 .vvgpkowlun.com
 .vvhatsappsohbetim.site
@@ -106994,6 +106999,7 @@
 .wfndponfd.com
 .wfnetwork.com
 .wfnpay.com
+.wfpjeul.cn
 .wfqgfaa.cn
 .wfthumty.pm
 .wfuwlkgm.com
@@ -109308,6 +109314,7 @@
 .wzmidfgwyxfrd.com
 .wzn4.cn
 .wzncuhcpbijx.com
+.wzojibovpm.com
 .wzor.web-serf.info
 .wzrk.co
 .wzrkt.com
@@ -111955,7 +111962,6 @@
 .zaebaladblock.ru
 .zaehler.tv
 .zaffarnimbed.com
-.zafrc.5780.site
 .zagrabiti.viessmann.hr
 .zagtertda.com
 .zagvee.com
@@ -112662,6 +112668,7 @@
 .zmikrctxf.com
 .zminer.zaloapp.com
 .zmjagawa.com
+.zmklhev.cn
 .zmkma.com
 .zml-apm-prd.dbv4.noncd.db.de
 .zmlfk.com
@@ -117755,6 +117762,7 @@ dl.fotoable.com
 dl.ijinshan.com
 dl.liebao.cn
 dl.microsword.net
+dl.reg.163.com
 dl.sj.ijinshan.com
 dl.weshineapp.com
 dlawshsjupuyy.com

@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-18 02:58:07
-# DOMAIN: 18062
+# UPDATED: 2024-01-19 02:09:27
+# DOMAIN: 18064
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 102801
+# DOMAIN-SUFFIX: 102849
 # IP-CIDR: 428
-# TOTAL: 121406
+# TOTAL: 121456
 payload:
   - '0.net.easyjet.com'
   - '03.lzzncm.com'
@@ -1671,6 +1671,7 @@ payload:
   - 'dl.fotoable.com'
   - 'dl.ijinshan.com'
   - 'dl.liebao.cn'
+  - 'dl.reg.163.com'
   - 'dl.sj.ijinshan.com'
   - 'dmp.rtbsrv.com'
   - 'doabqu.s3.com.tw'
@@ -18463,6 +18464,7 @@ payload:
   - '+.15tianqi.com'
   - '+.16-merchant-s.com'
   - '+.1603463731.rsc.cdn77.org'
+  - '+.1665637157.rsc.cdn77.org'
   - '+.166br.com'
   - '+.166f.com'
   - '+.1675450967.rsc.cdn77.org'
@@ -38512,6 +38514,7 @@ payload:
   - '+.dne6rbzy5csnc.cloudfront.net'
   - '+.dnemkhkbsdbl.com'
   - '+.dnf06i4y06g13.cloudfront.net'
+  - '+.dnfnpff.xyz'
   - '+.dnfs24.com'
   - '+.dnh523js9661q.cloudfront.net'
   - '+.dnhfi5nn2dt67.cloudfront.net'
@@ -39037,6 +39040,7 @@ payload:
   - '+.drepanevealy.uno'
   - '+.dressedfund.com'
   - '+.dresserderange.com'
+  - '+.dressingdedicatedmeeting.com'
   - '+.dressmakerdisturb.com'
   - '+.dresul.com'
   - '+.dreti.ru'
@@ -42302,7 +42306,6 @@ payload:
   - '+.fbffdfproxwqi.com'
   - '+.fbgdc.com'
   - '+.fbgwruetfgbhp.com'
-  - '+.fbkzqnyyga.com'
   - '+.fbmedia-bls.com'
   - '+.fbmedia-ckl.com'
   - '+.fbmedia-dhs.com'
@@ -42582,6 +42585,7 @@ payload:
   - '+.fetchlink.net'
   - '+.fethungi.com'
   - '+.fetinhapinhedt.com'
+  - '+.feuageepitoke.com'
   - '+.feudistchub.uno'
   - '+.feuingcrche.com'
   - '+.fewcupboard.com'
@@ -47969,6 +47973,7 @@ payload:
   - '+.hlrvfycqtlfjd.com'
   - '+.hlserve.com'
   - '+.hlstlyy.com'
+  - '+.hltkl.fun'
   - '+.hltqsbl.cn'
   - '+.hlunlean.com'
   - '+.hlviet84.com'
@@ -51620,6 +51625,7 @@ payload:
   - '+.jklbilitukyd.xyz'
   - '+.jklhs7u.com'
   - '+.jklpy.com'
+  - '+.jkls.life'
   - '+.jknmthwd.xyz'
   - '+.jknnjk.com'
   - '+.jkohlxvodiwrjnt.xyz'
@@ -55228,6 +55234,7 @@ payload:
   - '+.lltyfiqsdgsvnr.xyz'
   - '+.lludd-ize.com'
   - '+.lluwrenwsfh.xyz'
+  - '+.llvlzvrwkoaqm.top'
   - '+.llvphz.xyz'
   - '+.llwcfovpl.com'
   - '+.llyighaboveth.com'
@@ -57175,6 +57182,7 @@ payload:
   - '+.mctailqwjke.com'
   - '+.mctqu.com'
   - '+.mcurrentlyse.shop'
+  - '+.mcurrentlysea.info'
   - '+.mcvwjzj.com'
   - '+.mcxmke.com'
   - '+.mcycity.com'
@@ -63827,6 +63835,7 @@ payload:
   - '+.oylg7.com'
   - '+.oyopersed.info'
   - '+.oyoperseduca.com'
+  - '+.oyotqp.icu'
   - '+.oysterexhalereview.com'
   - '+.oyugspe.cn'
   - '+.oyvyxj.cn'
@@ -64996,6 +65005,7 @@ payload:
   - '+.ph-ad20.focalink.com'
   - '+.ph-ad21.focalink.com'
   - '+.phaarnsvqzlr.com'
+  - '+.phabycebe.com'
   - '+.phaglalt.com'
   - '+.phague.com'
   - '+.phaighoosie.com'
@@ -84791,6 +84801,7 @@ payload:
   - '+.vv8h9vyjgnst.com'
   - '+.vvbox.cz'
   - '+.vvdzucs.cn'
+  - '+.vvehvch.com'
   - '+.vvfrdcuxrergrjy.com'
   - '+.vvgpkowlun.com'
   - '+.vvhatsappsohbetim.site'
@@ -85724,6 +85735,7 @@ payload:
   - '+.wfndponfd.com'
   - '+.wfnetwork.com'
   - '+.wfnpay.com'
+  - '+.wfpjeul.cn'
   - '+.wfqgfaa.cn'
   - '+.wfthumty.pm'
   - '+.wfuwlkgm.com'
@@ -87488,6 +87500,7 @@ payload:
   - '+.wzlbhfldl.com'
   - '+.wzmidfgwyxfrd.com'
   - '+.wzncuhcpbijx.com'
+  - '+.wzojibovpm.com'
   - '+.wzor.web-serf.info'
   - '+.wzrk.co'
   - '+.wzrkt.com'
@@ -88390,6 +88403,7 @@ payload:
   - '+.yakmakutopia.com'
   - '+.yallarec.com'
   - '+.yama1hove.com'
+  - '+.yamanaisleepry.com'
   - '+.yamanoha.com'
   - '+.yami8alea.com'
   - '+.yampopa.ru'
@@ -89249,7 +89263,6 @@ payload:
   - '+.zaebaladblock.ru'
   - '+.zaehler.tv'
   - '+.zaffarnimbed.com'
-  - '+.zafrc.5780.site'
   - '+.zagtertda.com'
   - '+.zagvee.com'
   - '+.zaheki.uno'
@@ -89743,6 +89756,7 @@ payload:
   - '+.zmfdjb.xyz'
   - '+.zmhwaiapbtfq.com'
   - '+.zmjagawa.com'
+  - '+.zmklhev.cn'
   - '+.zmkma.com'
   - '+.zml-apm-prd.dbv4.noncd.db.de'
   - '+.zmomo.cc'

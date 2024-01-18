@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-18 02:59:34
+# UPDATED: 2024-01-19 02:10:39
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 12453
+# DOMAIN: 12455
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 139107
+# DOMAIN-SUFFIX: 139171
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 152600
+# TOTAL: 152666
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -4422,7 +4422,6 @@
 .a.booksir.cn
 .a.boom.ro
 .a.boyjackpot.com
-.a.bp9l1pi60.pro
 .a.brack.ch
 .a.bshu.com
 .a.bxwblog.cn
@@ -16384,6 +16383,7 @@
 .apps2.outfit7.com
 .apps5.oingo.com
 .appscriptduck.com
+.appscriptshark.com
 .appsdt.com
 .appsecurezomation.carte-gr.total.fr
 .appserver-ap.com
@@ -19324,6 +19324,7 @@
 .baklajansss.site
 .bakongojotted.com
 .bakquka.com
+.baksunjwoa.com
 .bakteso.ru
 .bakubabasilic.space
 .bakubasugis.guru
@@ -27752,6 +27753,7 @@
 .clc.stackoverflow.com
 .clc.wanmancn.com
 .clcassd.com
+.clck.dzen.ru
 .clck.fivetuesdays.com
 .clck.ru
 .clck.yandex.com
@@ -32409,6 +32411,7 @@
 .curriculture.com
 .currierfrank.com
 .curryoxygencheaper.com
+.cursegro.com
 .curseintegralproduced.com
 .cursordownstairs.com
 .cursormedicabnormal.com
@@ -38236,6 +38239,7 @@
 .detectvid.com
 .detectys.digital
 .deteql.net
+.detergentkindlyrandom.com
 .deterioratebinheadphone.com
 .deterioratesadly.com
 .deterioratesyrupevents.com
@@ -40297,7 +40301,6 @@
 .doseadraa.com
 .doshaido.com
 .dosiswether.com
-.dositsil.net
 .doskki.com
 .dosliggooor.com
 .dosnodfebruary.com
@@ -48641,7 +48644,6 @@
 .fokbrd.impo.ch
 .fokvgxuomu.com
 .fol9v.xyz
-.folbwkw.com
 .foldedabstinenceconsole.com
 .foldercamouflage.com
 .foldertopichoot.com
@@ -55251,6 +55253,7 @@
 .halogennetwork.com
 .haloscan.com
 .halovay.com
+.halqpt.xyz
 .halteddropped.com
 .haltingbadge.com
 .haltingdivision.com
@@ -57917,7 +57920,6 @@
 .hu-topgal.m-shop.me
 .hu.sharpmarketing.eu
 .hu.xbhy.com
-.hu.xxifineer.com
 .hu4c.top
 .huadan.in
 .huadiximeng.cn
@@ -58732,8 +58734,6 @@
 .iaheyftbsn.re
 .iaheyftbsn.review
 .iaihdexme.com
-.iairkldocd.com
-.iaisbsspay.xyz
 .iajmewpagfvhg.com
 .iakjiamqg.com
 .ialmwof.cn
@@ -64071,6 +64071,7 @@
 .jhrtgt.site
 .jhsfwutqvnf.xyz
 .jhtcdj.com
+.jhtycugdphhhwh.com
 .jhulubwidas.com
 .jhuvybt.cn
 .jhvchv.xyz
@@ -77296,6 +77297,7 @@
 .mensingpumice.space
 .mentalbackie.site
 .mentalincomprehensiblealien.com
+.mentallyissue.com
 .mentionedrubbing.com
 .mentiopportal.org
 .mentorconform.com
@@ -79141,6 +79143,7 @@
 .mgdbtjwc.com
 .mgdjmp.com
 .mgdmqr.parfium.bg
+.mgdtnwnjwewlph.com
 .mgefhu.seiska.fi
 .mgefhu.suomi24.fi
 .mggakg.littleblack.co.kr
@@ -79337,6 +79340,7 @@
 .midsummerinoculate.com
 .midtermconcordalight.com
 .miduoke.net
+.midwifelangurs.com
 .midwiferider.com
 .mie99.net
 .miercuri.gq
@@ -81066,6 +81070,7 @@
 .moxiang.plus
 .moxiaoyang.top
 .moxtra.actonservice.olormagazine.com
+.moxuthoo.net
 .moyangao.com
 .moycheiistill.com
 .moylfustics.com
@@ -81836,7 +81841,6 @@
 .mwqucr.icu
 .mwquick.com
 .mwrgi.com
-.mws.verisk.com
 .mwstats.net
 .mwt.net
 .mwtraf.mobi
@@ -91039,6 +91043,7 @@
 .pfiuyt.com
 .pfja.top
 .pfjfj45.xyz
+.pfjfjid.xyz
 .pfjtgxc.cn
 .pflexads.com
 .pflhnpu.cn
@@ -93198,6 +93203,10 @@
 .porpoise.numberzs.com
 .porqhi.topictravel.nl
 .port-connection.com
+.port7.xhamster.com
+.port7.xhamster.desi
+.port7.xhamster2.com
+.port7.xhamster3.com
 .portainstrk.com
 .portak.net
 .portakamus.com
@@ -96921,6 +96930,7 @@
 .questionableobservation.com
 .questionfly.com
 .questioningsanctifypuberty.com
+.questioningtosscontradiction.com
 .questionmarket.com
 .questionpro.com
 .questions.theanswerco.com
@@ -106155,6 +106165,7 @@
 .sidesukbeing.org
 .sidewalkcrazinesscleaning.com
 .sidewaysuccession.com
+.sidfiz.icu
 .sidney.trekkeeee.space
 .siduohua.top
 .sieembarge.com
@@ -132043,6 +132054,7 @@
 .vydfijoiw.com
 .vydqknuy.xyz
 .vydwjwbul.xyz
+.vyebzzbovvzvl.top
 .vyeysj.foto-mundus.de
 .vyfrxuytzn.com
 .vyg.mobi
@@ -133713,6 +133725,7 @@
 .wfpjeul.cn
 .wfqgfaa.cn
 .wfthumty.pm
+.wftyehw.cn
 .wfuwlkgm.com
 .wfuxwegisqhe.com
 .wfwpok.impressionen.de
@@ -134852,6 +134865,7 @@
 .woodpecker.uc.cn
 .woodpeckerlog.com
 .woodstock.viessmann.com.au
+.woodtipvpnrh.com
 .woodymotherhood.com
 .woof.apothekefuerkatzen.de
 .woof.haustierbewertungen.de
@@ -136436,7 +136450,6 @@
 .wxlagame.com
 .wxlide.ink
 .wxltarsyoffmm.com
-.wxmccgdodvsqibm.com
 .wxmg2016.com
 .wxmicgwfzqekj.com
 .wxmmh.net
@@ -137005,7 +137018,6 @@
 .xhera.cn
 .xhflovezyy.asia
 .xhfvljklvq.com
-.xhgpuxim.xyz
 .xhi8.xyz
 .xhiit0n.xyz
 .xhit.com
@@ -138248,6 +138260,7 @@
 .xymhdmqrjxwl.com
 .xymhzq.klingel.de
 .xynkxvrvusoh.com
+.xyooepktyy.xyz
 .xyoss.g.com.cn
 .xyqmy.xyz
 .xyqptm.com
@@ -140150,6 +140163,7 @@
 .zattdf.xyz
 .zaubanel.com
 .zaucharo.xyz
+.zaudouwa.xyz
 .zauglomo.net
 .zauglust.net
 .zaugroaw.net
@@ -144464,6 +144478,7 @@ dkxeorhjmua.com
 dl.downf468.com
 dl.liebao.cn
 dl.microsword.net
+dl.reg.163.com
 dlawshsjupuyy.com
 dlcgxmentykv.com
 dldiuzdkrqbk.com

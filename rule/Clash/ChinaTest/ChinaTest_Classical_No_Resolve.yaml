@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-18 03:04:41
+# UPDATED: 2024-01-19 02:14:48
 # DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64567
+# DOMAIN-SUFFIX: 64550
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64702
+# TOTAL: 64685
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -8952,7 +8952,6 @@ payload:
   - DOMAIN-SUFFIX,7kww.net
   - DOMAIN-SUFFIX,7kzw.com
   - DOMAIN-SUFFIX,7littlemen.com
-  - DOMAIN-SUFFIX,7livq.app
   - DOMAIN-SUFFIX,7lk.com
   - DOMAIN-SUFFIX,7lw.com
   - DOMAIN-SUFFIX,7mah2.com
@@ -37139,6 +37138,7 @@ payload:
   - DOMAIN-SUFFIX,liliyago.com
   - DOMAIN-SUFFIX,lilosrv.com
   - DOMAIN-SUFFIX,lilvb.com
+  - DOMAIN-SUFFIX,lilygo.cc
   - DOMAIN-SUFFIX,lilysamericandiner.com
   - DOMAIN-SUFFIX,lilysgame.com
   - DOMAIN-SUFFIX,limaoqiu.com
@@ -40422,6 +40422,7 @@ payload:
   - DOMAIN-SUFFIX,msits.com
   - DOMAIN-SUFFIX,mskjf.com
   - DOMAIN-SUFFIX,mslzz.com
+  - DOMAIN-SUFFIX,msm.moe
   - DOMAIN-SUFFIX,msmartlife.com
   - DOMAIN-SUFFIX,msmbjp.com
   - DOMAIN-SUFFIX,mspharm.com
@@ -53168,7 +53169,6 @@ payload:
   - DOMAIN-SUFFIX,uboxsale.com
   - DOMAIN-SUFFIX,ubs001.com
   - DOMAIN-SUFFIX,ubtrobot.com
-  - DOMAIN-SUFFIX,ubuntukylin.org
   - DOMAIN-SUFFIX,ubuntuqa.com
   - DOMAIN-SUFFIX,ubuuk.com
   - DOMAIN-SUFFIX,uc-union.com
