@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-19 02:14:48
+# UPDATED: 2024-01-20 03:01:43
 # DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64550
+# DOMAIN-SUFFIX: 64529
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64685
+# TOTAL: 64664
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -14491,7 +14491,6 @@ payload:
   - '+.bqg8.cc'
   - '+.bqg8.la'
   - '+.bqg99.cc'
-  - '+.bqgnovels.com'
   - '+.bqimg.com'
   - '+.bqpoint.com'
   - '+.bqq8.com'
@@ -18686,6 +18685,7 @@ payload:
   - '+.coolstyle.org'
   - '+.cooluc.com'
   - '+.coolwarmsy.com'
+  - '+.coolwei.com'
   - '+.coolxcloud.com'
   - '+.coolyun.com'
   - '+.coolzcloud.com'
@@ -24333,7 +24333,6 @@ payload:
   - '+.flysheep6.com'
   - '+.flytcloud.com'
   - '+.flytexpress.com'
-  - '+.flyxg.com'
   - '+.flyzyblog.net'
   - '+.flzc.com'
   - '+.flzhan.com'
@@ -26313,7 +26312,6 @@ payload:
   - '+.gsjy.net'
   - '+.gsktraining.com'
   - '+.gskwai.com'
-  - '+.gskyty.com'
   - '+.gslbdns.com'
   - '+.gslbdns.net'
   - '+.gsmpers.com'
@@ -27531,7 +27529,6 @@ payload:
   - '+.haomijie.com'
   - '+.haommn.com'
   - '+.haomove.com'
-  - '+.haomugua.com'
   - '+.haomzl.com'
   - '+.haonames.com'
   - '+.haonic.com'
@@ -38177,7 +38174,6 @@ payload:
   - '+.lundao.pub'
   - '+.lunkuokeji.com'
   - '+.lunlunapp.com'
-  - '+.lunwendj.com'
   - '+.lunwenschool.com'
   - '+.lunwenstudy.com'
   - '+.lunwentong.com'
@@ -53169,6 +53165,7 @@ payload:
   - '+.uboxsale.com'
   - '+.ubs001.com'
   - '+.ubtrobot.com'
+  - '+.ubuntukylin.org'
   - '+.ubuntuqa.com'
   - '+.ubuuk.com'
   - '+.uc-union.com'

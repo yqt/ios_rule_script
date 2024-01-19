@@ -1,5 +1,5 @@
 name: AllInOne
-desc: 最后更新时间 2024-01-18 03:09:41
+desc: 最后更新时间 2024-01-20 03:06:21
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
@@ -865,6 +865,8 @@ http:
     - "*.kwcdn.kuwo.cn"
     - "*.laichon.com"
     - "*.mting.info"
+    - "*.musical.ly"
+    - "*.nfmovies.com"
     - "*.ott.cibntv.net"
     - "*.peopleapp.com"
     - "*.pornhub.com"

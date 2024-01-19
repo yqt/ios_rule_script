@@ -1,14 +1,14 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-19 02:17:23
+# UPDATED: 2024-01-20 03:04:29
 # DOMAIN: 543
 # DOMAIN-KEYWORD: 12
-# DOMAIN-SUFFIX: 66593
+# DOMAIN-SUFFIX: 66573
 # IP-ASN: 1005
-# IP-CIDR: 10448
+# IP-CIDR: 10451
 # USER-AGENT: 69
-# TOTAL: 78670
+# TOTAL: 78653
 .0-6.com
 .00.net
 .000.link
@@ -16124,6 +16124,7 @@
 .coolstyle.org
 .cooluc.com
 .coolwarmsy.com
+.coolwei.com
 .coolxcloud.com
 .coolyun.com
 .coolzcloud.com
@@ -22241,7 +22242,6 @@
 .flysheep6.com
 .flytcloud.com
 .flytexpress.com
-.flyxg.com
 .flyzyblog.net
 .flzc.com
 .flzhan.com
@@ -24758,7 +24758,6 @@
 .gsjy.net
 .gsktraining.com
 .gskwai.com
-.gskyty.com
 .gslbdns.com
 .gslbdns.net
 .gsmpers.com
@@ -26056,7 +26055,6 @@
 .haomijie.com
 .haommn.com
 .haomove.com
-.haomugua.com
 .haomzl.com
 .haonames.com
 .haonic.com
@@ -37666,7 +37664,6 @@
 .lundao.pub
 .lunkuokeji.com
 .lunlunapp.com
-.lunwendj.com
 .lunwengo.net
 .lunwenschool.com
 .lunwenstudy.com
@@ -50435,7 +50432,6 @@
 .staticfile.org
 .statickksmg.com
 .statics.cc
-.staticssl.image-gmkt.com
 .stats.ipinyou.com
 .staycu.com
 .stbieshu.com
@@ -54168,6 +54164,7 @@
 .ubssdic.com
 .ubtrobot.com
 .ubuntukylin.com
+.ubuntukylin.org
 .ubuntuqa.com
 .ubuuk.com
 .uc-test.com

@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-19 02:09:19
+# UPDATED: 2024-01-20 02:55:40
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 18064
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 102849
+# DOMAIN-SUFFIX: 102930
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 121742
+# TOTAL: 121823
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -2850,6 +2850,7 @@
 .8739792a55.com
 .874547.men
 .874af125b4.com
+.87556cfe8f.com
 .876920.com
 .878090.com
 .87bcb027cf.com
@@ -9604,6 +9605,7 @@
 .adtrue.com
 .adtrue.info
 .adtrue24.com
+.adtscriptshark.com
 .adttt.com
 .adtvedk.com
 .adtx2.cn
@@ -14036,6 +14038,7 @@
 .apps5.oingo.com
 .appsanalytics.appideas.it
 .appscriptduck.com
+.appscriptshark.com
 .appsdt.com
 .appserver-ap.com
 .appserver-cp.com
@@ -16357,6 +16360,7 @@
 .bakeronerousfollowing.com
 .baklajansss.site
 .bakongojotted.com
+.baksunjwoa.com
 .bakteso.ru
 .bakubabasilic.space
 .bakubasugis.guru
@@ -18894,7 +18898,6 @@
 .bnhxxj.xyz
 .bninc2.cn
 .bnivcpronr.com
-.bnjotruds.com
 .bnk.wolterskluwerfs.com
 .bnl2bii.icu
 .bnlif.com
@@ -26705,6 +26708,7 @@
 .cthbini.xyz
 .cthisismoych.com
 .cthkgodgy.com
+.ctiarbwaxam.com
 .cticalwhichhere.info
 .ctienlf.top
 .ctiev.com
@@ -26888,6 +26892,7 @@
 .currentlyobsessed.me
 .curriculture.com
 .curryoxygencheaper.com
+.cursegro.com
 .curseintegralproduced.com
 .cursordownstairs.com
 .cursormedicabnormal.com
@@ -28234,6 +28239,7 @@
 .d5.sina.com.cn
 .d5.sinaimg.cn
 .d5390684c4.com
+.d592971f36.com
 .d59936b940.com
 .d5a5a.xyz
 .d5ca2318a1.com
@@ -30012,6 +30018,7 @@
 .detectvid.com
 .detectys.digital
 .deteql.net
+.detergentkindlyrandom.com
 .deterioratebinheadphone.com
 .deterioratesadly.com
 .deterioratesyrupevents.com
@@ -31655,7 +31662,6 @@
 .dosamurottom.com
 .doseadraa.com
 .dosiswether.com
-.dositsil.net
 .doskki.com
 .dosliggooor.com
 .dosnodfebruary.com
@@ -33663,6 +33669,7 @@
 .edvforeveretest.info
 .edvfwlacluo.com
 .edvrfjrrxk.com
+.edvxgqx.com
 .edvxygh.com
 .edw.edmunds.com
 .edwate.com
@@ -36221,6 +36228,7 @@
 .exolkkl6i2puvf.ru
 .exomonyf.com
 .exoprsdds.com
+.exorateairing.guru
 .exorigos.com
 .exosiignvye.xyz
 .exoticads.com
@@ -38389,7 +38397,6 @@
 .fokbrd.impo.ch
 .fokvgxuomu.com
 .fol9v.xyz
-.folbwkw.com
 .foldedabstinenceconsole.com
 .foldercamouflage.com
 .foldertopichoot.com
@@ -43621,6 +43628,7 @@
 .halogennetwork.com
 .haloscan.com
 .halovay.com
+.halqpt.xyz
 .halteddropped.com
 .haltingbadge.com
 .haltingdivision.com
@@ -45769,6 +45777,7 @@
 .htihvgpmna.xyz
 .htintpa.tech
 .htjsk.com
+.htjuxdkjppm.com
 .htkcm.com
 .htkk1.top
 .htkk2.top
@@ -46434,8 +46443,6 @@
 .iaheyftbsn.re
 .iaheyftbsn.review
 .iaihdexme.com
-.iairkldocd.com
-.iaisbsspay.xyz
 .iajmewpagfvhg.com
 .iakjiamqg.com
 .iam-agof-app.irquest.com
@@ -50790,6 +50797,7 @@
 .jhrfemourkojc.com
 .jhsfwutqvnf.xyz
 .jhtcdj.com
+.jhtycugdphhhwh.com
 .jhulubwidas.com
 .jhvchv.xyz
 .jhwap.cn
@@ -53797,6 +53805,7 @@
 .kzeww.com
 .kzjkexn.cn
 .kzkmmbrrzn.com
+.kzknjdlalls.com
 .kznizrhd.xyz
 .kzprugp.xyz
 .kzsfip3v.cfd
@@ -54467,6 +54476,7 @@
 .lcjiusbyqfpdo.com
 .lcjyll.xyz
 .lckjqtx.xyz
+.lcloperoxeo.xyz
 .lcmbppikwtxujc.xyz
 .lcmqyl.cn
 .lcodff.uta-net.com
@@ -61394,6 +61404,7 @@
 .mensingpumice.space
 .mentalbackie.site
 .mentalincomprehensiblealien.com
+.mentallyissue.com
 .mentionedrubbing.com
 .mentiopportal.org
 .mentorconform.com
@@ -62833,7 +62844,6 @@
 .mgcnid.aboutyou.cz
 .mgdbtjwc.com
 .mgdjmp.com
-.mgdmqr.parfium.bg
 .mgdtnwnjwewlph.com
 .mgefhu.seiska.fi
 .mggzah.icu
@@ -63004,6 +63014,7 @@
 .midsummerinoculate.com
 .midtermconcordalight.com
 .miduoke.net
+.midwifelangurs.com
 .midwiferider.com
 .mie99.net
 .miercuri.gq
@@ -64429,7 +64440,6 @@
 .mowunai.ru
 .mowvra.idlookmall.com
 .moxiaoyang.top
-.moxtra.actonservice.olormagazine.com
 .moxuthoo.net
 .moyangao.com
 .moycheiistill.com
@@ -67961,7 +67971,6 @@
 .nvwanyyds.com
 .nvwlm.com
 .nvxcvyfedg.com
-.nvxlag.liligo.fr
 .nvyrgsqdqh.com
 .nvzcoggh.com
 .nw-rail-03.com
@@ -71382,6 +71391,7 @@
 .partniorka.com
 .partpedestal.com
 .partplanes.com
+.partsbury.com
 .partsfroveil.com
 .partsnoises.com
 .party-nngvitbizn.now.sh
@@ -72174,6 +72184,7 @@
 .pfgipxikznmvy.com
 .pfhj89w.com
 .pfiuyt.com
+.pfjfjid.xyz
 .pfjtgxc.cn
 .pflexads.com
 .pfltjr.essentialnutrition.com.br
@@ -76215,6 +76226,7 @@
 .pzoifaum.info
 .pzoynkxexnx.com
 .pzpevk.newbalance.ru
+.pzqfmhy.com
 .pzqqstb.icu
 .pzrj6.top
 .pzuth.cn
@@ -77040,6 +77052,7 @@
 .questionableobservation.com
 .questionfly.com
 .questioningsanctifypuberty.com
+.questioningtosscontradiction.com
 .questionmarket.com
 .questions.theanswerco.com
 .questionsconnected.com
@@ -77258,6 +77271,7 @@
 .qydrwhhk.xyz
 .qyenlspei.com
 .qygxrh.vandykes.com
+.qykxyax.com
 .qylgfuikc.com
 .qymdcuco.com
 .qyn6.ofertastelecable.es
@@ -81713,7 +81727,6 @@
 .sazute.uno
 .sb-money.ru
 .sb-stat1.com
-.sb.mynewplace.com
 .sb.scorecard.research.com
 .sb1.shble.com
 .sb2.shble.com
@@ -84523,6 +84536,7 @@
 .sidesukbeing.org
 .sidewalkcrazinesscleaning.com
 .sidewaysuccession.com
+.sidfiz.icu
 .sieembarge.com
 .siejp.cyou
 .sielsmaats.com
@@ -92786,6 +92800,7 @@
 .syzijqaufe.com
 .syzjxz2018.cn
 .syznate.ru
+.syzwiooheckxb.com
 .sz88.oss-cn-shenzhen.aliyuncs.com
 .szabadonebredok.info
 .szafvjdd.icu
@@ -104719,6 +104734,7 @@
 .vknrfwwxhxaxupqp.pro
 .vknvimxmvsndhx.com
 .vksegjhestouij.com
+.vksphze.com
 .vktztp.xyz
 .vkuay.com
 .vkusbtnxubme.com
@@ -107003,6 +107019,7 @@
 .wfpjeul.cn
 .wfqgfaa.cn
 .wfthumty.pm
+.wftyehw.cn
 .wfuwlkgm.com
 .wfxoi.xyz
 .wfyqc.com
@@ -107899,7 +107916,6 @@
 .woodlandsveteran.com
 .woodpecker.uc.cn
 .woodpeckerlog.com
-.woodstock.viessmann.com.au
 .woodtipvpnrh.com
 .woodymotherhood.com
 .woofoafi.xyz
@@ -109230,7 +109246,6 @@
 .wxl0gfw.icu
 .wxlagame.com
 .wxltarsyoffmm.com
-.wxmccgdodvsqibm.com
 .wxmg2016.com
 .wxmicgwfzqekj.com
 .wxmmh.net
@@ -109263,6 +109278,7 @@
 .wyjaxvuejinse.com
 .wyjbvoz.xyz
 .wyjkqvtgwmjqb.xyz
+.wylmzwkywjrzr.top
 .wymzwy.cn
 .wynather.com
 .wynnsbrot.com
@@ -109686,7 +109702,6 @@
 .xhct66.com
 .xhera.cn
 .xhfvljklvq.com
-.xhgpuxim.xyz
 .xhi8.xyz
 .xhiit0n.xyz
 .xhit.com
@@ -110359,6 +110374,7 @@
 .xunyibaike.com
 .xuoizbtl.xyz
 .xuosvih.com
+.xuqarnasvru.com
 .xuqinqi.cn
 .xurizhongguo.cn
 .xuro006.com
@@ -110517,6 +110533,7 @@
 .xymhdmqrjxwl.com
 .xymhzq.klingel.de
 .xynkxvrvusoh.com
+.xyooepktyy.xyz
 .xyqmy.xyz
 .xyqptm.com
 .xyqxr.com
@@ -112048,6 +112065,7 @@
 .zattdf.xyz
 .zaubanel.com
 .zaucharo.xyz
+.zaudouwa.xyz
 .zauglomo.net
 .zauglust.net
 .zaugroaw.net

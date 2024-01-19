@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-19 02:14:48
+# UPDATED: 2024-01-20 03:01:43
 # DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64550
+# DOMAIN-SUFFIX: 64529
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64685
+# TOTAL: 64664
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -14490,7 +14490,6 @@ DOMAIN-SUFFIX,bqfy.com
 DOMAIN-SUFFIX,bqg8.cc
 DOMAIN-SUFFIX,bqg8.la
 DOMAIN-SUFFIX,bqg99.cc
-DOMAIN-SUFFIX,bqgnovels.com
 DOMAIN-SUFFIX,bqimg.com
 DOMAIN-SUFFIX,bqpoint.com
 DOMAIN-SUFFIX,bqq8.com
@@ -18685,6 +18684,7 @@ DOMAIN-SUFFIX,coolsphoto.com
 DOMAIN-SUFFIX,coolstyle.org
 DOMAIN-SUFFIX,cooluc.com
 DOMAIN-SUFFIX,coolwarmsy.com
+DOMAIN-SUFFIX,coolwei.com
 DOMAIN-SUFFIX,coolxcloud.com
 DOMAIN-SUFFIX,coolyun.com
 DOMAIN-SUFFIX,coolzcloud.com
@@ -24332,7 +24332,6 @@ DOMAIN-SUFFIX,flypy.com
 DOMAIN-SUFFIX,flysheep6.com
 DOMAIN-SUFFIX,flytcloud.com
 DOMAIN-SUFFIX,flytexpress.com
-DOMAIN-SUFFIX,flyxg.com
 DOMAIN-SUFFIX,flyzyblog.net
 DOMAIN-SUFFIX,flzc.com
 DOMAIN-SUFFIX,flzhan.com
@@ -26312,7 +26311,6 @@ DOMAIN-SUFFIX,gsjtky.com
 DOMAIN-SUFFIX,gsjy.net
 DOMAIN-SUFFIX,gsktraining.com
 DOMAIN-SUFFIX,gskwai.com
-DOMAIN-SUFFIX,gskyty.com
 DOMAIN-SUFFIX,gslbdns.com
 DOMAIN-SUFFIX,gslbdns.net
 DOMAIN-SUFFIX,gsmpers.com
@@ -27530,7 +27528,6 @@ DOMAIN-SUFFIX,haomifi.com
 DOMAIN-SUFFIX,haomijie.com
 DOMAIN-SUFFIX,haommn.com
 DOMAIN-SUFFIX,haomove.com
-DOMAIN-SUFFIX,haomugua.com
 DOMAIN-SUFFIX,haomzl.com
 DOMAIN-SUFFIX,haonames.com
 DOMAIN-SUFFIX,haonic.com
@@ -38176,7 +38173,6 @@ DOMAIN-SUFFIX,lunchong.com
 DOMAIN-SUFFIX,lundao.pub
 DOMAIN-SUFFIX,lunkuokeji.com
 DOMAIN-SUFFIX,lunlunapp.com
-DOMAIN-SUFFIX,lunwendj.com
 DOMAIN-SUFFIX,lunwenschool.com
 DOMAIN-SUFFIX,lunwenstudy.com
 DOMAIN-SUFFIX,lunwentong.com
@@ -53168,6 +53164,7 @@ DOMAIN-SUFFIX,uboxol.com
 DOMAIN-SUFFIX,uboxsale.com
 DOMAIN-SUFFIX,ubs001.com
 DOMAIN-SUFFIX,ubtrobot.com
+DOMAIN-SUFFIX,ubuntukylin.org
 DOMAIN-SUFFIX,ubuntuqa.com
 DOMAIN-SUFFIX,ubuuk.com
 DOMAIN-SUFFIX,uc-union.com
