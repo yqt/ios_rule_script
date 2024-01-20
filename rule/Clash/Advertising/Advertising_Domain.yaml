@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-20 02:55:48
+# UPDATED: 2024-01-21 02:57:30
 # DOMAIN: 18064
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 102930
+# DOMAIN-SUFFIX: 102965
 # IP-CIDR: 428
-# TOTAL: 121537
+# TOTAL: 121572
 payload:
   - '0.net.easyjet.com'
   - '03.lzzncm.com'
@@ -18497,6 +18497,7 @@ payload:
   - '+.18113407f3.com'
   - '+.181m2fscr.de'
   - '+.181mob.com'
+  - '+.1821z.website'
   - '+.1847ff24f9.com'
   - '+.184c4i95p.de'
   - '+.18788fdb24.com'
@@ -23547,7 +23548,6 @@ payload:
   - '+.adsspace.net'
   - '+.adssyscom.com'
   - '+.adstacks.in'
-  - '+.adstanding.com'
   - '+.adstarget.net'
   - '+.adstargeting.com'
   - '+.adstargets.com'
@@ -34785,6 +34785,7 @@ payload:
   - '+.coursyorpins.space'
   - '+.courteous-development.com'
   - '+.courthousedefective.com'
+  - '+.courtoyz.com'
   - '+.courtroomboyfriend.com'
   - '+.courtsbeltmen.com'
   - '+.cousingypsy.com'
@@ -37852,6 +37853,7 @@ payload:
   - '+.diazepam.shengen.ru'
   - '+.dibjaahejdaeejhhaacd.ru'
   - '+.dibsemey.com'
+  - '+.dic9vgwbkxd8r.cloudfront.net'
   - '+.dich-vu-kvip-vpbank.com'
   - '+.dich-vu-online-vpbank.com'
   - '+.dich-vu-the-ai-vpbank.com'
@@ -51201,6 +51203,7 @@ payload:
   - '+.jasmin.com'
   - '+.jaspercrozes.com'
   - '+.jassidpanne.com'
+  - '+.jatfugios.com'
   - '+.jatomayfair.life'
   - '+.jatosfluted.com'
   - '+.jatostepa.com'
@@ -51449,6 +51452,7 @@ payload:
   - '+.jgfcgqivdpd.com'
   - '+.jgfwbpquillzpw.com'
   - '+.jggvkisg.com'
+  - '+.jghjhtz.com'
   - '+.jglinks.cn'
   - '+.jgmlink.cn'
   - '+.jgqflgggex.com'
@@ -52306,7 +52310,6 @@ payload:
   - '+.jynp9m209p.com'
   - '+.jynthelon.com'
   - '+.jypugepha.pro'
-  - '+.jyqakuufosr.com'
   - '+.jyqekzewvyojy.top'
   - '+.jyrcqzjjachlk.com'
   - '+.jyrfbtmbuqeaeo.com'
@@ -53720,6 +53723,7 @@ payload:
   - '+.l5games2fan.com'
   - '+.l6b587txj1.com'
   - '+.l74co.xyz'
+  - '+.l7ghj.xyz'
   - '+.l80ays.com'
   - '+.l997.lmtonline.com'
   - '+.l9tdhe6.com'
@@ -56398,6 +56402,7 @@ payload:
   - '+.m4pgay.com'
   - '+.m5.66077.cn'
   - '+.m62rtkpf.de'
+  - '+.m6500.top'
   - '+.m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me'
   - '+.m6r.eu'
   - '+.m73lae5cpmgrv38.com'
@@ -59797,6 +59802,7 @@ payload:
   - '+.mzpbvvxv.com'
   - '+.mzqf1.com'
   - '+.mzthbna.xyz'
+  - '+.mztqgmr.com'
   - '+.mzuspejtuodc.com'
   - '+.mzxfrok.com'
   - '+.mzxun.com'
@@ -61676,6 +61682,7 @@ payload:
   - '+.ntiaxofk.xyz'
   - '+.ntjmnyzwkpb.com'
   - '+.ntlab.org'
+  - '+.ntlysearchingf.info'
   - '+.ntlzvrv.xyz'
   - '+.ntmastsault.info'
   - '+.ntmatchwithy.info'
@@ -67331,6 +67338,7 @@ payload:
   - '+.psucmulr.net'
   - '+.psuftoum.com'
   - '+.psugkfqmys.com'
+  - '+.psumainy.xyz'
   - '+.psuphuns.net'
   - '+.psurdoak.com'
   - '+.psurigrabi.com'
@@ -68588,7 +68596,6 @@ payload:
   - '+.querulous-type.com'
   - '+.queryhookczar.com'
   - '+.querylead.com'
-  - '+.quesid.com'
   - '+.question2answer.com'
   - '+.questionable-dead.com'
   - '+.questionfly.com'
@@ -71296,6 +71303,7 @@ payload:
   - '+.rxglvcowb.com'
   - '+.rxgvwht.com'
   - '+.rxodrcqa.com'
+  - '+.rxojynr.icu'
   - '+.rxrdjb.xyz'
   - '+.rxtazhr.com'
   - '+.rxtgbihqbs99.com'
@@ -76421,6 +76429,7 @@ payload:
   - '+.sukienvongquay.site'
   - '+.sukienvuongquocrong.com'
   - '+.sukienzingspeed.com'
+  - '+.sukneyu.com'
   - '+.sukultingecauy.info'
   - '+.suldansspikes.com'
   - '+.sulelysr.com'
@@ -86413,6 +86422,7 @@ payload:
   - '+.wnthglylkflcc.com'
   - '+.wnulffwyetlek.com'
   - '+.wnvdgegsjoqoe.xyz'
+  - '+.wnwkzzzheca.com'
   - '+.wnyuehqewfisvby.com'
   - '+.wnzle.com'
   - '+.woaembayed.uno'

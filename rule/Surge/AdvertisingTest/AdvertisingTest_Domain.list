@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-20 02:57:08
+# UPDATED: 2024-01-21 02:58:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12455
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 139231
+# DOMAIN-SUFFIX: 139296
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 152726
+# TOTAL: 152791
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -11149,7 +11149,6 @@
 .adsstatic.vivo.com.cn
 .adssyscom.com
 .adstacks.in
-.adstanding.com
 .adstarget.net
 .adstargeting.com
 .adstargets.com
@@ -26302,6 +26301,7 @@
 .cdwehdnnprdntse.com
 .cdweikebaba.xin
 .cdwmpt.com
+.cdwmtt.com
 .cdxjt.mobi
 .cdxyb.cn
 .cdyqc.com
@@ -31377,6 +31377,7 @@
 .cped7.xyz
 .cperformmedia-a.akamaihd.net
 .cpfclassifieds.com
+.cpffkbpq.xyz
 .cpfwffke.com
 .cpgo.avatacar.com
 .cpgo.xyz
@@ -34149,6 +34150,7 @@
 .dadspms.com
 .dadspmz.com
 .dadw11.com
+.dadw22.com
 .dadw55.com
 .dadwu.cn
 .dadzidmisbmja.com
@@ -44962,6 +44964,7 @@
 .escatedint.work
 .escense.ru
 .escers.com
+.escharatheins.com
 .eschelbolts.com
 .escobar.pr0gramm.com
 .esconcentleu.site
@@ -49139,7 +49142,6 @@
 .fpgedsewst.com
 .fpghll.rossmann.hu
 .fphbwyonnk.com
-.fphjeyqs.com
 .fpida.amphi.jp
 .fpida.bodybook.jp
 .fpida.cw-x.jp
@@ -54066,8 +54068,6 @@
 .grapiercaproyl.com
 .grappamacram.com
 .grapseex.com
-.grapselu.com
-.grartoag.xyz
 .grasshopperprudencecondiment.com
 .grasutie.net
 .grataeraghu.digital
@@ -57913,6 +57913,7 @@
 .https-icloud.com
 .httpsecurity.org
 .httr.redskins.com
+.htubzpb.cn
 .htufhvsglyoy.com
 .hturnshal.com
 .htvixv.xyz
@@ -63566,6 +63567,7 @@
 .japyxboii.space
 .jaqodlaxpm.com
 .jaqtwibmeni.com
+.jaqwtyajwp.com
 .jardinonssolsvivant.fr
 .jarguvie.xyz
 .jarquizslash.com
@@ -65131,6 +65133,7 @@
 .jsfactory.net
 .jsfeedadsget.com
 .jsfrfeuubna.com
+.jsftfmegwcyhsed.com
 .jsfuz.com
 .jsgdvkjz.com
 .jsgmsoapx.com
@@ -67437,6 +67440,7 @@
 .kt4.kliptracker.com
 .kt5850pjz0.com
 .kta.etherscan.com
+.ktauoy.xyz
 .ktbelts.cn
 .ktdcoy.lyst.it
 .kteyz.com
@@ -71017,7 +71021,6 @@
 .llwoyl.mirraw.com
 .llyhbqn.cn
 .llyighaboveth.com
-.llykcdqkbl.xyz
 .llykjmzqkzkbr.top
 .llyvjs.com
 .llzd2.com
@@ -73971,6 +73974,7 @@
 .magicplayer-s.acestream.net
 .magicplayer-s.torrentstream.org
 .magicslimnhatban.com
+.magictag.digislots.in
 .magictreehouse.cn
 .magicwindow.cn
 .magiphone.cn
@@ -82617,6 +82621,7 @@
 .naneducate.com
 .nanesbewail.com
 .nang-cap-online-vpbank.com
+.nang-cap-vip-vpbank.com
 .nang-han-muc-ido-vpbank.com
 .nang-han-muc-vip-vpbank.com
 .nang-hang-tin-dung-ca-nhan.com
@@ -82627,6 +82632,7 @@
 .nanghanmuc-vpb.online
 .nanghanmucthe-thetindung.com
 .nanghanmucthetindung247.com
+.nanghanmucthevib.com
 .nangkasec.com
 .nangong2.com
 .nangongmall.com
@@ -82977,6 +82983,7 @@
 .naysaywinless.guru
 .naytev.com
 .naywordumiaks.website
+.nazyepfnko.com
 .nb.5.p2l.info
 .nb.myspace.com
 .nba.emohe.com
@@ -84981,7 +84988,6 @@
 .nplxa.com
 .npmeingm7.shop
 .npmpecd.com
-.npnbwfpftjpqwc.com
 .npnpxoz.xyz
 .npnzfri.xyz
 .nposition.club
@@ -91766,6 +91772,7 @@
 .pinprickplums.com
 .pinptg.milleni.com.tr
 .pinremembrance.com
+.pinrxvbznkvh.com
 .pint-dev-branch.airship.com
 .pintour.com
 .pinttalewag.com
@@ -95265,6 +95272,7 @@
 .pups.baidu.cn
 .pups.baidu.com
 .pups.bdimg.com
+.pupsjr.xyz
 .pupsotdub.com
 .pupspu.com
 .pupu.xnhh120.com
@@ -96891,6 +96899,7 @@
 .quatrianfreefirevn.club
 .quatriangarenavn.com
 .quatruykich.vn
+.quatxio.xyz
 .quav8.fun
 .quavang123.com
 .quavercivil.com
@@ -96933,7 +96942,6 @@
 .querylead.com
 .quesid.com
 .quest.epoise.com
-.questaffiliates.net
 .question.hot-step-mom.com
 .question.snapiio.com
 .question2answer.com
@@ -97084,6 +97092,7 @@
 .quxsiraqxla.com
 .quxuejhcaz.com
 .quyaoya.com
+.quydautuvingroup.com
 .quydoi-tiente247.weebly.com
 .quydoichuyenkhoanquocte.weebly.com
 .quydoitienquocte24h7azx.weebly.com
@@ -104837,6 +104846,7 @@
 .sfloushi.com
 .sflvqq.pleinoutlet.com
 .sfngya.centrecom.com.au
+.sforourcompa.org
 .sfp.safe.baidu.com
 .sfp7.eco-conscient.com
 .sfpc.changehealthcare.com
@@ -105749,6 +105759,7 @@
 .shopkellygaming.net
 .shopkellygaming.vn
 .shopkingoff.com
+.shoplazada.net
 .shoplazada19.com
 .shoplienquan.click
 .shoplienquan.vn
@@ -120511,6 +120522,7 @@
 .tikivip666.com
 .tikivip777.com
 .tikivip888.com
+.tikivn.in
 .tikivn.live
 .tikivn118.com
 .tikivn12.com
@@ -129483,6 +129495,7 @@
 .vay60s.com
 .vay9.co
 .vay9.com
+.vayagribank.online
 .vayasieutoc.com
 .vaybimo.com
 .vaycaptoc-vn.com
@@ -129631,6 +129644,7 @@
 .vayvonshinhanhanoi.com
 .vayvonshinhantoanquoc.online
 .vayvonshinhanvn.com
+.vayvontheoluong.site
 .vayvontieudungshinhanbank.com
 .vayysieutoc.com
 .vazulp.graniph.com
@@ -130756,6 +130770,7 @@
 .vinegarfactorelevator.com
 .vingartistictaste.com
 .vingroup.shop
+.vingroupinvest.com
 .vingroupinvestment.com
 .vingroupventures.shop
 .vinkelvej12.dk
@@ -132050,6 +132065,7 @@
 .vxoncbelghuic.com
 .vxrydraquqcwb.com
 .vxsnk.com
+.vxsscpctuiq.com
 .vxvjgsgqyee.com
 .vxvtzx.xyz
 .vxvw11.com
@@ -137821,6 +137837,7 @@
 .xpdjsd.cn
 .xpectthatmy.shop
 .xpeeps.com
+.xpffkbpq.xyz
 .xphcrjth.xyz
 .xphones-2019.info
 .xphotos-album.com
@@ -139253,6 +139270,7 @@
 .yoginisairbus.com
 .yoginsnorland.com
 .yohioo.com
+.yohnoirs.com
 .yoiku-sub.yoiku.support
 .yoiqacw.cn
 .yoiur.com
@@ -139500,7 +139518,6 @@
 .ypcdbw.drive2.ru
 .ypcngw.xyz
 .ypdfpvwxwxkkga.com
-.ypdronhu.xyz
 .ypffkbpq.xyz
 .ypgpjvfv.xyz
 .yphdrphx.xyz
@@ -140492,7 +140509,6 @@
 .zfopakkt.com
 .zfoxhovh.com
 .zfp32.buzz
-.zfpkrl.xyz
 .zfrgkm.cn
 .zfsfkp.com
 .zftces.hoiku-job.net
