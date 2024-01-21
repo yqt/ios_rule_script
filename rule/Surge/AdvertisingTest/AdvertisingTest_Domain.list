@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-21 02:58:46
+# UPDATED: 2024-01-22 02:56:03
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12455
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 139296
+# DOMAIN-SUFFIX: 139339
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 152791
+# TOTAL: 152834
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -784,6 +784,7 @@
 .168xiazai.com
 .168ya.xyz
 .168zwm.com
+.1692923857.rsc.cdn77.org
 .16a754560b.com
 .16ao.mathon.fr
 .16dcc05513.com
@@ -17782,7 +17783,6 @@
 .atwcmxpww.com
 .atwola.com
 .atwursdpal.com
-.atxngifmp.com
 .atxzajpatki.com
 .aty.cp45.ott.cibntv.net
 .aty.hd.sohu.com
@@ -26859,7 +26859,6 @@
 .chaxinyong.net
 .chazanscapita.com
 .chbheroq.xyz
-.chbvrgjgkuv.com
 .chch.fr
 .chd-daolujiance.com
 .chdikbghrosxa.xyz
@@ -43176,6 +43175,7 @@
 .ehpxmsqghx.xyz
 .ehqaobjhna.com
 .ehqdzqi.com
+.ehrhrrx.xyz
 .ehsmmp.therugseller.co.uk
 .eht.endress.com
 .eht116.com
@@ -43714,6 +43714,7 @@
 .email-ap.jll.pe
 .email-ap.joneslanglasalle.co.jp
 .email-ap.joneslanglasalle.com.cn
+.email-apple.support
 .email-click-test-for-branch.vts.com
 .email-clicks.vts.com
 .email-cm.jll-mena.com
@@ -49539,6 +49540,7 @@
 .frightenedpotato.com
 .frightening-crack.pro
 .frightening-lesson.pro
+.frighteningship.com
 .frightysever.org
 .frilly-number.pro
 .fringesdurocs.com
@@ -55783,7 +55785,6 @@
 .hdacode.com
 .hdad.baike.com
 .hdaidj.cn
-.hdapdyme.xyz
 .hdapp1003-a.akamaihd.net
 .hdapp1008-a.akamaihd.net
 .hdat.xyz
@@ -58910,6 +58911,7 @@
 .iclickyou.com
 .iclive.com
 .icllmnimmmvrc.com
+.icloud.support
 .icloudvi.com
 .icmakp.united-arrows.tw
 .icmil.ru
@@ -71658,6 +71660,7 @@
 .logicsfort.com
 .logilyavie.digital
 .login-applecare.com
+.login-icloud.com
 .login-megafon.ru
 .login.adflores.com
 .login.adflyer.media
@@ -81679,7 +81682,6 @@
 .muragetunnel.com
 .muralattentive.com
 .muralshelvesdeposition.com
-.muraovvfovbh.com
 .muraubse.com
 .murcia-ban.es
 .murcs.org
@@ -85254,6 +85256,7 @@
 .nucleo.online
 .nuconomy.com
 .nuculetirl.com
+.nudczusipbu.com
 .nudebenzoyl.digital
 .nudedworld.com
 .nudgedfardel.com
@@ -86414,7 +86417,6 @@
 .oherhome.xyz
 .ohfoqpsrufi.com
 .ohfowsawvgig.com
-.ohgmnmgrd.xyz
 .ohgskf.com
 .ohhonkowjag.com
 .ohibal.com
@@ -88388,6 +88390,7 @@
 .outfishfumy.com
 .outflednailbin.com
 .outfortbogwort.guru
+.outfoxnapalms.com
 .outfunnel.com
 .outgateniceish.com
 .outgivefaculae.store
@@ -101344,6 +101347,7 @@
 .ruthlessrobin.com
 .ruthowhagi.com
 .ruthproudlyquest.com
+.ruthproudlyquestion.top
 .ruthrequire.com
 .rutientuthetindung.com
 .rutientuthetindung5s.com
@@ -112207,6 +112211,7 @@
 .sqlekbxp.xyz
 .sqlick.com
 .sqm.telemetry.microsoft.com.nsatc.net
+.sqmzanszcahcmi.com
 .sqnggnsb.fun
 .sqpgncbm.com
 .sqqqytzxjywx.com
@@ -129843,6 +129848,7 @@
 .velocecdn.com
 .velocitycdn.com
 .velocitypaperwork.com
+.velopedsever.com
 .velopedseveralmef.info
 .velopoc.ru
 .velteels.net
@@ -132053,7 +132059,6 @@
 .vxdpmxw.xyz
 .vxelkrhl.info
 .vxeynuboasnc.com
-.vxfpsgwhm.com
 .vxhrhnvtucv.com
 .vxhtxt.xyz
 .vxiframe.biz
@@ -136970,6 +136975,7 @@
 .xeon.trekkww.fun
 .xeozir.com
 .xepkfd.com
+.xerox.trekkww.fun
 .xerqfh.xyz
 .xertive.com
 .xetlugupyug.com
@@ -137045,6 +137051,7 @@
 .xhaiu.com
 .xhamstercams.com
 .xhamsterpremium.com
+.xhbheroq.xyz
 .xhbqczl.com
 .xhbzrk.hotmart.com
 .xhct66.com
@@ -138843,6 +138850,7 @@
 .yhbcii.com
 .yhbdrnr.cn
 .yhbdzh.farmasiint.com
+.yhbheroq.xyz
 .yhdd1.com
 .yhdichan.com
 .yheyg94gjv2o.ru
@@ -140040,7 +140048,6 @@
 .z2.xysmai.com
 .z2.zhishidu.com
 .z211.yourconroenews.com
-.z3617cz9ep.fitness.tappbrothers.com
 .z3p9f.xyz
 .z3uk6.cn
 .z3yfkdjd.icu

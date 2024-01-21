@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-21 02:57:27
+# UPDATED: 2024-01-22 02:54:55
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 18064
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 102965
+# DOMAIN-SUFFIX: 103038
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 121857
+# TOTAL: 121930
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -633,6 +633,7 @@
 .168ad.cc
 .168xiazai.com
 .168ya.xyz
+.1692923857.rsc.cdn77.org
 .16a754560b.com
 .16ao.mathon.fr
 .16i6nuuc2ej.koelewijn.nl
@@ -15093,6 +15094,7 @@
 .atukjpdh.xyz
 .atumanera.burgerking.com.mx
 .atwola.com
+.atwursdpal.com
 .aty.cp45.ott.cibntv.net
 .aty.hd.sohu.com
 .aty.sohu.com
@@ -22057,6 +22059,7 @@
 .cdwbjlmpyqtv.com
 .cdwehdnnprdntse.com
 .cdwmpt.com
+.cdwmtt.com
 .cdxjt.mobi
 .cdxyb.cn
 .cdyqc.com
@@ -26044,6 +26047,7 @@
 .cped7.xyz
 .cperformmedia-a.akamaihd.net
 .cpfclassifieds.com
+.cpffkbpq.xyz
 .cpfwffke.com
 .cpgo.avatacar.com
 .cpgo.xyz
@@ -28404,6 +28408,7 @@
 .dadspms.com
 .dadspmz.com
 .dadw11.com
+.dadw22.com
 .dadw55.com
 .dadwu.cn
 .dadzidmisbmja.com
@@ -32491,6 +32496,7 @@
 .duz64ud8y8urc.cloudfront.net
 .duzbhonizsk.com
 .duzmevl.com
+.duzt6rhr7wo8p.cloudfront.net
 .dv-ca-nhan-vpbank.com
 .dv-nang-cap-vpbank.com
 .dv.chemie.de
@@ -35373,6 +35379,7 @@
 .escatedint.work
 .escense.ru
 .escers.com
+.escharatheins.com
 .eschelbolts.com
 .esconcentleu.site
 .escortlarbul.com
@@ -38804,6 +38811,7 @@
 .fperefo.ru
 .fpgedsewst.com
 .fpghll.rossmann.hu
+.fphbwyonnk.com
 .fpiljsxrchc.com
 .fpjs.io
 .fpjscdn.net
@@ -42144,7 +42152,6 @@
 .goatsegirl.org
 .goautofinance.com
 .goavoafu.com
-.goazlf.mytoys.de
 .gobacktothefuture.biz
 .gobali.cn
 .gobanspagodas.com
@@ -50386,6 +50393,7 @@
 .japscat.org
 .japveny.ru
 .japyxboii.space
+.jaqwtyajwp.com
 .jardinonssolsvivant.fr
 .jarguvie.xyz
 .jarquizslash.com
@@ -51101,7 +51109,6 @@
 .jllfxt.xyz
 .jlmokzndbiafs.com
 .jlmprtgl.com
-.jln3.cl-brands.com
 .jln3.clstudios.com
 .jlnyti.mugo.com.tr
 .jlpbyt.com
@@ -51631,6 +51638,7 @@
 .jsfactory.net
 .jsfeedadsget.com
 .jsfrfeuubna.com
+.jsftfmegwcyhsed.com
 .jsfuz.com
 .jsgdvkjz.com
 .jsgmsoapx.com
@@ -53515,10 +53523,6 @@
 .kt5850pjz0.com
 .kta.etherscan.com
 .ktauoy.xyz
-.ktbktludhhq.com
-.ktbpasfiqmqdni.com
-.ktcgqqoo.com
-.ktdcoy.lyst.it
 .kteyz.com
 .ktfgfdjea.com
 .ktfodkqypn.xyz
@@ -56518,7 +56522,6 @@
 .llvphz.xyz
 .llwcfovpl.com
 .llyighaboveth.com
-.llykcdqkbl.xyz
 .llykjmzqkzkbr.top
 .llyvjs.com
 .llzd2.com
@@ -57692,11 +57695,7 @@
 .ltk.pw
 .ltkbyfd.icu
 .ltm6.destinia.se
-.ltmlsehfqikh.xyz
-.ltmtuseetgmt.com
-.ltnico.fnac.com
 .ltnyzlrqggx.com
-.ltohnghngrfeg.xyz
 .ltqpej.vidaxl.ie
 .ltsdl.qq.com
 .ltstyov.ru
@@ -58590,6 +58589,7 @@
 .magicplayer-s.acestream.net
 .magicplayer-s.torrentstream.org
 .magicslimnhatban.com
+.magictag.digislots.in
 .magictreehouse.cn
 .magicwindow.cn
 .magiphone.cn
@@ -63426,6 +63426,7 @@
 .mkeliihb.com
 .mkgiiijigxwwn.com
 .mkhoj.com
+.mkihakfuzv.com
 .mkitgfs.com
 .mkjnba.com
 .mkjnbg.com
@@ -65616,6 +65617,7 @@
 .naneducate.com
 .nanesbewail.com
 .nang-cap-online-vpbank.com
+.nang-cap-vip-vpbank.com
 .nang-han-muc-ido-vpbank.com
 .nang-han-muc-vip-vpbank.com
 .nang-hang-tin-dung-ca-nhan.com
@@ -65626,6 +65628,7 @@
 .nanghanmuc-vpb.online
 .nanghanmucthe-thetindung.com
 .nanghanmucthetindung247.com
+.nanghanmucthevib.com
 .nangkasec.com
 .nangong2.com
 .nangongmall.com
@@ -65954,6 +65957,7 @@
 .naysaywinless.guru
 .naytev.com
 .naywordumiaks.website
+.nazyepfnko.com
 .nb.5.p2l.info
 .nb.myspace.com
 .nba55.cc
@@ -67625,7 +67629,6 @@
 .nplxa.com
 .npmeingm7.shop
 .npmpecd.com
-.npnbwfpftjpqwc.com
 .npnpxoz.xyz
 .npnzfri.xyz
 .npracticalwhic.buzz
@@ -67841,6 +67844,7 @@
 .nucleusanalytics.io
 .nuconomy.com
 .nuculetirl.com
+.nudczusipbu.com
 .nudebenzoyl.digital
 .nudedworld.com
 .nudgedfardel.com
@@ -69864,6 +69868,7 @@
 .optzsrv.com
 .opulent-reply.pro
 .opvanillishan.com
+.opxogkbiqkti.com
 .opzksyy.cn
 .oq68.com
 .oq6ry.com
@@ -72793,7 +72798,6 @@
 .pinprickplums.com
 .pinremembrance.com
 .pinrxvbznkvh.com
-.pint-dev-branch.airship.com
 .pintour.com
 .pinttalewag.com
 .pinwalerompers.com
@@ -77010,6 +77014,7 @@
 .quatrianfreefirevn.club
 .quatriangarenavn.com
 .quatruykich.vn
+.quatxio.xyz
 .quav8.fun
 .quavang123.com
 .quavercivil.com
@@ -77177,6 +77182,7 @@
 .quxsiraqxla.com
 .quxuejhcaz.com
 .quyaoya.com
+.quydautuvingroup.com
 .quydoi-tiente247.weebly.com
 .quydoichuyenkhoanquocte.weebly.com
 .quydoitienquocte24h7azx.weebly.com
@@ -83357,8 +83363,6 @@
 .sfixretarum.com
 .sfkmekofps.com
 .sfloushi.com
-.sflvqq.pleinoutlet.com
-.sfnfpddbql.com
 .sforourcompa.org
 .sfp.safe.baidu.com
 .sfp7.eco-conscient.com
@@ -84157,6 +84161,7 @@
 .shopkellygaming.net
 .shopkellygaming.vn
 .shopkingoff.com
+.shoplazada.net
 .shoplazada19.com
 .shoplienquan.click
 .shoplienquan.vn
@@ -95566,6 +95571,7 @@
 .tikivip666.com
 .tikivip777.com
 .tikivip888.com
+.tikivn.in
 .tikivn.live
 .tikivn118.com
 .tikivn12.com
@@ -103286,6 +103292,7 @@
 .vay60s.com
 .vay9.co
 .vay9.com
+.vayagribank.online
 .vayasieutoc.com
 .vaybimo.com
 .vaycaptoc-vn.com
@@ -103434,6 +103441,7 @@
 .vayvonshinhanhanoi.com
 .vayvonshinhantoanquoc.online
 .vayvonshinhanvn.com
+.vayvontheoluong.site
 .vayvontieudungshinhanbank.com
 .vayysieutoc.com
 .vazypteke.pro
@@ -104429,6 +104437,7 @@
 .vinegardaring.com
 .vingartistictaste.com
 .vingroup.shop
+.vingroupinvest.com
 .vingroupinvestment.com
 .vingroupventures.shop
 .vinkelvej12.dk
@@ -105540,6 +105549,7 @@
 .vxoncbelghuic.com
 .vxrydraquqcwb.com
 .vxsnk.com
+.vxsscpctuiq.com
 .vxvjgsgqyee.com
 .vxvtzx.xyz
 .vxvw11.com
@@ -108117,7 +108127,6 @@
 .wpihekqpm.xyz
 .wpiwoo.xyz
 .wpkdqrzzcodvjc.com
-.wpkfti.1300k.com
 .wplmbsrzobj.com
 .wpncdn.com
 .wpnetwork.eu
@@ -110182,6 +110191,7 @@
 .xpcy.m.gxwztv.com
 .xpdronhu.xyz
 .xpeeps.com
+.xpffkbpq.xyz
 .xphcrjth.xyz
 .xphones-2019.info
 .xphotos-album.com
@@ -111315,7 +111325,6 @@
 .yoginsnorland.com
 .yohioo.com
 .yohnoirs.com
-.yoiku-sub.yoiku.support
 .yoiur.com
 .yojanaarabic.life
 .yok.la
@@ -111529,7 +111538,6 @@
 .ypa.focusoftime.com
 .ypcngw.xyz
 .ypdfpvwxwxkkga.com
-.ypdronhu.xyz
 .ypffkbpq.xyz
 .ypgpjvfv.xyz
 .yphdrphx.xyz
@@ -112334,6 +112342,7 @@
 .zfnclk.buzz
 .zfoffp.com
 .zfood029.com
+.zfp32.buzz
 .zfrgkm.cn
 .zfsfkp.com
 .zftces.hoiku-job.net
