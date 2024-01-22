@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-22 02:56:12
+# UPDATED: 2024-01-23 02:59:20
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12455
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 139339
+# DOMAIN-SUFFIX: 139406
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 152833
+# TOTAL: 152900
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -615,6 +615,7 @@
 .1202liutiao.xyz
 .1203555.com
 .1203782659.rsc.cdn77.org
+.1205020224.rsc.cdn77.org
 .1205qitiao2022.xyz
 .12086.net
 .12112336.pix-cdn.org
@@ -872,6 +873,7 @@
 .19035955.loyalty.tajawal.com
 .19035955.mktg.tajawal.com
 .1909a8.satofull.jp
+.1915832424.rsc.cdn77.org
 .19273817.com
 .1931283355.rsc.cdn77.org
 .1933000.com
@@ -9711,6 +9713,7 @@
 .adpxl.co
 .adq.chinaso.com
 .adq.nextag.com
+.adqongwuxvav.com
 .adquality.ch
 .adquan.com
 .adquantum.fr
@@ -20113,7 +20116,6 @@
 .bcunr.com
 .bcuuipewdz.com
 .bcvc.mobi
-.bcvcrdr.xyz
 .bcvideod.com
 .bcvxfgy.xyz
 .bcwljq.batteryempire.de
@@ -29358,7 +29360,6 @@
 .coixclamps.com
 .cojia.net
 .cojvur.icu
-.cokemoke.cf
 .col-med.com
 .col.casa.it
 .col.hztags.net
@@ -41232,6 +41233,7 @@
 .duroomtoa.com
 .dursocoa.com
 .durynslg.xyz
+.durzihearten.com
 .duscleouphes.com
 .dushiken.cn
 .dushimj.com
@@ -55191,6 +55193,7 @@
 .hairoak.com
 .hairpintacticalartsy.com
 .hairy-level.pro
+.hairyapplication.com
 .haise10.top
 .haise2.top
 .haise3.top
@@ -59038,6 +59041,7 @@
 .idnbckbknxurmf.xyz
 .idndlc.kango-oshigoto.jp
 .idnhanquatang.vn
+.idns.online
 .idntfy.ru
 .idoc58.com
 .idohethisisathllea.com
@@ -59364,7 +59368,6 @@
 .iistillstayherea.com
 .iisymgs.cn
 .iiutq.xyz
-.iiuvgfhqldb.xyz
 .iivruiz.cn
 .iivt.com
 .iivzdmqgyyiw.com
@@ -61884,7 +61887,6 @@
 .ins.wolterskluwerfs.com
 .insamemograbi.space
 .insanitynapoleon.com
-.insankafa.cc
 .insaoke-sacombank.com
 .inscan.cn
 .inscriptionafford.com
@@ -64934,7 +64936,6 @@
 .jrad.jd.com
 .jraqzmbwkvlwl.top
 .jrbbavbmwqwjl.top
-.jrbhnmqwemw.xyz
 .jrclick.jd.com
 .jrdkc.com
 .jrdupvtgubvja.xyz
@@ -65664,6 +65665,7 @@
 .jzntxs.com
 .jzokkejmqrbyj.top
 .jzoxch.menswearhouse.com
+.jzpdjbpusgcbr.com
 .jzprtb.1stdibs.com
 .jzqbyykbrrzvq.top
 .jzqce.com
@@ -66778,6 +66780,7 @@
 .kkgytur.cn
 .kkh818.com
 .kkisoo.com
+.kkixbfuihbhhrj.com
 .kkizyys.cn
 .kkjrwxs.com
 .kkjuu.xyz
@@ -71240,6 +71243,7 @@
 .localsnaughty.com
 .localytics.com
 .locandalorries.com
+.locate.pricespider.com
 .locatioiranic.digital
 .location.bloomberg.com
 .location.imsmetals.com
@@ -72499,7 +72503,6 @@
 .ltk.pw
 .ltkbyfd.icu
 .ltm6.destinia.se
-.ltmlsehfqikh.xyz
 .ltmtuseetgmt.com
 .ltnico.fnac.com
 .ltnyzlrqggx.com
@@ -72918,6 +72921,7 @@
 .lylibertleveni.site
 .lylog.1391.com
 .lylufhuxqwi.com
+.lylxuot.pltqbcgsq.biz
 .lylydevelope.com
 .lympin.com
 .lymstsc.com
@@ -74454,6 +74458,10 @@
 .marie-gerardmer.fr
 .marimedia.com
 .marinalculter.com
+.marine.xhamster.com
+.marine.xhamster.desi
+.marine.xhamster2.com
+.marine.xhamster3.com
 .marinegruffexpecting.com
 .marineingredientinevitably.com
 .marinescence.fr
@@ -77374,6 +77382,7 @@
 .mergedlava.com
 .mergerpep.com
 .mergessidi.com
+.mergussoy.com
 .meridia.1.p2l.info
 .meridia.3.p2l.info
 .meridia.4.p2l.info
@@ -81744,6 +81753,7 @@
 .mutinyhq.io
 .mutjrvxlldyrbyg.xyz
 .mutomb.com
+.mutsjeamenism.com
 .mutteredadis.org
 .mutteredadisa.com
 .muttergrew.com
@@ -84575,7 +84585,6 @@
 .noclef.com
 .noclick.connexity.com
 .nocturnalloom.com
-.nocturnalmystique.com
 .nocuousbestir.com
 .nodcaterercrochet.com
 .nodderbeezers.com
@@ -86956,6 +86965,7 @@
 .omotorax.ru
 .omouswoma.info
 .omoxcl.aosom.com
+.ompanythat.org
 .omphantumpom.com
 .ompoppxulki.com
 .ompx.shopbop.com
@@ -90982,6 +90992,7 @@
 .pesime.xyz
 .peskyclarifysuitcases.com
 .peskylock.com
+.pessimisticextra.com
 .pestequitch.com
 .pesterdisarm.com
 .pestgermagriculture.com
@@ -92109,7 +92120,6 @@
 .pkimbc.bestsecret.com
 .pkjekjmzfiuvi.com
 .pkjmmn.icu
-.pkk1.zuimeiniwo.com
 .pkkjxs.cn
 .pkklkcdn.com
 .pkkti888.com
@@ -93859,7 +93869,6 @@
 .pri12mel.com
 .pricefbcf.gq
 .priceinfo.comuv.com
-.pricespider.com
 .priceyaspect.pro
 .priceypies.com
 .prickjuvenileturnstile.com
@@ -95922,7 +95931,6 @@
 .qa-brc.emails.rakuten.com
 .qa-events-schema.viacom.tech
 .qa-go.ebat.es
-.qa.usninicsooey.com
 .qa24ljic4i.com
 .qaagib.icu
 .qaapp.forever21.com
@@ -99807,6 +99815,7 @@
 .rholi.ru
 .rhombicsomeday.com
 .rhombusads.com
+.rhpjzjqhgz.com
 .rhubarbraise.com
 .rhudsplm.com
 .rhufmdelxa.com
@@ -100120,7 +100129,6 @@
 .rlets.com
 .rlfqwlstxhq.xyz
 .rlhn.xyz
-.rlhtnnm.xyz
 .rliksgcixgf.com
 .rlinks.one.in
 .rlittleboywhowas.com
@@ -119589,6 +119597,7 @@
 .tfprivacy.live
 .tfptlgrw.co
 .tfptlgrw.live
+.tfqrqdpgarskxv.com
 .tfrwxv.xyz
 .tfssl.caohua.com
 .tftran.shop
@@ -124052,6 +124061,7 @@
 .track.pribba.com
 .track.price.ru
 .track.pricematchgismos.shop
+.track.pricespider.com
 .track.primeagecoverage.com
 .track.primeschoices.com
 .track.printery.ro
@@ -128787,6 +128797,7 @@
 .ut1-capitole.fr
 .ut13r.online
 .ut13r.site
+.ut13r.space
 .ut1capitole.fr
 .utag.ijinshan.com
 .utairway.com
@@ -135383,6 +135394,7 @@
 .wt2noay3fgjn.com
 .wtaccesscontrol.com
 .wtag.estlier.net
+.wtbevents.pricespider.com
 .wtbtop.cn
 .wtcpm.com
 .wtd57s7j.cn
@@ -136968,6 +136980,9 @@
 .xenaly.sozcu.com.tr
 .xenar.xyz
 .xengbale.fun
+.xenical.1.p2l.info
+.xenical.3.p2l.info
+.xenical.4.p2l.info
 .xenopusbink.com
 .xenosmussal.com
 .xenylclio.com
@@ -137887,6 +137902,7 @@
 .xpx7heciz9.com
 .xpyerxzn.xyz
 .xpygen.unger-fashion.com
+.xpyjyhny.xyz
 .xpynqq.com
 .xpysozb.cn
 .xq1.net
@@ -139194,6 +139210,7 @@
 .ymtrack6.co
 .ymuitydkdoy.com
 .ymvikp.estadao.com.br
+.ymwdeaiut.com
 .ymwehrducswbeu.com
 .ymx33.com
 .ymyh.club
@@ -139264,6 +139281,7 @@
 .yoc.com
 .yoc.younited-credit.com
 .yockpratty.com
+.yocksniacins.com
 .yodbox.com
 .yodr.net
 .yofoto.ltd
@@ -139546,6 +139564,7 @@
 .ypvrnyovntabcfp.xyz
 .ypvtw.com
 .ypwzcq.tink.de
+.ypyjyhny.xyz
 .ypzhwf.cn
 .yq6.lhkwy.com
 .yqakcdg.cn
@@ -140349,6 +140368,7 @@
 .zealousstraitcommit.com
 .zealpickup.com
 .zealsalts.com
+.zealshyalite.com
 .zealso.com
 .zeatse.buzz
 .zebeaa.click
@@ -141336,6 +141356,7 @@
 .zugo.com
 .zuhempih.com
 .zuiceshi.net
+.zuimeiniwo.com
 .zujilife.online
 .zujoupso.net
 .zukabota.com
@@ -144517,7 +144538,6 @@ dkxeorhjmua.com
 dl.downf468.com
 dl.liebao.cn
 dl.microsword.net
-dl.reg.163.com
 dlawshsjupuyy.com
 dlcgxmentykv.com
 dldiuzdkrqbk.com
