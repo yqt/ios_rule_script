@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-23 03:06:22
+# UPDATED: 2024-01-24 03:07:45
 # DOMAIN: 543
 # DOMAIN-KEYWORD: 12
-# DOMAIN-SUFFIX: 66705
+# DOMAIN-SUFFIX: 66704
 # IP-ASN: 1005
-# IP-CIDR: 6993
-# IP-CIDR6: 3480
+# IP-CIDR: 6994
+# IP-CIDR6: 3500
 # PROCESS-NAME: 12
 # USER-AGENT: 69
-# TOTAL: 78819
+# TOTAL: 78839
 .0-6.com
 .00.net
 .000.link
@@ -49031,6 +49031,7 @@
 .shyihuoh.com
 .shykx.com
 .shykz123456.com
+.shyojin.com
 .shyonghui.xyz
 .shyongzeng.com
 .shyouai.com
