@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-24 03:04:42
+# UPDATED: 2024-01-25 03:04:12
 # DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64662
+# DOMAIN-SUFFIX: 64647
 # IP-CIDR: 15
 # USER-AGENT: 31
-# TOTAL: 64828
+# TOTAL: 64813
 .0-6.com
 .00.net
 .000.link
@@ -17074,7 +17074,6 @@
 .dalianiso.com
 .daliansky.net
 .daliapp.net
-.dalinggong.com
 .dalipan.com
 .dalongkeji.com
 .dalongyun.com
@@ -18659,7 +18658,6 @@
 .dongfengtrucks.com
 .dongfund.com
 .dongge.com
-.donggua.com
 .dongguantoday.com
 .donghaifunds.com
 .donghao.org
@@ -36059,7 +36057,6 @@
 .lmlym.com
 .lmm8.com
 .lmnsaas.com
-.lms.im
 .lmsail.com
 .lmsub.com
 .lmth2013.com
@@ -53341,6 +53338,7 @@
 .vdnsv.com
 .vdolady.com
 .vdongchina.com
+.vdyoo.com
 .ve-imcloud.com
 .ve-trafficroute.com
 .ve-trafficroute.net
@@ -56841,7 +56839,6 @@
 .xbpz9.com
 .xbrl-cn.org
 .xbrother.com
-.xbspace.com
 .xbuwrp.sbs
 .xbwbh.com
 .xbwebyun.com
@@ -64733,6 +64730,7 @@ beacons3.gvt2.com
 blzddist1-a.akamaihd.net
 c.admob.com
 cdn.ampproject.org
+cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.marketplaceimages.windowsphone.com
 cdp.cloud.unity3d.com
 clickserve.cc-dt.com

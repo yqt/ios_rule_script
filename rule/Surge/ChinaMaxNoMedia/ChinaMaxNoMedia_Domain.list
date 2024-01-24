@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-24 03:07:45
+# UPDATED: 2024-01-25 03:07:11
 # DOMAIN: 543
 # DOMAIN-KEYWORD: 12
-# DOMAIN-SUFFIX: 66704
+# DOMAIN-SUFFIX: 66689
 # IP-ASN: 1005
-# IP-CIDR: 6994
-# IP-CIDR6: 3500
+# IP-CIDR: 6997
+# IP-CIDR6: 3438
 # PROCESS-NAME: 12
 # USER-AGENT: 69
-# TOTAL: 78839
+# TOTAL: 78765
 .0-6.com
 .00.net
 .000.link
@@ -17323,7 +17323,6 @@
 .dalianiso.com
 .daliansky.net
 .daliapp.net
-.dalinggong.com
 .dalipan.com
 .dalongkeji.com
 .dalongyun.com
@@ -18948,7 +18947,6 @@
 .dongfengtrucks.com
 .dongfund.com
 .dongge.com
-.donggua.com
 .dongguantoday.com
 .donghaifunds.com
 .donghao.org
@@ -37116,7 +37114,6 @@
 .lmlym.com
 .lmm8.com
 .lmnsaas.com
-.lms.im
 .lmsail.com
 .lmsub.com
 .lmth2013.com
@@ -55021,6 +55018,7 @@
 .vdnsv.com
 .vdolady.com
 .vdongchina.com
+.vdyoo.com
 .ve-imcloud.com
 .ve-trafficroute.com
 .ve-trafficroute.net
@@ -58335,7 +58333,6 @@
 .wxjx123.com
 .wxkj666.com
 .wxkjwlw.com
-.wxlivecdn.com
 .wxlongre.com
 .wxmama.com
 .wxmetro.net
@@ -58647,7 +58644,6 @@
 .xbpz9.com
 .xbrl-cn.org
 .xbrother.com
-.xbspace.com
 .xbuwrp.sbs
 .xbwbh.com
 .xbwebyun.com
@@ -66812,6 +66808,7 @@ cbsnewshd-lh.akamaihd.net
 cdn-videos.akamaized.net
 cdn.ampproject.org
 cdn.gdlive.gdmain.com
+cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.hkdtmb.com
 cdn.marketplaceimages.windowsphone.com
 cdnpull.0471tv.org.cn
@@ -66857,7 +66854,6 @@ fvsln5ps.live.sxmty.com
 gayotv.net
 gcpnode.com
 ggpagerl.live.sxmty.com
-global.prd.cdn.globalsign.com
 gogalaxy.gog-statics.com
 gonglchuangl.net
 gongyichuangyi.net
