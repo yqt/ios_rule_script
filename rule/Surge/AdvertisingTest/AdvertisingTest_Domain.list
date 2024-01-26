@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-26 02:59:03
+# UPDATED: 2024-01-27 02:58:45
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12472
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 142171
+# DOMAIN-SUFFIX: 142237
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 155683
+# TOTAL: 155749
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -604,6 +604,7 @@
 .12.cookcai.com
 .1200555.com
 .1201555.com
+.1202647672.rsc.cdn77.org
 .1202liutiao.xyz
 .1203555.com
 .1205020224.rsc.cdn77.org
@@ -682,6 +683,7 @@
 .12rge.xyz
 .12rng.cn
 .12signup.com
+.1304807583.rsc.cdn77.org
 .130gelh8q.de
 .131377.com
 .1314sss.top
@@ -765,6 +767,7 @@
 .16577716.com
 .1659d63dc0.com
 .1661795914.rsc.cdn77.org
+.1662864709.rsc.cdn77.org
 .166br.com
 .166f.com
 .1675450967.rsc.cdn77.org
@@ -833,6 +836,7 @@
 .1821e9a2d9.com
 .1821z.website
 .183pu.cn
+.1843942256.rsc.cdn77.org
 .1847ff24f9.com
 .184c4i95p.de
 .186078.com
@@ -865,6 +869,7 @@
 .19035955.mktg.tajawal.com
 .1909a8.satofull.jp
 .1915832424.rsc.cdn77.org
+.1919954591.rsc.cdn77.org
 .19273817.com
 .1931283355.rsc.cdn77.org
 .1933000.com
@@ -873,6 +878,7 @@
 .19515bia.de
 .19528681.com
 .1954451612.rsc.cdn77.org
+.1973440310.rsc.cdn77.org
 .19805d2bcb.com
 .19869.com
 .1987292064.rsc.cdn77.org
@@ -6665,6 +6671,7 @@
 .abeets.ru
 .abeij.com
 .abelekidr.com
+.abelestheca.com
 .abelinentrk.com
 .abema-adx.ameba.jp
 .abenshishabi.com
@@ -13414,6 +13421,10 @@
 .alargeredrubygsw.info
 .alarmsportsnetwork.com
 .alas4kanmfa6a4mubte.com
+.alaska.xhamster.com
+.alaska.xhamster.desi
+.alaska.xhamster2.com
+.alaska.xhamster3.com
 .alaskan4kleeskai.com
 .alasvow.com
 .alatedsoccers.com
@@ -21213,6 +21224,7 @@
 .bfddexwchocnwx.com
 .bfdtt.com
 .bfeagv.chicwish.com
+.bfeflwuhyhxgw.com
 .bfejteb.cn
 .bfg.loanzify.app
 .bfgg365.com
@@ -31477,6 +31489,7 @@
 .cph.credit-pret-hypothecaire.com
 .cpihrinfo.cpihr.com
 .cpiyz.com
+.cpkxahje.xyz
 .cpl1.ru
 .cplayer.pw
 .cplelangues.fr
@@ -40792,7 +40805,6 @@
 .draftyreview.pro
 .dragate-in-dc.heytapmobile.com
 .dragate.dc.oppomobile.com
-.dragdisrespectmeddling.com
 .dragfault.com
 .draggedeffectuallyhelicopter.com
 .draggedgram.com
@@ -45922,6 +45934,7 @@
 .evushuco.com
 .evvykulupl.com
 .evwmwnd.com
+.evxiwpbzxzanlx.com
 .evyy.net
 .evzhzppj5kel.com
 .evzonesglowfly.cfd
@@ -54443,7 +54456,6 @@
 .greffetc-paris.fr
 .grefutiwhe.com
 .gregariousflower.pro
-.gregarpor-roundens-i-276.site
 .gregauunaided.com
 .grehtrsan.com
 .greisize.com
@@ -56038,6 +56050,7 @@
 .hcreditx.com
 .hcritiesec.xyz
 .hcrwvno.com
+.hcsiquau.com
 .hcsmec.decathlon.pt
 .hctiqywqshbpjcc.com
 .hcuukwgpjiykapf.xyz
@@ -57898,6 +57911,7 @@
 .hovg.de
 .hovide.com
 .hovpxxqpyy.com
+.how-become-model.com
 .how-t0-wtch.com
 .how-tosolve.com
 .how5.cn
@@ -58799,6 +58813,7 @@
 .hzbxm.com
 .hzcp.fun
 .hzcyhe.alvadi.ee
+.hzdfziaydqawar.com
 .hzdhr.cn
 .hzeetn.natalie.mu
 .hzhabei.cn
@@ -65981,6 +65996,7 @@
 .jybaekajjmroq.top
 .jybnuw.mudah.my
 .jydydmctzxcea.com
+.jyewkb.icu
 .jyfght.cn
 .jyfirjqojg.xyz
 .jygiizv.icu
@@ -67719,6 +67735,7 @@
 .kqtvdljwv.com
 .kqubxdb.cn
 .kquptfjubrbp.xyz
+.kquzgqf.com
 .kqvrmebkljleb.top
 .kqvvqv.icu
 .kqwerp.top
@@ -83490,6 +83507,7 @@
 .naysaywinless.guru
 .naytev.com
 .naywordumiaks.website
+.nazakxodbz.com
 .nazyepfnko.com
 .nb.5.p2l.info
 .nb.myspace.com
@@ -88331,6 +88349,7 @@
 .opus-whisky.com
 .opus.sexyxxx.biz
 .opvanillishan.com
+.opwofty.cn
 .opxapvdpqnbbhl.xyz
 .opxnwz.shop
 .opxogkbiqkti.com
@@ -97481,6 +97500,7 @@
 .quartic.pl
 .quaruzon.com
 .quasiblamelesshazy.com
+.quasimanagespreparation.com
 .quatang-lienquan-garena.vn
 .quatang-lienquanmobile.com
 .quatang-shopee.com
@@ -99264,6 +99284,7 @@
 .reftagger.com
 .refugedcuber.com
 .refulgecomsat.com
+.refund-int3rac.com
 .refundsreisner.life
 .refuneticstantrk.com
 .refunevent.com
@@ -100747,6 +100768,7 @@
 .rlets.com
 .rlfqwlstxhq.xyz
 .rlhn.xyz
+.rlhtnnm.xyz
 .rliksgcixgf.com
 .rlinks.one.in
 .rlittleboywhowas.com
@@ -100818,6 +100840,7 @@
 .rmwdn.com
 .rmxads.com
 .rmxhti.zpacks.com
+.rmxizma.cn
 .rn.kiblahpithing.com
 .rn2vw3.xhamster.com
 .rnajhyd.xyz
@@ -104086,6 +104109,7 @@
 .sdhongjia.com
 .sdhzstone.net
 .sdjbcjsbdjk.com
+.sdjbvjsbvjz.com
 .sdjjr.com
 .sdjthl.tvguide.dk
 .sdjvbsjbvas.com
@@ -125804,6 +125828,7 @@
 .treyyejhcwyhn.com
 .trezor.efscle.com
 .trf.intuitwebsites.com
+.trf6b.top
 .trffcdmn.com
 .trfmxf.xyz
 .trfmxt.com
@@ -129697,6 +129722,7 @@
 .uyban.club
 .uycxhgrp.xyz
 .uydzfldt.xyz
+.uyeaoofppwrhz.com
 .uyfpmhmqh.xyz
 .uygckiy.cn
 .uyivht.robertgraham.us
@@ -130642,6 +130668,7 @@
 .veritrol.com
 .verizon-branch.locationlabs.com
 .verizon.asapp.com
+.vernementsec.info
 .verneukorgia.com
 .verninchange.com
 .vernondesigninghelmet.com
@@ -130745,6 +130772,7 @@
 .vfthr.com
 .vftqmnqopdf.xyz
 .vfunls.com
+.vfvad.top
 .vfvcxv.naturhaeuschen.de
 .vfvdsati.com
 .vfvvhywsdons.com
@@ -136004,6 +136032,7 @@
 .ws3.smartp.com
 .ws341.com
 .ws7j.com
+.wsadad.cn
 .wsafeguardpush.com
 .wsapi-global.master.live
 .wsapi.master.live
@@ -138571,6 +138600,7 @@
 .xpjkf888.com
 .xpjylc9977.com
 .xpkftctvei.com
+.xpkxahje.xyz
 .xplosion.de
 .xplusone.com
 .xpollo.com
@@ -140241,6 +140271,7 @@
 .ypgpjvfv.xyz
 .yphdrphx.xyz
 .ypiads.com
+.ypkxahje.xyz
 .yplan.ru
 .yplzrm.rue21.com
 .ypmeiwen.com

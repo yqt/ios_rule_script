@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-25 03:04:11
+# UPDATED: 2024-01-27 03:02:14
 # DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64647
+# DOMAIN-SUFFIX: 64617
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64782
+# TOTAL: 64752
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -11162,7 +11162,6 @@ DOMAIN-SUFFIX,ali37.net
 DOMAIN-SUFFIX,aliagain.com
 DOMAIN-SUFFIX,alianhome.com
 DOMAIN-SUFFIX,aliapp.com
-DOMAIN-SUFFIX,aliav8.com
 DOMAIN-SUFFIX,aliav9.com
 DOMAIN-SUFFIX,aliavv.com
 DOMAIN-SUFFIX,alibaba
@@ -15330,6 +15329,7 @@ DOMAIN-SUFFIX,carzyuncle.com
 DOMAIN-SUFFIX,cas01.com
 DOMAIN-SUFFIX,casarte.com
 DOMAIN-SUFFIX,casbin.com
+DOMAIN-SUFFIX,casbin.org
 DOMAIN-SUFFIX,casboc.com
 DOMAIN-SUFFIX,casctcp.com
 DOMAIN-SUFFIX,casdoor.com
@@ -17808,7 +17808,6 @@ DOMAIN-SUFFIX,cmd5.com
 DOMAIN-SUFFIX,cmd5.la
 DOMAIN-SUFFIX,cmd5.org
 DOMAIN-SUFFIX,cmda.net
-DOMAIN-SUFFIX,cmder.info
 DOMAIN-SUFFIX,cmdrh.com
 DOMAIN-SUFFIX,cmdschool.org
 DOMAIN-SUFFIX,cmdw.vip
@@ -36298,7 +36297,6 @@ DOMAIN-SUFFIX,lanyusf.com
 DOMAIN-SUFFIX,lanzhisky.com
 DOMAIN-SUFFIX,lanzhuwh.com
 DOMAIN-SUFFIX,lanzog.com
-DOMAIN-SUFFIX,lanzouz.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,lanzun.net
 DOMAIN-SUFFIX,laobaigan-hs.com
@@ -43947,7 +43945,6 @@ DOMAIN-SUFFIX,ptausercontent.com
 DOMAIN-SUFFIX,ptbus.com
 DOMAIN-SUFFIX,ptc-asia.com
 DOMAIN-SUFFIX,ptchdbits.co
-DOMAIN-SUFFIX,ptcloud.info
 DOMAIN-SUFFIX,ptcxmy.com
 DOMAIN-SUFFIX,ptdsh.com
 DOMAIN-SUFFIX,ptfdc.com
@@ -47622,7 +47619,6 @@ DOMAIN-SUFFIX,shaoke.com
 DOMAIN-SUFFIX,shaolintagou.com
 DOMAIN-SUFFIX,shaolinwy.com
 DOMAIN-SUFFIX,shaoniandream.com
-DOMAIN-SUFFIX,shaoqing.shop
 DOMAIN-SUFFIX,shaoqun.com
 DOMAIN-SUFFIX,shaoshilei.com
 DOMAIN-SUFFIX,shaoyee.com
@@ -53672,7 +53668,6 @@ DOMAIN-SUFFIX,uu8281uu.com
 DOMAIN-SUFFIX,uu89.com
 DOMAIN-SUFFIX,uu898.com
 DOMAIN-SUFFIX,uuaa.net
-DOMAIN-SUFFIX,uucolor.com
 DOMAIN-SUFFIX,uuecs.com
 DOMAIN-SUFFIX,uufa2017.com
 DOMAIN-SUFFIX,uufund.com
@@ -57219,7 +57214,6 @@ DOMAIN-SUFFIX,xawb.com
 DOMAIN-SUFFIX,xawbb.com
 DOMAIN-SUFFIX,xawdz.com
 DOMAIN-SUFFIX,xawhz.com
-DOMAIN-SUFFIX,xaxinanxiang.com
 DOMAIN-SUFFIX,xaxinghuo.com
 DOMAIN-SUFFIX,xaxydr.com
 DOMAIN-SUFFIX,xayestar.com
@@ -57444,6 +57438,7 @@ DOMAIN-SUFFIX,xfhx.com
 DOMAIN-SUFFIX,xfinfr.com
 DOMAIN-SUFFIX,xfisp.com
 DOMAIN-SUFFIX,xfjw.net
+DOMAIN-SUFFIX,xflapp.com
 DOMAIN-SUFFIX,xflimg.com
 DOMAIN-SUFFIX,xfliusheng.com
 DOMAIN-SUFFIX,xfnano.com

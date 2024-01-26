@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2024-01-25 03:09:10
+desc: 最后更新时间 2024-01-27 03:05:53
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 733
-# mitm: 688
+# reject: 734
+# mitm: 689
 # force-http-engine-hosts: 6
-# total: 1427
+# total: 1429
 
 
 
@@ -490,6 +490,7 @@ http:
     - ^https?:\/\/mob\.mddcloud\.com\.cn\/adApi\/advert - reject
     - ^https?:\/\/mob\.mddcloud\.com\.cn\/api\/(ad|advert)\/ - reject
     - ^https?:\/\/mobads\.baidu\.com\/cpro\/ui\/mads.php - reject
+    - ^https?:\/\/mobi\.360doc\.com\/v\d{2}\/Ajax\/festival\.ashx\?op=getfestivaltheme - reject
     - ^https?:\/\/mobile-pic\.cache\.iciba\.com\/feeds_ad\/ - reject
     - ^https?:\/\/mobile\.api\.mgtv\.com\/mobile\/config\?_support - reject
     - ^https?:\/\/mobile\.da\.mgtv\.com\/json\/app\/bdboot - reject
@@ -1095,6 +1096,7 @@ http:
     - "mob.mddcloud.com"
     - "mob.mddcloud.com.cn"
     - "mobads.baidu.com"
+    - "mobi.360doc.com"
     - "mobile-api.imlaidian.com"
     - "mobile-pic.cache.iciba.com"
     - "mobile.api.mgtv.com"
