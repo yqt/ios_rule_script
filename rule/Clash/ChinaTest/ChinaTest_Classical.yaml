@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-27 03:02:14
+# UPDATED: 2024-01-28 03:02:54
 # DOMAIN: 111
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64617
+# DOMAIN-SUFFIX: 64612
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 64752
+# TOTAL: 64747
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -8953,6 +8953,7 @@ payload:
   - DOMAIN-SUFFIX,7kww.net
   - DOMAIN-SUFFIX,7kzw.com
   - DOMAIN-SUFFIX,7littlemen.com
+  - DOMAIN-SUFFIX,7livq.app
   - DOMAIN-SUFFIX,7lk.com
   - DOMAIN-SUFFIX,7lw.com
   - DOMAIN-SUFFIX,7mah2.com
@@ -27187,7 +27188,6 @@ payload:
   - DOMAIN-SUFFIX,hainanfp.com
   - DOMAIN-SUFFIX,hainanfz.com
   - DOMAIN-SUFFIX,hainanjiuzi.com
-  - DOMAIN-SUFFIX,hainanpc.net
   - DOMAIN-SUFFIX,hainanwangdai.com
   - DOMAIN-SUFFIX,hainiaowo.com
   - DOMAIN-SUFFIX,hainic.com
@@ -27486,7 +27486,6 @@ payload:
   - DOMAIN-SUFFIX,haohuoa.com
   - DOMAIN-SUFFIX,haoii123.com
   - DOMAIN-SUFFIX,haoinvest.com
-  - DOMAIN-SUFFIX,haoiyon.com
   - DOMAIN-SUFFIX,haoji.me
   - DOMAIN-SUFFIX,haojiameng.net
   - DOMAIN-SUFFIX,haojiao.cc
@@ -48645,6 +48644,7 @@ payload:
   - DOMAIN-SUFFIX,singdown.com
   - DOMAIN-SUFFIX,singfun.com
   - DOMAIN-SUFFIX,singhead.com
+  - DOMAIN-SUFFIX,single6228.icu
   - DOMAIN-SUFFIX,singlecool.com
   - DOMAIN-SUFFIX,singmaan.com
   - DOMAIN-SUFFIX,singread.com

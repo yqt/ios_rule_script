@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-27 02:58:49
+# UPDATED: 2024-01-28 02:58:29
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12472
+# DOMAIN: 12473
 # DOMAIN-KEYWORD: 302
-# DOMAIN-SUFFIX: 142237
+# DOMAIN-SUFFIX: 142258
 # IP-CIDR: 452
 # URL-REGEX: 285
-# TOTAL: 155748
+# TOTAL: 155770
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.net.easyjet.com
@@ -11167,6 +11167,7 @@
 .adsstatic.vivo.com.cn
 .adssyscom.com
 .adstacks.in
+.adstanding.com
 .adstarget.net
 .adstargeting.com
 .adstargets.com
@@ -20384,7 +20385,6 @@
 .beacon.adelphic.com
 .beacon.affil.walmart.com
 .beacon.carfax.com
-.beacon.cdn.qq.com
 .beacon.cdnma.com
 .beacon.digima.com
 .beacon.dropbox.com
@@ -27137,6 +27137,7 @@
 .chgdf.cn
 .chgilks.com
 .chgiymjkqy.com
+.chgpuxim.xyz
 .chgwwj.klimate.nl
 .chhfcpgj.com
 .chiasephim.xyz
@@ -34141,6 +34142,7 @@
 .d824d7f5cbcb0e00.com
 .d830x8j3o1b2k.cloudfront.net
 .d8360.com
+.d85wutc1n854v.cloudfront.net
 .d86.xyz
 .d869381a42af33b.com
 .d86n.top
@@ -39959,6 +39961,7 @@
 .dmd53.com
 .dmdamedia.hu
 .dmdi.pl
+.dmdnlr.xyz
 .dmeia.xyz
 .dmemndrjim.com
 .dmeq7blex6x1u.cloudfront.net
@@ -44732,6 +44735,7 @@
 .enviabledilate.com
 .enviablesavouropinion.com
 .enviou.com.br
+.envious-low.com
 .enviouscredentialdependant.com
 .enviousforegroundboldly.com
 .enviouspipe.com
@@ -52771,6 +52775,7 @@
 .gmcoanceqoymws.com
 .gme-trking.com
 .gmeng.625323.com
+.gmetrics.getbeamer.com
 .gmgbmzz.xyz
 .gmgreklam.com
 .gmicu.cn
@@ -54757,6 +54762,7 @@
 .gst.pulse.toyota.com
 .gstat.bitauto.com
 .gstat.myzaker.com
+.gstaticx.com
 .gstats.cn
 .gstralpolita.info
 .gsupplyair.carte-gr.total.fr
@@ -65102,6 +65108,7 @@
 .jokebided.space
 .jokerlulm.com
 .jokerly.com
+.jokingzealotgossipy.com
 .jokrauda.com
 .jolecyclist.com
 .jollyembodyclassified.com
@@ -71076,6 +71083,7 @@
 .liongetme.com
 .lionporcelain.com
 .liosix.mtvuutiset.fi
+.lioyfmp.cn
 .lipidicchaoush.com
 .lipmswonv.com
 .lippedabyssal.com
@@ -90757,6 +90765,7 @@
 .patarinmangers.top
 .patchedcyamoid.com
 .patchindedtrk.com
+.patefysouari.com
 .patencydaimiel.com
 .patenssabzi.com
 .patgsrv.com
@@ -137789,6 +137798,7 @@
 .xhera.cn
 .xhflovezyy.asia
 .xhfvljklvq.com
+.xhgpuxim.xyz
 .xhi8.xyz
 .xhiit0n.xyz
 .xhit.com
@@ -144028,6 +144038,7 @@ bdyhvguiq.com
 bdyingxiaocms.cdn.bcebos.com
 be-funk.com
 be-notified.com
+beacon.cdn.qq.com
 beacon2.indieclicktv.com
 beacyoryjkbhqb.com
 beanscattering.jp
