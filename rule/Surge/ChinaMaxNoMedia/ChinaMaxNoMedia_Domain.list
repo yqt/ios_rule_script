@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-28 03:05:35
+# UPDATED: 2024-01-29 03:03:21
 # DOMAIN: 543
 # DOMAIN-KEYWORD: 12
-# DOMAIN-SUFFIX: 66656
+# DOMAIN-SUFFIX: 66669
 # IP-ASN: 1005
-# IP-CIDR: 6998
-# IP-CIDR6: 3422
+# IP-CIDR: 6999
+# IP-CIDR6: 3432
 # PROCESS-NAME: 12
 # USER-AGENT: 69
-# TOTAL: 78717
+# TOTAL: 78741
 .0-6.com
 .00.net
 .000.link
@@ -1164,6 +1164,7 @@
 .155.com
 .155175.com
 .155idc.com
+.156669.com
 .156pay.com
 .15803.com
 .1588.tv
@@ -17318,6 +17319,7 @@
 .dakayi.cc
 .dakele.com
 .dalaba.com
+.dalao.net
 .dalaosz.com
 .dalianair-china.com
 .dalianiso.com
@@ -43676,6 +43678,7 @@
 .pocomagnetic.com
 .pocosite.com
 .pocsuite.org
+.podcast.xyz
 .podfest.tech
 .podinns.com
 .podjiasu.org
@@ -45786,7 +45789,6 @@
 .qycn.org
 .qycname.com
 .qydimg.com
-.qyec.com
 .qyer.com
 .qyerstatic.com
 .qyestar.com
@@ -64033,6 +64035,8 @@
 .za8g1nx4ft.com
 .zabaow.com
 .zabeiy.com
+.zabiuq.com
+.zabiur.com
 .zablog.me
 .zac1993.com
 .zacaog.com
