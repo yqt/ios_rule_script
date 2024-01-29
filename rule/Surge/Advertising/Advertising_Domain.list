@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-29 02:56:27
+# UPDATED: 2024-01-30 02:52:08
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 16244
 # DOMAIN-KEYWORD: 115
-# DOMAIN-SUFFIX: 115153
+# DOMAIN-SUFFIX: 115188
 # IP-CIDR: 428
 # URL-REGEX: 285
-# TOTAL: 132226
+# TOTAL: 132261
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -33005,6 +33005,7 @@
 .dwf6crl4raal7.cloudfront.net
 .dwfdsfkw.xyz
 .dwfjtz.xyz
+.dwfohh.xyz
 .dwglgp.dunelm.com
 .dwglkwpyuwbd.com
 .dwh-tracking.it.auth0.com
@@ -35731,7 +35732,6 @@
 .erb.tremblant.ca
 .erbiscusys.info
 .erbiscusysexbu.info
-.ercabxkngkbnuj.com
 .ercockremarkedo.info
 .ercoeteasacom.com
 .erconditingde.info
@@ -38965,6 +38965,7 @@
 .foizico.cn
 .fokvgxuomu.com
 .fol9v.xyz
+.folbwkw.com
 .foldedabstinenceconsole.com
 .foldercamouflage.com
 .foldertopichoot.com
@@ -51370,6 +51371,7 @@
 .jbtfmis.xyz
 .jbtul.com
 .jbugk.com
+.jbvoejzamqzkb.top
 .jbwiujl.com
 .jbyy010.com
 .jbzmwqmqwokkq.top
@@ -53577,6 +53579,7 @@
 .kfand.com
 .kfareputfeab.org
 .kfckcu.xyz
+.kfctds59.shop
 .kfd3sm2c.com
 .kfdg22.com
 .kfdg55.com
@@ -54786,6 +54789,7 @@
 .kyjwtxei.xyz
 .kykenies.com
 .kykfiyin.com
+.kykqss.xyz
 .kylecsw.uno
 .kymagachu.pro
 .kymahuxv.xyz
@@ -70124,6 +70128,7 @@
 .ogwqkgtboxol.com
 .ogxstqna.xyz
 .ogygotcchh.com
+.ogzhdnhiqns.com
 .ogzucf.all4golf.de
 .oh.5.p2l.info
 .ohaijoub.com
@@ -74529,6 +74534,7 @@
 .pjxna.xyz
 .pjy55d.com
 .pjyvgdpvjp.com
+.pjzgggywd.com
 .pjzmbhf.cn
 .pk1u.melanielyne.com
 .pk840.com
@@ -77555,6 +77561,7 @@
 .pvnwap.zol.com.cn
 .pvnzrr.xyz
 .pvoheg.bubbleroom.se
+.pvpdbth.xyz
 .pvpti222.com
 .pvqzggfkuxum.com
 .pvranking.com
@@ -97415,6 +97422,7 @@
 .tikrailijorj.com
 .tiksgayowqln.com
 .tikstok.fun
+.tiktakz.xyz
 .tiktok-ads.hara.vn
 .tiktokcy1.com
 .tiku.io
@@ -102716,6 +102724,7 @@
 .tveta.naver.net
 .tvgxhvredn.xyz
 .tvkfms.nta.co.jp
+.tvknxyisi.com
 .tvl8.supdecreation.com
 .tvoi-dosug.com
 .tvpixel.com
@@ -103844,6 +103853,7 @@
 .unhau.com
 .unhaveabobra.com
 .unhealthyproduct.pro
+.unhedgekuchen.top
 .unhorseaa.com
 .unhrjzn.com
 .unhwav.com
@@ -105418,6 +105428,7 @@
 .vcslotoplay.com
 .vcuor.com
 .vcvacpaenqepvm.com
+.vcvnsyewnv.com
 .vcxipynawv.com
 .vcxzp.com
 .vcydyzd.icu
@@ -110482,6 +110493,7 @@
 .ww2.vinhwellness.com
 .wwads.cn
 .wwandle.top
+.wwbeqrhjwnijdk.com
 .wwclickgo.com
 .wwclicknews.club
 .wwclickserv.club
@@ -113596,6 +113608,7 @@
 .ypcdbw.drive2.ru
 .ypcngw.xyz
 .ypdfpvwxwxkkga.com
+.ypdronhu.xyz
 .ypffkbpq.xyz
 .ypgpjvfv.xyz
 .yphdrphx.xyz
