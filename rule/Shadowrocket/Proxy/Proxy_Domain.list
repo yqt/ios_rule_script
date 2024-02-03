@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-31 03:07:56
+# UPDATED: 2024-02-03 01:46:20
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 29
-# DOMAIN-SUFFIX: 5864
+# DOMAIN-SUFFIX: 5874
 # IP-CIDR: 97
 # USER-AGENT: 9
-# TOTAL: 6010
+# TOTAL: 6020
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -1093,6 +1093,7 @@
 .creativelab5.com
 .crisp.chat
 .cristyli.com
+.crittercism.com
 .crocotube.com
 .crossfire.co.kr
 .crossthewall.net
@@ -2278,6 +2279,7 @@
 .hockeyapp.net
 .hojemacau.com.mo
 .hola.com
+.hola.org
 .holymountaincn.com
 .holyspiritspeaks.org
 .home.sina.com
@@ -3578,7 +3580,6 @@
 .odysee.com
 .oex.com
 .offbeatchina.com
-.office365.com
 .officeoftibet.com
 .ofile.org
 .ogaoga.org

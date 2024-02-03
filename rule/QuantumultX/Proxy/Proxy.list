@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-31 03:07:57
+# UPDATED: 2024-02-03 01:46:21
 # HOST: 16
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 6309
 # IP-CIDR: 94
 # IP6-CIDR: 3
 # USER-AGENT: 9
-# TOTAL: 6460
+# TOTAL: 6470
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
@@ -1193,6 +1193,7 @@ HOST-SUFFIX,creativelab5.com,Proxy
 HOST-SUFFIX,crisisresponse.google,Proxy
 HOST-SUFFIX,crisp.chat,Proxy
 HOST-SUFFIX,cristyli.com,Proxy
+HOST-SUFFIX,crittercism.com,Proxy
 HOST-SUFFIX,crocotube.com,Proxy
 HOST-SUFFIX,crossfire.co.kr,Proxy
 HOST-SUFFIX,crossthewall.net,Proxy
@@ -2648,6 +2649,7 @@ HOST-SUFFIX,hnntube.com,Proxy
 HOST-SUFFIX,hockeyapp.net,Proxy
 HOST-SUFFIX,hojemacau.com.mo,Proxy
 HOST-SUFFIX,hola.com,Proxy
+HOST-SUFFIX,hola.org,Proxy
 HOST-SUFFIX,holymountaincn.com,Proxy
 HOST-SUFFIX,holyspiritspeaks.org,Proxy
 HOST-SUFFIX,home.sina.com,Proxy
@@ -3957,7 +3959,6 @@ HOST-SUFFIX,oculuscdn.com,Proxy
 HOST-SUFFIX,odysee.com,Proxy
 HOST-SUFFIX,oex.com,Proxy
 HOST-SUFFIX,offbeatchina.com,Proxy
-HOST-SUFFIX,office365.com,Proxy
 HOST-SUFFIX,officeoftibet.com,Proxy
 HOST-SUFFIX,ofile.org,Proxy
 HOST-SUFFIX,ogaoga.org,Proxy
