@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2024-02-03 01:49:34
+desc: 最后更新时间 2024-01-29 03:04:59
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 621
-# mitm: 650
+# reject: 699
+# mitm: 736
 # force-http-engine-hosts: 6
-# total: 1316
+# total: 1480
 
 
 
@@ -148,6 +148,7 @@ http:
     - ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.wdk\.render\.querysinglepage - reject
     - ^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/show\.do - reject
     - ^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v2\/show - reject
+    - ^https?:\/\/activity2\.api\.ofo\.com\/ofo\/Api\/v2\/ads - reject
     - ^https?:\/\/ad\.lofter\.com\/.*yitou\/madr - reject
     - ^https?:\/\/ad\.mcloud\.139\.com\/advertapi\/adv-filter\/adv-filter\/AdInfoFilter\/getAdInfos$ - reject
     - ^https?:\/\/adapi\.izuiyou\.com\/ - reject
@@ -390,6 +391,7 @@ http:
     - ^https?:\/\/gx\.10086\.cn\/zt-portal\/gxhzg\/portal\/app\/api\/v - reject
     - ^https?:\/\/hcz-member\.pingan\.com\.cn\/micro-api\/homepage\/do\/app\/popbox\/getTopPopBox - reject
     - ^https?:\/\/helper\.2bulu\.com\/(greenPea\/queryTasks|proSpecial\/allData|saveSplashFrequencyStatistics|getPopInfo|getAppEntranceConfig|promote\/list|getSplash|outing\/reqFoundNewList|outing\/reqIndex) - reject
+    - ^https?:\/\/hfapp-service\.qweather\.net\/.*\/ad\/ - reject
     - ^https?:\/\/home\.mi\.com\/cgi-op\/api\/v\d\/recommendation\/(banner|myTab|openingBanner) - reject
     - ^https?:\/\/home\.mi\.com\/cgi-op\/api\/v\d\/recommendation\/banner - reject
     - ^https?:\/\/homefront\.qunar\.com\/front\/splash\/ad - reject
@@ -476,6 +478,7 @@ http:
     - ^https?:\/\/mob\.mddcloud\.com\.cn\/adApi\/advert - reject
     - ^https?:\/\/mob\.mddcloud\.com\.cn\/api\/(ad|advert)\/ - reject
     - ^https?:\/\/mobads\.baidu\.com\/cpro\/ui\/mads.php - reject
+    - ^https?:\/\/mobi\.360doc\.com\/v\d{2}\/Ajax\/festival\.ashx\?op=getfestivaltheme - reject
     - ^https?:\/\/mobile-pic\.cache\.iciba\.com\/feeds_ad\/ - reject
     - ^https?:\/\/mobile\.api\.mgtv\.com\/mobile\/config\?_support - reject
     - ^https?:\/\/mobile\.da\.mgtv\.com\/json\/app\/bdboot - reject
@@ -632,6 +635,7 @@ http:
     - ^https?:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?module=advis - reject
     - ^https?:\/\/www\.inoreader\.com\/adv\/ - reject
     - ^https?:\/\/www\.meituan\.com\/api\/v\d\/appstatus\? - reject
+    - ^https?:\/\/www\.myhug\.cn\/ad\/ - reject
     - ^https?:\/\/www\.pansearch\.me\/api\/adsite - reject
     - ^https?:\/\/www\.shihuo\.cn\/app\d\/saveAppInfo - reject
     - ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/ads\/ - reject
@@ -863,8 +867,12 @@ http:
     - "*.kwcdn.kuwo.cn"
     - "*.laichon.com"
     - "*.mting.info"
+    - "*.musical.ly"
+    - "*.nfmovies.com"
     - "*.ott.cibntv.net"
     - "*.peopleapp.com"
+    - "*.pornhub.com"
+    - "*.pstatp.com"
     - "*.qyfxgd.cn"
     - "*.smkj33.top"
     - "*.tipatipa.xyz"
@@ -873,7 +881,9 @@ http:
     - "*.umetrip.com"
     - "*.uve.weibo.com"
     - "*.v2ex.com"
+    - "*.weibo.cn"
     - "*.weilai555.com"
+    - "*.wtzw.com"
     - "*.xbwpys.com"
     - "*.yuanfudao.com"
     - "*.yuxueyuan.cn"
@@ -887,7 +897,9 @@ http:
     - "118.178.214.118"
     - "118.89.204.198"
     - "122.14.246.33"
+    - "123.59.31.1"
     - "140.179.224.63"
+    - "154.8.131.171"
     - "175.102.178.52"
     - "182.92.251.113"
     - "3dd0be8a-54fe-43ff-a0e7-f670c4f20432.bspapp.com"
@@ -1165,6 +1177,7 @@ http:
     - "hdgateway.zto.com"
     - "heic.alicdn.com"
     - "helper.2bulu.com"
+    - "hfapp-service.qweather.net"
     - "home.mi.com"
     - "homefront.qunar.com"
     - "htwkop.xiaojukeji.com"
@@ -1251,6 +1264,7 @@ http:
     - "mob.mddcloud.com"
     - "mob.mddcloud.com.cn"
     - "mobads.baidu.com"
+    - "mobi.360doc.com"
     - "mobile-api.imlaidian.com"
     - "mobile-pic.cache.iciba.com"
     - "mobile.api.mgtv.com"
@@ -1348,6 +1362,8 @@ http:
     - "sso.ifanr.com"
     - "sso.lxjapp.com"
     - "ssp.dzh.com.cn"
+    - "static.vuevideo.net"
+    - "static1.keepcdn.com"
     - "status.boohee.com"
     - "sto-customer-app.oss-cn-shanghai.aliyuncs.co"
     - "sto-customer-app.oss-cn-shanghai.aliyuncs.com"
@@ -1485,6 +1501,7 @@ http:
     - "wxproj.seeyouyima.com"
     - "wxs-weixin.sd.zhumanggroup.com"
     - "xcx.xianbaow.com"
+    - "xyz.cnki.net"
     - "y.gtimg.cn"
     - "yanxuan.nosdn.127.net"
     - "you.163.com"

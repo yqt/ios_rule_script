@@ -12,15 +12,15 @@ HBO规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-02-03 01:46:26
+最后更新时间：2024-01-13 03:01:43
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 1  | 
-| DOMAIN-SUFFIX | 45  | 
+| DOMAIN-SUFFIX | 46  | 
 | PROCESS-NAME | 1  | 
-| TOTAL | 47  | 
+| TOTAL | 48  | 
 
 
 ## Clash 

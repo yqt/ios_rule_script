@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:41:53
+# UPDATED: 2024-02-02 02:58:10
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 7
-# DOMAIN: 16257
+# DOMAIN: 16224
 # DOMAIN-KEYWORD: 117
-# DOMAIN-SUFFIX: 115185
+# DOMAIN-SUFFIX: 314519
 # IP-CIDR: 428
-# URL-REGEX: 34
-# TOTAL: 132028
+# URL-REGEX: 307
+# TOTAL: 331602
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-s2s.sensic.net
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
@@ -586,9 +586,52 @@ URL-REGEX,^https?:\/\/app\.58\.com\/api\/log\/
 URL-REGEX,^https?:\/\/d\d.sinaimg.cn
 URL-REGEX,^https?:\/\/sa\d\.tuisong\.baidu\.com
 URL-REGEX,^https?:\/\/sax\w?\.sina\.com\.cn
-URL-REGEX,^https?:\/\/update\.pan\.baidu\.com\/statistics
-URL-REGEX,^https?:\/\/cdn-1rtb\.caiyunapp\.com/creative/.*$
-URL-REGEX,^https?:\/\/goblin\.hupu\.com/[^/]+/[^/]+\/interfaceAd\/
+URL-REGEX,^https?:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/actionad\.php
+URL-REGEX,^https?:\/\/server-\w+.imrworldwide.com
+URL-REGEX,^https?:\/\/service\.4gtv\.tv\/4gtv\/Data\/(GetAD|ADLog)
+URL-REGEX,^https?:\/\/service\.iciba\.com\/popo\/open\/screens\/v\d\?adjson
+URL-REGEX,^https?:\/\/slapi\.oray\.net\/client\/ad
+URL-REGEX,^https?:\/\/smkmp\.96225\.com\/smkcenter\/ad/
+URL-REGEX,^https?:\/\/smusic\.app\.wechat\.com\/commonCgi\/advertisement\/get_orint_egg$
+URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v1\/adTask\/
+URL-REGEX,^https?:\/\/snailsleep\.net\/snail\/v\d\/screen\/qn\/get\?
+URL-REGEX,^https?:\/\/ss0\.bdstatic\.com/.+?_\d{3}_\d{4}\.jpg
+URL-REGEX,^https?:\/\/ssl\.kohsocialapp\.qq\.com:\d+\/game\/buttons
+URL-REGEX,^https?:\/\/static1\.keepcdn\.com\/.+?\d{3}x\d{4}
+URL-REGEX,^https?:\/\/static\.vuevideo\.net\/styleAssets\/.+?\/splash_ad
+URL-REGEX,^https?:\/\/static\.vuevideo\.net\/styleAssets\/advertisement\/
+URL-REGEX,^https?:\/\/status\.boohee\.com\/api\/v\d\/app_square\/start_up_with_ad
+URL-REGEX,^https?:\/\/support\.you\.163\.com\/xhr\/boot\/getBootMedia\.json
+URL-REGEX,^https?:\/\/supportda\.ofo\.com\/adaction\?
+URL-REGEX,^https?:\/\/thor\.weidian\.com\/ares\/home\.splash\/
+URL-REGEX,^https?:\/\/tiasdk\.app\.wechat\.com\/retrieval\/getAdInfo$
+URL-REGEX,^https?:\/\/tiku\.zhan\.com\/Common\/newAd\/
+URL-REGEX,^https?:\/\/tqt\.weibo\.cn\/api\/advert\/
+URL-REGEX,^https?:\/\/tqt\.weibo\.cn\/overall\/redirect\.php\?r=(tqt_sdkad|tqtad)
+URL-REGEX,^https?:\/\/v\.cctv\.com\/.+?850
+URL-REGEX,^https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement\/
+URL-REGEX,^https?:\/\/vali\.cp31\.ott\.cibntv\.net\/youku\/.+?\.mp4\?sid=
+URL-REGEX,^https?:\/\/vv\.video\.qq\.com\/getvmind\?
+URL-REGEX,^https?:\/\/wap\.js\.10086\.cn\/jsmccClient\/cd\/market_content\/api\/v\d\/market_content\.page\.query
+URL-REGEX,^https?:\/\/wap\.ngchina\.cn\/news\/adverts\/
+URL-REGEX,^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua
+URL-REGEX,^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads
+URL-REGEX,^https?:\/\/www\.bldimg\.com/(background|splash)/.+?\.png$
+URL-REGEX,^https?:\/\/www\.bodivis\.com\.cn\/app\/splashAdvertise
+URL-REGEX,^https?:\/\/www\.cmbc\.com\.cn\/m\/image\/loadingpage\/
+URL-REGEX,^https?:\/\/www\.cntv\.com\/nettv\/adp\/
+URL-REGEX,^https?:\/\/www\.dandanzan\.com\/res\/gdsefse\.js
+URL-REGEX,^https?:\/\/www\.didapinche\.com\/app\/adstat\/
+URL-REGEX,^https?:\/\/www\.flyertea\.com\/source\/plugin\/mobile\/mobile\.php\?module=advis
+URL-REGEX,^https?:\/\/www\.hxeduonline\.com\/mobileapi2\/index\.php\?act=index&op=interdict
+URL-REGEX,^https?:\/\/www\.icourse163\.org\/mob\/j\/v1\/mobRecommendRPCBean\.getMaxWeightAdvertisement\.rpc
+URL-REGEX,^https?:\/\/www\.iyingdi\.cn\/ad
+URL-REGEX,^https?:\/\/www\.myhug\.cn\/ad\/
+URL-REGEX,^https?:\/\/www\.shihuo\.cn\/app\d\/saveAppInfo
+URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
+URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
+URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
+URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
 AND,((DOMAIN-KEYWORD,f-log),(DOMAIN-SUFFIX,grammarly.io))
 AND,((DOMAIN-KEYWORD,genuine),(DOMAIN-KEYWORD,autodesk))
 AND,((DOMAIN-SUFFIX,msa.cdn.mediaset.net),(DOMAIN-KEYWORD,adv0))

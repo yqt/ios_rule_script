@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:46:03
+# UPDATED: 2024-01-31 03:07:31
 # DOMAIN: 157
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19366
+# DOMAIN-SUFFIX: 19326
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19677
+# TOTAL: 19637
 payload:
   - DOMAIN,a.ppy.sh
   - DOMAIN,adobeereg.com
@@ -3052,6 +3052,7 @@ payload:
   - DOMAIN-SUFFIX,classicnike.com
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,clco.cc
+  - DOMAIN-SUFFIX,cleansite.info
   - DOMAIN-SUFFIX,clearlinux.org
   - DOMAIN-SUFFIX,clearpool.finance
   - DOMAIN-SUFFIX,click-url.com
@@ -3283,6 +3284,7 @@ payload:
   - DOMAIN-SUFFIX,creditcardsbay.com
   - DOMAIN-SUFFIX,cricketcountry.com
   - DOMAIN-SUFFIX,crit-staging.com
+  - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,crmdynint-gcc.com
   - DOMAIN-SUFFIX,crmdynint.com
   - DOMAIN-SUFFIX,cromite.org
@@ -4878,7 +4880,6 @@ payload:
   - DOMAIN-SUFFIX,ffotolia.com
   - DOMAIN-SUFFIX,ffprofile.com
   - DOMAIN-SUFFIX,fgacebook.com
-  - DOMAIN-SUFFIX,fgmtv.org
   - DOMAIN-SUFFIX,fi11.com
   - DOMAIN-SUFFIX,fi11av1.com
   - DOMAIN-SUFFIX,fi11tv1.com
@@ -6160,6 +6161,7 @@ payload:
   - DOMAIN-SUFFIX,hochi.news
   - DOMAIN-SUFFIX,hoes.com
   - DOMAIN-SUFFIX,hoge.7jp.info
+  - DOMAIN-SUFFIX,hola.org
   - DOMAIN-SUFFIX,holdemstripem.com
   - DOMAIN-SUFFIX,holloporn.com
   - DOMAIN-SUFFIX,hollyrandall.com
@@ -9117,7 +9119,6 @@ payload:
   - DOMAIN-SUFFIX,nuita.net
   - DOMAIN-SUFFIX,nukemanga.com
   - DOMAIN-SUFFIX,nuki-dokoro.com
-  - DOMAIN-SUFFIX,nunuyy.cc
   - DOMAIN-SUFFIX,nurofen.com
   - DOMAIN-SUFFIX,nurofen.net
   - DOMAIN-SUFFIX,nurofengel.com
@@ -13579,10 +13580,8 @@ payload:
   - DOMAIN-SUFFIX,zhainanjidi.xyz
   - DOMAIN-SUFFIX,zhainanjidid.top
   - DOMAIN-SUFFIX,zhangboz1.xyz
-  - DOMAIN-SUFFIX,zhengjian.org
   - DOMAIN-SUFFIX,zhimeishe888.com
   - DOMAIN-SUFFIX,zhtv01.com
-  - DOMAIN-SUFFIX,zhuichaguoji.org
   - DOMAIN-SUFFIX,zhuzhushipin-app.com
   - DOMAIN-SUFFIX,zibacity.com
   - DOMAIN-SUFFIX,zind.cloud
@@ -14728,7 +14727,6 @@ payload:
   - DOMAIN-SUFFIX,creativelab5.com
   - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,cristyli.com
-  - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,crocotube.com
   - DOMAIN-SUFFIX,crossfire.co.kr
   - DOMAIN-SUFFIX,crossthewall.net
@@ -15913,7 +15911,6 @@ payload:
   - DOMAIN-SUFFIX,hockeyapp.net
   - DOMAIN-SUFFIX,hojemacau.com.mo
   - DOMAIN-SUFFIX,hola.com
-  - DOMAIN-SUFFIX,hola.org
   - DOMAIN-SUFFIX,holymountaincn.com
   - DOMAIN-SUFFIX,holyspiritspeaks.org
   - DOMAIN-SUFFIX,home.sina.com

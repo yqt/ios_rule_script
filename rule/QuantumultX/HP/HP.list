@@ -1,9 +1,31 @@
 # NAME: HP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:47:27
-# HOST-SUFFIX: 4
-# TOTAL: 4
+# UPDATED: 2024-01-08 16:01:00
+# HOST-SUFFIX: 158
+# TOTAL: 158
+HOST-SUFFIX,123-hp.com,HP
+HOST-SUFFIX,123hplaserjet.com,HP
+HOST-SUFFIX,8008206616.com,HP
+HOST-SUFFIX,as-hp.ca,HP
+HOST-SUFFIX,baterias-hp.com,HP
+HOST-SUFFIX,campushp.com,HP
+HOST-SUFFIX,colorprotechnology.com,HP
+HOST-SUFFIX,compaq.org,HP
+HOST-SUFFIX,david-laserscanner.com,HP
+HOST-SUFFIX,demoprint.com,HP
+HOST-SUFFIX,digitalpack.com,HP
+HOST-SUFFIX,eprintsw.com,HP
+HOST-SUFFIX,gaming-notebooks.com,HP
+HOST-SUFFIX,getprintersupports.com,HP
+HOST-SUFFIX,hp-imagine.com,HP
+HOST-SUFFIX,hp-infolab.com,HP
+HOST-SUFFIX,hp-invent.com,HP
+HOST-SUFFIX,hp-invent.info,HP
+HOST-SUFFIX,hp-mns.com,HP
+HOST-SUFFIX,hp-printing.com,HP
+HOST-SUFFIX,hp-webplatform.com,HP
+HOST-SUFFIX,hp-ww.com,HP
 HOST-SUFFIX,hp.com,HP
 HOST-SUFFIX,hpstore-china.com,HP
 HOST-SUFFIX,hpstore.com,HP

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:46:03
+# UPDATED: 2024-01-31 03:07:31
 # DOMAIN: 157
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19366
+# DOMAIN-SUFFIX: 19326
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19677
+# TOTAL: 19637
 payload:
   - 'a.ppy.sh'
   - 'adobeereg.com'
@@ -3052,6 +3052,7 @@ payload:
   - '+.classicnike.com'
   - '+.classymomsex.com'
   - '+.clco.cc'
+  - '+.cleansite.info'
   - '+.clearlinux.org'
   - '+.clearpool.finance'
   - '+.click-url.com'
@@ -3283,6 +3284,7 @@ payload:
   - '+.creditcardsbay.com'
   - '+.cricketcountry.com'
   - '+.crit-staging.com'
+  - '+.crittercism.com'
   - '+.crmdynint-gcc.com'
   - '+.crmdynint.com'
   - '+.cromite.org'
@@ -4878,7 +4880,6 @@ payload:
   - '+.ffotolia.com'
   - '+.ffprofile.com'
   - '+.fgacebook.com'
-  - '+.fgmtv.org'
   - '+.fi11.com'
   - '+.fi11av1.com'
   - '+.fi11tv1.com'
@@ -6160,6 +6161,7 @@ payload:
   - '+.hochi.news'
   - '+.hoes.com'
   - '+.hoge.7jp.info'
+  - '+.hola.org'
   - '+.holdemstripem.com'
   - '+.holloporn.com'
   - '+.hollyrandall.com'
@@ -9117,7 +9119,6 @@ payload:
   - '+.nuita.net'
   - '+.nukemanga.com'
   - '+.nuki-dokoro.com'
-  - '+.nunuyy.cc'
   - '+.nurofen.com'
   - '+.nurofen.net'
   - '+.nurofengel.com'
@@ -13579,10 +13580,8 @@ payload:
   - '+.zhainanjidi.xyz'
   - '+.zhainanjidid.top'
   - '+.zhangboz1.xyz'
-  - '+.zhengjian.org'
   - '+.zhimeishe888.com'
   - '+.zhtv01.com'
-  - '+.zhuichaguoji.org'
   - '+.zhuzhushipin-app.com'
   - '+.zibacity.com'
   - '+.zind.cloud'
@@ -14728,7 +14727,6 @@ payload:
   - '+.creativelab5.com'
   - '+.crisp.chat'
   - '+.cristyli.com'
-  - '+.crittercism.com'
   - '+.crocotube.com'
   - '+.crossfire.co.kr'
   - '+.crossthewall.net'
@@ -15913,7 +15911,6 @@ payload:
   - '+.hockeyapp.net'
   - '+.hojemacau.com.mo'
   - '+.hola.com'
-  - '+.hola.org'
   - '+.holymountaincn.com'
   - '+.holyspiritspeaks.org'
   - '+.home.sina.com'

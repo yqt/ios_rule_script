@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:43:09
+# UPDATED: 2024-02-02 03:00:58
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12434
-# DOMAIN-KEYWORD: 122
-# DOMAIN-SUFFIX: 142006
-# IP-CIDR: 451
-# URL-REGEX: 34
-# TOTAL: 155047
+# DOMAIN: 12605
+# DOMAIN-KEYWORD: 304
+# DOMAIN-SUFFIX: 325659
+# IP-CIDR: 452
+# URL-REGEX: 307
+# TOTAL: 339327
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-s2s.sensic.net
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
@@ -127,10 +127,43 @@ DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 DOMAIN-KEYWORD,adashx
+DOMAIN-KEYWORD,adimg.uve.weibo.com
+DOMAIN-KEYWORD,adimg.vue.weibo.com
+DOMAIN-KEYWORD,adm3.autoimg.cn
+DOMAIN-KEYWORD,adp.atm.youku.com
+DOMAIN-KEYWORD,adproxy.autohome.com
+DOMAIN-KEYWORD,ads-d.viber.com
+DOMAIN-KEYWORD,ads.95516.com
+DOMAIN-KEYWORD,ads.aws.viber.com
+DOMAIN-KEYWORD,ads.viber.com
+DOMAIN-KEYWORD,adsfilebssdlbig.ali.kugou.com
+DOMAIN-KEYWORD,adshare.toutiao.com
+DOMAIN-KEYWORD,adtrack.ucweb.com
+DOMAIN-KEYWORD,afpapi.alimama.com
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,talkingdata
 DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,traffic
+DOMAIN-KEYWORD,tui.weibo.com
+DOMAIN-KEYWORD,tunion-api.m.taobao.com
+DOMAIN-KEYWORD,upload-cdn.orayimg.com
+DOMAIN-KEYWORD,utp-dmp.ucweb.com
+DOMAIN-KEYWORD,utp.ucweb.com
+DOMAIN-KEYWORD,v0-client-lz.rili.cn
+DOMAIN-KEYWORD,v1.log.moji.com
+DOMAIN-KEYWORD,v2.reachmax.cn
+DOMAIN-KEYWORD,val.atm.youku.com
+DOMAIN-KEYWORD,vidoza
+DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
+DOMAIN-KEYWORD,wax.weibo.com
+DOMAIN-KEYWORD,wbapp.uve.weibo.com
+DOMAIN-KEYWORD,weibomingzi.com
+DOMAIN-KEYWORD,wgo.mmstat.com
+DOMAIN-KEYWORD,widget.weibo.com
+DOMAIN-KEYWORD,wixsite.com
+DOMAIN-KEYWORD,www.qmlog.cn
+DOMAIN-KEYWORD,xn--2qux23c9ziyrq
+DOMAIN-KEYWORD,ynuf.alipay.com
 URL-REGEX,^http://(114\.115\.217\.129)|(home\.umetrip\.com)/gateway/api/umetrip/native$
 URL-REGEX,^https://img-ys011.didistatic.com/static/ad_oss/
 URL-REGEX,^https?://.+/v\d/iflyad/

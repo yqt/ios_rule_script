@@ -1,20 +1,21 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:46:18
-# HOST: 480
+# UPDATED: 2024-01-31 03:07:55
+# HOST: 512
 # HOST-KEYWORD: 37
-# HOST-SUFFIX: 19653
+# HOST-SUFFIX: 19613
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 20332
+# TOTAL: 20324
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
 HOST,3dns-4.adobe.com,Global
 HOST,3dns-5.adobe.com,Global
 HOST,3dns.adobe.com,Global
+HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
 HOST,a.ppy.sh,Global
 HOST,a248.e.akamai.net,Global
 HOST,a771.dscq.akamai.net,Global
@@ -167,6 +168,7 @@ HOST,github-cloud.s3.amazonaws.com,Global
 HOST,github.global.ssl.fastly.net,Global
 HOST,gitlab-assets.oss-cn-hongkong.aliyuncs.com,Global
 HOST,gog.qtlglb.com,Global
+HOST,hamifans.emome.net,Global
 HOST,hamivideo.hinet.net,Global
 HOST,hammerandchisel.ssl.zendesk.com,Global
 HOST,heads-ak-spotify-com.akamaized.net,Global
@@ -220,7 +222,7 @@ HOST,nvidia.tt.omtrdc.net,Global
 HOST,nytimes.map.fastly.net,Global
 HOST,ocsp.int-x3.letsencrypt.org,Global
 HOST,ocsp.microsoft.com,Global
-HOST,officecdn-microsoft-com.akamaized.net,Global
+HOST,oneclient.sfx.ms,Global
 HOST,onekey.zendesk.com,Global
 HOST,oneocsp.microsoft.com,Global
 HOST,ood.opsource.net,Global
@@ -473,6 +475,7 @@ HOST,wwis-dubc1-vip97.adobe.com,Global
 HOST,wwis-dubc1-vip98.adobe.com,Global
 HOST,wwis-dubc1-vip99.adobe.com,Global
 HOST,www-cdn.icloud.com.akadns.net,Global
+HOST,youtubei.googleapis.com,Global
 HOST,zeenews-fonts.s3.amazonaws.com,Global
 HOST,api.waqi.info,Global
 HOST,aqi.aqicn.org,Global
@@ -3359,6 +3362,7 @@ HOST-SUFFIX,clasporno.org,Global
 HOST-SUFFIX,classicnike.com,Global
 HOST-SUFFIX,classymomsex.com,Global
 HOST-SUFFIX,clco.cc,Global
+HOST-SUFFIX,cleansite.info,Global
 HOST-SUFFIX,clearlinux.org,Global
 HOST-SUFFIX,clearpool.finance,Global
 HOST-SUFFIX,click-url.com,Global
@@ -3590,6 +3594,7 @@ HOST-SUFFIX,crececonebay.com,Global
 HOST-SUFFIX,creditcardsbay.com,Global
 HOST-SUFFIX,cricketcountry.com,Global
 HOST-SUFFIX,crit-staging.com,Global
+HOST-SUFFIX,crittercism.com,Global
 HOST-SUFFIX,crmdynint-gcc.com,Global
 HOST-SUFFIX,crmdynint.com,Global
 HOST-SUFFIX,cromite.org,Global
@@ -5169,7 +5174,6 @@ HOST-SUFFIX,ffmpeg.org,Global
 HOST-SUFFIX,ffotolia.com,Global
 HOST-SUFFIX,ffprofile.com,Global
 HOST-SUFFIX,fgacebook.com,Global
-HOST-SUFFIX,fgmtv.org,Global
 HOST-SUFFIX,fi11.com,Global
 HOST-SUFFIX,fi11av1.com,Global
 HOST-SUFFIX,fi11tv1.com,Global
@@ -6406,6 +6410,7 @@ HOST-SUFFIX,hobonichielog.com,Global
 HOST-SUFFIX,hochi.news,Global
 HOST-SUFFIX,hoes.com,Global
 HOST-SUFFIX,hoge.7jp.info,Global
+HOST-SUFFIX,hola.org,Global
 HOST-SUFFIX,holdemstripem.com,Global
 HOST-SUFFIX,holloporn.com,Global
 HOST-SUFFIX,hollyrandall.com,Global
@@ -9357,7 +9362,6 @@ HOST-SUFFIX,nugettest.org,Global
 HOST-SUFFIX,nuita.net,Global
 HOST-SUFFIX,nukemanga.com,Global
 HOST-SUFFIX,nuki-dokoro.com,Global
-HOST-SUFFIX,nunuyy.cc,Global
 HOST-SUFFIX,nurofen.com,Global
 HOST-SUFFIX,nurofen.net,Global
 HOST-SUFFIX,nurofengel.com,Global
@@ -13748,10 +13752,8 @@ HOST-SUFFIX,zhaimankan.com,Global
 HOST-SUFFIX,zhainanjidi.xyz,Global
 HOST-SUFFIX,zhainanjidid.top,Global
 HOST-SUFFIX,zhangboz1.xyz,Global
-HOST-SUFFIX,zhengjian.org,Global
 HOST-SUFFIX,zhimeishe888.com,Global
 HOST-SUFFIX,zhtv01.com,Global
-HOST-SUFFIX,zhuichaguoji.org,Global
 HOST-SUFFIX,zhuzhushipin-app.com,Global
 HOST-SUFFIX,zibacity.com,Global
 HOST-SUFFIX,zind.cloud,Global
@@ -14977,7 +14979,6 @@ HOST-SUFFIX,creativelab5.com,Global
 HOST-SUFFIX,crisisresponse.google,Global
 HOST-SUFFIX,crisp.chat,Global
 HOST-SUFFIX,cristyli.com,Global
-HOST-SUFFIX,crittercism.com,Global
 HOST-SUFFIX,crocotube.com,Global
 HOST-SUFFIX,crossfire.co.kr,Global
 HOST-SUFFIX,crossthewall.net,Global
@@ -16432,7 +16433,6 @@ HOST-SUFFIX,hnntube.com,Global
 HOST-SUFFIX,hockeyapp.net,Global
 HOST-SUFFIX,hojemacau.com.mo,Global
 HOST-SUFFIX,hola.com,Global
-HOST-SUFFIX,hola.org,Global
 HOST-SUFFIX,holymountaincn.com,Global
 HOST-SUFFIX,holyspiritspeaks.org,Global
 HOST-SUFFIX,home.sina.com,Global

@@ -1,7 +1,8 @@
 # NAME: HuaweiCloud
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:48:32
+# UPDATED: 2024-01-08 16:02:04
+# DOMAIN-SUFFIX: 161
 # IP-CIDR: 31
 # TOTAL: 31
 IP-CIDR,103.31.200.0/22,no-resolve
