@@ -17,3 +17,4 @@ jobs:
           repo: ios_rule_script
           base: master
           head: master
+          merge_method: rebase
