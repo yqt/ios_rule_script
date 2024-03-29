@@ -1,9 +1,9 @@
 # NAME: Cloudflare
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 15:59:56
-# DOMAIN-SUFFIX: 47
-# IP-CIDR: 14
+# UPDATED: 2024-02-25 16:02:58
+# DOMAIN-SUFFIX: 29
+# IP-CIDR: 15
 # IP-CIDR6: 7
 # TOTAL: 51
 DOMAIN-SUFFIX,cf-ipfs.com

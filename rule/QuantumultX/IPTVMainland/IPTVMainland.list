@@ -1,11 +1,10 @@
 # NAME: IPTVMainland
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 16:02:50
-# HOST: 997
-# IP-CIDR: 1308
-# IP6-CIDR: 14
-# TOTAL: 2319
+# UPDATED: 2024-02-25 16:06:02
+# HOST: 990
+# IP-CIDR: 1307
+# TOTAL: 2297
 HOST,1-fss24-s0.streamhoster.com,IPTVMainland
 HOST,1.cache.applinzi.com,IPTVMainland
 HOST,12371alic.v.myalicdn.com,IPTVMainland
