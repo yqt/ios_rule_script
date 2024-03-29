@@ -21,14 +21,14 @@ AdGuard DNS Filter 规则！！
 
 ## 规则统计
 
-最后更新时间：2024-01-08 16:01:42
+最后更新时间：2024-02-25 16:04:47
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 3  | 
-| DOMAIN-SUFFIX | 55849  | 
-| TOTAL | 55852  | 
+| DOMAIN-SUFFIX | 62032  | 
+| TOTAL | 62035  | 
 
 
 ## Shadowrocket 

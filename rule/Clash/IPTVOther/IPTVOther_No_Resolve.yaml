@@ -1,10 +1,10 @@
 # NAME: IPTVOther
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 16:02:53
-# DOMAIN: 2317
-# IP-CIDR: 516
-# TOTAL: 2833
+# UPDATED: 2024-02-25 16:06:04
+# DOMAIN: 2299
+# IP-CIDR: 515
+# TOTAL: 2814
 payload:
   - IP-CIDR,1.222.207.80/32,no-resolve
   - IP-CIDR,1.245.74.5/32,no-resolve
