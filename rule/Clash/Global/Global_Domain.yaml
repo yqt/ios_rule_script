@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-04-16 02:10:48
+# UPDATED: 2024-04-18 02:13:33
 # DOMAIN: 78
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 24092
+# DOMAIN-SUFFIX: 24091
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 24324
+# TOTAL: 24323
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -4026,6 +4026,7 @@ payload:
   - '+.classicnike.com'
   - '+.classymomsex.com'
   - '+.clco.cc'
+  - '+.cleansite.info'
   - '+.clearasil.us'
   - '+.clearlinux.org'
   - '+.clearpool.finance'
@@ -5795,6 +5796,7 @@ payload:
   - '+.faapy.com'
   - '+.faasbook.com'
   - '+.fabhairypussy.com'
+  - '+.fabric.io'
   - '+.fabuye.top'
   - '+.fabuyemian.com'
   - '+.facbebook.com'
@@ -7746,6 +7748,7 @@ payload:
   - '+.heavenlyhentai.com'
   - '+.heavyfetish.com'
   - '+.hebiphone.com'
+  - '+.hec.su'
   - '+.hegre.com'
   - '+.heiguab.top'
   - '+.heijidi.life'
@@ -7996,6 +7999,7 @@ payload:
   - '+.hochi.news'
   - '+.hoes.com'
   - '+.hoge.7jp.info'
+  - '+.hola.org'
   - '+.holaporno.xxx'
   - '+.holdemstripem.com'
   - '+.holloporn.com'
@@ -13532,6 +13536,7 @@ payload:
   - '+.qgadmin.qatp1.net'
   - '+.qgadmin.qcpp1.net'
   - '+.qgadmin.qpdp1.net'
+  - '+.qhigh.com'
   - '+.qiao-cn.com'
   - '+.qinav.com'
   - '+.qingenporn.net'
@@ -15575,6 +15580,7 @@ payload:
   - '+.tnt-ea.com'
   - '+.to-porno.com'
   - '+.toget.com.tw'
+  - '+.toh.info'
   - '+.tokyo-porn-tube.com'
   - '+.tokyo-sports.co.jp'
   - '+.tokyo-tosho.net'
@@ -17480,6 +17486,7 @@ payload:
   - '+.xxgasm.com'
   - '+.xxindianporn.com'
   - '+.xxiqiyiavxx.buzz'
+  - '+.xxlmovies.com'
   - '+.xxmovz.com'
   - '+.xxnx.rest'
   - '+.xxnxx-porn.com'
@@ -19821,7 +19828,6 @@ payload:
   - '+.ezua.com'
   - '+.f8.com'
   - '+.fa.gov.tw'
-  - '+.fabric.io'
   - '+.faceless.me'
   - '+.facesofnyfw.com'
   - '+.facesoftibetanselfimmolators.info'
@@ -20418,7 +20424,6 @@ payload:
   - '+.he.net'
   - '+.heartyit.com'
   - '+.heavy-r.com'
-  - '+.hec.su'
   - '+.hecaitou.net'
   - '+.hechaji.com'
   - '+.heeact.edu.tw'
@@ -23967,7 +23972,6 @@ payload:
   - '+.xvideos.es'
   - '+.xvinlink.com'
   - '+.xxbbx.com'
-  - '+.xxlmovies.com'
   - '+.xxuz.com'
   - '+.xxx.com'
   - '+.xxx.xxx'
