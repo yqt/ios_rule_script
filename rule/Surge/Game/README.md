@@ -22,10 +22,9 @@
 | ---- | ----  |
 | DOMAIN | 9  | 
 | DOMAIN-KEYWORD | 4  | 
-| DOMAIN-SUFFIX | 537  | 
+| DOMAIN-SUFFIX | 524  | 
 | IP-CIDR | 46  | 
-| PROTOCOL | 1  | 
-| TOTAL | 601  | 
+| TOTAL | 583  | 
 
 
 ## Surge 

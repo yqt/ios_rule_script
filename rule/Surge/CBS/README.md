@@ -17,11 +17,10 @@ CBS规则由《RULE GENERATOR 规则生成器》自动生成。
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 1  | 
 | DOMAIN-SUFFIX | 34  | 
 | PROCESS-NAME | 2  | 
 | USER-AGENT | 1  | 
-| TOTAL | 38  | 
+| TOTAL | 37  | 
 
 
 ## Surge 

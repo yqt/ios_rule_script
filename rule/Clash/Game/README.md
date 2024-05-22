@@ -22,9 +22,9 @@
 | ---- | ----  |
 | DOMAIN | 9  | 
 | DOMAIN-KEYWORD | 4  | 
-| DOMAIN-SUFFIX | 537  | 
+| DOMAIN-SUFFIX | 524  | 
 | IP-CIDR | 46  | 
-| TOTAL | 600  | 
+| TOTAL | 583  | 
 
 
 ## Clash 
