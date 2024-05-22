@@ -22,9 +22,9 @@
 | ---- | ----  |
 | HOST | 9  | 
 | HOST-KEYWORD | 4  | 
-| HOST-SUFFIX | 537  | 
+| HOST-SUFFIX | 524  | 
 | IP-CIDR | 46  | 
-| TOTAL | 600  | 
+| TOTAL | 583  | 
 
 
 ## QuantumultX 
