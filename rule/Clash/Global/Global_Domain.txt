@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-01 02:11:05
+# UPDATED: 2024-06-09 02:10:17
 # DOMAIN: 80
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 24669
+# DOMAIN-SUFFIX: 24680
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 24903
+# TOTAL: 24914
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -1363,7 +1363,6 @@ self.events.data.microsoft.com
 .apina.biz
 .apisof.net
 .apkfind.com
-.apkpure.net
 .aple.com
 .aplestore.com
 .aplleipods.com
@@ -7192,6 +7191,7 @@ self.events.data.microsoft.com
 .gameuxmasterguide.com
 .gaming-notebooks.com
 .gandhara.ru
+.ganjing.world
 .gannett-cdn.com
 .gannett.com
 .gannettdigital.com
@@ -13913,6 +13913,7 @@ self.events.data.microsoft.com
 .ptt3.cc
 .ptzwx.com
 .pu82.vip
+.pub.dev
 .public-sex-porn.com
 .public-trust.com
 .publicagentxxx.com
@@ -19170,6 +19171,7 @@ self.events.data.microsoft.com
 .apkmonk.com
 .apkplz.com
 .apkpure.com
+.apkpure.net
 .aplusvpn.com
 .app-measurement.net
 .appdownloader.net
@@ -19678,6 +19680,7 @@ self.events.data.microsoft.com
 .channelnewsasia.com
 .chaoex.com
 .chapm25.com
+.chat.lmsys.org
 .chatnook.com
 .chaturbate.com
 .checkgfw.com
@@ -20059,6 +20062,7 @@ self.events.data.microsoft.com
 .deviantart.net
 .devio.us
 .devpn.com
+.devv.ai
 .dfas.mil
 .dfn.org
 .dharamsalanet.com
@@ -21713,6 +21717,7 @@ self.events.data.microsoft.com
 .lianyue.net
 .liaowangxizang.net
 .liberal.org.hk
+.libertysculpturepark.com
 .libertytimes.com.tw
 .libraryinformationtechnology.com
 .libredd.it
@@ -22662,6 +22667,7 @@ self.events.data.microsoft.com
 .piposay.com
 .piraattilahti.org
 .piring.com
+.pixeldrain.com
 .pixelmator.com
 .pixelqi.com
 .pixiv.net
@@ -22810,6 +22816,7 @@ self.events.data.microsoft.com
 .pythonic.life
 .pytorch.org
 .qanote.com
+.qbittorrent.org
 .qgirl.com.tw
 .qhigh.com
 .qi-gong.me
@@ -22850,6 +22857,7 @@ self.events.data.microsoft.com
 .ra.gg
 .radicalparty.org
 .radiko.jp
+.radio-canada.ca
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
@@ -23475,6 +23483,7 @@ self.events.data.microsoft.com
 .taipei.gov.tw
 .taipeisociety.org
 .taipeitimes.com
+.taisounds.com
 .taiwan-sex.com
 .taiwanbible.com
 .taiwancon.com
@@ -24441,6 +24450,7 @@ self.events.data.microsoft.com
 .wqyd.org
 .wrchina.org
 .wretch.cc
+.writesonic.com
 .wsj.com
 .wsj.net
 .wsjhk.com
@@ -24650,6 +24660,7 @@ self.events.data.microsoft.com
 .yx51.net
 .yyii.org
 .yyjlymb.xyz
+.yysub.net
 .yzzk.com
 .z-lib.org
 .zacebook.com
