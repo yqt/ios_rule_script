@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-11-14 02:12:14
+# UPDATED: 2024-11-17 02:11:35
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 30653
@@ -4495,6 +4495,7 @@ self.events.data.microsoft.com
 +.byjhd.com
 +.bymj.io
 +.byspotify.com
++.byteoversea.com
 +.bytick.com
 +.byzantine-ahrb-centre.ac.uk
 +.byzantium.ac.uk
@@ -11226,6 +11227,8 @@ self.events.data.microsoft.com
 +.ibradome.com
 +.ibss.ac.uk
 +.ibuild.ac.uk
++.ibytedtos.com
++.ibyteimg.com
 +.ic.ac.uk
 +.icac.ac.uk
 +.icair.ac.uk
@@ -12122,6 +12125,7 @@ self.events.data.microsoft.com
 +.iproperty.com
 +.iproperty.com.my
 +.iproperty.com.sg
++.ipstatp.com
 +.ipv6.ac.uk
 +.iqiyiavlive.buzz
 +.iqq2.cc
@@ -15132,6 +15136,7 @@ self.events.data.microsoft.com
 +.muramura.tv
 +.murg.ac.uk
 +.muryouav.net
++.muscdn.com
 +.musclegirlflix.com
 +.museumofwriting.ac.uk
 +.museumwales.ac.uk
@@ -19576,6 +19581,7 @@ self.events.data.microsoft.com
 +.sgp.file.myqcloud.com
 +.sgp1.fun
 +.sgpe.ac.uk
++.sgpstatp.com
 +.sgsah.ac.uk
 +.sgscol.ac.uk
 +.sgspe.de
@@ -21382,10 +21388,9 @@ self.events.data.microsoft.com
 +.tiffany-towers.com
 +.tig-ol-bitties.live
 +.tiipple.ac.uk
-+.tiktok.com
++.tik-tokapi.com
 +.tiktokcdn-us.com
 +.tiktokcdn.com
-+.tiktokv.com
 +.tiktokv.us
 +.tiktokw.us
 +.tilehill.ac.uk
@@ -25535,7 +25540,6 @@ self.events.data.microsoft.com
 +.bynet.co.il
 +.bypasscensorship.org
 +.byrut.org
-+.byteoversea.com
 +.c-est-simple.com
 +.c-span.org
 +.c-spanvideo.org
@@ -27225,8 +27229,6 @@ self.events.data.microsoft.com
 +.ibros.org
 +.ibtimes.com
 +.ibvpn.com
-+.ibytedtos.com
-+.ibyteimg.com
 +.icams.com
 +.icedrive.net
 +.icij.org
@@ -27357,7 +27359,6 @@ self.events.data.microsoft.com
 +.iportal.me
 +.ippotv.com
 +.ipredator.se
-+.ipstatp.com
 +.iptv.com.tw
 +.iptvbin.com
 +.ipvanish.com
@@ -28083,7 +28084,6 @@ self.events.data.microsoft.com
 +.multiupload.com
 +.mummysgold.com
 +.murmur.tw
-+.muscdn.com
 +.musicade.net
 +.muslimvideo.com
 +.muzi.com
@@ -29099,7 +29099,6 @@ self.events.data.microsoft.com
 +.sftindia.org
 +.sftuk.org
 +.sfx.ms
-+.sgpstatp.com
 +.shadeyouvpn.com
 +.shadow.ma
 +.shadowsky.xyz
@@ -29720,7 +29719,8 @@ self.events.data.microsoft.com
 +.tibetwrites.org
 +.ticket.com.tw
 +.tigervpn.com
-+.tik-tokapi.com
++.tiktok.com
++.tiktokv.com
 +.tiltbrush.com
 +.timdir.com
 +.time.com
