@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-12 02:11:54
+# UPDATED: 2025-01-14 02:12:46
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30754
+# DOMAIN-SUFFIX: 30764
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 30991
+# TOTAL: 31001
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -11061,7 +11061,6 @@ payload:
   - '+.hsdc.ac.uk'
   - '+.hsdp.ac.uk'
   - '+.hsex.icu'
-  - '+.hsex.men'
   - '+.hsex.tv'
   - '+.hsfacebook.com'
   - '+.hshsxkj.com'
@@ -14789,7 +14788,6 @@ payload:
   - '+.minstercentre.ac.uk'
   - '+.minuporno.com'
   - '+.miohentai.com'
-  - '+.miraheze.org'
   - '+.mirailab.tech'
   - '+.mirandanet.ac.uk'
   - '+.mirror.ac.uk'
@@ -14925,7 +14923,6 @@ payload:
   - '+.momomall.com.tw'
   - '+.momon-ga.com'
   - '+.momoniji.com'
-  - '+.momoshop.com.tw'
   - '+.momotk.com'
   - '+.moms-sex-videos.com'
   - '+.momsbangteens.com'
@@ -21475,10 +21472,8 @@ payload:
   - '+.tiipple.ac.uk'
   - '+.tik-tokapi.com'
   - '+.tiktokcdn-eu.com'
-  - '+.tiktokcdn-us.com'
   - '+.tiktokcdn.com'
   - '+.tiktokv.eu'
-  - '+.tiktokv.us'
   - '+.tiktokw.eu'
   - '+.tiktokw.us'
   - '+.tilehill.ac.uk'
@@ -24955,6 +24950,7 @@ payload:
   - '+.1mobile.com'
   - '+.1mobile.tw'
   - '+.1password.com'
+  - '+.1point3acres.com'
   - '+.1pondo.tv'
   - '+.2-hand.info'
   - '+.2000fun.com'
@@ -25312,6 +25308,7 @@ payload:
   - '+.atlaspost.com'
   - '+.atnext.com'
   - '+.att.com'
+  - '+.audacy.com'
   - '+.audionow.com'
   - '+.autodraw.com'
   - '+.av-e-body.com'
@@ -25729,6 +25726,7 @@ payload:
   - '+.cdp1998.org'
   - '+.cdp2006.org'
   - '+.cdpeu.org'
+  - '+.cdpuk.co.uk'
   - '+.cdpusa.org'
   - '+.cdpweb.org'
   - '+.cdpwu.org'
@@ -26116,6 +26114,7 @@ payload:
   - '+.ddhw.info'
   - '+.dditscdn.com'
   - '+.de-sci.org'
+  - '+.deadhouse.org'
   - '+.deadline.com'
   - '+.deaftone.com'
   - '+.debug.com'
@@ -26604,6 +26603,7 @@ payload:
   - '+.firstfivefollowers.com'
   - '+.firstpost.com'
   - '+.firstrade.com'
+  - '+.fish.audio'
   - '+.fizzik.com'
   - '+.flagsonline.it'
   - '+.flecheinthepeche.fr'
@@ -27248,6 +27248,7 @@ payload:
   - '+.hrtsea.com'
   - '+.hrw.org'
   - '+.hrweb.org'
+  - '+.hsex.men'
   - '+.hsjp.net'
   - '+.hsselite.com'
   - '+.hst.net.tw'
@@ -27419,6 +27420,7 @@ payload:
   - '+.info-graf.fr'
   - '+.informer.com'
   - '+.ingress.com'
+  - '+.inherit.live'
   - '+.initiativesforchina.org'
   - '+.inkbunny.net'
   - '+.inkui.com'
@@ -28090,6 +28092,7 @@ payload:
   - '+.minzhuhua.net'
   - '+.minzhuzhanxian.com'
   - '+.minzhuzhongguo.org'
+  - '+.miraheze.org'
   - '+.miroguide.com'
   - '+.mirrorbooks.com'
   - '+.mirrormedia.mg'
@@ -28133,6 +28136,7 @@ payload:
   - '+.mojim.com'
   - '+.mol.gov.tw'
   - '+.molihua.org'
+  - '+.momoshop.com.tw'
   - '+.monar.ch'
   - '+.mondex.org'
   - '+.money-link.com.tw'
@@ -28939,6 +28943,7 @@ payload:
   - '+.radicalparty.org'
   - '+.radiko.jp'
   - '+.radio-canada.ca'
+  - '+.radio-en-ligne.fr'
   - '+.radio.garden'
   - '+.radioaustralia.net.au'
   - '+.radiohilight.net'
@@ -29311,6 +29316,7 @@ payload:
   - '+.slandr.net'
   - '+.slaytizle.com'
   - '+.sleazydream.com'
+  - '+.sleazyfork.org'
   - '+.slheng.com'
   - '+.slickvpn.com'
   - '+.slides.new'
@@ -29414,6 +29420,7 @@ payload:
   - '+.spike.com'
   - '+.spotflux.com'
   - '+.spreadshirt.es'
+  - '+.spreaker.com'
   - '+.spring-plus.net'
   - '+.spring.io'
   - '+.spring.net'
@@ -29820,7 +29827,9 @@ payload:
   - '+.ticket.com.tw'
   - '+.tigervpn.com'
   - '+.tiktok.com'
+  - '+.tiktokcdn-us.com'
   - '+.tiktokv.com'
+  - '+.tiktokv.us'
   - '+.tiltbrush.com'
   - '+.timdir.com'
   - '+.time.com'
@@ -30745,6 +30754,7 @@ payload:
   - '+.yyjlymb.xyz'
   - '+.yysub.net'
   - '+.yzzk.com'
+  - '+.z-lib.io'
   - '+.z-lib.org'
   - '+.zacebook.com'
   - '+.zalmos.com'
