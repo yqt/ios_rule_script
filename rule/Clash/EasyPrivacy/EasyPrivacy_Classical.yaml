@@ -297,6 +297,7 @@ payload:
   - DOMAIN-SUFFIX,a.publicmobile.ca
   - DOMAIN-SUFFIX,a.redbrickhealth.com
   - DOMAIN-SUFFIX,a.replaytheseries.com
+  - DOMAIN-SUFFIX,a.ria.ru
   - DOMAIN-SUFFIX,a.rohde-schwarz.com
   - DOMAIN-SUFFIX,a.rohde-schwarz.com.cn
   - DOMAIN-SUFFIX,a.sami.se
@@ -6536,6 +6537,7 @@ payload:
   - DOMAIN-SUFFIX,applinks.truckersnearby.com
   - DOMAIN-SUFFIX,applinks.xdressr.com
   - DOMAIN-SUFFIX,applinks.zerista.com
+  - DOMAIN-SUFFIX,applog.ssgdfs.com
   - DOMAIN-SUFFIX,applog.yiche.com
   - DOMAIN-SUFFIX,apply.bluetrustloans.com
   - DOMAIN-SUFFIX,apply.maxlend.com
@@ -6691,6 +6693,7 @@ payload:
   - DOMAIN-SUFFIX,asp.taishokunext.com
   - DOMAIN-SUFFIX,aspa8.ozmall.co.jp
   - DOMAIN-SUFFIX,assets.channelplay.in
+  - DOMAIN-SUFFIX,assets.datarize.ai
   - DOMAIN-SUFFIX,assets.eafit.edu.co
   - DOMAIN-SUFFIX,assets.estudioseconomicos.co
   - DOMAIN-SUFFIX,assets.garron.blog
@@ -8353,8 +8356,6 @@ payload:
   - DOMAIN-SUFFIX,cmp.tek.no
   - DOMAIN-SUFFIX,cmp.telerama.fr
   - DOMAIN-SUFFIX,cmp2.channelpartner.de
-  - DOMAIN-SUFFIX,cmpworker.dotesports.com
-  - DOMAIN-SUFFIX,cmpworker.primagames.com
   - DOMAIN-SUFFIX,cmr.customer.americanexpress.de
   - DOMAIN-SUFFIX,cmrcustomer.americanexpress.co.uk
   - DOMAIN-SUFFIX,cmrcustomer.americanexpress.es
@@ -9406,6 +9407,7 @@ payload:
   - DOMAIN-SUFFIX,d2nxi61n77zqpl.cloudfront.net
   - DOMAIN-SUFFIX,d2o67tzzxkqap2.cloudfront.net
   - DOMAIN-SUFFIX,d2oh4tlt9mrke9.cloudfront.net
+  - DOMAIN-SUFFIX,d2pt12ct4kmq21.cloudfront.net
   - DOMAIN-SUFFIX,d2r1yp2w7bby2u.cloudfront.net
   - DOMAIN-SUFFIX,d2rnkf2kqy5m6h.cloudfront.net
   - DOMAIN-SUFFIX,d2t77mnxyo7adj.cloudfront.net
@@ -10868,6 +10870,7 @@ payload:
   - DOMAIN-SUFFIX,e-img.hover.to
   - DOMAIN-SUFFIX,e-learning.brainshark.com
   - DOMAIN-SUFFIX,e.beckmancoulter.com
+  - DOMAIN-SUFFIX,e.channelexco.com
   - DOMAIN-SUFFIX,e.darpro-solutions.com
   - DOMAIN-SUFFIX,e.e.themighty.com
   - DOMAIN-SUFFIX,e.fdm.dk
@@ -12185,6 +12188,7 @@ payload:
   - DOMAIN-SUFFIX,events.interface.com
   - DOMAIN-SUFFIX,events.jotform.com
   - DOMAIN-SUFFIX,events.kangan.edu.au
+  - DOMAIN-SUFFIX,events.limango.com
   - DOMAIN-SUFFIX,events.marketingcube.com.au
   - DOMAIN-SUFFIX,events.matterport.com
   - DOMAIN-SUFFIX,events.mbrl.ae
@@ -13226,6 +13230,7 @@ payload:
   - DOMAIN-SUFFIX,glue.evansadhesive.com
   - DOMAIN-SUFFIX,glxdlf.tickets.ua
   - DOMAIN-SUFFIX,glzsji.nordman.ru
+  - DOMAIN-SUFFIX,gmetrics.getbeamer.com
   - DOMAIN-SUFFIX,gmmhlk.techstar.ro
   - DOMAIN-SUFFIX,gmnameplate.actonservice.com
   - DOMAIN-SUFFIX,gmpcyv.svinando.com
@@ -17084,6 +17089,7 @@ payload:
   - DOMAIN-SUFFIX,link.clearsky.jlg.com
   - DOMAIN-SUFFIX,link.clever.menu
   - DOMAIN-SUFFIX,link.clickipo.com
+  - DOMAIN-SUFFIX,link.clubmanagergame.com
   - DOMAIN-SUFFIX,link.cluno.com
   - DOMAIN-SUFFIX,link.cofyz.com
   - DOMAIN-SUFFIX,link.collectivebenefits.com
@@ -22003,6 +22009,7 @@ payload:
   - DOMAIN-SUFFIX,monitoring.iraiser.eu
   - DOMAIN-SUFFIX,monorail-edge.shopifysvc.com
   - DOMAIN-SUFFIX,monster.branch.rocks
+  - DOMAIN-SUFFIX,montelena.auction.co.kr
   - DOMAIN-SUFFIX,montpalatin.handicap.fr
   - DOMAIN-SUFFIX,monu.delivery
   - DOMAIN-SUFFIX,moodlerooms.blackboard.com
@@ -22059,6 +22066,7 @@ payload:
   - DOMAIN-SUFFIX,mroprospector.aviationweek.com
   - DOMAIN-SUFFIX,mrpdata.net
   - DOMAIN-SUFFIX,ms-trackingapi.phenompeople.com
+  - DOMAIN-SUFFIX,ms.dzen.ru
   - DOMAIN-SUFFIX,ms.informaengage.com
   - DOMAIN-SUFFIX,ms.topschooljobs.org
   - DOMAIN-SUFFIX,ms1.morganstanley.com
@@ -24523,6 +24531,8 @@ payload:
   - DOMAIN-SUFFIX,realsolutions.americanexpress.fr
   - DOMAIN-SUFFIX,realsolutions.americanexpress.it
   - DOMAIN-SUFFIX,realsolutions.americanexpress.se
+  - DOMAIN-SUFFIX,realtime-profiling.datarize.ai
+  - DOMAIN-SUFFIX,realtime.bbcl.cl
   - DOMAIN-SUFFIX,realtimely.io
   - DOMAIN-SUFFIX,realtors.eq.delwebb.com
   - DOMAIN-SUFFIX,reaonq.xn--hdks770u8f0a8dvzft.net
@@ -36305,6 +36315,7 @@ payload:
   - DOMAIN-SUFFIX,trk.designnews.com
   - DOMAIN-SUFFIX,trk.digitaltveurope.com
   - DOMAIN-SUFFIX,trk.dosatron.com
+  - DOMAIN-SUFFIX,trk.drdobbs.com
   - DOMAIN-SUFFIX,trk.du-darfst.de
   - DOMAIN-SUFFIX,trk.dvsystems.com
   - DOMAIN-SUFFIX,trk.e.chooseumpquabank.com
@@ -36951,6 +36962,7 @@ payload:
   - DOMAIN-SUFFIX,utm.shireburn.com
   - DOMAIN-SUFFIX,utrack.hexun.com
   - DOMAIN-SUFFIX,uts.auction.co.kr
+  - DOMAIN-SUFFIX,utsgw.auction.co.kr
   - DOMAIN-SUFFIX,utsssl.auction.co.kr
   - DOMAIN-SUFFIX,utxokv.emp.co.uk
   - DOMAIN-SUFFIX,uudbvq.skuola.net

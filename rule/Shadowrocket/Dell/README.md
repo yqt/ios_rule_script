@@ -65,8 +65,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Dell.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Dell.yaml
-- https://rules.kr328.app/dell@cn.yaml
-- https://rules.kr328.app/dell.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

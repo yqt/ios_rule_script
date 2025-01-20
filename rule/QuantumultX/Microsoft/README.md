@@ -81,9 +81,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OneDrive.yaml
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Microsoft.list
-- https://rules.kr328.app/microsoft.yaml
-- https://rules.kr328.app/onedrive.yaml
-- https://rules.kr328.app/microsoft@cn.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

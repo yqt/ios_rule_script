@@ -67,7 +67,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Developer/Developer.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Apple/AppleDev.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Developer.yaml
-- https://rules.kr328.app/apple-dev.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

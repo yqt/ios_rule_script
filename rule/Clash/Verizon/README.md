@@ -67,9 +67,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Verizon.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Verizon.yaml
-- https://rules.kr328.app/verizon@ads.yaml
-- https://rules.kr328.app/verizon.yaml
-- https://rules.kr328.app/verizon@cn.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

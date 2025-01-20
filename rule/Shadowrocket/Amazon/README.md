@@ -78,10 +78,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Amazon.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Amazon.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Amazon.yaml
-- https://rules.kr328.app/amazon-ads.yaml
-- https://rules.kr328.app/amazon@ads.yaml
-- https://rules.kr328.app/amazon.yaml
-- https://rules.kr328.app/amazon-ads@ads.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

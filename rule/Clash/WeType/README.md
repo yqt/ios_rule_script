@@ -25,9 +25,11 @@
 
 #### 使用说明
 - WeType.yaml，请使用 behavior: "classical"。
+- WeType_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - WeType.yaml 单独使用。
+- WeType_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

@@ -68,8 +68,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/icloud.txt
-- https://rules.kr328.app/icloud@cn.yaml
-- https://rules.kr328.app/icloud.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
