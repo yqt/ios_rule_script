@@ -12,7 +12,7 @@ TeamViewer规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:13
+最后更新时间：2024-07-03 16:16:12
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -27,9 +27,11 @@ TeamViewer规则由《RULE GENERATOR 规则生成器》自动生成。
 
 #### 使用说明
 - TeamViewer.yaml，请使用 behavior: "classical"。
+- TeamViewer_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - TeamViewer.yaml 单独使用。
+- TeamViewer_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

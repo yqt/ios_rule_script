@@ -12,13 +12,13 @@ Nike规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-17 02:14:15
+最后更新时间：2024-07-03 16:16:54
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-SUFFIX | 195  | 
-| TOTAL | 195  | 
+| HOST-SUFFIX | 11  | 
+| TOTAL | 11  | 
 
 
 ## QuantumultX 
@@ -62,8 +62,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Nike.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Nike.yaml
-- https://rules.kr328.app/nike.yaml
-- https://rules.kr328.app/nike@cn.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

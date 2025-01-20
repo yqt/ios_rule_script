@@ -12,13 +12,13 @@ Sectigo规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:21:17
+最后更新时间：2024-07-03 16:16:55
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 16  | 
-| TOTAL | 16  | 
+| DOMAIN-SUFFIX | 7  | 
+| TOTAL | 7  | 
 
 
 ## Loon 
@@ -63,7 +63,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Sectigo.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Sectigo.yaml
 - https://rules.kr328.app/sectigo.yaml
-- https://rules.kr328.app/sectigo@cn.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

@@ -12,7 +12,7 @@ Canon规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:21:12
+最后更新时间：2024-07-03 16:16:51
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -25,9 +25,11 @@ Canon规则由《RULE GENERATOR 规则生成器》自动生成。
 
 #### 使用说明
 - Canon.yaml，请使用 behavior: "classical"。
+- Canon_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Canon.yaml 单独使用。
+- Canon_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

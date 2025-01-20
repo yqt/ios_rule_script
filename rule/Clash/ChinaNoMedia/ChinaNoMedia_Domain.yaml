@@ -1,31 +1,27 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-14 02:14:32
-# DOMAIN: 19
+# UPDATED: 2024-11-17 02:13:14
+# DOMAIN: 15
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3589
+# DOMAIN-SUFFIX: 3585
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 3632
+# TOTAL: 3624
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
   - 'cdn.angruo.com'
-  - 'cdp.cloud.unity3d.com'
   - 'client.amplifi.com'
-  - 'dl.google.com'
   - 'download.jetbrains.com'
   - 'images-cn.ssl-images-amazon.com'
   - 'ip.istatmenus.app'
   - 'kc.kexinshe.com'
-  - 'mtalk.google.com'
   - 'origin-a.akamaihd.ne'
   - 'origin-a.akamaihd.net'
-  - 'outlook.office365.com'
   - 'sms.imagetasks.com'
-  - 'smtp.office365.com'
   - 'steamcommunity-a.akamaihd.net'
+  - 'weixin.com'
   - 'www.libvideo.com'
   - 'www.yxssp.com'
   - '+.00cdn.com'
@@ -584,7 +580,6 @@ payload:
   - '+.bohejiasuqi.com'
   - '+.bojianger.com'
   - '+.bokecc.com'
-  - '+.booking.com'
   - '+.boosj.com'
   - '+.bootcdn.net'
   - '+.bootcss.com'
@@ -743,7 +738,6 @@ payload:
   - '+.chaoxingv.com'
   - '+.chashebao.com'
   - '+.chazhengla.com'
-  - '+.chdbits.co'
   - '+.che168.com'
   - '+.checkzeit.com'
   - '+.cheng.xin'
@@ -1127,6 +1121,7 @@ payload:
   - '+.diyiyou.com'
   - '+.dj99.com'
   - '+.dl-vip.pcfaster.baidu.co.th'
+  - '+.dler.cloud'
   - '+.dlgslb.net'
   - '+.dlnel.com'
   - '+.dlnel.org'
@@ -1431,7 +1426,6 @@ payload:
   - '+.gongyi.xin'
   - '+.goodread.com'
   - '+.goofish.com'
-  - '+.googletraveladservices.com'
   - '+.goosail.com'
   - '+.goproxy.io'
   - '+.goselling.com'
@@ -1485,7 +1479,6 @@ payload:
   - '+.haidilao.com'
   - '+.hainanairlines.com'
   - '+.haishun.com'
-  - '+.hamreus.com'
   - '+.hanboshi.com'
   - '+.handanjob.com'
   - '+.hangjiayun.com'
@@ -1750,6 +1743,7 @@ payload:
   - '+.ip-cdn.com'
   - '+.ip.la'
   - '+.ip138.com'
+  - '+.ipapark.com'
   - '+.ipinyou.com'
   - '+.ipip.net'
   - '+.ipplus360.com'
@@ -2412,6 +2406,7 @@ payload:
   - '+.offcn.com'
   - '+.office.com'
   - '+.office.net'
+  - '+.office365.com'
   - '+.officese.com'
   - '+.oi-wiki.com'
   - '+.oicq88.com'
@@ -2508,9 +2503,6 @@ payload:
   - '+.pipix.com'
   - '+.pkoplink.com'
   - '+.pkulaw.com'
-  - '+.playstation.com'
-  - '+.playstation.net'
-  - '+.playstationnetwork.com'
   - '+.pmphmooc.com'
   - '+.pn1waq.com'
   - '+.pnas.org'
@@ -3235,7 +3227,6 @@ payload:
   - '+.weiphone.com'
   - '+.weiphone.net'
   - '+.weixinbridge.com'
-  - '+.weixing.com'
   - '+.weiyangx.com'
   - '+.weiyun.com'
   - '+.welltrend-edu.com'
@@ -3484,6 +3475,7 @@ payload:
   - '+.ypppt.com'
   - '+.yqb.com'
   - '+.yrz.name'
+  - '+.ysepay.com'
   - '+.yslyhr.com'
   - '+.ysten.com'
   - '+.ytzq.com'

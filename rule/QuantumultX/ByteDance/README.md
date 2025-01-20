@@ -12,15 +12,15 @@
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:19
+最后更新时间：2024-08-29 02:12:00
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-SUFFIX | 312  | 
+| HOST-SUFFIX | 328  | 
 | IP-CIDR | 1  | 
 | USER-AGENT | 1  | 
-| TOTAL | 314  | 
+| TOTAL | 330  | 
 
 
 ## QuantumultX 
@@ -74,9 +74,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ByteDance.list
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Douyin.yaml
-- https://rules.kr328.app/bytedance-ads@ads.yaml
-- https://rules.kr328.app/bytedance.yaml
-- https://rules.kr328.app/bytedance-ads.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/ByteDance.yaml
 
 

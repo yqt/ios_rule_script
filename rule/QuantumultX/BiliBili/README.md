@@ -12,16 +12,16 @@ BiliBili规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-28 02:12:49
+最后更新时间：2024-07-06 02:11:28
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 53  | 
-| HOST-SUFFIX | 61  | 
+| HOST-SUFFIX | 62  | 
 | IP-CIDR | 8  | 
 | USER-AGENT | 4  | 
-| TOTAL | 126  | 
+| TOTAL | 127  | 
 
 
 ## QuantumultX 
@@ -64,11 +64,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《BiliBili》的数据来自以下链接，如与本项目的《BiliBili》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BiliBili.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/bilibili.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bilibili.yaml
-- https://rules.kr328.app/bilibili.yaml
-- https://ruleset.isagood.day/bilibili.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

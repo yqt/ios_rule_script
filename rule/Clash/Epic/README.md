@@ -12,23 +12,24 @@ Epic规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:17:46
+最后更新时间：2024-07-03 16:14:50
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 15  | 
-| TOTAL | 16  | 
+| TOTAL | 15  | 
 
 
 ## Clash 
 
 #### 使用说明
 - Epic.yaml，请使用 behavior: "classical"。
+- Epic_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Epic.yaml 单独使用。
+- Epic_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

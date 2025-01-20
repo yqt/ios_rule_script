@@ -15,19 +15,19 @@
 
 ## 规则统计
 
-最后更新时间：2023-11-19 02:08:59
+最后更新时间：2025-01-20 02:08:48
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| AND | 7  | 
-| DOMAIN | 16164  | 
-| DOMAIN-KEYWORD | 115  | 
-| DOMAIN-SUFFIX | 97503  | 
-| IP-CIDR | 428  | 
-| PROCESS-NAME | 5  | 
-| URL-REGEX | 303  | 
-| TOTAL | 114525  | 
+| AND | 3  | 
+| DOMAIN | 16464  | 
+| DOMAIN-KEYWORD | 259  | 
+| DOMAIN-SUFFIX | 140235  | 
+| IP-CIDR | 461  | 
+| IP-CIDR6 | 1  | 
+| URL-REGEX | 12  | 
+| TOTAL | 157435  | 
 
 
 ## Surge 
@@ -39,9 +39,14 @@
 - URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置Advertising_MITM.sgmodule，仅供参考。
 
 #### 文件区别
+- Advertising_All.list与Advertising_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - Advertising_Resolve.list与Advertising.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Advertising_All.list 单独使用。
+- Advertising_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - Advertising.list、Advertising_Domain.list 共同使用。
 - Advertising_Resolve.list、Advertising_Domain.list 共同使用。
 
@@ -90,10 +95,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Advertising.list
 - https://raw.githubusercontent.com/scomper/surge-list/master/reject.list
 - https://raw.githubusercontent.com/scomper/surge-list/master/adblock.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
@@ -105,16 +108,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/an0na/R/master/Filter/AdBlock.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/AdReject.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/Hijacking.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
 - https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
-- https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Reject.yaml
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/AdBlock.list
-- https://ruleset.isagood.day/reject.conf
-- https://ruleset.isagood.day/reject_domain1.conf
-- https://ruleset.isagood.day/reject_drop.conf
+- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

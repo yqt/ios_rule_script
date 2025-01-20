@@ -12,18 +12,18 @@ China规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-24 02:13:47
+最后更新时间：2024-11-17 02:12:01
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 19  | 
+| DOMAIN | 15  | 
 | DOMAIN-KEYWORD | 9  | 
-| DOMAIN-SUFFIX | 3680  | 
+| DOMAIN-SUFFIX | 3676  | 
 | IP-CIDR | 17  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT | 31  | 
-| TOTAL | 3760  | 
+| TOTAL | 3752  | 
 
 
 ## Surge 
@@ -34,9 +34,14 @@ China规则由《RULE GENERATOR 规则生成器》自动生成。
 - China_Domain.list，请使用DOMAIN-SET。
 
 #### 文件区别
+- China_All.list与China_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - China_Resolve.list与China.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- China_All.list 单独使用。
+- China_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - China.list、China_Domain.list 共同使用。
 - China_Resolve.list、China_Domain.list 共同使用。
 
@@ -79,8 +84,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《China》的数据来自以下链接，如与本项目的《China》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list

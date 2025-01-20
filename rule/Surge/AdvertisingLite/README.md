@@ -15,18 +15,19 @@
 
 ## 规则统计
 
-最后更新时间：2023-10-23 02:07:01
+最后更新时间：2024-12-16 02:08:39
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | AND | 1  | 
-| DOMAIN | 23677  | 
-| DOMAIN-KEYWORD | 27  | 
-| DOMAIN-SUFFIX | 13762  | 
+| DOMAIN | 23745  | 
+| DOMAIN-KEYWORD | 187  | 
+| DOMAIN-SUFFIX | 13910  | 
 | IP-CIDR | 184  | 
-| URL-REGEX | 279  | 
-| TOTAL | 37930  | 
+| IP-CIDR6 | 1  | 
+| URL-REGEX | 2  | 
+| TOTAL | 38030  | 
 
 
 ## Surge 
@@ -38,9 +39,14 @@
 - URL-REGEX类型的规则，在HTTPS协议中，需要配合MITM使用。规则生成器已尝试推导MITM的配置AdvertisingLite_MITM.sgmodule，仅供参考。
 
 #### 文件区别
+- AdvertisingLite_All.list与AdvertisingLite_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - AdvertisingLite_Resolve.list与AdvertisingLite.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- AdvertisingLite_All.list 单独使用。
+- AdvertisingLite_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - AdvertisingLite.list、AdvertisingLite_Domain.list 共同使用。
 - AdvertisingLite_Resolve.list、AdvertisingLite_Domain.list 共同使用。
 
@@ -86,10 +92,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
+- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

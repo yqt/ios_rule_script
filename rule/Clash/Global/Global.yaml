@@ -1,20 +1,22 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-11-19 02:13:34
-# DOMAIN: 156
-# DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19270
+# UPDATED: 2025-01-20 02:11:32
+# DOMAIN: 84
+# DOMAIN-KEYWORD: 36
+# DOMAIN-SUFFIX: 30770
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19580
+# TOTAL: 31007
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,jav
+  - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,pinterest
+  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,wikileaks
@@ -29,11 +31,9 @@ payload:
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
-  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,instagram
-  - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,porn
@@ -41,7 +41,6 @@ payload:
   - DOMAIN-KEYWORD,skydrive
   - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,telegram
-  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,uk-live

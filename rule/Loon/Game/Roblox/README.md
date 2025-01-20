@@ -12,14 +12,15 @@ Roblox规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:23:07
+最后更新时间：2024-07-03 16:18:25
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-KEYWORD | 1  | 
+| DOMAIN-SUFFIX | 1  | 
 | USER-AGENT | 1  | 
-| TOTAL | 2  | 
+| TOTAL | 3  | 
 
 
 ## Loon 

@@ -12,24 +12,26 @@ DiscoveryPlus规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:21:23
+最后更新时间：2024-07-03 16:17:00
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 2  | 
+| DOMAIN | 3  | 
 | DOMAIN-KEYWORD | 1  | 
 | DOMAIN-SUFFIX | 11  | 
-| TOTAL | 14  | 
+| TOTAL | 15  | 
 
 
 ## Clash 
 
 #### 使用说明
 - DiscoveryPlus.yaml，请使用 behavior: "classical"。
+- DiscoveryPlus_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - DiscoveryPlus.yaml 单独使用。
+- DiscoveryPlus_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -65,11 +67,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《DiscoveryPlus》的数据来自以下链接，如与本项目的《DiscoveryPlus》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/%E2%80%8EDiscoveryPlus.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/DiscoveryPlus.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DiscoveryPlus.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/DiscoveryPlus.yaml
-- https://rules.kr328.app/discoveryplus.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

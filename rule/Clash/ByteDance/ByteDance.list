@@ -1,13 +1,14 @@
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-07 14:20:19
-# DOMAIN-SUFFIX: 312
+# UPDATED: 2024-08-29 02:12:00
+# DOMAIN-SUFFIX: 328
 # IP-CIDR: 1
 # PROCESS-NAME: 1
-# TOTAL: 314
+# TOTAL: 330
 DOMAIN-SUFFIX,2333333333333.com
 DOMAIN-SUFFIX,365yg.com
+DOMAIN-SUFFIX,activity-zhendingtech.com
 DOMAIN-SUFFIX,activitybyte.com
 DOMAIN-SUFFIX,aihst8.com
 DOMAIN-SUFFIX,amemv.cn
@@ -17,10 +18,10 @@ DOMAIN-SUFFIX,bcy.net
 DOMAIN-SUFFIX,bcyimg.com
 DOMAIN-SUFFIX,bdactivity.com
 DOMAIN-SUFFIX,bdgslb.com
-DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
+DOMAIN-SUFFIX,bdxiguavod.com
 DOMAIN-SUFFIX,betastar.cn
 DOMAIN-SUFFIX,bqtalk.com
 DOMAIN-SUFFIX,buydouke.com
@@ -28,6 +29,7 @@ DOMAIN-SUFFIX,byteac.com
 DOMAIN-SUFFIX,byteactivity.com
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,bytecdn.com
+DOMAIN-SUFFIX,bytecdntp.com
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,byted.org
 DOMAIN-SUFFIX,bytedance.cn
@@ -41,12 +43,13 @@ DOMAIN-SUFFIX,bytedns2.com
 DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,byteeffecttos.com
 DOMAIN-SUFFIX,bytefcdn.com
+DOMAIN-SUFFIX,bytefcdnrd.com
+DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,bytegslb.com
-DOMAIN-SUFFIX,bytehwm.com
 DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,byteintl.net
 DOMAIN-SUFFIX,bytelb.net
+DOMAIN-SUFFIX,bytemaimg.com
 DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,bytesfield.com
 DOMAIN-SUFFIX,bytesmanager.com
@@ -58,7 +61,6 @@ DOMAIN-SUFFIX,cdndns2.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,cookicut.com
 DOMAIN-SUFFIX,csjplatform.com
-DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,dailygn.com
 DOMAIN-SUFFIX,dcarapi.com
 DOMAIN-SUFFIX,dcarimg.com
@@ -75,6 +77,7 @@ DOMAIN-SUFFIX,douyinact.com
 DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,douyinclips.com
 DOMAIN-SUFFIX,douyinec.com
+DOMAIN-SUFFIX,douyinhanyu.com
 DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,douyinmusicclips.com
 DOMAIN-SUFFIX,douyinmusicvideo.com
@@ -89,20 +92,28 @@ DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,ecombdstatic.com
 DOMAIN-SUFFIX,ecombdvod.com
-DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,faceu.com.cn
 DOMAIN-SUFFIX,faceu.mobi
 DOMAIN-SUFFIX,faceu.net
-DOMAIN-SUFFIX,fanqienovel.com
+DOMAIN-SUFFIX,fanqieopen.com
+DOMAIN-SUFFIX,fanqieopenpic.com
+DOMAIN-SUFFIX,fanqieopenstatic.com
+DOMAIN-SUFFIX,fanqieopenvod.com
+DOMAIN-SUFFIX,fanqiesdk.com
+DOMAIN-SUFFIX,fanqiesdkpic.com
+DOMAIN-SUFFIX,fanqiesdkstatic.com
+DOMAIN-SUFFIX,fanqiesdkvod.com
 DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,feishu.cn
-DOMAIN-SUFFIX,feishu.net
 DOMAIN-SUFFIX,feishucdn.com
-DOMAIN-SUFFIX,feishupkg.com
+DOMAIN-SUFFIX,fqnovel-op.com
 DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,fqnovelim.com
+DOMAIN-SUFFIX,fqnovelop.com
 DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,fqnovelstatic.com
 DOMAIN-SUFFIX,fqnovelvod.com
 DOMAIN-SUFFIX,fullluckcalendar.com
 DOMAIN-SUFFIX,gifshow.com
@@ -137,7 +148,6 @@ DOMAIN-SUFFIX,huoshanxiaoshipin.net
 DOMAIN-SUFFIX,huoshanzhibo.cn
 DOMAIN-SUFFIX,huoshanzhibo.com
 DOMAIN-SUFFIX,huoshanzhibo.net
-DOMAIN-SUFFIX,i.snssdk.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,icphoto.cn
 DOMAIN-SUFFIX,idouyinpic.com
@@ -152,11 +162,11 @@ DOMAIN-SUFFIX,ieshuodong.net
 DOMAIN-SUFFIX,ieshuoshan.cn
 DOMAIN-SUFFIX,ieshuoshan.com
 DOMAIN-SUFFIX,ieshuoshan.net
+DOMAIN-SUFFIX,ihaohaoxuexi.com
 DOMAIN-SUFFIX,ihst8.com
 DOMAIN-SUFFIX,ihuoshanimg.com
 DOMAIN-SUFFIX,ihuoshanvod.com
 DOMAIN-SUFFIX,inluckcalendar.com
-DOMAIN-SUFFIX,is.snssdk.com
 DOMAIN-SUFFIX,ixgvideo.com
 DOMAIN-SUFFIX,jinritemai-inc.com
 DOMAIN-SUFFIX,jinritemai.com
@@ -183,10 +193,10 @@ DOMAIN-SUFFIX,luckforcalendar.com
 DOMAIN-SUFFIX,luckincalendar.com
 DOMAIN-SUFFIX,luckycalendar.cn
 DOMAIN-SUFFIX,maidouke.com
-DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,mobilelegends.com
 DOMAIN-SUFFIX,moonton.com
 DOMAIN-SUFFIX,muyewx.com
+DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,neihancommunity.cn
 DOMAIN-SUFFIX,neihancommunity.com
 DOMAIN-SUFFIX,neihancommunity.net
@@ -197,6 +207,10 @@ DOMAIN-SUFFIX,neihanshequ.cn
 DOMAIN-SUFFIX,neihanshequ.com
 DOMAIN-SUFFIX,nhlink.cn
 DOMAIN-SUFFIX,nhurl.cn
+DOMAIN-SUFFIX,novelfm.com
+DOMAIN-SUFFIX,novelfmpic.com
+DOMAIN-SUFFIX,novelfmstatic.com
+DOMAIN-SUFFIX,novelfmvod.com
 DOMAIN-SUFFIX,nvsgames.cn
 DOMAIN-SUFFIX,oceanengine.cn
 DOMAIN-SUFFIX,oceanengine.com
@@ -207,7 +221,7 @@ DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX,pangolin.snssdk.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,panplayable-toutiao-b.com
 DOMAIN-SUFFIX,panplayable-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao-b.com
@@ -215,6 +229,9 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pipix.com
 DOMAIN-SUFFIX,qmoji.mobi
 DOMAIN-SUFFIX,qmoji.net
+DOMAIN-SUFFIX,qznovelpic.com
+DOMAIN-SUFFIX,qznovelstatic.com
+DOMAIN-SUFFIX,qznovelvod.com
 DOMAIN-SUFFIX,ribaoapi.com
 DOMAIN-SUFFIX,ribaocdn.com
 DOMAIN-SUFFIX,samasty.com
@@ -272,7 +289,6 @@ DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,volcengine.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,volcsirius.com
-DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com
 DOMAIN-SUFFIX,wtturl.cn

@@ -12,7 +12,7 @@ EA规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-11-13 02:09:46
+最后更新时间：2024-07-03 16:14:50
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -26,9 +26,11 @@ EA规则由《RULE GENERATOR 规则生成器》自动生成。
 
 #### 使用说明
 - EA.yaml，请使用 behavior: "classical"。
+- EA_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - EA.yaml 单独使用。
+- EA_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

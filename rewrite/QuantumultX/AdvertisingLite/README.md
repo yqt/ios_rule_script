@@ -20,16 +20,18 @@ AdvertisingLite 不直接抽取数据源中MITM的hostname，仅用正则推导�
 
 ## 规则统计
 
-最后更新时间：2023-11-19 02:19:09
+最后更新时间：2025-01-10 02:17:28
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-KEYWORD | 27  | 
+| HOST | 2  | 
+| HOST-KEYWORD | 184  | 
 | IP-CIDR | 184  | 
-| REJECT | 579  | 
-| MITM | 472  | 
-| TOTAL | 1262  | 
+| IP6-CIDR | 1  | 
+| REJECT | 1193  | 
+| MITM | 879  | 
+| TOTAL | 2443  | 
 
 
 ## QuantumultX 
@@ -84,14 +86,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《复写去广告(严格版)》的数据来自以下链接，如与本项目的《复写去广告(严格版)》规则混合使用，可能造成部分重写重复。
 
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list
 - https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite.list
+- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

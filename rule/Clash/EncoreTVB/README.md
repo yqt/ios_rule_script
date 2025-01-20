@@ -12,13 +12,13 @@ EncoreTVB规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:15
+最后更新时间：2024-07-03 16:16:13
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 2  | 
-| DOMAIN-SUFFIX | 3  | 
+| DOMAIN | 4  | 
+| DOMAIN-SUFFIX | 1  | 
 | TOTAL | 5  | 
 
 
@@ -26,9 +26,11 @@ EncoreTVB规则由《RULE GENERATOR 规则生成器》自动生成。
 
 #### 使用说明
 - EncoreTVB.yaml，请使用 behavior: "classical"。
+- EncoreTVB_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - EncoreTVB.yaml 单独使用。
+- EncoreTVB_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -64,7 +66,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《EncoreTVB》的数据来自以下链接，如与本项目的《EncoreTVB》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/encoreTVB.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/EncoreTVB.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/EncoreTVB.yaml
 

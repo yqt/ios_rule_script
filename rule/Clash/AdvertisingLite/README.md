@@ -15,29 +15,31 @@
 
 ## 规则统计
 
-最后更新时间：2023-10-23 02:07:02
+最后更新时间：2024-12-16 02:08:40
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 23677  | 
-| DOMAIN-KEYWORD | 27  | 
-| DOMAIN-SUFFIX | 13762  | 
+| DOMAIN | 23745  | 
+| DOMAIN-KEYWORD | 187  | 
+| DOMAIN-SUFFIX | 13910  | 
 | IP-CIDR | 184  | 
-| TOTAL | 37650  | 
+| IP-CIDR6 | 1  | 
+| TOTAL | 38027  | 
 
 
 ## Clash 
 
 #### 使用说明
 - AdvertisingLite.yaml，请使用 behavior: "classical"。
+- AdvertisingLite_Resolve.yaml，请使用 behavior: "classical"。
 - AdvertisingLite_Classical.yaml，请使用 behavior: "classical"。
 - AdvertisingLite_Domain.yaml，请使用 behavior: "domain"。
 
 #### 配置建议
-- AdvertisingLite_Domain.yaml 单独使用。
 - AdvertisingLite_Classical.yaml 单独使用。
 - AdvertisingLite.yaml、AdvertisingLite_Domain.yaml 共同使用。
+- AdvertisingLite_Resolve.yaml、AdvertisingLite_Domain.yaml 共同使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -46,7 +48,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain_For_Clash.txt
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **MASTER分支 CDN (每日更新)**
 
@@ -54,7 +56,7 @@ https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Adver
 
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain_For_Clash.txt
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **MASTER分支 GHProxy (每日更新)**
 
@@ -62,7 +64,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain_For_Clash.txt
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **RELEASE分支 (不定时更新)**
 
@@ -70,7 +72,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain_For_Clash.txt
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **RELEASE分支CDN (不定时更新)**
 
@@ -78,7 +80,7 @@ https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Adve
 
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain_For_Clash.txt
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **RELEASE分支 GHProxy (不定时更新)**
 
@@ -86,7 +88,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain_For_Clash.txt
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 ## 子规则/排除规则
 
@@ -105,10 +107,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
+- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

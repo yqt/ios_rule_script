@@ -12,22 +12,24 @@
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:21:06
+最后更新时间：2024-07-03 16:16:45
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 52  | 
-| TOTAL | 52  | 
+| DOMAIN-SUFFIX | 53  | 
+| TOTAL | 53  | 
 
 
 ## Clash 
 
 #### 使用说明
 - QiNiuYun.yaml，请使用 behavior: "classical"。
+- QiNiuYun_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - QiNiuYun.yaml 单独使用。
+- QiNiuYun_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

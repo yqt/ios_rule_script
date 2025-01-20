@@ -12,14 +12,14 @@ Instagram规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:13
+最后更新时间：2024-07-03 16:16:12
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-KEYWORD | 1  | 
-| DOMAIN-SUFFIX | 73  | 
-| TOTAL | 74  | 
+| DOMAIN-SUFFIX | 3  | 
+| TOTAL | 4  | 
 
 
 ## Surge 
@@ -64,9 +64,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Instagram》的数据来自以下链接，如与本项目的《Instagram》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/Instagram.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list
-- https://rules.kr328.app/instagram.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Instagram.yaml
 
 

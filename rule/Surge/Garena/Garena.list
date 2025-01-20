@@ -1,11 +1,9 @@
 # NAME: Garena
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-07 14:17:46
-# DOMAIN: 1
+# UPDATED: 2024-07-03 16:14:50
 # DOMAIN-SUFFIX: 15
-# TOTAL: 16
-DOMAIN,dlgarenanow-a.akamaihd.net
+# TOTAL: 15
 DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
 DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
 DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net

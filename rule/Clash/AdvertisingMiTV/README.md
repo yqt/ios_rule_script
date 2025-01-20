@@ -1,10 +1,10 @@
-# 🧸 AdvertisingMiTV
+# 🧸 小米电视去广告
 
 ## 前言
 
 ![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) 
 
-AdvertisingMiTV规则由《RULE GENERATOR 规则生成器》自动生成。
+小米电视去广告规则由《RULE GENERATOR 规则生成器》自动生成。
 
 分流规则是互联网公共服务的域名和IP地址汇总，所有数据均收集自互联网公开信息，不代表我们支持或使用这些服务。
 
@@ -19,22 +19,24 @@ https://www.zhihu.com/question/307466160
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:21:24
+最后更新时间：2024-07-03 16:17:01
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 41  | 
-| TOTAL | 41  | 
+| DOMAIN | 165  | 
+| TOTAL | 165  | 
 
 
 ## Clash 
 
 #### 使用说明
 - AdvertisingMiTV.yaml，请使用 behavior: "classical"。
+- AdvertisingMiTV_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - AdvertisingMiTV.yaml 单独使用。
+- AdvertisingMiTV_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

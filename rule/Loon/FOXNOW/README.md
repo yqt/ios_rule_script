@@ -12,14 +12,14 @@ FOX NOW规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:21:21
+最后更新时间：2024-07-03 16:16:58
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 4  | 
+| DOMAIN-SUFFIX | 3  | 
 | USER-AGENT | 1  | 
-| TOTAL | 5  | 
+| TOTAL | 4  | 
 
 
 ## Loon 

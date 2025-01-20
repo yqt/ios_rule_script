@@ -12,7 +12,7 @@ PBS规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:16
+最后更新时间：2024-07-03 16:16:15
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -25,9 +25,11 @@ PBS规则由《RULE GENERATOR 规则生成器》自动生成。
 
 #### 使用说明
 - PBS.yaml，请使用 behavior: "classical"。
+- PBS_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - PBS.yaml 单独使用。
+- PBS_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -64,7 +66,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《PBS》的数据来自以下链接，如与本项目的《PBS》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/PBS.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/PBS.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PBS.list
 
 

@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:21:01
+最后更新时间：2024-07-03 16:16:41
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -25,9 +25,11 @@
 
 #### 使用说明
 - Domob.yaml，请使用 behavior: "classical"。
+- Domob_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Domob.yaml 单独使用。
+- Domob_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

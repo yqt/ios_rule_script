@@ -12,16 +12,17 @@ Amazon规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:13
+最后更新时间：2024-08-14 02:12:04
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST-KEYWORD | 1  | 
-| HOST-SUFFIX | 210  | 
+| HOST-SUFFIX | 186  | 
+| HOST-WILDCARD | 5  | 
 | IP-CIDR | 15  | 
 | USER-AGENT | 2  | 
-| TOTAL | 228  | 
+| TOTAL | 209  | 
 
 
 ## QuantumultX 
@@ -69,7 +70,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Amazon.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Amazon.yaml
 - https://rules.kr328.app/amazon-ads.yaml
-- https://rules.kr328.app/amazon@cn.yaml
 - https://rules.kr328.app/amazon@ads.yaml
 - https://rules.kr328.app/amazon.yaml
 - https://rules.kr328.app/amazon-ads@ads.yaml

@@ -12,13 +12,13 @@
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:57
+最后更新时间：2024-08-29 02:12:23
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 10  | 
-| TOTAL | 10  | 
+| DOMAIN-SUFFIX | 13  | 
+| TOTAL | 13  | 
 
 
 ## Shadowrocket 
@@ -65,7 +65,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Douyu.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DouYu.list
-- https://rules.kr328.app/douyu.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Douyu.yaml
 
 

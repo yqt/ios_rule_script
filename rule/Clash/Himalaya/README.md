@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:57
+最后更新时间：2024-07-03 16:16:37
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -25,9 +25,11 @@
 
 #### 使用说明
 - Himalaya.yaml，请使用 behavior: "classical"。
+- Himalaya_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Himalaya.yaml 单独使用。
+- Himalaya_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -63,7 +65,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《喜马拉雅》的数据来自以下链接，如与本项目的《喜马拉雅》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Podcast/Himalaya.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Ximalaya.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/XiMaLaYa.list
 

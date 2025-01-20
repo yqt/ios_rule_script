@@ -21,31 +21,32 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-11-19 02:13:35
+最后更新时间：2025-01-20 02:11:33
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 156  | 
-| DOMAIN-KEYWORD | 37  | 
-| DOMAIN-SUFFIX | 19270  | 
+| DOMAIN | 84  | 
+| DOMAIN-KEYWORD | 36  | 
+| DOMAIN-SUFFIX | 30770  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
-| TOTAL | 19580  | 
+| TOTAL | 31007  | 
 
 
 ## Clash 
 
 #### 使用说明
 - Global.yaml，请使用 behavior: "classical"。
+- Global_Resolve.yaml，请使用 behavior: "classical"。
 - Global_Classical.yaml，请使用 behavior: "classical"。
 - Global_Domain.yaml，请使用 behavior: "domain"。
 
 #### 配置建议
-- Global_Domain.yaml 单独使用。
 - Global_Classical.yaml 单独使用。
 - Global.yaml、Global_Domain.yaml 共同使用。
+- Global_Resolve.yaml、Global_Domain.yaml 共同使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -54,7 +55,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Classical.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Domain_For_Clash.txt
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Domain.txt
 
 **MASTER分支 CDN (每日更新)**
 
@@ -62,7 +63,7 @@ https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Globa
 
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Global/Global_Classical.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Global/Global_Domain_For_Clash.txt
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Global/Global_Domain.txt
 
 **MASTER分支 GHProxy (每日更新)**
 
@@ -70,7 +71,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Classical.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Domain_For_Clash.txt
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Domain.txt
 
 **RELEASE分支 (不定时更新)**
 
@@ -78,7 +79,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global_Classical.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global_Domain_For_Clash.txt
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global_Domain.txt
 
 **RELEASE分支CDN (不定时更新)**
 
@@ -86,7 +87,7 @@ https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Glob
 
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Global/Global_Classical.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Global/Global_Domain_For_Clash.txt
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Global/Global_Domain.txt
 
 **RELEASE分支 GHProxy (不定时更新)**
 
@@ -94,7 +95,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global_Classical.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global_Domain_For_Clash.txt
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global_Domain.txt
 
 ## 子规则/排除规则
 
@@ -113,8 +114,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Global》的数据来自以下链接，如与本项目的《Global》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/Global.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/BlackList/BlackList.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
@@ -129,9 +128,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Proxy.yaml
-- https://rules.kr328.app/geolocation-%21cn.yaml
-- https://ruleset.isagood.day/global.conf
-- https://ruleset.isagood.day/global_domain.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

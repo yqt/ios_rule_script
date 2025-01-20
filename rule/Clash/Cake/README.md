@@ -17,23 +17,25 @@ Cake规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:22:23
+最后更新时间：2024-07-03 16:17:41
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 4  | 
-| DOMAIN-SUFFIX | 2  | 
-| TOTAL | 6  | 
+| DOMAIN-SUFFIX | 3  | 
+| TOTAL | 7  | 
 
 
 ## Clash 
 
 #### 使用说明
 - Cake.yaml，请使用 behavior: "classical"。
+- Cake_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Cake.yaml 单独使用。
+- Cake_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

@@ -12,22 +12,24 @@ BMW规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:21:12
+最后更新时间：2024-07-03 16:16:50
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 727  | 
-| TOTAL | 727  | 
+| DOMAIN-SUFFIX | 729  | 
+| TOTAL | 729  | 
 
 
 ## Clash 
 
 #### 使用说明
 - BMW.yaml，请使用 behavior: "classical"。
+- BMW_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - BMW.yaml 单独使用。
+- BMW_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -65,8 +67,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/BMW.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/BMW.yaml
-- https://rules.kr328.app/bmw.yaml
-- https://rules.kr328.app/bmw@cn.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

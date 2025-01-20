@@ -1,9 +1,9 @@
 # NAME: AdGuardSDNSFilterDirect
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-07 14:21:55
-# HOST: 115
-# TOTAL: 115
+# UPDATED: 2024-07-03 16:17:32
+# HOST: 131
+# TOTAL: 131
 HOST,5471782.fls.doubleclick.net,AdGuardSDNSFilterDirect
 HOST,79423.analytics.edgekey.net,AdGuardSDNSFilterDirect
 HOST,a.adwolf.ru,AdGuardSDNSFilterDirect
@@ -24,7 +24,7 @@ HOST,api.ads.tvb.com,AdGuardSDNSFilterDirect
 HOST,api.docodoco.jp,AdGuardSDNSFilterDirect
 HOST,api.karte.io,AdGuardSDNSFilterDirect
 HOST,app-advertise.zhihuishu.com,AdGuardSDNSFilterDirect
-HOST,app-cdn.minepi.com,AdGuardSDNSFilterDirect
+HOST,app.adjust.com,AdGuardSDNSFilterDirect
 HOST,app.appsflyer.com,AdGuardSDNSFilterDirect
 HOST,artifactory.appodeal.com,AdGuardSDNSFilterDirect
 HOST,awin1.com,AdGuardSDNSFilterDirect
@@ -47,10 +47,13 @@ HOST,clickattr.wayup.com,AdGuardSDNSFilterDirect
 HOST,cloud.notification-naviextras.com,AdGuardSDNSFilterDirect
 HOST,cm-beacon.nakanohito.jp,AdGuardSDNSFilterDirect
 HOST,cm-widget.nakanohito.jp,AdGuardSDNSFilterDirect
+HOST,cmp.inmobi.com,AdGuardSDNSFilterDirect
 HOST,crm-cdn.peek-cloppenburg.com,AdGuardSDNSFilterDirect
 HOST,cs.silverpop.com,AdGuardSDNSFilterDirect
 HOST,cutcaptcha.com,AdGuardSDNSFilterDirect
 HOST,daikoku.ebis.ne.jp,AdGuardSDNSFilterDirect
+HOST,data.digital.costco.ca,AdGuardSDNSFilterDirect
+HOST,data.digital.costco.com,AdGuardSDNSFilterDirect
 HOST,e.customeriomail.com,AdGuardSDNSFilterDirect
 HOST,email.awscloud.com,AdGuardSDNSFilterDirect
 HOST,email.elitedangerous.com,AdGuardSDNSFilterDirect
@@ -74,10 +77,12 @@ HOST,href.li,AdGuardSDNSFilterDirect
 HOST,ia.hit.interia.pl,AdGuardSDNSFilterDirect
 HOST,id.i2i.jp,AdGuardSDNSFilterDirect
 HOST,img.ads.tvb.com,AdGuardSDNSFilterDirect
+HOST,infra-api.newrelic.com,AdGuardSDNSFilterDirect
 HOST,intersport.peerius.com,AdGuardSDNSFilterDirect
 HOST,js.monitor.azure.com,AdGuardSDNSFilterDirect
 HOST,leechers-paradise.org,AdGuardSDNSFilterDirect
 HOST,link.morningbrew.com,AdGuardSDNSFilterDirect
+HOST,linka.page,AdGuardSDNSFilterDirect
 HOST,links.e.theatlantic.com,AdGuardSDNSFilterDirect
 HOST,links.getblueshift.com,AdGuardSDNSFilterDirect
 HOST,log.mmstat.com,AdGuardSDNSFilterDirect
@@ -85,10 +90,12 @@ HOST,logentries.com,AdGuardSDNSFilterDirect
 HOST,login.sendpulse.com,AdGuardSDNSFilterDirect
 HOST,ma135-r.analytics.edgekey.net,AdGuardSDNSFilterDirect
 HOST,marketing.net.idealo-partner.com,AdGuardSDNSFilterDirect
+HOST,media-consumer365.desigual.com,AdGuardSDNSFilterDirect
 HOST,my.tealiumiq.com,AdGuardSDNSFilterDirect
 HOST,netatmo.commander1.com,AdGuardSDNSFilterDirect
 HOST,nineto5mac-d.openx.net,AdGuardSDNSFilterDirect
 HOST,oa.tr.line.me,AdGuardSDNSFilterDirect
+HOST,obituaries.therecord.com,AdGuardSDNSFilterDirect
 HOST,official.paymaya.com,AdGuardSDNSFilterDirect
 HOST,omniture.walmart.com,AdGuardSDNSFilterDirect
 HOST,omsc.kpn.com,AdGuardSDNSFilterDirect
@@ -101,9 +108,13 @@ HOST,pt.afl.rakuten.co.jp,AdGuardSDNSFilterDirect
 HOST,public-cis.exponea.com,AdGuardSDNSFilterDirect
 HOST,px.a8.net,AdGuardSDNSFilterDirect
 HOST,radiofrance.targetspot.com,AdGuardSDNSFilterDirect
+HOST,recommender.scarabresearch.com,AdGuardSDNSFilterDirect
 HOST,redir.tradedoubler.com,AdGuardSDNSFilterDirect
 HOST,redirect.appmetrica.yandex.com,AdGuardSDNSFilterDirect
+HOST,refer.discover.com,AdGuardSDNSFilterDirect
 HOST,remembering.ca,AdGuardSDNSFilterDirect
+HOST,sax.sina.com.cn,AdGuardSDNSFilterDirect
+HOST,secureimage.securedataimages.com,AdGuardSDNSFilterDirect
 HOST,sponsor.nitropay.com,AdGuardSDNSFilterDirect
 HOST,stash.roistat.com,AdGuardSDNSFilterDirect
 HOST,str.hit.gemius.pl,AdGuardSDNSFilterDirect
@@ -113,9 +124,13 @@ HOST,surveymyopinion.researchnow.com,AdGuardSDNSFilterDirect
 HOST,tags.crwdcntrl.net,AdGuardSDNSFilterDirect
 HOST,thumbnail.thench.net,AdGuardSDNSFilterDirect
 HOST,tlaol.com,AdGuardSDNSFilterDirect
+HOST,tms.capitalone.com,AdGuardSDNSFilterDirect
 HOST,torimochi.line-apps.com,AdGuardSDNSFilterDirect
+HOST,tr.rdrtr.com,AdGuardSDNSFilterDirect
 HOST,track.rutarget.ru,AdGuardSDNSFilterDirect
+HOST,track.webgains.com,AdGuardSDNSFilterDirect
 HOST,validate.perfdrive.com,AdGuardSDNSFilterDirect
 HOST,vcentry3.valuecommerce.ne.jp,AdGuardSDNSFilterDirect
 HOST,www.googleadservices.com,AdGuardSDNSFilterDirect
 HOST,www.jdoqocy.com,AdGuardSDNSFilterDirect
+HOST,www.statcounter.com,AdGuardSDNSFilterDirect

@@ -12,24 +12,30 @@ JOOX规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:15
+最后更新时间：2024-07-03 16:16:14
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-KEYWORD | 1  | 
-| DOMAIN-SUFFIX | 1  | 
+| DOMAIN-SUFFIX | 3  | 
+| IP-CIDR | 2  | 
 | USER-AGENT | 2  | 
-| TOTAL | 4  | 
+| TOTAL | 8  | 
 
 
 ## Shadowrocket 
 
 #### 使用说明
 - JOOX.list，请使用RULE-SET。
+- JOOX_Resolve.list，请使用RULE-SET。
+
+#### 文件区别
+- JOOX_Resolve.list与JOOX.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
 - JOOX.list 单独使用。
+- JOOX_Resolve.list 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -66,7 +72,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《JOOX》的数据来自以下链接，如与本项目的《JOOX》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/JOOX.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/JOOX.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/JOOX.list
 
 

@@ -15,14 +15,14 @@ IPTV其他规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:23:13
+最后更新时间：2024-07-03 16:18:27
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 2326  | 
+| DOMAIN | 2317  | 
 | IP-CIDR | 516  | 
-| TOTAL | 2842  | 
+| TOTAL | 2833  | 
 
 
 ## Surge 
@@ -33,9 +33,14 @@ IPTV其他规则由《RULE GENERATOR 规则生成器》自动生成。
 - IPTVOther_Domain.list，请使用DOMAIN-SET。
 
 #### 文件区别
+- IPTVOther_All.list与IPTVOther_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - IPTVOther_Resolve.list与IPTVOther.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- IPTVOther_All.list 单独使用。
+- IPTVOther_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - IPTVOther.list、IPTVOther_Domain.list 共同使用。
 - IPTVOther_Resolve.list、IPTVOther_Domain.list 共同使用。
 

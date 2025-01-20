@@ -1,12 +1,11 @@
 # NAME: Cloudflare
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-07 14:20:11
-# HOST-SUFFIX: 47
-# IP-CIDR: 14
+# UPDATED: 2024-08-14 02:12:03
+# HOST-SUFFIX: 43
+# IP-CIDR: 15
 # IP6-CIDR: 7
-# TOTAL: 68
-HOST-SUFFIX,argotunnel.com,Cloudflare
+# TOTAL: 65
 HOST-SUFFIX,cf-ipfs.com,Cloudflare
 HOST-SUFFIX,cf-ns.com,Cloudflare
 HOST-SUFFIX,cf-ns.net,Cloudflare
@@ -18,8 +17,6 @@ HOST-SUFFIX,cftest7.com,Cloudflare
 HOST-SUFFIX,cftest8.com,Cloudflare
 HOST-SUFFIX,cloudflare-cn.com,Cloudflare
 HOST-SUFFIX,cloudflare-dns.com,Cloudflare
-HOST-SUFFIX,cloudflare-ech.com,Cloudflare
-HOST-SUFFIX,cloudflare-gateway.com,Cloudflare
 HOST-SUFFIX,cloudflare-ipfs.com,Cloudflare
 HOST-SUFFIX,cloudflare-quic.com,Cloudflare
 HOST-SUFFIX,cloudflare.com,Cloudflare
@@ -33,7 +30,6 @@ HOST-SUFFIX,cloudflarecn.net,Cloudflare
 HOST-SUFFIX,cloudflareinsights-cn.com,Cloudflare
 HOST-SUFFIX,cloudflareinsights.com,Cloudflare
 HOST-SUFFIX,cloudflareok.com,Cloudflare
-HOST-SUFFIX,cloudflareportal.com,Cloudflare
 HOST-SUFFIX,cloudflarepreview.com,Cloudflare
 HOST-SUFFIX,cloudflareprod.com,Cloudflare
 HOST-SUFFIX,cloudflareresolve.com,Cloudflare
@@ -56,7 +52,8 @@ HOST-SUFFIX,workers.dev,Cloudflare
 IP-CIDR,103.21.244.0/22,Cloudflare
 IP-CIDR,103.22.200.0/22,Cloudflare
 IP-CIDR,103.31.4.0/22,Cloudflare
-IP-CIDR,104.16.0.0/12,Cloudflare
+IP-CIDR,104.16.0.0/13,Cloudflare
+IP-CIDR,104.24.0.0/14,Cloudflare
 IP-CIDR,108.162.192.0/18,Cloudflare
 IP-CIDR,131.0.72.0/22,Cloudflare
 IP-CIDR,141.101.64.0/18,Cloudflare

@@ -12,14 +12,15 @@ HBO(美国)规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:21:11
+最后更新时间：2025-01-15 02:13:41
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 6  | 
+| DOMAIN | 1  | 
+| DOMAIN-SUFFIX | 9  | 
 | USER-AGENT | 1  | 
-| TOTAL | 7  | 
+| TOTAL | 11  | 
 
 
 ## Shadowrocket 

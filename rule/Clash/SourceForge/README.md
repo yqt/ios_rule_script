@@ -12,7 +12,7 @@ SourceForge规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-11-08 02:16:20
+最后更新时间：2024-07-03 16:16:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -25,9 +25,11 @@ SourceForge规则由《RULE GENERATOR 规则生成器》自动生成。
 
 #### 使用说明
 - SourceForge.yaml，请使用 behavior: "classical"。
+- SourceForge_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - SourceForge.yaml 单独使用。
+- SourceForge_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

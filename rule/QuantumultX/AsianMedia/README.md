@@ -12,17 +12,16 @@ AsianMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:13
+最后更新时间：2024-07-03 16:16:12
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 10  | 
-| HOST-KEYWORD | 3  | 
-| HOST-SUFFIX | 20  | 
-| IP-CIDR | 10  | 
-| USER-AGENT | 5  | 
-| TOTAL | 48  | 
+| HOST | 19  | 
+| HOST-KEYWORD | 1  | 
+| HOST-SUFFIX | 4  | 
+| IP-CIDR | 7  | 
+| TOTAL | 31  | 
 
 
 ## QuantumultX 
@@ -65,7 +64,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《AsianMedia》的数据来自以下链接，如与本项目的《AsianMedia》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AsianMedia/AsianMedia.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

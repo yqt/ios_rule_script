@@ -12,24 +12,27 @@ WeTV规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:17
+最后更新时间：2024-07-03 16:16:16
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+| DOMAIN | 1  | 
 | DOMAIN-SUFFIX | 7  | 
 | IP-CIDR | 1  | 
 | PROCESS-NAME | 2  | 
-| TOTAL | 10  | 
+| TOTAL | 11  | 
 
 
 ## Clash 
 
 #### 使用说明
 - WeTV.yaml，请使用 behavior: "classical"。
+- WeTV_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - WeTV.yaml 单独使用。
+- WeTV_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -66,7 +69,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《WeTV》的数据来自以下链接，如与本项目的《WeTV》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/WeTV.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/WeTV.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

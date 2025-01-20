@@ -12,26 +12,27 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-11-18 02:16:42
+最后更新时间：2025-01-20 02:12:42
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 146  | 
-| DOMAIN-KEYWORD | 3  | 
-| DOMAIN-SUFFIX | 119  | 
-| IP-CIDR | 8  | 
-| IP-CIDR6 | 2  | 
-| TOTAL | 278  | 
+| DOMAIN | 130  | 
+| DOMAIN-KEYWORD | 4  | 
+| DOMAIN-SUFFIX | 123  | 
+| IP-CIDR | 3  | 
+| TOTAL | 260  | 
 
 
 ## Clash 
 
 #### 使用说明
 - PrivateTracker.yaml，请使用 behavior: "classical"。
+- PrivateTracker_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - PrivateTracker.yaml 单独使用。
+- PrivateTracker_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -68,7 +69,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《PT下载》的数据来自以下链接，如与本项目的《PT下载》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PrivateTracker.list
-- https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/PrivateTracker.list
 - https://trackerslist.com/all.txt
 - https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/PrivateTracker.yaml

@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2023-10-28 02:12:49
+最后更新时间：2024-07-07 02:10:20
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -26,9 +26,11 @@
 
 #### 使用说明
 - Sina.yaml，请使用 behavior: "classical"。
+- Sina_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Sina.yaml 单独使用。
+- Sina_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -70,11 +72,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sina.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Weibo/Weibo.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Sina.list
-- https://rules.kr328.app/sina.yaml
-- https://rules.kr328.app/sina-ads@ads.yaml
-- https://rules.kr328.app/sina-ads.yaml
-- https://rules.kr328.app/sina@ads.yaml
-- https://ruleset.isagood.day/sina.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

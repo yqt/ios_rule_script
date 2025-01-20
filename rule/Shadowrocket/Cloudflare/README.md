@@ -12,14 +12,14 @@ Cloudflare规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-10-07 14:20:11
+最后更新时间：2024-08-14 02:12:03
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 47  | 
-| IP-CIDR | 21  | 
-| TOTAL | 68  | 
+| DOMAIN-SUFFIX | 43  | 
+| IP-CIDR | 22  | 
+| TOTAL | 65  | 
 
 
 ## Shadowrocket 
