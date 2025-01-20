@@ -67,8 +67,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Canon.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Canon.yaml
-- https://rules.kr328.app/canon.yaml
-- https://rules.kr328.app/canon@cn.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

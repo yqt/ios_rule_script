@@ -15,7 +15,6 @@ HOST,3dns-3.adobe.com,Global
 HOST,3dns-4.adobe.com,Global
 HOST,3dns-5.adobe.com,Global
 HOST,3dns.adobe.com,Global
-HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
 HOST,a.ppy.sh,Global
 HOST,a248.e.akamai.net,Global
 HOST,a771.dscq.akamai.net,Global
@@ -258,7 +257,7 @@ HOST,nvidia.tt.omtrdc.net,Global
 HOST,nytimes.map.fastly.net,Global
 HOST,ocsp.int-x3.letsencrypt.org,Global
 HOST,ocsp.microsoft.com,Global
-HOST,oneclient.sfx.ms,Global
+HOST,officecdn-microsoft-com.akamaized.net,Global
 HOST,onekey.zendesk.com,Global
 HOST,oneocsp.microsoft.com,Global
 HOST,ood.opsource.net,Global
@@ -525,7 +524,6 @@ HOST,wwis-dubc1-vip97.adobe.com,Global
 HOST,wwis-dubc1-vip98.adobe.com,Global
 HOST,wwis-dubc1-vip99.adobe.com,Global
 HOST,www-cdn.icloud.com.akadns.net,Global
-HOST,youtubei.googleapis.com,Global
 HOST,zeenews-fonts.s3.amazonaws.com,Global
 HOST,ztedevices.com,Global
 HOST,api.msn.com,Global
@@ -17488,6 +17486,10 @@ HOST-SUFFIX,pi-vr.com,Global
 HOST-SUFFIX,piapp.com.tw,Global
 HOST-SUFFIX,piapro.net,Global
 HOST-SUFFIX,picacg2022.com,Global
+HOST-SUFFIX,picacgp.com,Global
+HOST-SUFFIX,picacgy.com,Global
+HOST-SUFFIX,picacn.xyz,Global
+HOST-SUFFIX,picacomic.xyz,Global
 HOST-SUFFIX,picasa.com,Global
 HOST-SUFFIX,picasaweb.net,Global
 HOST-SUFFIX,picasaweb.org,Global
@@ -24871,8 +24873,10 @@ HOST-SUFFIX,zhaimankan.com,Global
 HOST-SUFFIX,zhainanjidi.xyz,Global
 HOST-SUFFIX,zhainanjidid.top,Global
 HOST-SUFFIX,zhangboz1.xyz,Global
+HOST-SUFFIX,zhengjian.org,Global
 HOST-SUFFIX,zhimeishe888.com,Global
 HOST-SUFFIX,zhtv01.com,Global
+HOST-SUFFIX,zhuichaguoji.org,Global
 HOST-SUFFIX,zhuzhushipin-app.com,Global
 HOST-SUFFIX,zibacity.com,Global
 HOST-SUFFIX,zigzag.kr,Global

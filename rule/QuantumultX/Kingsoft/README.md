@@ -62,7 +62,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Kingsoft.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Kingsoft.list
-- https://rules.kr328.app/kingsoft.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Kingsoft.yaml
 
 

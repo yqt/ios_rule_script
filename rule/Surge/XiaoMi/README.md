@@ -72,7 +72,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MI.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Xiaomi.list
-- https://rules.kr328.app/xiaomi.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

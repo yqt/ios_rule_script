@@ -6,6 +6,10 @@
 # DOMAIN-SUFFIX: 6
 # TOTAL: 10
 payload:
+  - DOMAIN,ai.google.dev
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,makersuite.google.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google

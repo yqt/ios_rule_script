@@ -65,7 +65,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Salesforce.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Salesforce.yaml
-- https://rules.kr328.app/salesforce.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

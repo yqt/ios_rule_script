@@ -62,7 +62,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Gitbook.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Gitbook.yaml
-- https://rules.kr328.app/gitbook.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

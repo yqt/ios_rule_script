@@ -97,9 +97,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list
-- https://rules.kr328.app/alibaba-ads@ads.yaml
-- https://rules.kr328.app/alibaba@ads.yaml
-- https://rules.kr328.app/alibaba.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Alibaba.yaml
 
 

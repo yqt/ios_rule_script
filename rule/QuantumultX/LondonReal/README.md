@@ -61,7 +61,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《LondonReal》的数据来自以下链接，如与本项目的《LondonReal》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/LondonReal.list
-- https://rules.kr328.app/londonreal.yaml
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

@@ -65,10 +65,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/KuaiShou.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Kuaishou.list
-- https://rules.kr328.app/kuaishou-ads@ads.yaml
-- https://rules.kr328.app/kuaishou-ads.yaml
-- https://rules.kr328.app/kuaishou@ads.yaml
-- https://rules.kr328.app/kuaishou.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Kuaishou.yaml
 
 

@@ -17,8 +17,8 @@
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST-SUFFIX | 36  | 
-| TOTAL | 36  | 
+| HOST-SUFFIX | 12  | 
+| TOTAL | 12  | 
 
 
 ## QuantumultX 

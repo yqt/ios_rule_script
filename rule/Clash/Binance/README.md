@@ -17,8 +17,8 @@
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 36  | 
-| TOTAL | 36  | 
+| DOMAIN-SUFFIX | 12  | 
+| TOTAL | 12  | 
 
 
 ## Clash 
