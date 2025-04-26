@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-24 02:13:39
+# UPDATED: 2025-04-26 02:14:00
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31354
+# DOMAIN-SUFFIX: 31352
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31596
+# TOTAL: 31594
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -19045,7 +19045,6 @@ login.microsoftonline.com
 +.rutracker.cr
 +.rutracker.me
 +.rutracker.nl
-+.rutracker.org
 +.rutrecker.net
 +.ruvideos.net
 +.rvc.ac.uk
@@ -27233,7 +27232,6 @@ login.microsoftonline.com
 +.got-game.org
 +.gotdns.ch
 +.gotgeeks.com
-+.gotquestions.org
 +.gotrusted.com
 +.gotw.ca
 +.gov.taipei
@@ -27644,7 +27642,6 @@ login.microsoftonline.com
 +.identi.ca
 +.idiomconnection.com
 +.idlcoyote.com
-+.idope.se
 +.idouga.com
 +.idreamx.com
 +.idsam.com
@@ -28724,6 +28721,7 @@ login.microsoftonline.com
 +.newlandmagazine.com.au
 +.newmitbbs.com
 +.newnews.ca
++.news.mt.co.kr
 +.news1.kr
 +.news100.com.tw
 +.newsancai.com
@@ -29544,6 +29542,7 @@ login.microsoftonline.com
 +.rusvpn.com
 +.ruten.com.tw
 +.rutracker.net
++.rutracker.org
 +.rutube.ru
 +.ruyiseek.com
 +.rxhj.net
@@ -30002,7 +30001,6 @@ login.microsoftonline.com
 +.stumbleupon.com
 +.stupidvideos.com
 +.stweetly.com
-+.subhd.tv
 +.substack.com
 +.successfn.com
 +.sueddeutsche.de
