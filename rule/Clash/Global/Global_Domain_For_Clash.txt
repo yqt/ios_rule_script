@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-04 02:07:57
+# UPDATED: 2026-01-08 02:08:22
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32517
+# DOMAIN-SUFFIX: 32532
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32784
+# TOTAL: 32799
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -6467,7 +6467,6 @@ login.microsoftonline.com
 +.daytonbmw.com
 +.daytontrucktires.com
 +.dazn-api.com
-+.dazn.com
 +.dazndn.com
 +.daznfeeds.com
 +.daznplayer.com
@@ -16771,6 +16770,15 @@ login.microsoftonline.com
 +.nginx.org
 +.nginxconfig.io
 +.ngodupdongchung.com
++.ngrok-free.app
++.ngrok-free.dev
++.ngrok-free.pizza
++.ngrok.app
++.ngrok.com
++.ngrok.dev
++.ngrok.io
++.ngrok.pizza
++.ngrok.pro
 +.ngs.ac.uk
 +.ngwnet.ac.uk
 +.nhc.ac.uk
@@ -17646,7 +17654,6 @@ login.microsoftonline.com
 +.onxxxtube.com
 +.onxxxvideo.com
 +.oocdtp.ac.uk
-+.ooni.org
 +.ootbstudio.co.kr
 +.op.gg
 +.op7979.com
@@ -18345,6 +18352,8 @@ login.microsoftonline.com
 +.pinflix.com
 +.ping.sx
 +.pingguotv.xyz
++.pinggy.io
++.pinggy.link
 +.pingxiangpuer.com
 +.pinkcore.com
 +.pinkcore.net
@@ -20017,6 +20026,7 @@ login.microsoftonline.com
 +.rutc.ac.uk
 +.rutherford.ac.uk
 +.rutlandcollege.ac.uk
++.rutor.info
 +.rutracker.cc
 +.rutracker.cr
 +.rutracker.me
@@ -26340,6 +26350,7 @@ login.microsoftonline.com
 +.ai-kan.net
 +.ai-wen.net
 +.ai.dev
++.ai.studio
 +.aiosearch.com
 +.aiph.net
 +.airasia.com
@@ -27450,6 +27461,7 @@ login.microsoftonline.com
 +.dayabook.com
 +.daylife.com
 +.dayone.me
++.dazn.com
 +.db.tt
 +.dbc.hk
 +.dbgjd.com
@@ -30137,6 +30149,8 @@ login.microsoftonline.com
 +.onthehunt.com
 +.ontrac.com
 +.oojj.de
++.ooni.io
++.ooni.org
 +.oopsforum.com
 +.ooyala.com
 +.open.com.hk
@@ -32357,6 +32371,7 @@ login.microsoftonline.com
 +.xbookcn.com
 +.xbtce.com
 +.xcafe.in
++.xcancel.com
 +.xcity.jp
 +.xclient.info
 +.xcritic.com
